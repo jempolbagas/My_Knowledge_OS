@@ -1,0 +1,369 @@
+{
+  "main": {
+    "id": "3c341d6e139ff5cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "07ec1cfcd604ee45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d61e0cca9af8e55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Brain_Atlas/10_Library/Articles_Talks/LLMWiki_Andrej_Karpathy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "LLMWiki_Andrej_Karpathy"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e378caa7b623b5f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2a0276b548c8f48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "772c86a8bf1041af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "951c20e03c2af8ff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "3765b91081da9f87",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
+          },
+          {
+            "id": "22a19ff3f0527973",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5
+  },
+  "right": {
+    "id": "86c62b08f54bfed4",
+    "type": "split",
+    "children": [
+      {
+        "id": "58e7fbdb1ec1d543",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "950f0bce96f56dc1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "20_Brain_Atlas/30_Reference_Lib/[CN] 4 - Data Encapsulation dan Data Access.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for [CN] 4 - Data Encapsulation dan Data Access"
+            }
+          },
+          {
+            "id": "ca3b5c5a1e0ef915",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "20_Brain_Atlas/30_Reference_Lib/[CN] 4 - Data Encapsulation dan Data Access.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from [CN] 4 - Data Encapsulation dan Data Access"
+            }
+          },
+          {
+            "id": "e7fa04f1d99134db",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "981a5ec7428bb9d6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a0d7cac9c006e13d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "e85bf4510ec205d0",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.07490292881521424,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "2f9fb3aa3ff7b734",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_Spaces/11_College/Sem_4_Spring_2026/Computer_Network/(Week 11) Transport Layer Practice.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "(Week 11) Transport Layer Practice"
+            }
+          },
+          {
+            "id": "b2702a6d47e3ba9f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "notebook-navigator:Notebook Navigator": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "floating": {
+    "id": "46123e12c1533451",
+    "type": "floating",
+    "children": [
+      {
+        "id": "9a7c79a7e0ca2b97",
+        "type": "window",
+        "children": [
+          {
+            "id": "1d55ae8bebefeb8c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6face4e736aeb20e",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://publish.obsidian.md/git-doc/Getting+Started",
+                    "title": "Getting Started - Git Documentation - Obsidian Publish",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Getting Started - Git Documentation - Obsidian Publish"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 171,
+        "y": 0,
+        "width": 1024,
+        "height": 767,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "6face4e736aeb20e",
+  "lastOpenFiles": [
+    "20_Brain_Atlas/10_Library/Articles_Talks/LLMWiki_Andrej_Karpathy.md",
+    "README.md",
+    "30_Assets",
+    "20_Brain_Atlas/20_Concepts/Artificial_Intelligence/LLMWiki.md",
+    "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/LLMWiki_Deep_Dive.md",
+    "99_Configs/Templates/Generated_Reading.md",
+    "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence",
+    "99_Configs/Templates/Library_Source_Note.md",
+    "99_Configs/Templates/Concept_Note.md",
+    "00_Inbox/walkthrough.md",
+    "00_Inbox/presentation_script.md",
+    "10_Spaces/11_College/Sem_4_Spring_2026/Computer_Network/(Week 11) Transport Layer Practice.md",
+    "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/Z_Score_Scaling.md",
+    "GEMINI.md",
+    "20_Brain_Atlas/10_Library/Generated_Readings",
+    "20_Brain_Atlas/10_Library/Books",
+    "20_Brain_Atlas/10_Library/Articles_Talks",
+    "20_Brain_Atlas/10_Library/Untitled.md",
+    "20_Brain_Atlas/10_Library/Papers",
+    "Untitled.md",
+    "20_Brain_Atlas/10_Library/Repos",
+    "20_Brain_Atlas/10_Library",
+    "20_Brain_Atlas/00_Atlas/Library_Dashboard.md",
+    "20_Brain_Atlas/00_Atlas/Untitled.base",
+    "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/Multicollinearity_Guide.md",
+    "20_Brain_Atlas/00_Atlas/Dashboard_Self_Study.md",
+    "99_Configs/Templates",
+    "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/QnA_Presentasi_Tubes.md",
+    "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Air_Quality_Prediction_MLR_Complete_Guide.md",
+    "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Prediksi Kualitas Udara Harian Berbasis Faktor Cuaca di Jakarta Menggunakan Multiple Linear Regression.md",
+    "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/SVR_Introduction.md",
+    "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/MLR_Introduction.md",
+    "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/XGBoost_Introduction.md",
+    "20_Brain_Atlas/20_Concepts/Mathematics/Teknik Induksi dan Rekursi.md",
+    "(temporary folder for tubes ai)/Prediksi Kualitas Udara Harian Berbasis Faktor Cuaca di Jakarta Menggunakan Multiple Linear Regression.md",
+    "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Gambar 3.7.png",
+    "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Gambar 3.6.png",
+    "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Gambar 3.5.png",
+    "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Gambar 3.4.png",
+    "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Gambar 3.3.png",
+    "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Gambar 3.2.png",
+    "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Gambar 3.1.png",
+    "Gambar.md",
+    "(temporary folder for tubes ai)/Gambar 3.7.png",
+    "(temporary folder for tubes ai)/Gambar 3.6.png",
+    "(temporary folder for tubes ai)/Gambar 3.5.png",
+    "20_Brain_Atlas/00_Atlas/Cybersecurity_Self_Study.canvas",
+    "Untitled.canvas"
+  ]
+}

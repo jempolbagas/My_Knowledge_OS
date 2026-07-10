@@ -1,0 +1,772 @@
+{
+  "broken_links": [
+    {
+      "file": "10_Spaces/11_College/Syllabi/Computer Networks Syllabus.md",
+      "broken_link": "Switch",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Inclusion_Exclusion/Inclusion Exclusion Complete Guide.md",
+      "broken_link": "../Relations/Complete Guide",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Inclusion_Exclusion/Inclusion Exclusion Complete Guide.md",
+      "broken_link": "../Generating_Functions/01 GF Introduction",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Inclusion_Exclusion/Inclusion Exclusion Complete Guide.md",
+      "broken_link": "../Recurrence_Relations/Recurrence Relations Complete Guide",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Recurrence_Relations/Recurrence Relations Complete Guide.md",
+      "broken_link": "../Generating_Functions/01 GF Introduction",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Recurrence_Relations/Recurrence Relations Complete Guide.md",
+      "broken_link": "../Generating_Functions/02 GF Ordinary",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Recurrence_Relations/Recurrence Relations Complete Guide.md",
+      "broken_link": "../Generating_Functions/00 GF Index",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Recurrence_Relations/Recurrence Relations Complete Guide.md",
+      "broken_link": "../Generating_Functions/06 GF Pattern Library",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Recurrence_Relations/Recurrence Relations Complete Guide.md",
+      "broken_link": "../Generating_Functions/03 GF Recurrences",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Recurrence_Relations/Recurrence Relations Complete Guide.md",
+      "broken_link": "../Generating_Functions/04 GF Applications",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Relations/Complete Guide.md",
+      "broken_link": "20_Brain_Atlas/20_Concepts/Mathematics/Himpunan",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Relations/Complete Guide.md",
+      "broken_link": "20_Brain_Atlas/20_Concepts/Mathematics/Fungsi",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Generating_Functions/06 GF Pattern Library.md",
+      "broken_link": "#P1 \u2014 The Constant Sequence $a_n = 1$  \\",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Generating_Functions/06 GF Pattern Library.md",
+      "broken_link": "#P2 \u2014 Powers of a Constant $a_n = c^n$  \\",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Generating_Functions/06 GF Pattern Library.md",
+      "broken_link": "#P3 \u2014 Alternating Signs $a_n = (-1) n$ \\",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Generating_Functions/06 GF Pattern Library.md",
+      "broken_link": "#P4 \u2014 Counting Up $a_n = n+1$ \\",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Generating_Functions/06 GF Pattern Library.md",
+      "broken_link": "#P5 \u2014 Natural Numbers $a_n = n$  \\",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Generating_Functions/06 GF Pattern Library.md",
+      "broken_link": "#P6 \u2014 Generalised Binomial Coefficients $a_n = binom{n+k-1}{k-1}$  \\",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Generating_Functions/06 GF Pattern Library.md",
+      "broken_link": "#P7 \u2014 Weighted Powers $a_n = n cdot c {n-1}$\\",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Generating_Functions/06 GF Pattern Library.md",
+      "broken_link": "#P8 \u2014 Scaled Weighted Powers $a_n = n cdot c n$ \\",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Generating_Functions/06 GF Pattern Library.md",
+      "broken_link": "#P9 \u2014 Delayed Constant $k$ Leading Zeros \\",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Generating_Functions/06 GF Pattern Library.md",
+      "broken_link": "#P10 \u2014 Every Other Term $a_n = 1$ if $n$ even, $0$ if $n$ odd \\",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Generating_Functions/06 GF Pattern Library.md",
+      "broken_link": "#P11 \u2014 Binomial Coefficients $a_n = binom{n}{r}$ (fixed $r$) \\",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Generating_Functions/06 GF Pattern Library.md",
+      "broken_link": "#P12 \u2014 Fibonacci Sequence $F_0=0, F_1=1, F_n = F_{n-1}+F_{n-2}$ \\",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/Z_Score_Scaling.md",
+      "broken_link": "../Prediksi Kualitas Udara Harian Berbasis Faktor Cuaca di Jakarta Menggunakan Multiple Linear Regression",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/Z_Score_Scaling.md",
+      "broken_link": "../Air_Quality_Prediction_MLR_Complete_Guide",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/Z_Score_Scaling.md",
+      "broken_link": "../Air_Quality_Prediction_MLR_Complete_Guide#Bab 5 Benchmarking Algoritma (MLR vs SVR vs XGBoost)",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/Z_Score_Scaling.md",
+      "broken_link": "'RH', 'Precipitation', 'Temperature', 'WindSpeed', 'SurfacePressure', 'CloudCover', 'ShortwaveRadiation'",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/XGBoost_Introduction.md",
+      "broken_link": "../Air_Quality_Prediction_MLR_Complete_Guide",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/XGBoost_Introduction.md",
+      "broken_link": "../Prediksi Kualitas Udara Harian Berbasis Faktor Cuaca di Jakarta Menggunakan Multiple Linear Regression",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/XGBoost_Introduction.md",
+      "broken_link": "../Air_Quality_Prediction_MLR_Complete_Guide",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/SVR_Introduction.md",
+      "broken_link": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Air_Quality_Prediction_MLR_Complete_Guide",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/SVR_Introduction.md",
+      "broken_link": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Prediksi Kualitas Udara Harian Berbasis Faktor Cuaca di Jakarta Menggunakan Multiple Linear Regression",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/MLR_Introduction.md",
+      "broken_link": "../Prediksi Kualitas Udara Harian Berbasis Faktor Cuaca di Jakarta Menggunakan Multiple Linear Regression.md",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/MLR_Introduction.md",
+      "broken_link": "../Air_Quality_Prediction_MLR_Complete_Guide.md",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/MLR_Introduction.md",
+      "broken_link": "../Prediksi Kualitas Udara Harian Berbasis Faktor Cuaca di Jakarta Menggunakan Multiple Linear Regression.md",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/Multicollinearity_Guide.md",
+      "broken_link": "../Air_Quality_Prediction_MLR_Complete_Guide",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/Multicollinearity_Guide.md",
+      "broken_link": "../Prediksi Kualitas Udara Harian Berbasis Faktor Cuaca di Jakarta Menggunakan Multiple Linear Regression",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Software_Engineering/Course Logistics & TBP.md",
+      "broken_link": "20_Brain_Atlas/20_Concepts/Software_Engineering/Software Engineering Course Overview",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Computer_Network/(Week 12) Network Programming Complete Guide.md",
+      "broken_link": "(Week 11) Transport Layer Complete Guide#B. Terminasi Koneksi: Four-Way Handshake",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Computer_Network/Tugas 1.md",
+      "broken_link": "#Pengertian Model OSI",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Computer_Network/Tugas 1.md",
+      "broken_link": "#Kenapa Model OSI Penting?",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Computer_Network/Tugas 1.md",
+      "broken_link": "#Pengelompokan Layer",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Computer_Network/Tugas 1.md",
+      "broken_link": "#Penjelasan 7 Layer OSI",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Computer_Network/Tugas 1.md",
+      "broken_link": "#Layer 1 \u2014 Physical Layer",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Computer_Network/Tugas 1.md",
+      "broken_link": "#Layer 2 \u2014 Data Link Layer",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Computer_Network/Tugas 1.md",
+      "broken_link": "#Layer 3 \u2014 Network Layer",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Computer_Network/Tugas 1.md",
+      "broken_link": "#Layer 4 \u2014 Transport Layer",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Computer_Network/Tugas 1.md",
+      "broken_link": "#Layer 5 \u2014 Session Layer",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Computer_Network/Tugas 1.md",
+      "broken_link": "#Layer 6 \u2014 Presentation Layer",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Computer_Network/Tugas 1.md",
+      "broken_link": "#Layer 7 \u2014 Application Layer",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Computer_Network/Tugas 1.md",
+      "broken_link": "#Contoh Alur Komunikasi Mengirim Email",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Computer_Network/Tugas 1.md",
+      "broken_link": "#Model OSI vs TCP/IP",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Computer_Network/Tugas 1.md",
+      "broken_link": "#Kesimpulan",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Computer_Network/Tugas 1.md",
+      "broken_link": "#Daftar Pustaka",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/20_Cards/Languages/[ESL] Present Continuous Tense.md",
+      "broken_link": "#1. Pengantar: Sedang Ngapain Sekarang?",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/20_Cards/Languages/[ESL] Present Continuous Tense.md",
+      "broken_link": "#2. Rumus Rahasia: Formula Present Continuous",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/20_Cards/Languages/[ESL] Present Continuous Tense.md",
+      "broken_link": "#3. Aturan Main: Menambahkan *-ing* (Spelling Rules)",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/20_Cards/Languages/[ESL] Present Continuous Tense.md",
+      "broken_link": "#4. Kapan Kita Memakainya? (Penggunaan Utama)",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/20_Cards/Languages/[ESL] Present Continuous Tense.md",
+      "broken_link": "#5. Pengecualian: Stative Verbs (Kata Kerja yang \"Mager\")",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/20_Cards/Languages/[ESL] Present Continuous Tense.md",
+      "broken_link": "#6. Summary \u2014 Key Concepts at a Glance",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/20_Cards/Languages/[ESL] Present Continuous Tense.md",
+      "broken_link": "#7. Uji Ingatanmu (Active Recall)",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/20_Cards/Social_Studies/Masa Praaksara dan Asal-usul Nenek Moyang Bangsa Indonesia.md",
+      "broken_link": "IPS Kelas 7 - Sumatif 4 MOC",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/20_Cards/Social_Studies/Masa Kerajaan Islam di Indonesia.md",
+      "broken_link": "IPS Kelas 7 - Sumatif 4 MOC",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/20_Cards/Social_Studies/Peran Lembaga Sosial.md",
+      "broken_link": "IPS Kelas 7 - Sumatif 4 MOC",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/20_Cards/Social_Studies/Konsep Dasar Ilmu Sejarah.md",
+      "broken_link": "IPS Kelas 7 - Sumatif 4 MOC",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/20_Cards/Social_Studies/Jalur Rempah Nusantara.md",
+      "broken_link": "IPS Kelas 7 - Sumatif 4 MOC",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/20_Cards/Social_Studies/Masa Kerajaan Hindu-Budha di Indonesia.md",
+      "broken_link": "IPS Kelas 7 - Sumatif 4 MOC",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/20_Cards/STEM/Energi Panas (Kalor).md",
+      "broken_link": "Fisika Kelas 10 - PSAT MOC",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/20_Cards/STEM/Energi Panas (Kalor).md",
+      "broken_link": "Energi Mekanik",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/20_Cards/STEM/Energi Panas (Kalor).md",
+      "broken_link": "Energi Terbarukan dan Tak Terbarukan",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/20_Cards/STEM/Gerak Lurus.md",
+      "broken_link": "IPA Kelas 7 - Sumatif 4 MOC",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/20_Cards/STEM/Gerak Lurus Berubah Beraturan (GLBB).md",
+      "broken_link": "IPA Kelas 7 - Sumatif 4 MOC",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/20_Cards/STEM/[Math] Kisi-Kisi ASAT - Master Summary.md",
+      "broken_link": "Matematika ASAT MOC",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/20_Cards/STEM/[Math] Kisi-Kisi ASAT - Master Summary.md",
+      "broken_link": "Persamaan Kuadrat",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/20_Cards/STEM/[Math] Kisi-Kisi ASAT - Master Summary.md",
+      "broken_link": "Sistem Persamaan Linear",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/20_Cards/STEM/[Math] Kisi-Kisi ASAT - Master Summary.md",
+      "broken_link": "Pertidaksamaan Linear",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/20_Cards/STEM/[Math] Kisi-Kisi ASAT - Master Summary.md",
+      "broken_link": "Statistika Deskriptif",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/20_Cards/STEM/Ekosistem dan Keanekaragaman Hayati.md",
+      "broken_link": "IPA Kelas 7 - Sumatif 4 MOC",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/20_Cards/STEM/Rantai Makanan dan Jaring-Jaring Makanan.md",
+      "broken_link": "IPA Kelas 7 - Sumatif 4 MOC",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/20_Cards/STEM/Kecepatan dan Kelajuan.md",
+      "broken_link": "IPA Kelas 7 - Sumatif 4 MOC",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/20_Cards/STEM/Tata Surya dan Bumi.md",
+      "broken_link": "IPA Kelas 7 - Sumatif 4 MOC",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/20_Cards/STEM/Energi Listrik.md",
+      "broken_link": "Fisika Kelas 10 - PSAT MOC",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/20_Cards/STEM/Energi Listrik.md",
+      "broken_link": "Energi Mekanik",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/20_Cards/STEM/Energi Listrik.md",
+      "broken_link": "Energi Potensial",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/20_Cards/STEM/Energi Listrik.md",
+      "broken_link": "Sumber Energi",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/20_Cards/STEM/Gaya dan Hukum Newton.md",
+      "broken_link": "IPA Kelas 7 - Sumatif 4 MOC",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/40_Practice/Languages/[ESL] Worksheet - Simple Present vs Present Continuous.md",
+      "broken_link": "#1. Pengantar: Memilih Mode Eksekusi yang Tepat",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/40_Practice/Languages/[ESL] Worksheet - Simple Present vs Present Continuous.md",
+      "broken_link": "#2. Sesi Pemanasan: Identifikasi Pattern",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/40_Practice/Languages/[ESL] Worksheet - Simple Present vs Present Continuous.md",
+      "broken_link": "#3. Debugging Code: Perbaiki Error Syntax",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/40_Practice/Languages/[ESL] Worksheet - Simple Present vs Present Continuous.md",
+      "broken_link": "#4. Build the Sentence: Eksekusi Fungsi Sesuai Parameter",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/40_Practice/Languages/[ESL] Worksheet - Simple Present vs Present Continuous.md",
+      "broken_link": "#5. Edge Cases: Stative Verbs (Si \"Mager\")",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/40_Practice/Languages/[ESL] Worksheet - Simple Present vs Present Continuous.md",
+      "broken_link": "#6. Summary \u2014 Key Concepts at a Glance",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/40_Practice/Languages/[ESL] Worksheet - Simple Present vs Present Continuous.md",
+      "broken_link": "#7. Active Recall & Self-Test",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Kunci Jawaban - Tata Nama dan Biloks.md",
+      "broken_link": "IUPAC",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Kunci Jawaban - Tata Nama dan Biloks.md",
+      "broken_link": "keelektronegatifan",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Kunci Jawaban - Tata Nama dan Biloks.md",
+      "broken_link": "Redoks",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Kunci Jawaban - Tata Nama dan Biloks.md",
+      "broken_link": "setengah reaksi",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Tata Nama dan Biloks.md",
+      "broken_link": "tata nama IUPAC",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Tata Nama dan Biloks.md",
+      "broken_link": "senyawa ion biner",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Tata Nama dan Biloks.md",
+      "broken_link": "senyawa ion poliatomik",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Tata Nama dan Biloks.md",
+      "broken_link": "senyawa kovalen biner",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Tata Nama dan Biloks.md",
+      "broken_link": "asam",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Tata Nama dan Biloks.md",
+      "broken_link": "basa",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Tata Nama dan Biloks.md",
+      "broken_link": "tata nama IUPAC",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Tata Nama dan Biloks.md",
+      "broken_link": "bilangan oksidasi",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Tata Nama dan Biloks.md",
+      "broken_link": "bilangan oksidasi",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Tata Nama dan Biloks.md",
+      "broken_link": "reaksi redoks",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Tata Nama dan Biloks.md",
+      "broken_link": "titrasi redoks",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Tata Nama dan Biloks.md",
+      "broken_link": "oksidasi",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Tata Nama dan Biloks.md",
+      "broken_link": "reduksi",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/00_Atlas/index.md",
+      "broken_link": "20_Cards/",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/00_Atlas/index.md",
+      "broken_link": "40_Practice/",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/00_Atlas/index.md",
+      "broken_link": "30_Sources/",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/30_Sources/STEM/[Chem] Tata Nama Senyawa dan Biloks - First Principle.md",
+      "broken_link": "Bab 3 \u2014 Reaksi Redoks",
+      "context": "wikilink"
+    },
+    {
+      "file": "20_Brain_Atlas/20_Concepts/Artificial_Intelligence/LLMWiki.md",
+      "broken_link": "Dynamic RAG",
+      "context": "wikilink"
+    },
+    {
+      "file": "20_Brain_Atlas/20_Concepts/Artificial_Intelligence/LLMWiki.md",
+      "broken_link": "Knowledge Graphs",
+      "context": "wikilink"
+    }
+  ],
+  "orphans": [
+    {
+      "file": "10_Spaces/11_College/Syllabi/Software Engineering Syllabus.md",
+      "title": "Software Engineering Syllabus"
+    },
+    {
+      "file": "10_Spaces/11_College/Syllabi/Web Programming Syllabus.md",
+      "title": "Web Programming Syllabus"
+    },
+    {
+      "file": "10_Spaces/11_College/Syllabi/Artificial Intelligence Syllabus.md",
+      "title": "Artificial Intelligence Syllabus"
+    },
+    {
+      "file": "10_Spaces/11_College/Syllabi/Discrete Mathematics I Syllabus.md",
+      "title": "Discrete Mathematics I Syllabus"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Web_Programming/Tugas 1 - Pembuatan Website Sederhana.md",
+      "title": "Tugas 1 - Pembuatan Website Sederhana"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/UAS Practice.md",
+      "title": "UAS Practice"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/UAS Cheatsheet.md",
+      "title": "UAS Cheatsheet"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Tugas_UAS_Matematika_Diskrit_1.md",
+      "title": "Tugas_UAS_Matematika_Diskrit_1"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Tugas Tengah Semester.md",
+      "title": "Tugas Tengah Semester"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Recurrence_Relations/Recurrence Relations Mock Exam.md",
+      "title": "Recurrence Relations Mock Exam"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/QnA_Presentasi_Tubes.md",
+      "title": "QnA_Presentasi_Tubes"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Prediksi Kualitas Udara Harian Berbasis Faktor Cuaca di Jakarta Menggunakan Multiple Linear Regression.md",
+      "title": "Prediksi Kualitas Udara Harian Berbasis Faktor Cuaca di Jakarta Menggunakan Multiple Linear Regression"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Air_Quality_Prediction_MLR_Complete_Guide.md",
+      "title": "Air_Quality_Prediction_MLR_Complete_Guide"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Software_Engineering/flow-documentation.md",
+      "title": "flow-documentation"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Software_Engineering/user-stories.md",
+      "title": "user-stories"
+    },
+    {
+      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Computer_Network/Jarkom Bedtime Reader.md",
+      "title": "Jarkom Bedtime Reader"
+    },
+    {
+      "file": "10_Spaces/13_Olympiad/Astronomy_Olympiad/02_Exhaustive_Master_List.md",
+      "title": "02_Exhaustive_Master_List"
+    },
+    {
+      "file": "10_Spaces/13_Olympiad/Astronomy_Olympiad/01_Preparation_Roadmap.md",
+      "title": "01_Preparation_Roadmap"
+    },
+    {
+      "file": "10_Spaces/13_Olympiad/Astronomy_Olympiad/10_Syllabus/IOAA_Syllabus.md",
+      "title": "IOAA_Syllabus"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/20_Cards/STEM/[Chem] Reaksi Redoks - Rangkuman.md",
+      "title": "[Chem] Reaksi Redoks - Rangkuman"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/20_Cards/STEM/[Chem] Tata Nama dan Biloks - Rangkuman.md",
+      "title": "[Chem] Tata Nama dan Biloks - Rangkuman"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/20_Cards/STEM/[Chem] Konsep Mol - Rangkuman.md",
+      "title": "[Chem] Konsep Mol - Rangkuman"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Reaksi Redoks.md",
+      "title": "[Chem] Worksheet - Reaksi Redoks"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Kunci Jawaban - Konsep Mol.md",
+      "title": "[Chem] Kunci Jawaban - Konsep Mol"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Konsep Mol.md",
+      "title": "[Chem] Worksheet - Konsep Mol"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Kunci Jawaban - Reaksi Redoks.md",
+      "title": "[Chem] Kunci Jawaban - Reaksi Redoks"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/30_Sources/Languages/[Arabic] Pengenalan Kosakata Anggota Keluarga.md",
+      "title": "[Arabic] Pengenalan Kosakata Anggota Keluarga"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/30_Sources/STEM/[Chem] Reaksi Redoks - First Principle.md",
+      "title": "[Chem] Reaksi Redoks - First Principle"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/30_Sources/STEM/[Math] Logarithms - First Principle.md",
+      "title": "[Math] Logarithms - First Principle"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/30_Sources/STEM/[Math] Statistika - First Principle.md",
+      "title": "[Math] Statistika - First Principle"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/30_Sources/STEM/[Math] Mengapa Kita Menggunakan Radian?.md",
+      "title": "[Math] Mengapa Kita Menggunakan Radian?"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/30_Sources/STEM/[Physics] Energi Mekanik - First Principle.md",
+      "title": "[Physics] Energi Mekanik - First Principle"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/30_Sources/STEM/[Math] Program Linier - First Principle.md",
+      "title": "[Math] Program Linier - First Principle"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/30_Sources/STEM/[Chem] Konsep Mol - First Principle.md",
+      "title": "[Chem] Konsep Mol - First Principle"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/30_Sources/STEM/[Chem] Hukum-Hukum Dasar Kimia - First Principle.md",
+      "title": "[Chem] Hukum-Hukum Dasar Kimia - First Principle"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/30_Sources/STEM/Gerak Melingkar Beraturan - First Principle.md",
+      "title": "Gerak Melingkar Beraturan - First Principle"
+    },
+    {
+      "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-8) IPv4 Subnetting Lecture Notes.md",
+      "title": "(CN-8) IPv4 Subnetting Lecture Notes"
+    },
+    {
+      "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-10) ICMP Lecture Notes.md",
+      "title": "(CN-10) ICMP Lecture Notes"
+    },
+    {
+      "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-9a) IPv6 Lecture Notes.md",
+      "title": "(CN-9a) IPv6 Lecture Notes"
+    },
+    {
+      "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-12) Pemrograman Jaringan Lecture Notes.md",
+      "title": "(CN-12) Pemrograman Jaringan Lecture Notes"
+    },
+    {
+      "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-13) Application, Presentation, dan Session Layer Lecture Notes.md",
+      "title": "(CN-13) Application, Presentation, dan Session Layer Lecture Notes"
+    },
+    {
+      "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-9b) IPv6 Subnetting Lecture Notes.md",
+      "title": "(CN-9b) IPv6 Subnetting Lecture Notes"
+    },
+    {
+      "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-14) Keamanan Jaringan Lecture Notes.md",
+      "title": "(CN-14) Keamanan Jaringan Lecture Notes"
+    },
+    {
+      "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-7) IPv4 Lecture Notes.md",
+      "title": "(CN-7) IPv4 Lecture Notes"
+    },
+    {
+      "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-11) Transport Layer Lecture Notes.md",
+      "title": "(CN-11) Transport Layer Lecture Notes"
+    }
+  ],
+  "missing_frontmatter": []
+}

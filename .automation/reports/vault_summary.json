@@ -1,0 +1,278 @@
+{
+  "_meta": {
+    "description": "Pre-computed vault digest for token-efficient agent queries. Read this file FIRST. Only open specific vault notes when the topic is confirmed to exist here.",
+    "agent_protocol": [
+      "1. Read vault_summary.json → identify which 1-3 notes are relevant.",
+      "2. Open only those specific notes by their path.",
+      "3. Prefer 20_Brain_Atlas/20_Concepts/ notes for explanations (smallest, most distilled).",
+      "4. Never scan directories or open more than 3 full notes without user approval.",
+      "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
+    ],
+    "generated_at": "2026-07-10T12:35:40Z"
+  },
+  "stats": {
+    "total_notes": 104,
+    "total_edges": 208,
+    "broken_links": 117,
+    "untyped_notes": 82,
+    "health_score": 9.3
+  },
+  "inbox": [],
+  "spaces": {
+    "College": {
+      "Web Programming": [
+        "Tugas 1 - Pembuatan Website Sederhana"
+      ],
+      "Discrete Mathematics I": [
+        "UAS Practice",
+        "UAS Cheatsheet",
+        "Tugas_UAS_Matematika_Diskrit_1",
+        "Tugas Tengah Semester",
+        "Inclusion Exclusion Complete Guide",
+        "Recurrence Relations Mock Exam",
+        "Recurrence Relations Complete Guide",
+        "Complete Guide",
+        "Relations Practice",
+        "03 GF Recurrences",
+        "02 GF Ordinary",
+        "07 GF Binomial Theorem",
+        "04 GF Applications",
+        "01 GF Introduction",
+        "05 GF Practice",
+        "00 GF Index",
+        "06 GF Pattern Library"
+      ],
+      "Artificial Intelligence": [
+        "QnA_Presentasi_Tubes",
+        "Prediksi Kualitas Udara Harian Berbasis Faktor Cuaca di Jakarta Menggunakan Multiple Linear Regression",
+        "Air_Quality_Prediction_MLR_Complete_Guide",
+        "Z_Score_Scaling",
+        "XGBoost_Introduction",
+        "SVR_Introduction",
+        "MLR_Introduction",
+        "Multicollinearity_Guide"
+      ],
+      "Software Engineering": [
+        "flow-documentation",
+        "user-stories",
+        "Course Logistics & TBP"
+      ],
+      "Computer Network": [
+        "(Week 10) ICMP Complete Guide",
+        "(Week 9a) IPv6 Complete Guide",
+        "(Week 12) Network Programming Complete Guide",
+        "Jarkom Bedtime Reader",
+        "(Week 7) IPv4 Complete Guide",
+        "(Week 9b) IPv6 Subnetting Complete Guide",
+        "(Week 14) Network Security Complete Guide",
+        "Computer Network Cheatsheet",
+        "Tugas 1",
+        "(Week 11) Transport Layer Practice",
+        "(Week 8) IPv4 Subnetting Complete Guide",
+        "(Week 11) Transport Layer Complete Guide",
+        "(Week 13) Application Presentation Session Layer Complete Guide"
+      ]
+    },
+    "Olympiad": {
+      "10 Syllabus": [
+        "IOAA_Syllabus"
+      ]
+    },
+    "Teaching": {
+      "Languages": [
+        "[ESL] Present Continuous Tense",
+        "[ESL] Worksheet - Simple Present vs Present Continuous",
+        "[Arabic] Pengenalan Kosakata Anggota Keluarga"
+      ],
+      "Social Studies": [
+        "Masa Praaksara dan Asal-usul Nenek Moyang Bangsa Indonesia",
+        "Masa Kerajaan Islam di Indonesia",
+        "Peran Lembaga Sosial",
+        "Konsep Dasar Ilmu Sejarah",
+        "Jalur Rempah Nusantara",
+        "Masa Kerajaan Hindu-Budha di Indonesia"
+      ],
+      "STEM": [
+        "[Chem] Reaksi Redoks - Rangkuman",
+        "Energi Panas (Kalor)",
+        "[Chem] Tata Nama dan Biloks - Rangkuman",
+        "Gerak Lurus",
+        "Gerak Lurus Berubah Beraturan (GLBB)",
+        "[Math] Kisi-Kisi ASAT - Master Summary",
+        "Ekosistem dan Keanekaragaman Hayati",
+        "Rantai Makanan dan Jaring-Jaring Makanan",
+        "Kecepatan dan Kelajuan",
+        "Tata Surya dan Bumi",
+        "Energi Listrik",
+        "Gaya dan Hukum Newton",
+        "[Chem] Konsep Mol - Rangkuman",
+        "[Chem] Kunci Jawaban - Tata Nama dan Biloks",
+        "[Chem] Worksheet - Tata Nama dan Biloks",
+        "[Chem] Worksheet - Reaksi Redoks",
+        "[Chem] Kunci Jawaban - Konsep Mol",
+        "[Chem] Worksheet - Konsep Mol",
+        "[Chem] Kunci Jawaban - Reaksi Redoks",
+        "[Chem] Reaksi Redoks - First Principle",
+        "[Math] Logarithms - First Principle",
+        "[Chem] Tata Nama Senyawa dan Biloks - First Principle",
+        "[Math] Statistika - First Principle",
+        "[Math] Mengapa Kita Menggunakan Radian?",
+        "[Physics] Energi Mekanik - First Principle",
+        "[Math] Program Linier - First Principle",
+        "[Chem] Konsep Mol - First Principle",
+        "[Chem] Hukum-Hukum Dasar Kimia - First Principle",
+        "Gerak Melingkar Beraturan - First Principle"
+      ]
+    }
+  },
+  "brain_atlas": {
+    "library": {
+      "Papers": [],
+      "Repos": [],
+      "Articles_Talks": [
+        {
+          "title": "LLMWiki_Andrej_Karpathy",
+          "status": "done"
+        }
+      ],
+      "Books": [],
+      "Generated_Readings": {
+        "Artificial_Intelligence": [
+          "LLMWiki_Deep_Dive"
+        ]
+      }
+    },
+    "concepts": {
+      "Artificial_Intelligence": [
+        "LLMWiki"
+      ]
+    },
+    "reference_lib": [
+      "(CN-8) IPv4 Subnetting Lecture Notes",
+      "(CN-10) ICMP Lecture Notes",
+      "(CN-9a) IPv6 Lecture Notes",
+      "(CN-12) Pemrograman Jaringan Lecture Notes",
+      "(CN-13) Application, Presentation, dan Session Layer Lecture Notes",
+      "(CN-9b) IPv6 Subnetting Lecture Notes",
+      "(CN-14) Keamanan Jaringan Lecture Notes",
+      "(CN-7) IPv4 Lecture Notes",
+      "(CN-11) Transport Layer Lecture Notes"
+    ]
+  },
+  "maintenance": {
+    "orphan_pages_sample": [
+      "Software Engineering Syllabus",
+      "Web Programming Syllabus",
+      "Artificial Intelligence Syllabus",
+      "Discrete Mathematics I Syllabus",
+      "Tugas 1 - Pembuatan Website Sederhana",
+      "UAS Practice",
+      "UAS Cheatsheet",
+      "Tugas_UAS_Matematika_Diskrit_1",
+      "Tugas Tengah Semester",
+      "Recurrence Relations Mock Exam",
+      "QnA_Presentasi_Tubes",
+      "Prediksi Kualitas Udara Harian Berbasis Faktor Cuaca di Jakarta Menggunakan Multiple Linear Regression",
+      "Air_Quality_Prediction_MLR_Complete_Guide",
+      "flow-documentation",
+      "user-stories",
+      "Jarkom Bedtime Reader",
+      "02_Exhaustive_Master_List",
+      "01_Preparation_Roadmap",
+      "IOAA_Syllabus",
+      "[Chem] Reaksi Redoks - Rangkuman",
+      "[Chem] Tata Nama dan Biloks - Rangkuman",
+      "[Chem] Konsep Mol - Rangkuman",
+      "[Chem] Worksheet - Reaksi Redoks",
+      "[Chem] Kunci Jawaban - Konsep Mol",
+      "[Chem] Worksheet - Konsep Mol",
+      "[Chem] Kunci Jawaban - Reaksi Redoks",
+      "[Arabic] Pengenalan Kosakata Anggota Keluarga",
+      "[Chem] Reaksi Redoks - First Principle",
+      "[Math] Logarithms - First Principle",
+      "[Math] Statistika - First Principle"
+    ],
+    "untyped_notes_sample": [
+      {
+        "title": "UAS Practice",
+        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/UAS Practice.md"
+      },
+      {
+        "title": "UAS Cheatsheet",
+        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/UAS Cheatsheet.md"
+      },
+      {
+        "title": "Tugas_UAS_Matematika_Diskrit_1",
+        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Tugas_UAS_Matematika_Diskrit_1.md"
+      },
+      {
+        "title": "Inclusion Exclusion Complete Guide",
+        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Inclusion_Exclusion/Inclusion Exclusion Complete Guide.md"
+      },
+      {
+        "title": "Recurrence Relations Mock Exam",
+        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Recurrence_Relations/Recurrence Relations Mock Exam.md"
+      },
+      {
+        "title": "Recurrence Relations Complete Guide",
+        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Recurrence_Relations/Recurrence Relations Complete Guide.md"
+      },
+      {
+        "title": "Complete Guide",
+        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Relations/Complete Guide.md"
+      },
+      {
+        "title": "Relations Practice",
+        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Relations/Relations Practice.md"
+      },
+      {
+        "title": "QnA_Presentasi_Tubes",
+        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/QnA_Presentasi_Tubes.md"
+      },
+      {
+        "title": "Prediksi Kualitas Udara Harian Berbasis Faktor Cuaca di Jakarta Menggunakan Multiple Linear Regression",
+        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Prediksi Kualitas Udara Harian Berbasis Faktor Cuaca di Jakarta Menggunakan Multiple Linear Regression.md"
+      },
+      {
+        "title": "Air_Quality_Prediction_MLR_Complete_Guide",
+        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Air_Quality_Prediction_MLR_Complete_Guide.md"
+      },
+      {
+        "title": "Z_Score_Scaling",
+        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/Z_Score_Scaling.md"
+      },
+      {
+        "title": "XGBoost_Introduction",
+        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/XGBoost_Introduction.md"
+      },
+      {
+        "title": "SVR_Introduction",
+        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/SVR_Introduction.md"
+      },
+      {
+        "title": "MLR_Introduction",
+        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/MLR_Introduction.md"
+      },
+      {
+        "title": "Multicollinearity_Guide",
+        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/Multicollinearity_Guide.md"
+      },
+      {
+        "title": "flow-documentation",
+        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Software_Engineering/flow-documentation.md"
+      },
+      {
+        "title": "user-stories",
+        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Software_Engineering/user-stories.md"
+      },
+      {
+        "title": "(Week 10) ICMP Complete Guide",
+        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Computer_Network/(Week 10) ICMP Complete Guide.md"
+      },
+      {
+        "title": "(Week 9a) IPv6 Complete Guide",
+        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Computer_Network/(Week 9a) IPv6 Complete Guide.md"
+      }
+    ]
+  }
+}
