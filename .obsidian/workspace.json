@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6b4d4558c701a965",
+        "id": "19f8d204ec2abb9f",
         "type": "tabs",
         "children": [
           {
-            "id": "2d39f34ca4dfc31b",
+            "id": "2271de5eca2747de",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: .gitignore  (Working Tree)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -266,7 +262,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3765b91081da9f87",
+  "active": "2271de5eca2747de",
   "lastOpenFiles": [
     "20_Brain_Atlas/10_Library/Articles_Talks/LLMWiki_Andrej_Karpathy.md",
     "README.md",
