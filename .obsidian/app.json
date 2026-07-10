@@ -8,7 +8,7 @@
     "downscalePercent": 100
   },
   "readableLineLength": true,
-  "trashOption": "system",
+  "trashOption": "none",
   "promptDelete": false,
   "attachmentFolderPath": "30_Assets"
 }
