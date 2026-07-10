@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "07ec1cfcd604ee45",
+        "id": "6b4d4558c701a965",
         "type": "tabs",
         "children": [
           {
-            "id": "5d61e0cca9af8e55",
+            "id": "2d39f34ca4dfc31b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "20_Brain_Atlas/10_Library/Articles_Talks/LLMWiki_Andrej_Karpathy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "LLMWiki_Andrej_Karpathy"
+              "icon": "diff",
+              "title": "Diff: .gitignore  (Working Tree)"
             }
           }
         ]
@@ -276,46 +266,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "floating": {
-    "id": "46123e12c1533451",
-    "type": "floating",
-    "children": [
-      {
-        "id": "9a7c79a7e0ca2b97",
-        "type": "window",
-        "children": [
-          {
-            "id": "1d55ae8bebefeb8c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6face4e736aeb20e",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://publish.obsidian.md/git-doc/Getting+Started",
-                    "title": "Getting Started - Git Documentation - Obsidian Publish",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Getting Started - Git Documentation - Obsidian Publish"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 171,
-        "y": 0,
-        "width": 1024,
-        "height": 767,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "6face4e736aeb20e",
+  "active": "3765b91081da9f87",
   "lastOpenFiles": [
     "20_Brain_Atlas/10_Library/Articles_Talks/LLMWiki_Andrej_Karpathy.md",
     "README.md",
