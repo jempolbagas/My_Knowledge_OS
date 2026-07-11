@@ -2,3 +2,5 @@
 **/*.pdf
 .trash/
 **/.trash/
+.obsidian/
+**/.obsidian/
