@@ -9,6 +9,19 @@ DB_PATH = os.path.join(VAULT_ROOT, '.automation/db/vault_index.db')
 # Regex for wikilinks: [[Note Name]] or [[Note Name|Alias]]
 WIKILINK_RE = re.compile(r'\[\[([^\]|]+)(?:\|[^\]]+)?\]\]')
 
+# Splits a raw wikilink target into (note_name, anchor).
+# Handles: "Note Name", "Note Name#Heading", "Note Name#^blockid", "#Heading" (same-note anchor)
+# Anchor split is on the FIRST unescaped '#' only — headings can legitimately contain
+# further '#' characters in edge cases, and we never want to over-split.
+ANCHOR_SPLIT_RE = re.compile(r'^([^#]*)(#.*)?$')
+
+def split_wikilink_target(raw_target: str):
+    raw_target = raw_target.strip()
+    m = ANCHOR_SPLIT_RE.match(raw_target)
+    note_name = m.group(1).strip()
+    anchor = m.group(2)  # includes leading '#', or None
+    return note_name, anchor
+
 # Matches markdown headings (# ... ######)
 HEADING_RE = re.compile(r'^#{1,6}\s+', re.MULTILINE)
 
@@ -94,9 +107,12 @@ def scan_vault():
     return md_files, title_to_path
 
 def extract_links_from_string(text):
+    """Returns list of (note_name, anchor) tuples. note_name == '' means
+    a same-note heading/block anchor like [[#Some Heading]]."""
     if not isinstance(text, str):
         return []
-    return [match.strip() for match in WIKILINK_RE.findall(text)]
+    raw_targets = WIKILINK_RE.findall(text)
+    return [split_wikilink_target(t) for t in raw_targets]
 
 def parse_frontmatter_links(fm, field_name):
     val = fm.get(field_name, '')
@@ -149,24 +165,29 @@ def build_index():
     # Then insert all edges
     for rel_path, post in parsed_files.items():
         # Parse inline wikilinks
-        inline_targets = WIKILINK_RE.findall(post.content)
-        
+        inline_targets = extract_links_from_string(post.content)
+
         # Parse frontmatter links
         source_targets = parse_frontmatter_links(post.metadata, 'source')
         promoted_targets = parse_frontmatter_links(post.metadata, 'promoted_to')
-        
-        # Combine and record edges
-        # We record target_path by matching title_to_path
+
         all_edges = []
-        for target in inline_targets:
-            all_edges.append((target.strip(), 'wikilink'))
-        for target in source_targets:
-            all_edges.append((target.strip(), 'frontmatter_source'))
-        for target in promoted_targets:
-            all_edges.append((target.strip(), 'frontmatter_promoted_to'))
-            
-        for target_name, link_type in all_edges:
-            target_path = title_to_path.get(target_name, None)
+        for note_name, anchor in inline_targets:
+            all_edges.append((note_name, anchor, 'wikilink'))
+        for note_name, anchor in source_targets:
+            all_edges.append((note_name, anchor, 'frontmatter_source'))
+        for note_name, anchor in promoted_targets:
+            all_edges.append((note_name, anchor, 'frontmatter_promoted_to'))
+
+        for note_name, anchor, link_type in all_edges:
+            if note_name == '':
+                # Same-note anchor, e.g. [[#Some Heading]] — resolves to this file itself.
+                target_path = rel_path
+                target_name = rel_path  # store resolved name, not blank
+            else:
+                target_path = title_to_path.get(note_name, None)
+                target_name = note_name
+
             cursor.execute('''
                 INSERT INTO edges (source_path, target_name, target_path, link_type)
                 VALUES (?, ?, ?, ?)
