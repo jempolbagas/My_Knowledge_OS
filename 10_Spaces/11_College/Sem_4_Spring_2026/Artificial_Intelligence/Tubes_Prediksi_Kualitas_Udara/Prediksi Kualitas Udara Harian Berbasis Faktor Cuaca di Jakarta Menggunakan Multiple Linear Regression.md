@@ -163,7 +163,7 @@ Mengingat tujuan dari model yang dibangun adalah untuk melakukan prakiraan (pred
 #### 3.1.3 Analisis Distribusi dan Pembersihan Anomali
 Sebelum data dipisahkan, dilakukan analisis visual untuk meninjau distribusi atau sebaran angka dari masing-masing parameter menggunakan grafik histogram. Langkah ini bertujuan untuk mengidentifikasi keberadaan *outlier* (pencilan data ekstrim) serta melihat kecenderungan kurva normal atau kemiringan (*skewness*) yang merupakan representasi karakteristik alam. Berdasarkan pengujian batasan anomali ekstrem ($\text{AQI} > 300$), tidak ditemukan *outlier* yang melampaui batas tersebut pada rentang tahun 2024-2025. Setelah dikurangi satu baris akibat proses *shifting*, total data bersih yang tervalidasi dan siap digunakan untuk tahap selanjutnya adalah 731 baris data. Hasil visualisasi distribusi dari seluruh fitur dapat dilihat pada Gambar 3.1.
 
-![Gambar 3.1 Visualisasi Distribusi Variabel Cuaca](Gambar%203.1.png)
+![Gambar 3.1 Visualisasi Distribusi Variabel Cuaca](../../../../../30_Assets/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Gambar%203.1.png)
 
 *(Gambar 3.1 Visualisasi Distribusi Variabel Cuaca)*
 
@@ -172,7 +172,7 @@ Berdasarkan Gambar 3.1, dapat diamati bahwa beberapa parameter membentuk kurva n
 #### 3.1.4 Analisis Korelasi dan Uji Multikolinearitas
 Sebelum fitur-fitur cuaca diumpankan ke dalam model *Multiple Linear Regression* (MLR), perlu dilakukan pengujian asumsi klasik, salah satunya adalah uji multikolinearitas. Multikolinearitas terjadi ketika terdapat korelasi linier yang terlalu kuat (umumnya di atas 0,80 atau di bawah -0,80) antar sesama variabel independen. Hal ini dapat menyebabkan koefisien regresi menjadi tidak stabil dan bias. Untuk mengevaluasi hal tersebut, dilakukan perhitungan matriks korelasi Pearson yang divisualisasikan melalui *heatmap* pada Gambar 3.2.
 
-![Gambar 3.2 Heatmap Korelasi Antar Variabel Cuaca](Gambar%203.2.png)
+![Gambar 3.2 Heatmap Korelasi Antar Variabel Cuaca](../../../../../30_Assets/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Gambar%203.2.png)
 
 *(Gambar 3.2 Heatmap Korelasi Antar Variabel Cuaca)*
 
@@ -187,7 +187,7 @@ $$Z = \frac{x - \mu}{\sigma}$$
 
 *(Keterangan: $x$ adalah nilai observasi, $\mu$ adalah nilai rata-rata, dan $\sigma$ adalah standar deviasi).*
 
-![Gambar 3.3 Visualisasi Standarisasi Variabel Cuaca](Gambar%203.3.png)
+![Gambar 3.3 Visualisasi Standarisasi Variabel Cuaca](../../../../../30_Assets/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Gambar%203.3.png)
 
 *(Gambar 3.3 Visualisasi Standarisasi Variabel Cuaca)*
 
@@ -235,7 +235,7 @@ Setelah proses pelatihan selesai, ketiga model diuji menggunakan data *testing* 
 | SVR | 10,97 | 15,27 | 15,11 | 0,69 |
 | XGBoost | 10,97 | 15,94 | 14,72 | 0,66 |
 
-![Gambar 3.4 Perbandingan Hasil Evaluasi Model](Gambar%203.4.png)
+![Gambar 3.4 Perbandingan Hasil Evaluasi Model](../../../../../30_Assets/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Gambar%203.4.png)
 
 *(Gambar 3.4 Perbandingan Hasil Evaluasi Model)*
 
@@ -273,7 +273,7 @@ Sisa varians sebesar 28% mengindikasikan keberadaan faktor-faktor eksternal lain
 #### 3.4.3 Visualisasi Kecocokan Model (Line Plot)
 Untuk memvalidasi perbandingan metrik secara visual, dilakukan *plotting* atau pemetaan kurva grafik deret waktu (*time-series*) yang menyandingkan garis data nilai AQI faktual dengan garis hasil tebakan prediksi model.
 
-![Gambar 3.5 Grafik Perbandingan AQI Aktual dengan Hasil Prediksi](Gambar%203.5.png)
+![Gambar 3.5 Grafik Perbandingan AQI Aktual dengan Hasil Prediksi](../../../../../30_Assets/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Gambar%203.5.png)
 
 *(Gambar 3.5 Grafik Perbandingan AQI Aktual dengan Hasil Prediksi)*
 
@@ -285,7 +285,7 @@ Tahap akhir dari siklus pengembangan model *Machine Learning* adalah operasional
 #### 3.5.1 Arsitektur Sistem Microservices
 Untuk mencegah pembebanan komputasi yang berlebihan pada satu server, sistem dikembangkan dengan arsitektur *microservices*. Arsitektur ini secara tegas memisahkan beban kerja antara mesin pengolah logika kecerdasan buatan di sisi *backend* dan mesin perender antarmuka visual di sisi *frontend*. Pendekatan ini memastikan bahwa proses kalkulasi matriks aljabar dari algoritma regresi tidak akan menghambat atau memperlambat interaksi pengguna pada halaman situs web.
 
-![Gambar 3.6 Diagram Arsitektur Website](Gambar%203.6.png)
+![Gambar 3.6 Diagram Arsitektur Website](../../../../../30_Assets/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Gambar%203.6.png)
 
 *(Gambar 3.6 Diagram Arsitektur Website)*
 
@@ -299,7 +299,7 @@ Sebagai medium interaksi dengan pengguna akhir, antarmuka portal prakiraan polus
 
 Setelah server *backend* mengembalikan hasil kalkulasi tebakan AQI esok hari, nilai tersebut dirender dan divisualisasikan secara dinamik pada layar pengguna. Seluruh kode sumber *frontend* ini di-*deploy* menggunakan infrastruktur Edge Network dari Vercel (vercel.com) untuk memastikan waktu muat (*loading time*) antarmuka yang sangat cepat dan responsif.
 
-![Gambar 3.7 Halaman Depan Website](Gambar%203.7.png)
+![Gambar 3.7 Halaman Depan Website](../../../../../30_Assets/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Gambar%203.7.png)
 
 *(Gambar 3.7 Halaman Depan Website)*
 

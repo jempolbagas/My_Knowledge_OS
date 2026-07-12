@@ -8,14 +8,14 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-07-12T17:45:43Z"
+    "generated_at": "2026-07-12T18:21:09Z"
   },
   "stats": {
-    "total_notes": 107,
-    "total_edges": 222,
-    "broken_links": 85,
+    "total_notes": 105,
+    "total_edges": 218,
+    "broken_links": 86,
     "untyped_notes": 82,
-    "health_score": 14.4
+    "health_score": 13.3
   },
   "inbox": [],
   "spaces": {
@@ -129,17 +129,11 @@
     "library": {
       "Papers": [],
       "Repos": [],
-      "Articles_Talks": [
-        {
-          "title": "LLMWiki_Andrej_Karpathy",
-          "status": "done"
-        }
-      ],
+      "Articles_Talks": [],
       "Books": [],
       "Generated_Readings": {
         "Artificial_Intelligence": [
-          "Machine_Learning_Roadmap",
-          "LLMWiki_Deep_Dive"
+          "Machine_Learning_Roadmap"
         ],
         "Cybersecurity": [
           "Fedora_Cybersecurity_Roadmap",
