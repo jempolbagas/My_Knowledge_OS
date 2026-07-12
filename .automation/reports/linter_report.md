@@ -15,21 +15,9 @@
 | [[Recurrence Relations Complete Guide]] | `../Generating_Functions/04 GF Applications` | `wikilink` |
 | [[Complete Guide]] | `20_Brain_Atlas/20_Concepts/Mathematics/Himpunan` | `wikilink` |
 | [[Complete Guide]] | `20_Brain_Atlas/20_Concepts/Mathematics/Fungsi` | `wikilink` |
-| [[06 GF Pattern Library]] | `#P1 — The Constant Sequence $a_n = 1$  \` | `wikilink` |
-| [[06 GF Pattern Library]] | `#P2 — Powers of a Constant $a_n = c^n$  \` | `wikilink` |
-| [[06 GF Pattern Library]] | `#P3 — Alternating Signs $a_n = (-1) n$ \` | `wikilink` |
-| [[06 GF Pattern Library]] | `#P4 — Counting Up $a_n = n+1$ \` | `wikilink` |
-| [[06 GF Pattern Library]] | `#P5 — Natural Numbers $a_n = n$  \` | `wikilink` |
-| [[06 GF Pattern Library]] | `#P6 — Generalised Binomial Coefficients $a_n = binom{n+k-1}{k-1}$  \` | `wikilink` |
-| [[06 GF Pattern Library]] | `#P7 — Weighted Powers $a_n = n cdot c {n-1}$\` | `wikilink` |
-| [[06 GF Pattern Library]] | `#P8 — Scaled Weighted Powers $a_n = n cdot c n$ \` | `wikilink` |
-| [[06 GF Pattern Library]] | `#P9 — Delayed Constant $k$ Leading Zeros \` | `wikilink` |
-| [[06 GF Pattern Library]] | `#P10 — Every Other Term $a_n = 1$ if $n$ even, $0$ if $n$ odd \` | `wikilink` |
-| [[06 GF Pattern Library]] | `#P11 — Binomial Coefficients $a_n = binom{n}{r}$ (fixed $r$) \` | `wikilink` |
-| [[06 GF Pattern Library]] | `#P12 — Fibonacci Sequence $F_0=0, F_1=1, F_n = F_{n-1}+F_{n-2}$ \` | `wikilink` |
 | [[Z_Score_Scaling]] | `../Prediksi Kualitas Udara Harian Berbasis Faktor Cuaca di Jakarta Menggunakan Multiple Linear Regression` | `wikilink` |
 | [[Z_Score_Scaling]] | `../Air_Quality_Prediction_MLR_Complete_Guide` | `wikilink` |
-| [[Z_Score_Scaling]] | `../Air_Quality_Prediction_MLR_Complete_Guide#Bab 5 Benchmarking Algoritma (MLR vs SVR vs XGBoost)` | `wikilink` |
+| [[Z_Score_Scaling]] | `../Air_Quality_Prediction_MLR_Complete_Guide` | `wikilink` |
 | [[Z_Score_Scaling]] | `'RH', 'Precipitation', 'Temperature', 'WindSpeed', 'SurfacePressure', 'CloudCover', 'ShortwaveRadiation'` | `wikilink` |
 | [[XGBoost_Introduction]] | `../Air_Quality_Prediction_MLR_Complete_Guide` | `wikilink` |
 | [[XGBoost_Introduction]] | `../Prediksi Kualitas Udara Harian Berbasis Faktor Cuaca di Jakarta Menggunakan Multiple Linear Regression` | `wikilink` |
@@ -42,29 +30,6 @@
 | [[Multicollinearity_Guide]] | `../Air_Quality_Prediction_MLR_Complete_Guide` | `wikilink` |
 | [[Multicollinearity_Guide]] | `../Prediksi Kualitas Udara Harian Berbasis Faktor Cuaca di Jakarta Menggunakan Multiple Linear Regression` | `wikilink` |
 | [[Course Logistics & TBP]] | `20_Brain_Atlas/20_Concepts/Software_Engineering/Software Engineering Course Overview` | `wikilink` |
-| [[(Week 12) Network Programming Complete Guide]] | `(Week 11) Transport Layer Complete Guide#B. Terminasi Koneksi: Four-Way Handshake` | `wikilink` |
-| [[Tugas 1]] | `#Pengertian Model OSI` | `wikilink` |
-| [[Tugas 1]] | `#Kenapa Model OSI Penting?` | `wikilink` |
-| [[Tugas 1]] | `#Pengelompokan Layer` | `wikilink` |
-| [[Tugas 1]] | `#Penjelasan 7 Layer OSI` | `wikilink` |
-| [[Tugas 1]] | `#Layer 1 — Physical Layer` | `wikilink` |
-| [[Tugas 1]] | `#Layer 2 — Data Link Layer` | `wikilink` |
-| [[Tugas 1]] | `#Layer 3 — Network Layer` | `wikilink` |
-| [[Tugas 1]] | `#Layer 4 — Transport Layer` | `wikilink` |
-| [[Tugas 1]] | `#Layer 5 — Session Layer` | `wikilink` |
-| [[Tugas 1]] | `#Layer 6 — Presentation Layer` | `wikilink` |
-| [[Tugas 1]] | `#Layer 7 — Application Layer` | `wikilink` |
-| [[Tugas 1]] | `#Contoh Alur Komunikasi Mengirim Email` | `wikilink` |
-| [[Tugas 1]] | `#Model OSI vs TCP/IP` | `wikilink` |
-| [[Tugas 1]] | `#Kesimpulan` | `wikilink` |
-| [[Tugas 1]] | `#Daftar Pustaka` | `wikilink` |
-| [[[ESL] Present Continuous Tense]] | `#1. Pengantar: Sedang Ngapain Sekarang?` | `wikilink` |
-| [[[ESL] Present Continuous Tense]] | `#2. Rumus Rahasia: Formula Present Continuous` | `wikilink` |
-| [[[ESL] Present Continuous Tense]] | `#3. Aturan Main: Menambahkan *-ing* (Spelling Rules)` | `wikilink` |
-| [[[ESL] Present Continuous Tense]] | `#4. Kapan Kita Memakainya? (Penggunaan Utama)` | `wikilink` |
-| [[[ESL] Present Continuous Tense]] | `#5. Pengecualian: Stative Verbs (Kata Kerja yang "Mager")` | `wikilink` |
-| [[[ESL] Present Continuous Tense]] | `#6. Summary — Key Concepts at a Glance` | `wikilink` |
-| [[[ESL] Present Continuous Tense]] | `#7. Uji Ingatanmu (Active Recall)` | `wikilink` |
 | [[Masa Praaksara dan Asal-usul Nenek Moyang Bangsa Indonesia]] | `IPS Kelas 7 - Sumatif 4 MOC` | `wikilink` |
 | [[Masa Kerajaan Islam di Indonesia]] | `IPS Kelas 7 - Sumatif 4 MOC` | `wikilink` |
 | [[Peran Lembaga Sosial]] | `IPS Kelas 7 - Sumatif 4 MOC` | `wikilink` |
@@ -90,13 +55,6 @@
 | [[Energi Listrik]] | `Energi Potensial` | `wikilink` |
 | [[Energi Listrik]] | `Sumber Energi` | `wikilink` |
 | [[Gaya dan Hukum Newton]] | `IPA Kelas 7 - Sumatif 4 MOC` | `wikilink` |
-| [[[ESL] Worksheet - Simple Present vs Present Continuous]] | `#1. Pengantar: Memilih Mode Eksekusi yang Tepat` | `wikilink` |
-| [[[ESL] Worksheet - Simple Present vs Present Continuous]] | `#2. Sesi Pemanasan: Identifikasi Pattern` | `wikilink` |
-| [[[ESL] Worksheet - Simple Present vs Present Continuous]] | `#3. Debugging Code: Perbaiki Error Syntax` | `wikilink` |
-| [[[ESL] Worksheet - Simple Present vs Present Continuous]] | `#4. Build the Sentence: Eksekusi Fungsi Sesuai Parameter` | `wikilink` |
-| [[[ESL] Worksheet - Simple Present vs Present Continuous]] | `#5. Edge Cases: Stative Verbs (Si "Mager")` | `wikilink` |
-| [[[ESL] Worksheet - Simple Present vs Present Continuous]] | `#6. Summary — Key Concepts at a Glance` | `wikilink` |
-| [[[ESL] Worksheet - Simple Present vs Present Continuous]] | `#7. Active Recall & Self-Test` | `wikilink` |
 | [[[Chem] Kunci Jawaban - Tata Nama dan Biloks]] | `IUPAC` | `wikilink` |
 | [[[Chem] Kunci Jawaban - Tata Nama dan Biloks]] | `keelektronegatifan` | `wikilink` |
 | [[[Chem] Kunci Jawaban - Tata Nama dan Biloks]] | `Redoks` | `wikilink` |
