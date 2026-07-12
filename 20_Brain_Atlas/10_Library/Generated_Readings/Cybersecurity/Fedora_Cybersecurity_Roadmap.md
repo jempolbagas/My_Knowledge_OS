@@ -21,12 +21,12 @@ When learning cybersecurity, a strong grasp of Linux system administration, serv
 ### 2. Core Pillars of Cybersecurity
 To build a sustainable learning journey, a beginner should focus on four foundational pillars:
 
-| Pillar | Focus Area | Why It Matters | Fedora Practice |
-| :--- | :--- | :--- | :--- |
-| **Linux Foundations** | User permissions, systemd services, SSH, logs (`journalctl`), file structures. | Hacking is often about manipulating OS files and processes. | Managing firewalls (`firewalld`), customizing `sudoers`, examining auth logs. |
-| **Networking Basics** | TCP/IP model, routing, DNS, HTTP/HTTPS, ICMP, DHCP, Wireshark packet capture. | Exploiting or securing systems requires understanding how they talk to each other. | Using `ss -tulpn` to check open ports; capturing traffic with `tshark`/`wireshark`. |
-| **Cryptography** | Hashing (MD5, SHA-256), symmetric/asymmetric encryption, SSL/TLS, certificates, OpenSSL. | Crucial for understanding data confidentiality, integrity, and authentication. | Generating SSH keypairs, hashing files, checking web certificates via `openssl s_client`. |
-| **SELinux (Security-Enhanced Linux)** | Mandatory Access Control (MAC) vs Discretionary Access Control (DAC), policies. | Fedora enables SELinux by default. It restricts what applications can do. | Managing SELinux contexts with `semanage` and debugging blocks via `sealert`. |
+| Pillar                                | Focus Area                                                                               | Why It Matters                                                                     | Fedora Practice                                                                           |
+| :------------------------------------ | :--------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- |
+| **Linux Foundations**                 | User permissions, systemd services, SSH, logs (`journalctl`), file structures.           | Hacking is often about manipulating OS files and processes.                        | Managing firewalls (`firewalld`), customizing `sudoers`, examining auth logs.             |
+| **Networking Basics**                 | TCP/IP model, routing, DNS, HTTP/HTTPS, ICMP, DHCP, Wireshark packet capture.            | Exploiting or securing systems requires understanding how they talk to each other. | Using `ss -tulpn` to check open ports; capturing traffic with `tshark`/`wireshark`.       |
+| **Cryptography**                      | Hashing (MD5, SHA-256), symmetric/asymmetric encryption, SSL/TLS, certificates, OpenSSL. | Crucial for understanding data confidentiality, integrity, and authentication.     | Generating SSH keypairs, hashing files, checking web certificates via `openssl s_client`. |
+| **SELinux (Security-Enhanced Linux)** | Mandatory Access Control (MAC) vs Discretionary Access Control (DAC), policies.          | Fedora enables SELinux by default. It restricts what applications can do.          | Managing SELinux contexts with `semanage` and debugging blocks via `sealert`.             |
 
 ---
 
