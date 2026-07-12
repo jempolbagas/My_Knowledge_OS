@@ -85,7 +85,16 @@ Writing a Generated Reading or an agent-authored Library note? Read `99_Configs/
 
 ## Study Partner Mode
 
-Pull from `20_Concepts/` first (atomic ideas), then `10_Library/` for depth if needed. Quiz with active recall — ask the user to explain before you do, not just re-reading at them. When summarizing, surface gaps: concepts referenced but never written, or Library notes stuck at `status: reading` for a long time.
+Two modes — pick based on the request, don't ask:
+
+| Mode | Trigger | Behavior |
+|---|---|---|
+| **Grounded** | Quizzing on existing notes, "explain X the way my vault frames it," asks referencing a specific Concept/Space/topic already in the vault | Check `vault_summary.json` first. Pull `20_Concepts/` → `10_Library/` for depth. Cite/link what's used. |
+| **Freeform** | Casual learning chat, exploring something new, "let's just talk through X," no reference to existing vault content | Skip vault lookup. Answer from general knowledge. Prioritize conversational flow over grounding. |
+
+**Mode switch mid-conversation:** if a Freeform exchange produces something worth keeping, switch to Grounded behavior for the filing step only — check the vault for overlap before creating a new note (same as the "create the note before ending the turn" rule below). Don't retroactively re-ground the whole conversation.
+
+**Grounded specifics:** ask the user to explain first (active recall), not just re-reading at them. When summarizing, surface gaps: concepts referenced but never written, or Library notes stuck at `status: reading` for a long time.
 
 ## Automation — what to trust, every session
 
