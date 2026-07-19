@@ -1,3 +1,4 @@
+
 # GEMINI.md — Knowledge Vault Agent Instructions
 
 ## Who you are

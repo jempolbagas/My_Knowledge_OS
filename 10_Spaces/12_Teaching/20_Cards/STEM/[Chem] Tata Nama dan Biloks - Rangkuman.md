@@ -15,16 +15,16 @@ date: "2026-05-24"
 
 ## 📋 Aturan Penamaan Senyawa
 
-| Jenis Senyawa | Aturan Penamaan | Contoh |
-|---|---|---|
-| Ion Biner (logam monovalensi) | nama logam + nama nonlogam + akhiran **-ida** | NaCl → natrium klorida |
-| Ion Biner (logam multivalensi) | nama logam **(angka Romawi)** + nonlogam + **-ida** | FeCl₃ → besi(III) klorida |
-| Ion Poliatomik | nama logam + nama ion poliatomik | CaCO₃ → kalsium karbonat |
-| Kovalen Biner | **prefiks Yunani** + unsur 1 + **prefiks** + unsur 2 + **-ida** | N₂O₅ → dinitrogen pentaoksida |
-| Asam (dari -ida) | asam + nama nonlogam + **-ida** → **hidro-** ... **-at** | HCl → asam klorida |
-| Asam (dari -at) | asam + nama ion poliatomik **-at** | H₂SO₄ → asam sulfat |
-| Asam (dari -it) | asam + nama ion poliatomik **-it** | H₂SO₃ → asam sulfit |
-| Basa | nama logam + **hidroksida** | NaOH → natrium hidroksida |
+| Jenis Senyawa                  | Aturan Penamaan                                                 | Contoh                        |
+| ------------------------------ | --------------------------------------------------------------- | ----------------------------- |
+| Ion Biner (logam monovalensi)  | nama logam + nama nonlogam + akhiran **-ida**                   | NaCl → natrium klorida        |
+| Ion Biner (logam multivalensi) | nama logam **(angka Romawi)** + nonlogam + **-ida**             | FeCl₃ → besi(III) klorida     |
+| Ion Poliatomik                 | nama logam + nama ion poliatomik                                | CaCO₃ → kalsium karbonat      |
+| Kovalen Biner                  | **prefiks Yunani** + unsur 1 + **prefiks** + unsur 2 + **-ida** | N₂O₅ → dinitrogen pentaoksida |
+| Asam (dari -ida)               | asam + nama nonlogam + **-ida** → **hidro-** ... **-at**        | HCl → asam klorida            |
+| Asam (dari -at)                | asam + nama ion poliatomik **-at**                              | H₂SO₄ → asam sulfat           |
+| Asam (dari -it)                | asam + nama ion poliatomik **-it**                              | H₂SO₃ → asam sulfit           |
+| Basa                           | nama logam + **hidroksida**                                     | NaOH → natrium hidroksida     |
 
 ---
 
