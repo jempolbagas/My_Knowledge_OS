@@ -21,7 +21,7 @@ Guys, coba ingat-ingat deh waktu kamu ulang tahun, kue yang diberikan orang tuam
 
 Ternyata saat acara pemotongan kue, Rogu tertarik pada pola pemotongan kuenya. Coba perhatikan pola potongan kue di bawah ini!
 
-![[Untitled%20design(4)-3.png|cara mencari pola bilangan]]
+![[Cake20design(4)-3.png|cara mencari pola bilangan]]
 
 Pola potongan kue (sumber: shutterstock.com)
 
