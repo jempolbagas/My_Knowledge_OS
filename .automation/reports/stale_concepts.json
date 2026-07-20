@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "concept_file": "20_Brain_Atlas/20_Concepts/Cybersecurity/Blue Team vs. Red Team.md",
+    "concept_title": "Blue Team vs. Red Team",
+    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Cybersecurity/Cybersecurity_Roadmap.md",
+    "source_title": "Cybersecurity_Roadmap",
+    "stored_hash": "f1764a8b764c08ae4fce5f221e579773",
+    "current_hash": "7378ec145aa468a5c3b987696d1dff3e",
+    "status": "outdated"
+  },
+  {
+    "concept_file": "20_Brain_Atlas/20_Concepts/Cybersecurity/CIA Triad.md",
+    "concept_title": "CIA Triad",
+    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Cybersecurity/Cybersecurity_Roadmap.md",
+    "source_title": "Cybersecurity_Roadmap",
+    "stored_hash": "f1764a8b764c08ae4fce5f221e579773",
+    "current_hash": "7378ec145aa468a5c3b987696d1dff3e",
+    "status": "outdated"
+  }
+]

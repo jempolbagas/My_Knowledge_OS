@@ -1,141 +1,6 @@
 {
   "broken_links": [
     {
-      "file": "10_Spaces/11_College/Syllabi/Computer Networks Syllabus.md",
-      "broken_link": "Switch",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Inclusion_Exclusion/Inclusion Exclusion Complete Guide.md",
-      "broken_link": "../Relations/Complete Guide",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Inclusion_Exclusion/Inclusion Exclusion Complete Guide.md",
-      "broken_link": "../Generating_Functions/01 GF Introduction",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Inclusion_Exclusion/Inclusion Exclusion Complete Guide.md",
-      "broken_link": "../Recurrence_Relations/Recurrence Relations Complete Guide",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Recurrence_Relations/Recurrence Relations Complete Guide.md",
-      "broken_link": "../Generating_Functions/01 GF Introduction",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Recurrence_Relations/Recurrence Relations Complete Guide.md",
-      "broken_link": "../Generating_Functions/02 GF Ordinary",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Recurrence_Relations/Recurrence Relations Complete Guide.md",
-      "broken_link": "../Generating_Functions/00 GF Index",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Recurrence_Relations/Recurrence Relations Complete Guide.md",
-      "broken_link": "../Generating_Functions/06 GF Pattern Library",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Recurrence_Relations/Recurrence Relations Complete Guide.md",
-      "broken_link": "../Generating_Functions/03 GF Recurrences",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Recurrence_Relations/Recurrence Relations Complete Guide.md",
-      "broken_link": "../Generating_Functions/04 GF Applications",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Relations/Complete Guide.md",
-      "broken_link": "20_Brain_Atlas/20_Concepts/Mathematics/Himpunan",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Relations/Complete Guide.md",
-      "broken_link": "20_Brain_Atlas/20_Concepts/Mathematics/Fungsi",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/Z_Score_Scaling.md",
-      "broken_link": "../Prediksi Kualitas Udara Harian Berbasis Faktor Cuaca di Jakarta Menggunakan Multiple Linear Regression",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/Z_Score_Scaling.md",
-      "broken_link": "../Air_Quality_Prediction_MLR_Complete_Guide",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/Z_Score_Scaling.md",
-      "broken_link": "../Air_Quality_Prediction_MLR_Complete_Guide",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/Z_Score_Scaling.md",
-      "broken_link": "'RH', 'Precipitation', 'Temperature', 'WindSpeed', 'SurfacePressure', 'CloudCover', 'ShortwaveRadiation'",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/XGBoost_Introduction.md",
-      "broken_link": "../Air_Quality_Prediction_MLR_Complete_Guide",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/XGBoost_Introduction.md",
-      "broken_link": "../Prediksi Kualitas Udara Harian Berbasis Faktor Cuaca di Jakarta Menggunakan Multiple Linear Regression",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/XGBoost_Introduction.md",
-      "broken_link": "../Air_Quality_Prediction_MLR_Complete_Guide",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/SVR_Introduction.md",
-      "broken_link": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Air_Quality_Prediction_MLR_Complete_Guide",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/SVR_Introduction.md",
-      "broken_link": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Prediksi Kualitas Udara Harian Berbasis Faktor Cuaca di Jakarta Menggunakan Multiple Linear Regression",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/MLR_Introduction.md",
-      "broken_link": "../Prediksi Kualitas Udara Harian Berbasis Faktor Cuaca di Jakarta Menggunakan Multiple Linear Regression.md",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/MLR_Introduction.md",
-      "broken_link": "../Air_Quality_Prediction_MLR_Complete_Guide.md",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/MLR_Introduction.md",
-      "broken_link": "../Prediksi Kualitas Udara Harian Berbasis Faktor Cuaca di Jakarta Menggunakan Multiple Linear Regression.md",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/Multicollinearity_Guide.md",
-      "broken_link": "../Air_Quality_Prediction_MLR_Complete_Guide",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/Multicollinearity_Guide.md",
-      "broken_link": "../Prediksi Kualitas Udara Harian Berbasis Faktor Cuaca di Jakarta Menggunakan Multiple Linear Regression",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Software_Engineering/Course Logistics & TBP.md",
-      "broken_link": "20_Brain_Atlas/20_Concepts/Software_Engineering/Software Engineering Course Overview",
-      "context": "wikilink"
-    },
-    {
       "file": "10_Spaces/12_Teaching/20_Cards/Social_Studies/Masa Praaksara dan Asal-usul Nenek Moyang Bangsa Indonesia.md",
       "broken_link": "IPS Kelas 7 - Sumatif 4 MOC",
       "context": "wikilink"
@@ -381,133 +246,12 @@
       "context": "wikilink"
     },
     {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Cybersecurity/Fedora_Cybersecurity_Roadmap.md",
-      "broken_link": "SELinux (Security-Enhanced Linux)",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Cybersecurity/Fedora_Cybersecurity_Roadmap.md",
-      "broken_link": "Containerized Security Lab",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Cybersecurity/Fedora_Cybersecurity_Roadmap.md",
-      "broken_link": "Linux Privilege Escalation",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Cybersecurity/Cybersecurity_Roadmap.md",
-      "broken_link": "Cybersecurity Roadmap",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Cybersecurity/Cybersecurity_Roadmap.md",
-      "broken_link": "CIA Triad",
-      "context": "wikilink"
-    },
-    {
       "file": "20_Brain_Atlas/10_Library/Generated_Readings/Cybersecurity/Cybersecurity_Roadmap.md",
       "broken_link": "Symmetric vs. Asymmetric Encryption",
       "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Cybersecurity/Cybersecurity_Roadmap.md",
-      "broken_link": "Blue Team vs. Red Team",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/20_Concepts/Artificial_Intelligence/LLMWiki.md",
-      "broken_link": "Dynamic RAG",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/20_Concepts/Artificial_Intelligence/LLMWiki.md",
-      "broken_link": "Knowledge Graphs",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/20_Concepts/Artificial_Intelligence/LLMWiki.md",
-      "broken_link": "LLMWiki_Deep_Dive",
-      "context": "frontmatter_source"
     }
   ],
   "orphans": [
-    {
-      "file": "10_Spaces/11_College/Syllabi/Software Engineering Syllabus.md",
-      "title": "Software Engineering Syllabus"
-    },
-    {
-      "file": "10_Spaces/11_College/Syllabi/Web Programming Syllabus.md",
-      "title": "Web Programming Syllabus"
-    },
-    {
-      "file": "10_Spaces/11_College/Syllabi/Artificial Intelligence Syllabus.md",
-      "title": "Artificial Intelligence Syllabus"
-    },
-    {
-      "file": "10_Spaces/11_College/Syllabi/Discrete Mathematics I Syllabus.md",
-      "title": "Discrete Mathematics I Syllabus"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Web_Programming/Tugas 1 - Pembuatan Website Sederhana.md",
-      "title": "Tugas 1 - Pembuatan Website Sederhana"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/UAS Practice.md",
-      "title": "UAS Practice"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/UAS Cheatsheet.md",
-      "title": "UAS Cheatsheet"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Tugas_UAS_Matematika_Diskrit_1.md",
-      "title": "Tugas_UAS_Matematika_Diskrit_1"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Tugas Tengah Semester.md",
-      "title": "Tugas Tengah Semester"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Recurrence_Relations/Recurrence Relations Mock Exam.md",
-      "title": "Recurrence Relations Mock Exam"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/QnA_Presentasi_Tubes.md",
-      "title": "QnA_Presentasi_Tubes"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Prediksi Kualitas Udara Harian Berbasis Faktor Cuaca di Jakarta Menggunakan Multiple Linear Regression.md",
-      "title": "Prediksi Kualitas Udara Harian Berbasis Faktor Cuaca di Jakarta Menggunakan Multiple Linear Regression"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Air_Quality_Prediction_MLR_Complete_Guide.md",
-      "title": "Air_Quality_Prediction_MLR_Complete_Guide"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Software_Engineering/flow-documentation.md",
-      "title": "flow-documentation"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Software_Engineering/user-stories.md",
-      "title": "user-stories"
-    },
-    {
-      "file": "10_Spaces/11_College/Sem_4_Spring_2026/Computer_Network/Jarkom Bedtime Reader.md",
-      "title": "Jarkom Bedtime Reader"
-    },
-    {
-      "file": "10_Spaces/13_Olympiad/Astronomy_Olympiad/02_Exhaustive_Master_List.md",
-      "title": "02_Exhaustive_Master_List"
-    },
-    {
-      "file": "10_Spaces/13_Olympiad/Astronomy_Olympiad/01_Preparation_Roadmap.md",
-      "title": "01_Preparation_Roadmap"
-    },
-    {
-      "file": "10_Spaces/13_Olympiad/Astronomy_Olympiad/10_Syllabus/IOAA_Syllabus.md",
-      "title": "IOAA_Syllabus"
-    },
     {
       "file": "10_Spaces/12_Teaching/20_Cards/STEM/[Chem] Reaksi Redoks - Rangkuman.md",
       "title": "[Chem] Reaksi Redoks - Rangkuman"
@@ -519,6 +263,10 @@
     {
       "file": "10_Spaces/12_Teaching/20_Cards/STEM/[Chem] Konsep Mol - Rangkuman.md",
       "title": "[Chem] Konsep Mol - Rangkuman"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/40_Practice/Mathematics/LKPD_dan_Soal_Pola_Bilangan.md",
+      "title": "LKPD_dan_Soal_Pola_Bilangan"
     },
     {
       "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Reaksi Redoks.md",
@@ -539,6 +287,10 @@
     {
       "file": "10_Spaces/12_Teaching/30_Sources/Languages/[Arabic] Pengenalan Kosakata Anggota Keluarga.md",
       "title": "[Arabic] Pengenalan Kosakata Anggota Keluarga"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Materi_Pola_Bilangan.md",
+      "title": "Materi_Pola_Bilangan"
     },
     {
       "file": "10_Spaces/12_Teaching/30_Sources/STEM/[Chem] Reaksi Redoks - First Principle.md",
@@ -601,12 +353,24 @@
       "title": "(CN-9b) IPv6 Subnetting Lecture Notes"
     },
     {
+      "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-14) Keamanan Jaringan Lecture Notes.md",
+      "title": "(CN-14) Keamanan Jaringan Lecture Notes"
+    },
+    {
       "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-7) IPv4 Lecture Notes.md",
       "title": "(CN-7) IPv4 Lecture Notes"
     },
     {
       "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-11) Transport Layer Lecture Notes.md",
       "title": "(CN-11) Transport Layer Lecture Notes"
+    },
+    {
+      "file": "00_Inbox/Mari Kenali Keanekaragaman Hayati Indonesia.md",
+      "title": "Mari Kenali Keanekaragaman Hayati Indonesia"
+    },
+    {
+      "file": "00_Inbox/Jenis - Jenis Hutan Di Indonesia.md",
+      "title": "Jenis - Jenis Hutan Di Indonesia"
     }
   ],
   "missing_frontmatter": []

@@ -1,11 +1,11 @@
 ---
 type: generated_reading
-title: Cybersecurity Roadmap from Scratch
-topic: "Cybersecurity Learning Path"
+title: Fedora Cybersecurity Roadmap
+topic: "Starting Cybersecurity with Fedora Linux"
 requested_on: "2026-07-13"
-prompt: "If I wanna learn about Cybersecurity from scratch, how the roadmap would look like? Adjusted to be a time-independent, dependency-based skill tree to flow naturally."
-status: done
-tags: [cybersecurity, roadmap, study-guide, system-administration]
+prompt: "Alright then, I want to start learning on cybersecurity. I have a linux fedora on my laptop if you're wondering. So, how do i start?"
+status: archived
+tags: [cybersecurity, linux, fedora, roadmap, misfiled]
 promoted_to: []
 ---
 
@@ -123,7 +123,7 @@ At this level, select the track that matches your goals. You can shift paths dyn
 ---
 
 ## Concepts to extract
-- [ ] [[Cybersecurity Roadmap]]
-- [ ] [[CIA Triad]]
+- [ ] [[Cybersecurity_Roadmap]]
+- [x] [[CIA Triad]]
 - [ ] [[Symmetric vs. Asymmetric Encryption]]
-- [ ] [[Blue Team vs. Red Team]]
+- [x] [[Blue Team vs. Red Team]]

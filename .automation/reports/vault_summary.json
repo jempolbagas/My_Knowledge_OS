@@ -8,76 +8,23 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-07-19T12:08:32Z"
+    "generated_at": "2026-07-20T17:09:42Z"
   },
   "stats": {
-    "total_notes": 105,
-    "total_edges": 218,
-    "broken_links": 86,
-    "untyped_notes": 82,
-    "health_score": 13.3
+    "total_notes": 63,
+    "total_edges": 122,
+    "broken_links": 71,
+    "untyped_notes": 57,
+    "health_score": 4.0
   },
-  "inbox": [],
+  "inbox": [
+    "Mari Kenali Keanekaragaman Hayati Indonesia",
+    "Pola Bilangan Kelas 8 Pengertian, Jenis, Rumus dan Contoh Soal",
+    "Pola Bilangan - Matematika Kelas 8",
+    "Cara Mencari Rumus Pola Bilangan, Jenis-Jenis & Contohnya",
+    "Jenis - Jenis Hutan Di Indonesia"
+  ],
   "spaces": {
-    "College": {
-      "Web Programming": [
-        "Tugas 1 - Pembuatan Website Sederhana"
-      ],
-      "Discrete Mathematics I": [
-        "UAS Practice",
-        "UAS Cheatsheet",
-        "Tugas_UAS_Matematika_Diskrit_1",
-        "Tugas Tengah Semester",
-        "Inclusion Exclusion Complete Guide",
-        "Recurrence Relations Mock Exam",
-        "Recurrence Relations Complete Guide",
-        "Complete Guide",
-        "Relations Practice",
-        "03 GF Recurrences",
-        "02 GF Ordinary",
-        "07 GF Binomial Theorem",
-        "04 GF Applications",
-        "01 GF Introduction",
-        "05 GF Practice",
-        "00 GF Index",
-        "06 GF Pattern Library"
-      ],
-      "Artificial Intelligence": [
-        "QnA_Presentasi_Tubes",
-        "Prediksi Kualitas Udara Harian Berbasis Faktor Cuaca di Jakarta Menggunakan Multiple Linear Regression",
-        "Air_Quality_Prediction_MLR_Complete_Guide",
-        "Z_Score_Scaling",
-        "XGBoost_Introduction",
-        "SVR_Introduction",
-        "MLR_Introduction",
-        "Multicollinearity_Guide"
-      ],
-      "Software Engineering": [
-        "flow-documentation",
-        "user-stories",
-        "Course Logistics & TBP"
-      ],
-      "Computer Network": [
-        "(Week 10) ICMP Complete Guide",
-        "(Week 9a) IPv6 Complete Guide",
-        "(Week 12) Network Programming Complete Guide",
-        "Jarkom Bedtime Reader",
-        "(Week 7) IPv4 Complete Guide",
-        "(Week 9b) IPv6 Subnetting Complete Guide",
-        "(Week 14) Network Security Complete Guide",
-        "Computer Network Cheatsheet",
-        "Tugas 1",
-        "(Week 11) Transport Layer Practice",
-        "(Week 8) IPv4 Subnetting Complete Guide",
-        "(Week 11) Transport Layer Complete Guide",
-        "(Week 13) Application Presentation Session Layer Complete Guide"
-      ]
-    },
-    "Olympiad": {
-      "10 Syllabus": [
-        "IOAA_Syllabus"
-      ]
-    },
     "Teaching": {
       "Languages": [
         "[ESL] Present Continuous Tense",
@@ -90,7 +37,9 @@
         "Peran Lembaga Sosial",
         "Konsep Dasar Ilmu Sejarah",
         "Jalur Rempah Nusantara",
-        "Masa Kerajaan Hindu-Budha di Indonesia"
+        "Masa Kerajaan Hindu-Budha di Indonesia",
+        "LKPD_dan_Soal_Keanekaragaman_Hayati_Indonesia",
+        "Materi_Keanekaragaman_Hayati_dan_Jenis_Hutan_Indonesia"
       ],
       "STEM": [
         "[Chem] Reaksi Redoks - Rangkuman",
@@ -122,6 +71,10 @@
         "[Chem] Konsep Mol - First Principle",
         "[Chem] Hukum-Hukum Dasar Kimia - First Principle",
         "Gerak Melingkar Beraturan - First Principle"
+      ],
+      "Mathematics": [
+        "LKPD_dan_Soal_Pola_Bilangan",
+        "Materi_Pola_Bilangan"
       ]
     }
   },
@@ -136,14 +89,14 @@
           "Machine_Learning_Roadmap"
         ],
         "Cybersecurity": [
-          "Fedora_Cybersecurity_Roadmap",
           "Cybersecurity_Roadmap"
         ]
       }
     },
     "concepts": {
-      "Artificial_Intelligence": [
-        "LLMWiki"
+      "Cybersecurity": [
+        "Blue Team vs. Red Team",
+        "CIA Triad"
       ]
     },
     "reference_lib": [
@@ -160,117 +113,117 @@
   },
   "maintenance": {
     "orphan_pages_sample": [
-      "Software Engineering Syllabus",
-      "Web Programming Syllabus",
-      "Artificial Intelligence Syllabus",
-      "Discrete Mathematics I Syllabus",
-      "Tugas 1 - Pembuatan Website Sederhana",
-      "UAS Practice",
-      "UAS Cheatsheet",
-      "Tugas_UAS_Matematika_Diskrit_1",
-      "Tugas Tengah Semester",
-      "Recurrence Relations Mock Exam",
-      "QnA_Presentasi_Tubes",
-      "Prediksi Kualitas Udara Harian Berbasis Faktor Cuaca di Jakarta Menggunakan Multiple Linear Regression",
-      "Air_Quality_Prediction_MLR_Complete_Guide",
-      "flow-documentation",
-      "user-stories",
-      "Jarkom Bedtime Reader",
-      "02_Exhaustive_Master_List",
-      "01_Preparation_Roadmap",
-      "IOAA_Syllabus",
       "[Chem] Reaksi Redoks - Rangkuman",
       "[Chem] Tata Nama dan Biloks - Rangkuman",
       "[Chem] Konsep Mol - Rangkuman",
+      "LKPD_dan_Soal_Pola_Bilangan",
       "[Chem] Worksheet - Reaksi Redoks",
       "[Chem] Kunci Jawaban - Konsep Mol",
       "[Chem] Worksheet - Konsep Mol",
       "[Chem] Kunci Jawaban - Reaksi Redoks",
       "[Arabic] Pengenalan Kosakata Anggota Keluarga",
+      "Materi_Pola_Bilangan",
       "[Chem] Reaksi Redoks - First Principle",
       "[Math] Logarithms - First Principle",
-      "[Math] Statistika - First Principle"
+      "[Math] Statistika - First Principle",
+      "[Math] Mengapa Kita Menggunakan Radian?",
+      "[Physics] Energi Mekanik - First Principle",
+      "[Math] Program Linier - First Principle",
+      "[Chem] Konsep Mol - First Principle",
+      "[Chem] Hukum-Hukum Dasar Kimia - First Principle",
+      "Gerak Melingkar Beraturan - First Principle",
+      "(CN-8) IPv4 Subnetting Lecture Notes",
+      "(CN-10) ICMP Lecture Notes",
+      "(CN-9a) IPv6 Lecture Notes",
+      "(CN-12) Pemrograman Jaringan Lecture Notes",
+      "(CN-13) Application, Presentation, dan Session Layer Lecture Notes",
+      "(CN-9b) IPv6 Subnetting Lecture Notes",
+      "(CN-14) Keamanan Jaringan Lecture Notes",
+      "(CN-7) IPv4 Lecture Notes",
+      "(CN-11) Transport Layer Lecture Notes",
+      "Mari Kenali Keanekaragaman Hayati Indonesia",
+      "Jenis - Jenis Hutan Di Indonesia"
     ],
     "untyped_notes_sample": [
       {
-        "title": "UAS Practice",
-        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/UAS Practice.md"
+        "title": "Masa Praaksara dan Asal-usul Nenek Moyang Bangsa Indonesia",
+        "path": "10_Spaces/12_Teaching/20_Cards/Social_Studies/Masa Praaksara dan Asal-usul Nenek Moyang Bangsa Indonesia.md"
       },
       {
-        "title": "UAS Cheatsheet",
-        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/UAS Cheatsheet.md"
+        "title": "Masa Kerajaan Islam di Indonesia",
+        "path": "10_Spaces/12_Teaching/20_Cards/Social_Studies/Masa Kerajaan Islam di Indonesia.md"
       },
       {
-        "title": "Tugas_UAS_Matematika_Diskrit_1",
-        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Tugas_UAS_Matematika_Diskrit_1.md"
+        "title": "Peran Lembaga Sosial",
+        "path": "10_Spaces/12_Teaching/20_Cards/Social_Studies/Peran Lembaga Sosial.md"
       },
       {
-        "title": "Inclusion Exclusion Complete Guide",
-        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Inclusion_Exclusion/Inclusion Exclusion Complete Guide.md"
+        "title": "Konsep Dasar Ilmu Sejarah",
+        "path": "10_Spaces/12_Teaching/20_Cards/Social_Studies/Konsep Dasar Ilmu Sejarah.md"
       },
       {
-        "title": "Recurrence Relations Mock Exam",
-        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Recurrence_Relations/Recurrence Relations Mock Exam.md"
+        "title": "Jalur Rempah Nusantara",
+        "path": "10_Spaces/12_Teaching/20_Cards/Social_Studies/Jalur Rempah Nusantara.md"
       },
       {
-        "title": "Recurrence Relations Complete Guide",
-        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Recurrence_Relations/Recurrence Relations Complete Guide.md"
+        "title": "Masa Kerajaan Hindu-Budha di Indonesia",
+        "path": "10_Spaces/12_Teaching/20_Cards/Social_Studies/Masa Kerajaan Hindu-Budha di Indonesia.md"
       },
       {
-        "title": "Complete Guide",
-        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Relations/Complete Guide.md"
+        "title": "[Chem] Reaksi Redoks - Rangkuman",
+        "path": "10_Spaces/12_Teaching/20_Cards/STEM/[Chem] Reaksi Redoks - Rangkuman.md"
       },
       {
-        "title": "Relations Practice",
-        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Relations/Relations Practice.md"
+        "title": "Energi Panas (Kalor)",
+        "path": "10_Spaces/12_Teaching/20_Cards/STEM/Energi Panas (Kalor).md"
       },
       {
-        "title": "QnA_Presentasi_Tubes",
-        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/QnA_Presentasi_Tubes.md"
+        "title": "[Chem] Tata Nama dan Biloks - Rangkuman",
+        "path": "10_Spaces/12_Teaching/20_Cards/STEM/[Chem] Tata Nama dan Biloks - Rangkuman.md"
       },
       {
-        "title": "Prediksi Kualitas Udara Harian Berbasis Faktor Cuaca di Jakarta Menggunakan Multiple Linear Regression",
-        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Prediksi Kualitas Udara Harian Berbasis Faktor Cuaca di Jakarta Menggunakan Multiple Linear Regression.md"
+        "title": "Gerak Lurus",
+        "path": "10_Spaces/12_Teaching/20_Cards/STEM/Gerak Lurus.md"
       },
       {
-        "title": "Air_Quality_Prediction_MLR_Complete_Guide",
-        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Air_Quality_Prediction_MLR_Complete_Guide.md"
+        "title": "Gerak Lurus Berubah Beraturan (GLBB)",
+        "path": "10_Spaces/12_Teaching/20_Cards/STEM/Gerak Lurus Berubah Beraturan (GLBB).md"
       },
       {
-        "title": "Z_Score_Scaling",
-        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/Z_Score_Scaling.md"
+        "title": "[Math] Kisi-Kisi ASAT - Master Summary",
+        "path": "10_Spaces/12_Teaching/20_Cards/STEM/[Math] Kisi-Kisi ASAT - Master Summary.md"
       },
       {
-        "title": "XGBoost_Introduction",
-        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/XGBoost_Introduction.md"
+        "title": "Ekosistem dan Keanekaragaman Hayati",
+        "path": "10_Spaces/12_Teaching/20_Cards/STEM/Ekosistem dan Keanekaragaman Hayati.md"
       },
       {
-        "title": "SVR_Introduction",
-        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/SVR_Introduction.md"
+        "title": "Rantai Makanan dan Jaring-Jaring Makanan",
+        "path": "10_Spaces/12_Teaching/20_Cards/STEM/Rantai Makanan dan Jaring-Jaring Makanan.md"
       },
       {
-        "title": "MLR_Introduction",
-        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/MLR_Introduction.md"
+        "title": "Kecepatan dan Kelajuan",
+        "path": "10_Spaces/12_Teaching/20_Cards/STEM/Kecepatan dan Kelajuan.md"
       },
       {
-        "title": "Multicollinearity_Guide",
-        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Materi_Belajar/Multicollinearity_Guide.md"
+        "title": "Tata Surya dan Bumi",
+        "path": "10_Spaces/12_Teaching/20_Cards/STEM/Tata Surya dan Bumi.md"
       },
       {
-        "title": "flow-documentation",
-        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Software_Engineering/flow-documentation.md"
+        "title": "Energi Listrik",
+        "path": "10_Spaces/12_Teaching/20_Cards/STEM/Energi Listrik.md"
       },
       {
-        "title": "user-stories",
-        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Software_Engineering/user-stories.md"
+        "title": "Gaya dan Hukum Newton",
+        "path": "10_Spaces/12_Teaching/20_Cards/STEM/Gaya dan Hukum Newton.md"
       },
       {
-        "title": "(Week 10) ICMP Complete Guide",
-        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Computer_Network/(Week 10) ICMP Complete Guide.md"
+        "title": "[Chem] Konsep Mol - Rangkuman",
+        "path": "10_Spaces/12_Teaching/20_Cards/STEM/[Chem] Konsep Mol - Rangkuman.md"
       },
       {
-        "title": "(Week 9a) IPv6 Complete Guide",
-        "path": "10_Spaces/11_College/Sem_4_Spring_2026/Computer_Network/(Week 9a) IPv6 Complete Guide.md"
+        "title": "LKPD_dan_Soal_Keanekaragaman_Hayati_Indonesia",
+        "path": "10_Spaces/12_Teaching/40_Practice/Social_Studies/LKPD_dan_Soal_Keanekaragaman_Hayati_Indonesia.md"
       }
     ]
   }

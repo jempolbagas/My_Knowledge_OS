@@ -3,33 +3,6 @@
 ## 🔗 Broken Links
 | File | Broken Link Target | Context |
 | --- | --- | --- |
-| [[Computer Networks Syllabus]] | `Switch` | `wikilink` |
-| [[Inclusion Exclusion Complete Guide]] | `../Relations/Complete Guide` | `wikilink` |
-| [[Inclusion Exclusion Complete Guide]] | `../Generating_Functions/01 GF Introduction` | `wikilink` |
-| [[Inclusion Exclusion Complete Guide]] | `../Recurrence_Relations/Recurrence Relations Complete Guide` | `wikilink` |
-| [[Recurrence Relations Complete Guide]] | `../Generating_Functions/01 GF Introduction` | `wikilink` |
-| [[Recurrence Relations Complete Guide]] | `../Generating_Functions/02 GF Ordinary` | `wikilink` |
-| [[Recurrence Relations Complete Guide]] | `../Generating_Functions/00 GF Index` | `wikilink` |
-| [[Recurrence Relations Complete Guide]] | `../Generating_Functions/06 GF Pattern Library` | `wikilink` |
-| [[Recurrence Relations Complete Guide]] | `../Generating_Functions/03 GF Recurrences` | `wikilink` |
-| [[Recurrence Relations Complete Guide]] | `../Generating_Functions/04 GF Applications` | `wikilink` |
-| [[Complete Guide]] | `20_Brain_Atlas/20_Concepts/Mathematics/Himpunan` | `wikilink` |
-| [[Complete Guide]] | `20_Brain_Atlas/20_Concepts/Mathematics/Fungsi` | `wikilink` |
-| [[Z_Score_Scaling]] | `../Prediksi Kualitas Udara Harian Berbasis Faktor Cuaca di Jakarta Menggunakan Multiple Linear Regression` | `wikilink` |
-| [[Z_Score_Scaling]] | `../Air_Quality_Prediction_MLR_Complete_Guide` | `wikilink` |
-| [[Z_Score_Scaling]] | `../Air_Quality_Prediction_MLR_Complete_Guide` | `wikilink` |
-| [[Z_Score_Scaling]] | `'RH', 'Precipitation', 'Temperature', 'WindSpeed', 'SurfacePressure', 'CloudCover', 'ShortwaveRadiation'` | `wikilink` |
-| [[XGBoost_Introduction]] | `../Air_Quality_Prediction_MLR_Complete_Guide` | `wikilink` |
-| [[XGBoost_Introduction]] | `../Prediksi Kualitas Udara Harian Berbasis Faktor Cuaca di Jakarta Menggunakan Multiple Linear Regression` | `wikilink` |
-| [[XGBoost_Introduction]] | `../Air_Quality_Prediction_MLR_Complete_Guide` | `wikilink` |
-| [[SVR_Introduction]] | `10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Air_Quality_Prediction_MLR_Complete_Guide` | `wikilink` |
-| [[SVR_Introduction]] | `10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Prediksi Kualitas Udara Harian Berbasis Faktor Cuaca di Jakarta Menggunakan Multiple Linear Regression` | `wikilink` |
-| [[MLR_Introduction]] | `../Prediksi Kualitas Udara Harian Berbasis Faktor Cuaca di Jakarta Menggunakan Multiple Linear Regression.md` | `wikilink` |
-| [[MLR_Introduction]] | `../Air_Quality_Prediction_MLR_Complete_Guide.md` | `wikilink` |
-| [[MLR_Introduction]] | `../Prediksi Kualitas Udara Harian Berbasis Faktor Cuaca di Jakarta Menggunakan Multiple Linear Regression.md` | `wikilink` |
-| [[Multicollinearity_Guide]] | `../Air_Quality_Prediction_MLR_Complete_Guide` | `wikilink` |
-| [[Multicollinearity_Guide]] | `../Prediksi Kualitas Udara Harian Berbasis Faktor Cuaca di Jakarta Menggunakan Multiple Linear Regression` | `wikilink` |
-| [[Course Logistics & TBP]] | `20_Brain_Atlas/20_Concepts/Software_Engineering/Software Engineering Course Overview` | `wikilink` |
 | [[Masa Praaksara dan Asal-usul Nenek Moyang Bangsa Indonesia]] | `IPS Kelas 7 - Sumatif 4 MOC` | `wikilink` |
 | [[Masa Kerajaan Islam di Indonesia]] | `IPS Kelas 7 - Sumatif 4 MOC` | `wikilink` |
 | [[Peran Lembaga Sosial]] | `IPS Kelas 7 - Sumatif 4 MOC` | `wikilink` |
@@ -79,46 +52,20 @@
 | [[Machine_Learning_Roadmap]] | `Machine Learning Roadmap` | `wikilink` |
 | [[Machine_Learning_Roadmap]] | `Bottom-Up vs. Top-Down Learning` | `wikilink` |
 | [[Machine_Learning_Roadmap]] | `Vectorization in NumPy` | `wikilink` |
-| [[Fedora_Cybersecurity_Roadmap]] | `SELinux (Security-Enhanced Linux)` | `wikilink` |
-| [[Fedora_Cybersecurity_Roadmap]] | `Containerized Security Lab` | `wikilink` |
-| [[Fedora_Cybersecurity_Roadmap]] | `Linux Privilege Escalation` | `wikilink` |
-| [[Cybersecurity_Roadmap]] | `Cybersecurity Roadmap` | `wikilink` |
-| [[Cybersecurity_Roadmap]] | `CIA Triad` | `wikilink` |
 | [[Cybersecurity_Roadmap]] | `Symmetric vs. Asymmetric Encryption` | `wikilink` |
-| [[Cybersecurity_Roadmap]] | `Blue Team vs. Red Team` | `wikilink` |
-| [[LLMWiki]] | `Dynamic RAG` | `wikilink` |
-| [[LLMWiki]] | `Knowledge Graphs` | `wikilink` |
-| [[LLMWiki]] | `LLMWiki_Deep_Dive` | `frontmatter_source` |
 
 ## 🕳️ Orphan Pages (Disconnected Nodes)
 These files have no incoming or outgoing links:
-- [[Software Engineering Syllabus]] (`10_Spaces/11_College/Syllabi/Software Engineering Syllabus.md`)
-- [[Web Programming Syllabus]] (`10_Spaces/11_College/Syllabi/Web Programming Syllabus.md`)
-- [[Artificial Intelligence Syllabus]] (`10_Spaces/11_College/Syllabi/Artificial Intelligence Syllabus.md`)
-- [[Discrete Mathematics I Syllabus]] (`10_Spaces/11_College/Syllabi/Discrete Mathematics I Syllabus.md`)
-- [[Tugas 1 - Pembuatan Website Sederhana]] (`10_Spaces/11_College/Sem_4_Spring_2026/Web_Programming/Tugas 1 - Pembuatan Website Sederhana.md`)
-- [[UAS Practice]] (`10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/UAS Practice.md`)
-- [[UAS Cheatsheet]] (`10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/UAS Cheatsheet.md`)
-- [[Tugas_UAS_Matematika_Diskrit_1]] (`10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Tugas_UAS_Matematika_Diskrit_1.md`)
-- [[Tugas Tengah Semester]] (`10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Tugas Tengah Semester.md`)
-- [[Recurrence Relations Mock Exam]] (`10_Spaces/11_College/Sem_4_Spring_2026/Discrete_Mathematics_I/Recurrence_Relations/Recurrence Relations Mock Exam.md`)
-- [[QnA_Presentasi_Tubes]] (`10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/QnA_Presentasi_Tubes.md`)
-- [[Prediksi Kualitas Udara Harian Berbasis Faktor Cuaca di Jakarta Menggunakan Multiple Linear Regression]] (`10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Prediksi Kualitas Udara Harian Berbasis Faktor Cuaca di Jakarta Menggunakan Multiple Linear Regression.md`)
-- [[Air_Quality_Prediction_MLR_Complete_Guide]] (`10_Spaces/11_College/Sem_4_Spring_2026/Artificial_Intelligence/Tubes_Prediksi_Kualitas_Udara/Air_Quality_Prediction_MLR_Complete_Guide.md`)
-- [[flow-documentation]] (`10_Spaces/11_College/Sem_4_Spring_2026/Software_Engineering/flow-documentation.md`)
-- [[user-stories]] (`10_Spaces/11_College/Sem_4_Spring_2026/Software_Engineering/user-stories.md`)
-- [[Jarkom Bedtime Reader]] (`10_Spaces/11_College/Sem_4_Spring_2026/Computer_Network/Jarkom Bedtime Reader.md`)
-- [[02_Exhaustive_Master_List]] (`10_Spaces/13_Olympiad/Astronomy_Olympiad/02_Exhaustive_Master_List.md`)
-- [[01_Preparation_Roadmap]] (`10_Spaces/13_Olympiad/Astronomy_Olympiad/01_Preparation_Roadmap.md`)
-- [[IOAA_Syllabus]] (`10_Spaces/13_Olympiad/Astronomy_Olympiad/10_Syllabus/IOAA_Syllabus.md`)
 - [[[Chem] Reaksi Redoks - Rangkuman]] (`10_Spaces/12_Teaching/20_Cards/STEM/[Chem] Reaksi Redoks - Rangkuman.md`)
 - [[[Chem] Tata Nama dan Biloks - Rangkuman]] (`10_Spaces/12_Teaching/20_Cards/STEM/[Chem] Tata Nama dan Biloks - Rangkuman.md`)
 - [[[Chem] Konsep Mol - Rangkuman]] (`10_Spaces/12_Teaching/20_Cards/STEM/[Chem] Konsep Mol - Rangkuman.md`)
+- [[LKPD_dan_Soal_Pola_Bilangan]] (`10_Spaces/12_Teaching/40_Practice/Mathematics/LKPD_dan_Soal_Pola_Bilangan.md`)
 - [[[Chem] Worksheet - Reaksi Redoks]] (`10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Reaksi Redoks.md`)
 - [[[Chem] Kunci Jawaban - Konsep Mol]] (`10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Kunci Jawaban - Konsep Mol.md`)
 - [[[Chem] Worksheet - Konsep Mol]] (`10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Konsep Mol.md`)
 - [[[Chem] Kunci Jawaban - Reaksi Redoks]] (`10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Kunci Jawaban - Reaksi Redoks.md`)
 - [[[Arabic] Pengenalan Kosakata Anggota Keluarga]] (`10_Spaces/12_Teaching/30_Sources/Languages/[Arabic] Pengenalan Kosakata Anggota Keluarga.md`)
+- [[Materi_Pola_Bilangan]] (`10_Spaces/12_Teaching/30_Sources/Mathematics/Materi_Pola_Bilangan.md`)
 - [[[Chem] Reaksi Redoks - First Principle]] (`10_Spaces/12_Teaching/30_Sources/STEM/[Chem] Reaksi Redoks - First Principle.md`)
 - [[[Math] Logarithms - First Principle]] (`10_Spaces/12_Teaching/30_Sources/STEM/[Math] Logarithms - First Principle.md`)
 - [[[Math] Statistika - First Principle]] (`10_Spaces/12_Teaching/30_Sources/STEM/[Math] Statistika - First Principle.md`)
@@ -134,8 +81,11 @@ These files have no incoming or outgoing links:
 - [[(CN-12) Pemrograman Jaringan Lecture Notes]] (`20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-12) Pemrograman Jaringan Lecture Notes.md`)
 - [[(CN-13) Application, Presentation, dan Session Layer Lecture Notes]] (`20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-13) Application, Presentation, dan Session Layer Lecture Notes.md`)
 - [[(CN-9b) IPv6 Subnetting Lecture Notes]] (`20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-9b) IPv6 Subnetting Lecture Notes.md`)
+- [[(CN-14) Keamanan Jaringan Lecture Notes]] (`20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-14) Keamanan Jaringan Lecture Notes.md`)
 - [[(CN-7) IPv4 Lecture Notes]] (`20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-7) IPv4 Lecture Notes.md`)
 - [[(CN-11) Transport Layer Lecture Notes]] (`20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-11) Transport Layer Lecture Notes.md`)
+- [[Mari Kenali Keanekaragaman Hayati Indonesia]] (`00_Inbox/Mari Kenali Keanekaragaman Hayati Indonesia.md`)
+- [[Jenis - Jenis Hutan Di Indonesia]] (`00_Inbox/Jenis - Jenis Hutan Di Indonesia.md`)
 
 ## 📄 Missing/Invalid Frontmatter Properties
 All frontmatter schemas are valid! 🎉
