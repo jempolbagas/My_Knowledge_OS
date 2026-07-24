@@ -8,20 +8,26 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-07-20T17:31:58Z"
+    "generated_at": "2026-07-24T07:01:13Z"
   },
   "stats": {
-    "total_notes": 63,
-    "total_edges": 122,
-    "broken_links": 71,
-    "untyped_notes": 57,
-    "health_score": 4.0
+    "total_notes": 77,
+    "total_edges": 132,
+    "broken_links": 80,
+    "untyped_notes": 71,
+    "health_score": 3.1
   },
   "inbox": [
     "Mari Kenali Keanekaragaman Hayati Indonesia",
+    "LITOSFER TENAGA ENDOGEN DAN EKSOGEN",
+    "Pengertian Simple Past Tense, Rumus, dan Contoh Kalimatnya",
+    "Lengkap! Pengertian Simple Past Tense, Rumus, Ciri, dan Contoh Kalimat",
     "Pola Bilangan Kelas 8 Pengertian, Jenis, Rumus dan Contoh Soal",
     "Pola Bilangan - Matematika Kelas 8",
     "Cara Mencari Rumus Pola Bilangan, Jenis-Jenis & Contohnya",
+    "ULASAN SINGKAT TENTANG TENAGA EKSOGEN!  Belajar Geografi, Yuk! Eps 35",
+    "Simple past tense  EF Global Site (English)",
+    "Tenaga Endogen Vulkanisme (Part1)",
     "Jenis - Jenis Hutan Di Indonesia"
   ],
   "spaces": {
@@ -29,7 +35,9 @@
       "Languages": [
         "[ESL] Present Continuous Tense",
         "[ESL] Worksheet - Simple Present vs Present Continuous",
-        "[Arabic] Pengenalan Kosakata Anggota Keluarga"
+        "LKPD_dan_Soal_Simple_Past_Tense",
+        "[Arabic] Pengenalan Kosakata Anggota Keluarga",
+        "Materi_Simple_Past_Tense"
       ],
       "Social Studies": [
         "Masa Praaksara dan Asal-usul Nenek Moyang Bangsa Indonesia",
@@ -38,8 +46,14 @@
         "Konsep Dasar Ilmu Sejarah",
         "Jalur Rempah Nusantara",
         "Masa Kerajaan Hindu-Budha di Indonesia",
+        "LKPD_dan_Soal_Tenaga_Endogen_Vulkanisme",
+        "LKPD_dan_Soal_Litosfer_Tenaga_Endogen_dan_Eksogen",
+        "LKPD_dan_Soal_Tenaga_Eksogen",
         "LKPD_dan_Soal_Keanekaragaman_Hayati_Indonesia",
-        "Materi_Keanekaragaman_Hayati_dan_Jenis_Hutan_Indonesia"
+        "Materi_Tenaga_Endogen_Vulkanisme",
+        "Materi_Tenaga_Eksogen",
+        "Materi_Keanekaragaman_Hayati_dan_Jenis_Hutan_Indonesia",
+        "Materi_Litosfer_Tenaga_Endogen_dan_Eksogen"
       ],
       "STEM": [
         "[Chem] Reaksi Redoks - Rangkuman",
@@ -116,12 +130,18 @@
       "[Chem] Reaksi Redoks - Rangkuman",
       "[Chem] Tata Nama dan Biloks - Rangkuman",
       "[Chem] Konsep Mol - Rangkuman",
+      "LKPD_dan_Soal_Simple_Past_Tense",
+      "LKPD_dan_Soal_Tenaga_Endogen_Vulkanisme",
+      "LKPD_dan_Soal_Tenaga_Eksogen",
       "LKPD_dan_Soal_Pola_Bilangan",
       "[Chem] Worksheet - Reaksi Redoks",
       "[Chem] Kunci Jawaban - Konsep Mol",
       "[Chem] Worksheet - Konsep Mol",
       "[Chem] Kunci Jawaban - Reaksi Redoks",
       "[Arabic] Pengenalan Kosakata Anggota Keluarga",
+      "Materi_Simple_Past_Tense",
+      "Materi_Tenaga_Endogen_Vulkanisme",
+      "Materi_Tenaga_Eksogen",
       "Materi_Pola_Bilangan",
       "[Chem] Reaksi Redoks - First Principle",
       "[Math] Logarithms - First Principle",
@@ -136,13 +156,7 @@
       "(CN-10) ICMP Lecture Notes",
       "(CN-9a) IPv6 Lecture Notes",
       "(CN-12) Pemrograman Jaringan Lecture Notes",
-      "(CN-13) Application, Presentation, dan Session Layer Lecture Notes",
-      "(CN-9b) IPv6 Subnetting Lecture Notes",
-      "(CN-14) Keamanan Jaringan Lecture Notes",
-      "(CN-7) IPv4 Lecture Notes",
-      "(CN-11) Transport Layer Lecture Notes",
-      "Mari Kenali Keanekaragaman Hayati Indonesia",
-      "Jenis - Jenis Hutan Di Indonesia"
+      "(CN-13) Application, Presentation, dan Session Layer Lecture Notes"
     ],
     "untyped_notes_sample": [
       {
@@ -222,8 +236,8 @@
         "path": "10_Spaces/12_Teaching/20_Cards/STEM/[Chem] Konsep Mol - Rangkuman.md"
       },
       {
-        "title": "LKPD_dan_Soal_Keanekaragaman_Hayati_Indonesia",
-        "path": "10_Spaces/12_Teaching/40_Practice/Social_Studies/LKPD_dan_Soal_Keanekaragaman_Hayati_Indonesia.md"
+        "title": "LKPD_dan_Soal_Simple_Past_Tense",
+        "path": "10_Spaces/12_Teaching/40_Practice/Languages/LKPD_dan_Soal_Simple_Past_Tense.md"
       }
     ]
   }
