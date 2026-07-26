@@ -3,6 +3,20 @@
 ## 🔗 Broken Links
 | File | Broken Link Target | Context |
 | --- | --- | --- |
+| [[00_Semester_5_Dashboard]] | `DS Syllabus` | `wikilink` |
+| [[00_Semester_5_Dashboard]] | `IP Syllabus` | `wikilink` |
+| [[00_Semester_5_Dashboard]] | `DM Syllabus` | `wikilink` |
+| [[00_Semester_5_Dashboard]] | `HCI Syllabus` | `wikilink` |
+| [[00_Semester_5_Dashboard]] | `Crypto Syllabus` | `wikilink` |
+| [[00_Semester_5_Dashboard]] | `NM Syllabus` | `wikilink` |
+| [[00_Semester_5_Dashboard]] | `OS Syllabus` | `wikilink` |
+| [[Cryptography Overview]] | `Crypto Syllabus` | `wikilink` |
+| [[Distributed Systems Overview]] | `DS Syllabus` | `wikilink` |
+| [[Operating Systems Overview]] | `OS Syllabus` | `wikilink` |
+| [[HCI Overview]] | `HCI Syllabus` | `wikilink` |
+| [[Numerical Methods Overview]] | `NM Syllabus` | `wikilink` |
+| [[Data Mining Overview]] | `DM Syllabus` | `wikilink` |
+| [[Image Processing Overview]] | `IP Syllabus` | `wikilink` |
 | [[Masa Praaksara dan Asal-usul Nenek Moyang Bangsa Indonesia]] | `IPS Kelas 7 - Sumatif 4 MOC` | `wikilink` |
 | [[Masa Kerajaan Islam di Indonesia]] | `IPS Kelas 7 - Sumatif 4 MOC` | `wikilink` |
 | [[Peran Lembaga Sosial]] | `IPS Kelas 7 - Sumatif 4 MOC` | `wikilink` |
@@ -56,6 +70,7 @@
 
 ## 🕳️ Orphan Pages (Disconnected Nodes)
 These files have no incoming or outgoing links:
+- [[Syllabus_Template]] (`10_Spaces/11_College/Syllabi/Syllabus_Template.md`)
 - [[[Chem] Reaksi Redoks - Rangkuman]] (`10_Spaces/12_Teaching/20_Cards/STEM/[Chem] Reaksi Redoks - Rangkuman.md`)
 - [[[Chem] Tata Nama dan Biloks - Rangkuman]] (`10_Spaces/12_Teaching/20_Cards/STEM/[Chem] Tata Nama dan Biloks - Rangkuman.md`)
 - [[[Chem] Konsep Mol - Rangkuman]] (`10_Spaces/12_Teaching/20_Cards/STEM/[Chem] Konsep Mol - Rangkuman.md`)
@@ -84,10 +99,8 @@ These files have no incoming or outgoing links:
 - [[(CN-8) IPv4 Subnetting Lecture Notes]] (`20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-8) IPv4 Subnetting Lecture Notes.md`)
 - [[(CN-10) ICMP Lecture Notes]] (`20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-10) ICMP Lecture Notes.md`)
 - [[(CN-9a) IPv6 Lecture Notes]] (`20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-9a) IPv6 Lecture Notes.md`)
-- [[(CN-12) Pemrograman Jaringan Lecture Notes]] (`20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-12) Pemrograman Jaringan Lecture Notes.md`)
 - [[(CN-13) Application, Presentation, dan Session Layer Lecture Notes]] (`20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-13) Application, Presentation, dan Session Layer Lecture Notes.md`)
 - [[(CN-9b) IPv6 Subnetting Lecture Notes]] (`20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-9b) IPv6 Subnetting Lecture Notes.md`)
-- [[(CN-14) Keamanan Jaringan Lecture Notes]] (`20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-14) Keamanan Jaringan Lecture Notes.md`)
 - [[(CN-7) IPv4 Lecture Notes]] (`20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-7) IPv4 Lecture Notes.md`)
 - [[(CN-11) Transport Layer Lecture Notes]] (`20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-11) Transport Layer Lecture Notes.md`)
 - [[Mari Kenali Keanekaragaman Hayati Indonesia]] (`00_Inbox/Mari Kenali Keanekaragaman Hayati Indonesia.md`)

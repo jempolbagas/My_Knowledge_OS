@@ -8,14 +8,14 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-07-24T07:01:13Z"
+    "generated_at": "2026-07-26T20:38:28Z"
   },
   "stats": {
-    "total_notes": 77,
-    "total_edges": 132,
-    "broken_links": 80,
+    "total_notes": 86,
+    "total_edges": 163,
+    "broken_links": 94,
     "untyped_notes": 71,
-    "health_score": 3.1
+    "health_score": 7.4
   },
   "inbox": [
     "Mari Kenali Keanekaragaman Hayati Indonesia",
@@ -31,6 +31,11 @@
     "Jenis - Jenis Hutan Di Indonesia"
   ],
   "spaces": {
+    "College": {
+      "General": [
+        "00_Semester_5_Dashboard"
+      ]
+    },
     "Teaching": {
       "Languages": [
         "[ESL] Present Continuous Tense",
@@ -127,6 +132,7 @@
   },
   "maintenance": {
     "orphan_pages_sample": [
+      "Syllabus_Template",
       "[Chem] Reaksi Redoks - Rangkuman",
       "[Chem] Tata Nama dan Biloks - Rangkuman",
       "[Chem] Konsep Mol - Rangkuman",
@@ -155,7 +161,6 @@
       "(CN-8) IPv4 Subnetting Lecture Notes",
       "(CN-10) ICMP Lecture Notes",
       "(CN-9a) IPv6 Lecture Notes",
-      "(CN-12) Pemrograman Jaringan Lecture Notes",
       "(CN-13) Application, Presentation, dan Session Layer Lecture Notes"
     ],
     "untyped_notes_sample": [

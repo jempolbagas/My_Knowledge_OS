@@ -1,6 +1,76 @@
 {
   "broken_links": [
     {
+      "file": "10_Spaces/11_College/00_Semester_5_Dashboard.md",
+      "broken_link": "DS Syllabus",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/00_Semester_5_Dashboard.md",
+      "broken_link": "IP Syllabus",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/00_Semester_5_Dashboard.md",
+      "broken_link": "DM Syllabus",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/00_Semester_5_Dashboard.md",
+      "broken_link": "HCI Syllabus",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/00_Semester_5_Dashboard.md",
+      "broken_link": "Crypto Syllabus",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/00_Semester_5_Dashboard.md",
+      "broken_link": "NM Syllabus",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/00_Semester_5_Dashboard.md",
+      "broken_link": "OS Syllabus",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Cryptography/Cryptography Overview.md",
+      "broken_link": "Crypto Syllabus",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Distributed_Systems/Distributed Systems Overview.md",
+      "broken_link": "DS Syllabus",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Operating_Systems/Operating Systems Overview.md",
+      "broken_link": "OS Syllabus",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Human_Computer_Interaction/HCI Overview.md",
+      "broken_link": "HCI Syllabus",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Numerical_Methods/Numerical Methods Overview.md",
+      "broken_link": "NM Syllabus",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Data_Mining/Data Mining Overview.md",
+      "broken_link": "DM Syllabus",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/11_College/Image_Processing/Image Processing Overview.md",
+      "broken_link": "IP Syllabus",
+      "context": "wikilink"
+    },
+    {
       "file": "10_Spaces/12_Teaching/20_Cards/Social_Studies/Masa Praaksara dan Asal-usul Nenek Moyang Bangsa Indonesia.md",
       "broken_link": "IPS Kelas 7 - Sumatif 4 MOC",
       "context": "wikilink"
@@ -253,6 +323,10 @@
   ],
   "orphans": [
     {
+      "file": "10_Spaces/11_College/Syllabi/Syllabus_Template.md",
+      "title": "Syllabus_Template"
+    },
+    {
       "file": "10_Spaces/12_Teaching/20_Cards/STEM/[Chem] Reaksi Redoks - Rangkuman.md",
       "title": "[Chem] Reaksi Redoks - Rangkuman"
     },
@@ -365,20 +439,12 @@
       "title": "(CN-9a) IPv6 Lecture Notes"
     },
     {
-      "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-12) Pemrograman Jaringan Lecture Notes.md",
-      "title": "(CN-12) Pemrograman Jaringan Lecture Notes"
-    },
-    {
       "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-13) Application, Presentation, dan Session Layer Lecture Notes.md",
       "title": "(CN-13) Application, Presentation, dan Session Layer Lecture Notes"
     },
     {
       "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-9b) IPv6 Subnetting Lecture Notes.md",
       "title": "(CN-9b) IPv6 Subnetting Lecture Notes"
-    },
-    {
-      "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-14) Keamanan Jaringan Lecture Notes.md",
-      "title": "(CN-14) Keamanan Jaringan Lecture Notes"
     },
     {
       "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-7) IPv4 Lecture Notes.md",
