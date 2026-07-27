@@ -1,10 +1,12 @@
 ---
 title: "(CN-12) Pemrograman Jaringan Lecture Notes"
-course: ""
-tags: []
+course: "Computer Network"
+type: ReferenceNote
+tags: ["reference", "computer-network", "lecture-log"]
 aliases: ["(CN-12) Pemrograman Jaringan Lecture Notes"]
-created: "2026-06-24"
+created: "2026-06-23"
 ---
+
 # Pemrograman Jaringan dengan Python
 
 **Mata Kuliah:** Jaringan Komputer Genap 2025/2026 | Informatika UNS  

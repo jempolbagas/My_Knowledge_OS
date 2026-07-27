@@ -1,10 +1,12 @@
 ---
 title: "(CN-11) Transport Layer Lecture Notes"
-course: ""
-tags: []
+course: "Computer Network"
+type: ReferenceNote
+tags: ["reference", "computer-network", "lecture-log"]
 aliases: ["(CN-11) Transport Layer Lecture Notes"]
-created: "2026-06-24"
+created: "2026-06-23"
 ---
+
 # Materi Pembelajaran: Transport Layer
 
 **Program Studi:** Informatika UNS  

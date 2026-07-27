@@ -1,10 +1,12 @@
 ---
 title: "(CN-7) IPv4 Lecture Notes"
-course: ""
-tags: []
+course: "Computer Network"
+type: ReferenceNote
+tags: ["reference", "computer-network", "lecture-log"]
 aliases: ["(CN-7) IPv4 Lecture Notes"]
 created: "2026-06-23"
 ---
+
 # Ringkasan Materi Perkuliahan: Internet Protocol Version 4 (IPv4)
 
 **Mata Kuliah:** Jaringan Komputer (Genap 2025/2026)  

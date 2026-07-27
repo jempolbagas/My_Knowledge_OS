@@ -1,10 +1,12 @@
 ---
 title: "(CN-8) IPv4 Subnetting Lecture Notes"
-course: ""
-tags: []
+course: "Computer Network"
+type: ReferenceNote
+tags: ["reference", "computer-network", "lecture-log"]
 aliases: ["(CN-8) IPv4 Subnetting Lecture Notes"]
-created: "2026-06-24"
+created: "2026-06-23"
 ---
+
 # IPv4 Subnetting & VLSM Material Resource
 
 **Mata Kuliah:** Jaringan Komputer Genap 2025/2026  

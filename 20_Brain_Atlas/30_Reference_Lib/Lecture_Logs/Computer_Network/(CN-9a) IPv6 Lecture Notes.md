@@ -1,10 +1,12 @@
 ---
 title: "(CN-9a) IPv6 Lecture Notes"
-course: ""
-tags: []
+course: "Computer Network"
+type: ReferenceNote
+tags: ["reference", "computer-network", "lecture-log"]
 aliases: ["(CN-9a) IPv6 Lecture Notes"]
-created: "2026-06-24"
+created: "2026-06-23"
 ---
+
 # Comprehensive Guide to IPv6: Addressing, Configuration, and Transition
 
 ## 1. Introduction: The Need for IPv6

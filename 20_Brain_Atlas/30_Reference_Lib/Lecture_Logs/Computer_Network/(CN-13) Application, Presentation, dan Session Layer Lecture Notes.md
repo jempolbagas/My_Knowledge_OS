@@ -1,10 +1,12 @@
 ---
 title: "(CN-13) Application, Presentation, dan Session Layer Lecture Notes"
-course: ""
-tags: []
+course: "Computer Network"
+type: ReferenceNote
+tags: ["reference", "computer-network", "lecture-log"]
 aliases: ["(CN-13) Application, Presentation, dan Session Layer Lecture Notes"]
-created: "2026-06-24"
+created: "2026-06-23"
 ---
+
 # Materi Pembelajaran: Application, Presentation, dan Session Layer
 
 **Mata Kuliah:** Jaringan Komputer (Genap 2025/2026)  

@@ -1,10 +1,12 @@
 ---
 title: "(CN-14) Keamanan Jaringan Lecture Notes"
-course: ""
-tags: []
+course: "Computer Network"
+type: ReferenceNote
+tags: ["reference", "computer-network", "lecture-log"]
 aliases: ["(CN-14) Keamanan Jaringan Lecture Notes"]
-created: "2026-06-24"
+created: "2026-06-23"
 ---
+
 # Materi: Keamanan Jaringan
 
 **Mata Kuliah:** Jaringan Komputer Genap 2025/2026  

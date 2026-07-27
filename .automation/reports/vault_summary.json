@@ -8,14 +8,14 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-07-26T20:38:28Z"
+    "generated_at": "2026-07-27T08:47:30Z"
   },
   "stats": {
-    "total_notes": 86,
+    "total_notes": 93,
     "total_edges": 163,
     "broken_links": 94,
-    "untyped_notes": 71,
-    "health_score": 7.4
+    "untyped_notes": 62,
+    "health_score": 14.1
   },
   "inbox": [
     "Mari Kenali Keanekaragaman Hayati Indonesia",
@@ -132,7 +132,14 @@
   },
   "maintenance": {
     "orphan_pages_sample": [
+      "Distributed Systems Syllabus",
+      "Numerical Methods Syllabus",
+      "Operating Systems Syllabus",
+      "Human Computer Interaction Syllabus",
+      "Cryptography Syllabus",
       "Syllabus_Template",
+      "Data Mining Syllabus",
+      "Image Processing Syllabus",
       "[Chem] Reaksi Redoks - Rangkuman",
       "[Chem] Tata Nama dan Biloks - Rangkuman",
       "[Chem] Konsep Mol - Rangkuman",
@@ -154,14 +161,7 @@
       "[Math] Statistika - First Principle",
       "[Math] Mengapa Kita Menggunakan Radian?",
       "[Physics] Energi Mekanik - First Principle",
-      "[Math] Program Linier - First Principle",
-      "[Chem] Konsep Mol - First Principle",
-      "[Chem] Hukum-Hukum Dasar Kimia - First Principle",
-      "Gerak Melingkar Beraturan - First Principle",
-      "(CN-8) IPv4 Subnetting Lecture Notes",
-      "(CN-10) ICMP Lecture Notes",
-      "(CN-9a) IPv6 Lecture Notes",
-      "(CN-13) Application, Presentation, dan Session Layer Lecture Notes"
+      "[Math] Program Linier - First Principle"
     ],
     "untyped_notes_sample": [
       {

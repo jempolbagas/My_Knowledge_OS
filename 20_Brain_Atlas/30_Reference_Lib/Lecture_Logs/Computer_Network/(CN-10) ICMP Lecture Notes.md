@@ -1,10 +1,12 @@
 ---
 title: "(CN-10) ICMP Lecture Notes"
-course: ""
-tags: []
+course: "Computer Network"
+type: ReferenceNote
+tags: ["reference", "computer-network", "lecture-log"]
 aliases: ["(CN-10) ICMP Lecture Notes"]
-created: "2026-06-24"
+created: "2026-06-23"
 ---
+
 # Comprehensive Guide to Internet Control Message Protocol (ICMP)
 
 **Course:** Jaringan Komputer  

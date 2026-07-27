@@ -323,8 +323,36 @@
   ],
   "orphans": [
     {
+      "file": "10_Spaces/11_College/Syllabi/Distributed Systems Syllabus.md",
+      "title": "Distributed Systems Syllabus"
+    },
+    {
+      "file": "10_Spaces/11_College/Syllabi/Numerical Methods Syllabus.md",
+      "title": "Numerical Methods Syllabus"
+    },
+    {
+      "file": "10_Spaces/11_College/Syllabi/Operating Systems Syllabus.md",
+      "title": "Operating Systems Syllabus"
+    },
+    {
+      "file": "10_Spaces/11_College/Syllabi/Human Computer Interaction Syllabus.md",
+      "title": "Human Computer Interaction Syllabus"
+    },
+    {
+      "file": "10_Spaces/11_College/Syllabi/Cryptography Syllabus.md",
+      "title": "Cryptography Syllabus"
+    },
+    {
       "file": "10_Spaces/11_College/Syllabi/Syllabus_Template.md",
       "title": "Syllabus_Template"
+    },
+    {
+      "file": "10_Spaces/11_College/Syllabi/Data Mining Syllabus.md",
+      "title": "Data Mining Syllabus"
+    },
+    {
+      "file": "10_Spaces/11_College/Syllabi/Image Processing Syllabus.md",
+      "title": "Image Processing Syllabus"
     },
     {
       "file": "10_Spaces/12_Teaching/20_Cards/STEM/[Chem] Reaksi Redoks - Rangkuman.md",
@@ -427,31 +455,31 @@
       "title": "Gerak Melingkar Beraturan - First Principle"
     },
     {
-      "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-8) IPv4 Subnetting Lecture Notes.md",
+      "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/Computer_Network/(CN-8) IPv4 Subnetting Lecture Notes.md",
       "title": "(CN-8) IPv4 Subnetting Lecture Notes"
     },
     {
-      "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-10) ICMP Lecture Notes.md",
+      "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/Computer_Network/(CN-10) ICMP Lecture Notes.md",
       "title": "(CN-10) ICMP Lecture Notes"
     },
     {
-      "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-9a) IPv6 Lecture Notes.md",
+      "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/Computer_Network/(CN-9a) IPv6 Lecture Notes.md",
       "title": "(CN-9a) IPv6 Lecture Notes"
     },
     {
-      "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-13) Application, Presentation, dan Session Layer Lecture Notes.md",
+      "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/Computer_Network/(CN-13) Application, Presentation, dan Session Layer Lecture Notes.md",
       "title": "(CN-13) Application, Presentation, dan Session Layer Lecture Notes"
     },
     {
-      "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-9b) IPv6 Subnetting Lecture Notes.md",
+      "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/Computer_Network/(CN-9b) IPv6 Subnetting Lecture Notes.md",
       "title": "(CN-9b) IPv6 Subnetting Lecture Notes"
     },
     {
-      "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-7) IPv4 Lecture Notes.md",
+      "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/Computer_Network/(CN-7) IPv4 Lecture Notes.md",
       "title": "(CN-7) IPv4 Lecture Notes"
     },
     {
-      "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/CN/(CN-11) Transport Layer Lecture Notes.md",
+      "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/Computer_Network/(CN-11) Transport Layer Lecture Notes.md",
       "title": "(CN-11) Transport Layer Lecture Notes"
     },
     {
