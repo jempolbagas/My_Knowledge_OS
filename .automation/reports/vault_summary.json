@@ -8,31 +8,16 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-07-28T04:33:27Z"
+    "generated_at": "2026-07-28T17:14:32Z"
   },
   "stats": {
-    "total_notes": 104,
-    "total_edges": 143,
-    "broken_links": 30,
-    "untyped_notes": 67,
-    "health_score": 28.1
+    "total_notes": 97,
+    "total_edges": 166,
+    "broken_links": 21,
+    "untyped_notes": 44,
+    "health_score": 47.7
   },
-  "inbox": [
-    "Mari Kenali Keanekaragaman Hayati Indonesia",
-    "LITOSFER TENAGA ENDOGEN DAN EKSOGEN",
-    "8 Macam Gangguan pada Organ Pencernaan Manusia",
-    "Pengertian Simple Past Tense, Rumus, dan Contoh Kalimatnya",
-    "Macam-Macam Organ Sistem Pencernaan Manusia & Fungsinya",
-    "Lengkap! Pengertian Simple Past Tense, Rumus, Ciri, dan Contoh Kalimat",
-    "Pola Bilangan Kelas 8 Pengertian, Jenis, Rumus dan Contoh Soal",
-    "Pola Bilangan - Matematika Kelas 8",
-    "Cara Mencari Rumus Pola Bilangan, Jenis-Jenis & Contohnya",
-    "Sistem Pencernaan Manusia Proses Pencernaan, Penyakit Sistem Pencernaan, dan Pola Makan Sehat  IPA",
-    "ULASAN SINGKAT TENTANG TENAGA EKSOGEN!  Belajar Geografi, Yuk! Eps 35",
-    "Simple past tense  EF Global Site (English)",
-    "Tenaga Endogen Vulkanisme (Part1)",
-    "Jenis - Jenis Hutan Di Indonesia"
-  ],
+  "inbox": [],
   "spaces": {
     "College": {
       "General": [
@@ -43,9 +28,10 @@
       "Languages": [
         "[ESL] Present Continuous Tense",
         "[ESL] Worksheet - Simple Present vs Present Continuous",
+        "LKPD_dan_Soal_Parts_of_Speech",
         "LKPD_dan_Soal_Simple_Past_Tense",
-        "[Arabic] Pengenalan Kosakata Anggota Keluarga",
-        "Materi_Simple_Past_Tense"
+        "Materi_Simple_Past_Tense",
+        "Materi_Parts_of_Speech"
       ],
       "Social Studies": [
         "Masa Praaksara dan Asal-usul Nenek Moyang Bangsa Indonesia",
@@ -76,27 +62,17 @@
         "Tata Surya dan Bumi",
         "Energi Listrik",
         "Gaya dan Hukum Newton",
-        "[Chem] Konsep Mol - Rangkuman",
-        "[Chem] Kunci Jawaban - Tata Nama dan Biloks",
-        "[Chem] Worksheet - Tata Nama dan Biloks",
-        "[Chem] Worksheet - Reaksi Redoks",
-        "[Chem] Kunci Jawaban - Konsep Mol",
-        "[Chem] Worksheet - Konsep Mol",
-        "[Chem] Kunci Jawaban - Reaksi Redoks",
-        "[Chem] Reaksi Redoks - First Principle",
-        "[Math] Logarithms - First Principle",
-        "[Chem] Tata Nama Senyawa dan Biloks - First Principle",
-        "[Math] Statistika - First Principle",
-        "[Math] Mengapa Kita Menggunakan Radian?",
-        "[Physics] Energi Mekanik - First Principle",
-        "[Math] Program Linier - First Principle",
-        "[Chem] Konsep Mol - First Principle",
-        "[Chem] Hukum-Hukum Dasar Kimia - First Principle",
-        "Gerak Melingkar Beraturan - First Principle"
+        "[Chem] Konsep Mol - Rangkuman"
       ],
       "Mathematics": [
+        "LKPD_dan_Soal_Persamaan_Kuadrat",
+        "LKPD_dan_Soal_Matriks",
         "LKPD_dan_Soal_Pola_Bilangan",
-        "Materi_Pola_Bilangan"
+        "LKPD_dan_Soal_Suku_Banyak_Polinomial",
+        "Materi_Persamaan_Kuadrat",
+        "Materi_Pola_Bilangan",
+        "Materi_Suku_Banyak_Polinomial",
+        "Materi_Matriks"
       ],
       "Biology": [
         "LKPD_dan_Soal_Sistem_Pencernaan_Makanan",
@@ -108,21 +84,55 @@
     "library": {
       "Papers": [],
       "Repos": [],
-      "Articles_Talks": [],
+      "Articles_Talks": [
+        {
+          "title": "WebAssembly_Sandbox_and_Security_Architecture",
+          "status": "done"
+        },
+        {
+          "title": "Wasm_vs_Docker",
+          "status": "done"
+        },
+        {
+          "title": "Post_Training_Quantization_Explained",
+          "status": "done"
+        },
+        {
+          "title": "A_Simple_Introduction_to_Post_Training_Quantization",
+          "status": "done"
+        }
+      ],
       "Books": [],
       "Generated_Readings": {
         "Artificial_Intelligence": [
-          "Machine_Learning_Roadmap"
+          "Model_Parameters_Explained",
+          "Machine_Learning_Roadmap",
+          "Activation_Functions_Explained"
         ],
         "Cybersecurity": [
           "Cybersecurity_Roadmap"
+        ],
+        "Computer_Science": [
+          "Single_Board_Computers_Architecture_and_Use_Cases"
         ]
       }
     },
     "concepts": {
+      "Mathematics": [
+        "Suku_Banyak_Polinomial",
+        "Matriks",
+        "Persamaan_Kuadrat"
+      ],
+      "Web_Development": [
+        "WebAssembly_vs_Docker",
+        "WebAssembly_Sandboxing"
+      ],
       "Artificial_Intelligence": [
+        "Model Parameters",
         "Machine Learning Roadmap",
-        "Vectorization in NumPy"
+        "Vectorization in NumPy",
+        "Activation Functions",
+        "Post-Training Quantization"
       ],
       "Cybersecurity": [
         "Symmetric vs. Asymmetric Encryption",
@@ -131,7 +141,8 @@
         "CIA Triad"
       ],
       "Computer_Science": [
-        "Bottom-Up vs. Top-Down Learning"
+        "Bottom-Up vs. Top-Down Learning",
+        "Single Board Computer"
       ]
     },
     "reference_lib": [
@@ -157,28 +168,23 @@
       "[Math] Kisi-Kisi ASAT - Master Summary",
       "[Chem] Konsep Mol - Rangkuman",
       "[ESL] Worksheet - Simple Present vs Present Continuous",
+      "LKPD_dan_Soal_Parts_of_Speech",
       "LKPD_dan_Soal_Simple_Past_Tense",
       "LKPD_dan_Soal_Tenaga_Endogen_Vulkanisme",
       "LKPD_dan_Soal_Tenaga_Eksogen",
+      "LKPD_dan_Soal_Persamaan_Kuadrat",
       "LKPD_dan_Soal_Pola_Bilangan",
+      "LKPD_dan_Soal_Suku_Banyak_Polinomial",
       "LKPD_dan_Soal_Sistem_Pencernaan_Makanan",
-      "[Chem] Kunci Jawaban - Tata Nama dan Biloks",
-      "[Chem] Worksheet - Tata Nama dan Biloks",
-      "[Chem] Worksheet - Reaksi Redoks",
-      "[Chem] Kunci Jawaban - Konsep Mol",
-      "[Chem] Worksheet - Konsep Mol",
-      "[Chem] Kunci Jawaban - Reaksi Redoks",
       "index",
-      "[Arabic] Pengenalan Kosakata Anggota Keluarga",
       "Materi_Simple_Past_Tense",
+      "Materi_Parts_of_Speech",
       "Materi_Tenaga_Endogen_Vulkanisme",
       "Materi_Tenaga_Eksogen",
+      "Materi_Persamaan_Kuadrat",
       "Materi_Pola_Bilangan",
-      "Materi_Sistem_Pencernaan_Makanan",
-      "[Chem] Reaksi Redoks - First Principle",
-      "[Math] Logarithms - First Principle",
-      "[Chem] Tata Nama Senyawa dan Biloks - First Principle",
-      "[Math] Statistika - First Principle"
+      "Materi_Suku_Banyak_Polinomial",
+      "Materi_Sistem_Pencernaan_Makanan"
     ],
     "untyped_notes_sample": [
       {
@@ -258,8 +264,8 @@
         "path": "10_Spaces/12_Teaching/20_Cards/STEM/[Chem] Konsep Mol - Rangkuman.md"
       },
       {
-        "title": "LKPD_dan_Soal_Simple_Past_Tense",
-        "path": "10_Spaces/12_Teaching/40_Practice/Languages/LKPD_dan_Soal_Simple_Past_Tense.md"
+        "title": "LKPD_dan_Soal_Parts_of_Speech",
+        "path": "10_Spaces/12_Teaching/40_Practice/Languages/LKPD_dan_Soal_Parts_of_Speech.md"
       }
     ]
   }

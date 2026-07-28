@@ -1,5 +1,111 @@
 {
-  "broken_links": [],
+  "broken_links": [
+    {
+      "file": "20_Brain_Atlas/10_Library/Articles_Talks/WebAssembly_Sandbox_and_Security_Architecture.md",
+      "broken_link": "WebAssembly Sandboxing",
+      "context": "wikilink"
+    },
+    {
+      "file": "20_Brain_Atlas/10_Library/Articles_Talks/WebAssembly_Sandbox_and_Security_Architecture.md",
+      "broken_link": "WebAssembly Sandboxing",
+      "context": "frontmatter_promoted_to"
+    },
+    {
+      "file": "20_Brain_Atlas/10_Library/Articles_Talks/Wasm_vs_Docker.md",
+      "broken_link": "WebAssembly vs Docker",
+      "context": "wikilink"
+    },
+    {
+      "file": "20_Brain_Atlas/10_Library/Articles_Talks/Wasm_vs_Docker.md",
+      "broken_link": "WebAssembly vs Docker",
+      "context": "frontmatter_promoted_to"
+    },
+    {
+      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Suku_Banyak_Polinomial.md",
+      "broken_link": "Mempelajari Konsep dan Nilai Suku Banyak (Polinomial)",
+      "context": "frontmatter_source"
+    },
+    {
+      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Matriks.md",
+      "broken_link": "Mengenal Matriks Pengertian, Jenis, dan Transpose",
+      "context": "wikilink"
+    },
+    {
+      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Matriks.md",
+      "broken_link": "Operasi Aljabar pada Matriks Penjumlahan, Pengurangan & Perkalian",
+      "context": "wikilink"
+    },
+    {
+      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Matriks.md",
+      "broken_link": "Cara Mencari Determinan & Invers Matriks Beserta Contohnya",
+      "context": "wikilink"
+    },
+    {
+      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Matriks.md",
+      "broken_link": "Types of Matrices Definition, Properties, Formulas and Examples",
+      "context": "wikilink"
+    },
+    {
+      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Matriks.md",
+      "broken_link": "Matrix Operations Addition, Subtraction, Multiplication, Inverse",
+      "context": "wikilink"
+    },
+    {
+      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Matriks.md",
+      "broken_link": "Mengenal Matriks Pengertian, Jenis, dan Transpose",
+      "context": "frontmatter_source"
+    },
+    {
+      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Matriks.md",
+      "broken_link": "Operasi Aljabar pada Matriks Penjumlahan, Pengurangan & Perkalian",
+      "context": "frontmatter_source"
+    },
+    {
+      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Matriks.md",
+      "broken_link": "Cara Mencari Determinan & Invers Matriks Beserta Contohnya",
+      "context": "frontmatter_source"
+    },
+    {
+      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Matriks.md",
+      "broken_link": "Types of Matrices Definition, Properties, Formulas and Examples",
+      "context": "frontmatter_source"
+    },
+    {
+      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Matriks.md",
+      "broken_link": "Matrix Operations Addition, Subtraction, Multiplication, Inverse",
+      "context": "frontmatter_source"
+    },
+    {
+      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Persamaan_Kuadrat.md",
+      "broken_link": "Aljabar",
+      "context": "wikilink"
+    },
+    {
+      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Persamaan_Kuadrat.md",
+      "broken_link": "Polinomial",
+      "context": "wikilink"
+    },
+    {
+      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Persamaan_Kuadrat.md",
+      "broken_link": "Fungsi Kuadrat",
+      "context": "wikilink"
+    },
+    {
+      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Persamaan_Kuadrat.md",
+      "broken_link": "3 Cara Mudah Menyelesaikan Persamaan Kuadrat",
+      "context": "frontmatter_source"
+    },
+    {
+      "file": "20_Brain_Atlas/20_Concepts/Web_Development/WebAssembly_vs_Docker.md",
+      "broken_link": "WebAssembly Sandboxing",
+      "context": "wikilink"
+    },
+    {
+      "file": "20_Brain_Atlas/20_Concepts/Web_Development/WebAssembly_Sandboxing.md",
+      "broken_link": "WebAssembly vs Docker",
+      "context": "wikilink"
+    }
+  ],
   "orphans": [
     {
       "file": "10_Spaces/11_College/Syllabi/Syllabus_Template.md",
@@ -34,6 +140,10 @@
       "title": "[ESL] Worksheet - Simple Present vs Present Continuous"
     },
     {
+      "file": "10_Spaces/12_Teaching/40_Practice/Languages/LKPD_dan_Soal_Parts_of_Speech.md",
+      "title": "LKPD_dan_Soal_Parts_of_Speech"
+    },
+    {
       "file": "10_Spaces/12_Teaching/40_Practice/Languages/LKPD_dan_Soal_Simple_Past_Tense.md",
       "title": "LKPD_dan_Soal_Simple_Past_Tense"
     },
@@ -46,48 +156,32 @@
       "title": "LKPD_dan_Soal_Tenaga_Eksogen"
     },
     {
+      "file": "10_Spaces/12_Teaching/40_Practice/Mathematics/LKPD_dan_Soal_Persamaan_Kuadrat.md",
+      "title": "LKPD_dan_Soal_Persamaan_Kuadrat"
+    },
+    {
       "file": "10_Spaces/12_Teaching/40_Practice/Mathematics/LKPD_dan_Soal_Pola_Bilangan.md",
       "title": "LKPD_dan_Soal_Pola_Bilangan"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/40_Practice/Mathematics/LKPD_dan_Soal_Suku_Banyak_Polinomial.md",
+      "title": "LKPD_dan_Soal_Suku_Banyak_Polinomial"
     },
     {
       "file": "10_Spaces/12_Teaching/40_Practice/Biology/LKPD_dan_Soal_Sistem_Pencernaan_Makanan.md",
       "title": "LKPD_dan_Soal_Sistem_Pencernaan_Makanan"
     },
     {
-      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Kunci Jawaban - Tata Nama dan Biloks.md",
-      "title": "[Chem] Kunci Jawaban - Tata Nama dan Biloks"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Tata Nama dan Biloks.md",
-      "title": "[Chem] Worksheet - Tata Nama dan Biloks"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Reaksi Redoks.md",
-      "title": "[Chem] Worksheet - Reaksi Redoks"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Kunci Jawaban - Konsep Mol.md",
-      "title": "[Chem] Kunci Jawaban - Konsep Mol"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Konsep Mol.md",
-      "title": "[Chem] Worksheet - Konsep Mol"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Kunci Jawaban - Reaksi Redoks.md",
-      "title": "[Chem] Kunci Jawaban - Reaksi Redoks"
-    },
-    {
       "file": "10_Spaces/12_Teaching/00_Atlas/index.md",
       "title": "index"
     },
     {
-      "file": "10_Spaces/12_Teaching/30_Sources/Languages/[Arabic] Pengenalan Kosakata Anggota Keluarga.md",
-      "title": "[Arabic] Pengenalan Kosakata Anggota Keluarga"
-    },
-    {
       "file": "10_Spaces/12_Teaching/30_Sources/Languages/Materi_Simple_Past_Tense.md",
       "title": "Materi_Simple_Past_Tense"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/30_Sources/Languages/Materi_Parts_of_Speech.md",
+      "title": "Materi_Parts_of_Speech"
     },
     {
       "file": "10_Spaces/12_Teaching/30_Sources/Social_Studies/Materi_Tenaga_Endogen_Vulkanisme.md",
@@ -98,89 +192,28 @@
       "title": "Materi_Tenaga_Eksogen"
     },
     {
+      "file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Materi_Persamaan_Kuadrat.md",
+      "title": "Materi_Persamaan_Kuadrat"
+    },
+    {
       "file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Materi_Pola_Bilangan.md",
       "title": "Materi_Pola_Bilangan"
     },
     {
+      "file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Materi_Suku_Banyak_Polinomial.md",
+      "title": "Materi_Suku_Banyak_Polinomial"
+    },
+    {
       "file": "10_Spaces/12_Teaching/30_Sources/Biology/Materi_Sistem_Pencernaan_Makanan.md",
       "title": "Materi_Sistem_Pencernaan_Makanan"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/STEM/[Chem] Reaksi Redoks - First Principle.md",
-      "title": "[Chem] Reaksi Redoks - First Principle"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/STEM/[Math] Logarithms - First Principle.md",
-      "title": "[Math] Logarithms - First Principle"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/STEM/[Chem] Tata Nama Senyawa dan Biloks - First Principle.md",
-      "title": "[Chem] Tata Nama Senyawa dan Biloks - First Principle"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/STEM/[Math] Statistika - First Principle.md",
-      "title": "[Math] Statistika - First Principle"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/STEM/[Math] Mengapa Kita Menggunakan Radian?.md",
-      "title": "[Math] Mengapa Kita Menggunakan Radian?"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/STEM/[Physics] Energi Mekanik - First Principle.md",
-      "title": "[Physics] Energi Mekanik - First Principle"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/STEM/[Math] Program Linier - First Principle.md",
-      "title": "[Math] Program Linier - First Principle"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/STEM/[Chem] Konsep Mol - First Principle.md",
-      "title": "[Chem] Konsep Mol - First Principle"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/STEM/[Chem] Hukum-Hukum Dasar Kimia - First Principle.md",
-      "title": "[Chem] Hukum-Hukum Dasar Kimia - First Principle"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/STEM/Gerak Melingkar Beraturan - First Principle.md",
-      "title": "Gerak Melingkar Beraturan - First Principle"
-    },
-    {
-      "file": "00_Inbox/Mari Kenali Keanekaragaman Hayati Indonesia.md",
-      "title": "Mari Kenali Keanekaragaman Hayati Indonesia"
-    },
-    {
-      "file": "00_Inbox/LITOSFER TENAGA ENDOGEN DAN EKSOGEN.md",
-      "title": "LITOSFER TENAGA ENDOGEN DAN EKSOGEN"
-    },
-    {
-      "file": "00_Inbox/8 Macam Gangguan pada Organ Pencernaan Manusia.md",
-      "title": "8 Macam Gangguan pada Organ Pencernaan Manusia"
-    },
-    {
-      "file": "00_Inbox/Macam-Macam Organ Sistem Pencernaan Manusia & Fungsinya.md",
-      "title": "Macam-Macam Organ Sistem Pencernaan Manusia & Fungsinya"
-    },
-    {
-      "file": "00_Inbox/Sistem Pencernaan Manusia Proses Pencernaan, Penyakit Sistem Pencernaan, dan Pola Makan Sehat  IPA.md",
-      "title": "Sistem Pencernaan Manusia Proses Pencernaan, Penyakit Sistem Pencernaan, dan Pola Makan Sehat  IPA"
-    },
-    {
-      "file": "00_Inbox/ULASAN SINGKAT TENTANG TENAGA EKSOGEN!  Belajar Geografi, Yuk! Eps 35.md",
-      "title": "ULASAN SINGKAT TENTANG TENAGA EKSOGEN!  Belajar Geografi, Yuk! Eps 35"
-    },
-    {
-      "file": "00_Inbox/Simple past tense  EF Global Site (English).md",
-      "title": "Simple past tense  EF Global Site (English)"
-    },
-    {
-      "file": "00_Inbox/Tenaga Endogen Vulkanisme (Part1).md",
-      "title": "Tenaga Endogen Vulkanisme (Part1)"
-    },
-    {
-      "file": "00_Inbox/Jenis - Jenis Hutan Di Indonesia.md",
-      "title": "Jenis - Jenis Hutan Di Indonesia"
     }
   ],
-  "missing_frontmatter": []
+  "missing_frontmatter": [
+    {
+      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Matriks.md",
+      "missing_fields": [
+        "date_created"
+      ]
+    }
+  ]
 }

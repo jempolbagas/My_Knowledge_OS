@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "concept_file": "20_Brain_Atlas/20_Concepts/Artificial_Intelligence/Model Parameters.md",
+    "concept_title": "Model Parameters",
+    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Model_Parameters_Explained.md",
+    "source_title": "Model_Parameters_Explained",
+    "stored_hash": "fd87257535fdd537e62e654d287bfb30",
+    "current_hash": "94f2bed88d3b549019787cd96008d37a",
+    "status": "outdated"
+  },
+  {
+    "concept_file": "20_Brain_Atlas/20_Concepts/Artificial_Intelligence/Activation Functions.md",
+    "concept_title": "Activation Functions",
+    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Activation_Functions_Explained.md",
+    "source_title": "Activation_Functions_Explained",
+    "stored_hash": "f79b33ad105945a896c6978800b44b95",
+    "current_hash": "bcaa4f817a9fa896474e6fcc98a9b01d",
+    "status": "outdated"
+  }
+]

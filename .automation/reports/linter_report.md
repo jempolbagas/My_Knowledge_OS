@@ -1,7 +1,29 @@
 # Knowledge OS Structural Linter Report
 
 ## 🔗 Broken Links
-No broken links found! 🎉
+| File | Broken Link Target | Context |
+| --- | --- | --- |
+| [[WebAssembly_Sandbox_and_Security_Architecture]] | `WebAssembly Sandboxing` | `wikilink` |
+| [[WebAssembly_Sandbox_and_Security_Architecture]] | `WebAssembly Sandboxing` | `frontmatter_promoted_to` |
+| [[Wasm_vs_Docker]] | `WebAssembly vs Docker` | `wikilink` |
+| [[Wasm_vs_Docker]] | `WebAssembly vs Docker` | `frontmatter_promoted_to` |
+| [[Suku_Banyak_Polinomial]] | `Mempelajari Konsep dan Nilai Suku Banyak (Polinomial)` | `frontmatter_source` |
+| [[Matriks]] | `Mengenal Matriks Pengertian, Jenis, dan Transpose` | `wikilink` |
+| [[Matriks]] | `Operasi Aljabar pada Matriks Penjumlahan, Pengurangan & Perkalian` | `wikilink` |
+| [[Matriks]] | `Cara Mencari Determinan & Invers Matriks Beserta Contohnya` | `wikilink` |
+| [[Matriks]] | `Types of Matrices Definition, Properties, Formulas and Examples` | `wikilink` |
+| [[Matriks]] | `Matrix Operations Addition, Subtraction, Multiplication, Inverse` | `wikilink` |
+| [[Matriks]] | `Mengenal Matriks Pengertian, Jenis, dan Transpose` | `frontmatter_source` |
+| [[Matriks]] | `Operasi Aljabar pada Matriks Penjumlahan, Pengurangan & Perkalian` | `frontmatter_source` |
+| [[Matriks]] | `Cara Mencari Determinan & Invers Matriks Beserta Contohnya` | `frontmatter_source` |
+| [[Matriks]] | `Types of Matrices Definition, Properties, Formulas and Examples` | `frontmatter_source` |
+| [[Matriks]] | `Matrix Operations Addition, Subtraction, Multiplication, Inverse` | `frontmatter_source` |
+| [[Persamaan_Kuadrat]] | `Aljabar` | `wikilink` |
+| [[Persamaan_Kuadrat]] | `Polinomial` | `wikilink` |
+| [[Persamaan_Kuadrat]] | `Fungsi Kuadrat` | `wikilink` |
+| [[Persamaan_Kuadrat]] | `3 Cara Mudah Menyelesaikan Persamaan Kuadrat` | `frontmatter_source` |
+| [[WebAssembly_vs_Docker]] | `WebAssembly Sandboxing` | `wikilink` |
+| [[WebAssembly_Sandboxing]] | `WebAssembly vs Docker` | `wikilink` |
 
 ## 🕳️ Orphan Pages (Disconnected Nodes)
 These files have no incoming or outgoing links:
@@ -13,43 +35,25 @@ These files have no incoming or outgoing links:
 - [[[Math] Kisi-Kisi ASAT - Master Summary]] (`10_Spaces/12_Teaching/20_Cards/STEM/[Math] Kisi-Kisi ASAT - Master Summary.md`)
 - [[[Chem] Konsep Mol - Rangkuman]] (`10_Spaces/12_Teaching/20_Cards/STEM/[Chem] Konsep Mol - Rangkuman.md`)
 - [[[ESL] Worksheet - Simple Present vs Present Continuous]] (`10_Spaces/12_Teaching/40_Practice/Languages/[ESL] Worksheet - Simple Present vs Present Continuous.md`)
+- [[LKPD_dan_Soal_Parts_of_Speech]] (`10_Spaces/12_Teaching/40_Practice/Languages/LKPD_dan_Soal_Parts_of_Speech.md`)
 - [[LKPD_dan_Soal_Simple_Past_Tense]] (`10_Spaces/12_Teaching/40_Practice/Languages/LKPD_dan_Soal_Simple_Past_Tense.md`)
 - [[LKPD_dan_Soal_Tenaga_Endogen_Vulkanisme]] (`10_Spaces/12_Teaching/40_Practice/Social_Studies/LKPD_dan_Soal_Tenaga_Endogen_Vulkanisme.md`)
 - [[LKPD_dan_Soal_Tenaga_Eksogen]] (`10_Spaces/12_Teaching/40_Practice/Social_Studies/LKPD_dan_Soal_Tenaga_Eksogen.md`)
+- [[LKPD_dan_Soal_Persamaan_Kuadrat]] (`10_Spaces/12_Teaching/40_Practice/Mathematics/LKPD_dan_Soal_Persamaan_Kuadrat.md`)
 - [[LKPD_dan_Soal_Pola_Bilangan]] (`10_Spaces/12_Teaching/40_Practice/Mathematics/LKPD_dan_Soal_Pola_Bilangan.md`)
+- [[LKPD_dan_Soal_Suku_Banyak_Polinomial]] (`10_Spaces/12_Teaching/40_Practice/Mathematics/LKPD_dan_Soal_Suku_Banyak_Polinomial.md`)
 - [[LKPD_dan_Soal_Sistem_Pencernaan_Makanan]] (`10_Spaces/12_Teaching/40_Practice/Biology/LKPD_dan_Soal_Sistem_Pencernaan_Makanan.md`)
-- [[[Chem] Kunci Jawaban - Tata Nama dan Biloks]] (`10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Kunci Jawaban - Tata Nama dan Biloks.md`)
-- [[[Chem] Worksheet - Tata Nama dan Biloks]] (`10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Tata Nama dan Biloks.md`)
-- [[[Chem] Worksheet - Reaksi Redoks]] (`10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Reaksi Redoks.md`)
-- [[[Chem] Kunci Jawaban - Konsep Mol]] (`10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Kunci Jawaban - Konsep Mol.md`)
-- [[[Chem] Worksheet - Konsep Mol]] (`10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Konsep Mol.md`)
-- [[[Chem] Kunci Jawaban - Reaksi Redoks]] (`10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Kunci Jawaban - Reaksi Redoks.md`)
 - [[index]] (`10_Spaces/12_Teaching/00_Atlas/index.md`)
-- [[[Arabic] Pengenalan Kosakata Anggota Keluarga]] (`10_Spaces/12_Teaching/30_Sources/Languages/[Arabic] Pengenalan Kosakata Anggota Keluarga.md`)
 - [[Materi_Simple_Past_Tense]] (`10_Spaces/12_Teaching/30_Sources/Languages/Materi_Simple_Past_Tense.md`)
+- [[Materi_Parts_of_Speech]] (`10_Spaces/12_Teaching/30_Sources/Languages/Materi_Parts_of_Speech.md`)
 - [[Materi_Tenaga_Endogen_Vulkanisme]] (`10_Spaces/12_Teaching/30_Sources/Social_Studies/Materi_Tenaga_Endogen_Vulkanisme.md`)
 - [[Materi_Tenaga_Eksogen]] (`10_Spaces/12_Teaching/30_Sources/Social_Studies/Materi_Tenaga_Eksogen.md`)
+- [[Materi_Persamaan_Kuadrat]] (`10_Spaces/12_Teaching/30_Sources/Mathematics/Materi_Persamaan_Kuadrat.md`)
 - [[Materi_Pola_Bilangan]] (`10_Spaces/12_Teaching/30_Sources/Mathematics/Materi_Pola_Bilangan.md`)
+- [[Materi_Suku_Banyak_Polinomial]] (`10_Spaces/12_Teaching/30_Sources/Mathematics/Materi_Suku_Banyak_Polinomial.md`)
 - [[Materi_Sistem_Pencernaan_Makanan]] (`10_Spaces/12_Teaching/30_Sources/Biology/Materi_Sistem_Pencernaan_Makanan.md`)
-- [[[Chem] Reaksi Redoks - First Principle]] (`10_Spaces/12_Teaching/30_Sources/STEM/[Chem] Reaksi Redoks - First Principle.md`)
-- [[[Math] Logarithms - First Principle]] (`10_Spaces/12_Teaching/30_Sources/STEM/[Math] Logarithms - First Principle.md`)
-- [[[Chem] Tata Nama Senyawa dan Biloks - First Principle]] (`10_Spaces/12_Teaching/30_Sources/STEM/[Chem] Tata Nama Senyawa dan Biloks - First Principle.md`)
-- [[[Math] Statistika - First Principle]] (`10_Spaces/12_Teaching/30_Sources/STEM/[Math] Statistika - First Principle.md`)
-- [[[Math] Mengapa Kita Menggunakan Radian?]] (`10_Spaces/12_Teaching/30_Sources/STEM/[Math] Mengapa Kita Menggunakan Radian?.md`)
-- [[[Physics] Energi Mekanik - First Principle]] (`10_Spaces/12_Teaching/30_Sources/STEM/[Physics] Energi Mekanik - First Principle.md`)
-- [[[Math] Program Linier - First Principle]] (`10_Spaces/12_Teaching/30_Sources/STEM/[Math] Program Linier - First Principle.md`)
-- [[[Chem] Konsep Mol - First Principle]] (`10_Spaces/12_Teaching/30_Sources/STEM/[Chem] Konsep Mol - First Principle.md`)
-- [[[Chem] Hukum-Hukum Dasar Kimia - First Principle]] (`10_Spaces/12_Teaching/30_Sources/STEM/[Chem] Hukum-Hukum Dasar Kimia - First Principle.md`)
-- [[Gerak Melingkar Beraturan - First Principle]] (`10_Spaces/12_Teaching/30_Sources/STEM/Gerak Melingkar Beraturan - First Principle.md`)
-- [[Mari Kenali Keanekaragaman Hayati Indonesia]] (`00_Inbox/Mari Kenali Keanekaragaman Hayati Indonesia.md`)
-- [[LITOSFER TENAGA ENDOGEN DAN EKSOGEN]] (`00_Inbox/LITOSFER TENAGA ENDOGEN DAN EKSOGEN.md`)
-- [[8 Macam Gangguan pada Organ Pencernaan Manusia]] (`00_Inbox/8 Macam Gangguan pada Organ Pencernaan Manusia.md`)
-- [[Macam-Macam Organ Sistem Pencernaan Manusia & Fungsinya]] (`00_Inbox/Macam-Macam Organ Sistem Pencernaan Manusia & Fungsinya.md`)
-- [[Sistem Pencernaan Manusia Proses Pencernaan, Penyakit Sistem Pencernaan, dan Pola Makan Sehat  IPA]] (`00_Inbox/Sistem Pencernaan Manusia Proses Pencernaan, Penyakit Sistem Pencernaan, dan Pola Makan Sehat  IPA.md`)
-- [[ULASAN SINGKAT TENTANG TENAGA EKSOGEN!  Belajar Geografi, Yuk! Eps 35]] (`00_Inbox/ULASAN SINGKAT TENTANG TENAGA EKSOGEN!  Belajar Geografi, Yuk! Eps 35.md`)
-- [[Simple past tense  EF Global Site (English)]] (`00_Inbox/Simple past tense  EF Global Site (English).md`)
-- [[Tenaga Endogen Vulkanisme (Part1)]] (`00_Inbox/Tenaga Endogen Vulkanisme (Part1).md`)
-- [[Jenis - Jenis Hutan Di Indonesia]] (`00_Inbox/Jenis - Jenis Hutan Di Indonesia.md`)
 
 ## 📄 Missing/Invalid Frontmatter Properties
-All frontmatter schemas are valid! 🎉
+| File | Missing/Invalid Fields |
+| --- | --- |
+| [[Matriks]] | `date_created` |
