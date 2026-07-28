@@ -3,8 +3,8 @@ title: "Materi Ajar Lengkap: Keanekaragaman Hayati dan Jenis-Jenis Hutan di Indo
 target_audience: "SMP / Sederajat (Fase D - IPA & IPS/Geografi)"
 created: 2026-07-20
 sources:
-  - "[[00_Inbox/Jenis - Jenis Hutan Di Indonesia]]"
-  - "[[00_Inbox/Mari Kenali Keanekaragaman Hayati Indonesia]]"
+  - "00_Inbox/Jenis - Jenis Hutan Di Indonesia"
+  - "00_Inbox/Mari Kenali Keanekaragaman Hayati Indonesia"
 tags:
   - materi-ajar
   - keanekaragaman-hayati

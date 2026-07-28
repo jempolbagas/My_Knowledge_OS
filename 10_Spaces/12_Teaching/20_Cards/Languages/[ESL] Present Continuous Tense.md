@@ -13,13 +13,13 @@ status: 🌿 incubating
 # [ESL] Present Continuous Tense
 
 ## Daftar Isi
-- [[#1. Pengantar: Sedang Ngapain Sekarang?]]
-- [[#2. Rumus Rahasia: Formula Present Continuous]]
-- [[#3. Aturan Main: Menambahkan *-ing* (Spelling Rules)]]
-- [[#4. Kapan Kita Memakainya? (Penggunaan Utama)]]
-- [[#5. Pengecualian: Stative Verbs (Kata Kerja yang "Mager")]]
-- [[#6. Summary — Key Concepts at a Glance]]
-- [[#7. Uji Ingatanmu (Active Recall)]]
+- #1. Pengantar: Sedang Ngapain Sekarang?
+- #2. Rumus Rahasia: Formula Present Continuous
+- #3. Aturan Main: Menambahkan *-ing* (Spelling Rules)
+- #4. Kapan Kita Memakainya? (Penggunaan Utama)
+- #5. Pengecualian: Stative Verbs (Kata Kerja yang "Mager")
+- #6. Summary — Key Concepts at a Glance
+- #7. Uji Ingatanmu (Active Recall)
 
 ---
 

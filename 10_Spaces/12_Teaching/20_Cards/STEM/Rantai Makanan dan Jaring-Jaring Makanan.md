@@ -8,7 +8,7 @@ subject: IPA
 class: Kelas 7
 topic: "Rantai Makanan dan Jaring-Jaring Makanan"
 nomor_soal: ["24", "29", "34"]
-up: "[[IPA Kelas 7 - Sumatif 4 MOC]]"
+up: "IPA Kelas 7 - Sumatif 4 MOC"
 ---
 
 # 🔗 Rantai Makanan dan Jaring-Jaring Makanan
@@ -401,6 +401,6 @@ Jika ular sawah punah:
 
 ## 🔗 Koneksi
 
-- Kembali ke → [[IPA Kelas 7 - Sumatif 4 MOC]]
+- Kembali ke → IPA Kelas 7 - Sumatif 4 MOC
 - Sebelumnya → [[Ekosistem dan Keanekaragaman Hayati]]
 - Terkait → [[Tata Surya dan Bumi]]

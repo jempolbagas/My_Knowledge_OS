@@ -11,7 +11,7 @@ type: CourseOverview
 # 🔐 Cryptography (CRYPTO) — Semester 5
 
 > [!info] **Course Information**
-> - **Syllabus:** [[Crypto Syllabus]]
+> - **Syllabus:** [[Cryptography Syllabus]]
 > - **Dashboard:** [[00_Semester_5_Dashboard|Semester 5 Dashboard]]
 
 ---

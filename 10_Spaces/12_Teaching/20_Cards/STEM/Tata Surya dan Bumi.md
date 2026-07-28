@@ -8,7 +8,7 @@ subject: IPA
 class: Kelas 7
 topic: Tata Surya dan Bumi
 nomor_soal: ["15", "18", "19", "20"]
-up: "[[IPA Kelas 7 - Sumatif 4 MOC]]"
+up: "IPA Kelas 7 - Sumatif 4 MOC"
 ---
 
 # 🌍 Tata Surya dan Bumi
@@ -408,6 +408,6 @@ Negara-negara Eropa berada di **lintang tinggi** → kemiringan sumbu Bumi 23,5�
 
 ## 🔗 Koneksi
 
-- Kembali ke → [[IPA Kelas 7 - Sumatif 4 MOC]]
+- Kembali ke → IPA Kelas 7 - Sumatif 4 MOC
 - Terkait → [[Ekosistem dan Keanekaragaman Hayati]]
 - Terkait → [[Rantai Makanan dan Jaring-Jaring Makanan]]

@@ -9,7 +9,7 @@ class: Kelas 10
 topic: Energi Listrik
 nomor_soal: ["9", "10"]
 nomor_uraian: ["3"]
-up: "[[Fisika Kelas 10 - PSAT MOC]]"
+up: "Fisika Kelas 10 - PSAT MOC"
 ---
 
 # ⚡ Energi Listrik
@@ -443,8 +443,8 @@ $$W = P_{listrik} \times t = 1.600 \text{ kW} \times 1 \text{ jam} = \textbf{1.6
 
 ## 🔗 Koneksi
 
-- Kembali ke → [[Fisika Kelas 10 - PSAT MOC]]
-- Terkait → [[Energi Mekanik]]
-- Terkait → [[Energi Potensial]]
+- Kembali ke → Fisika Kelas 10 - PSAT MOC
+- Terkait → Energi Mekanik
+- Terkait → Energi Potensial
 - Terkait → [[Energi Panas (Kalor)]]
-- Terkait → [[Sumber Energi]]
+- Terkait → Sumber Energi

@@ -3,7 +3,7 @@ title: "LKPD dan Soal Evaluasi: Tenaga Eksogen"
 target_audience: "SMA Kelas X / SMP Kelas VIII"
 created: 2026-07-23
 sources:
-  - "[[00_Inbox/ULASAN SINGKAT TENTANG TENAGA EKSOGEN!  Belajar Geografi, Yuk! Eps 35]]"
+  - "00_Inbox/ULASAN SINGKAT TENTANG TENAGA EKSOGEN!  Belajar Geografi, Yuk! Eps 35"
   - "[[Materi_Tenaga_Eksogen]]"
 tags:
   - "practice"

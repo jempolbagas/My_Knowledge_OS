@@ -157,7 +157,7 @@ Penamaan "besi klorida" **ambigu** karena besi memiliki **dua valensi umum**:
 | Fe²⁺ | FeCl₂ | Besi(**II**) klorida |
 | Fe³⁺ | FeCl₃ | Besi(**III**) klorida |
 
-Sistem [[IUPAC]] menggunakan **angka Romawi dalam tanda kurung** untuk menunjukkan bilangan oksidasi logam, sehingga menghilangkan ambiguitas.
+Sistem IUPAC menggunakan **angka Romawi dalam tanda kurung** untuk menunjukkan bilangan oksidasi logam, sehingga menghilangkan ambiguitas.
 
 Ini penting karena kedua senyawa memiliki **sifat yang sangat berbeda**:
 - **Warna**: FeCl₂ berwarna hijau pucat, FeCl₃ berwarna cokelat kekuningan
@@ -303,7 +303,7 @@ $$(+1) + x = 0$$
 $$\boxed{x = -1}$$
 
 > [!info] Mengapa H = -1?
-> NaH adalah **hidrida logam**. Natrium (logam sangat aktif) memiliki [[keelektronegatifan]] yang jauh lebih rendah daripada hidrogen. Dalam kasus ini, H bersifat **lebih elektronegatif** dan "menarik" elektron dari Na, sehingga H mendapat biloks **-1**.
+> NaH adalah **hidrida logam**. Natrium (logam sangat aktif) memiliki keelektronegatifan yang jauh lebih rendah daripada hidrogen. Dalam kasus ini, H bersifat **lebih elektronegatif** dan "menarik" elektron dari Na, sehingga H mendapat biloks **-1**.
 
 **c. OF₂ (Oksigen Difluorida)**
 
@@ -379,13 +379,13 @@ $$\boxed{x = +3}$$
 
 **Bilangan oksidasi penting karena tiga alasan utama:**
 
-**1. Mengidentifikasi Reaksi [[Redoks]]**
+**1. Mengidentifikasi Reaksi Redoks**
 Dengan membandingkan biloks sebelum dan sesudah reaksi, kita dapat menentukan apakah suatu zat mengalami:
 - **Oksidasi**: biloks **naik** (kehilangan elektron)
 - **Reduksi**: biloks **turun** (menerima elektron)
 
 **2. Menyetarakan Persamaan Redoks**
-Metode [[setengah reaksi]] menggunakan perubahan biloks untuk menyetarakan jumlah elektron yang ditransfer antara oksidator dan reduktor.
+Metode setengah reaksi menggunakan perubahan biloks untuk menyetarakan jumlah elektron yang ditransfer antara oksidator dan reduktor.
 
 **3. Menentukan Agen Oksidator dan Reduktor**
 - Zat yang mengalami **reduksi** (biloks turun) → bertindak sebagai **oksidator**

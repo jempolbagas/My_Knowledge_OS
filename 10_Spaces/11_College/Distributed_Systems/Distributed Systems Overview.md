@@ -11,7 +11,7 @@ type: CourseOverview
 # 🌐 Distributed Systems (DS) — Semester 5
 
 > [!info] **Course Information**
-> - **Syllabus:** [[DS Syllabus]]
+> - **Syllabus:** [[Distributed Systems Syllabus]]
 > - **Dashboard:** [[00_Semester_5_Dashboard|Semester 5 Dashboard]]
 
 ---

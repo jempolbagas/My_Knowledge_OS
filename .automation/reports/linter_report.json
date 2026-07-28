@@ -1,358 +1,17 @@
 {
-  "broken_links": [
-    {
-      "file": "10_Spaces/11_College/00_Semester_5_Dashboard.md",
-      "broken_link": "DS Syllabus",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/00_Semester_5_Dashboard.md",
-      "broken_link": "IP Syllabus",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/00_Semester_5_Dashboard.md",
-      "broken_link": "DM Syllabus",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/00_Semester_5_Dashboard.md",
-      "broken_link": "HCI Syllabus",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/00_Semester_5_Dashboard.md",
-      "broken_link": "Crypto Syllabus",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/00_Semester_5_Dashboard.md",
-      "broken_link": "NM Syllabus",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/00_Semester_5_Dashboard.md",
-      "broken_link": "OS Syllabus",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/Cryptography/Cryptography Overview.md",
-      "broken_link": "Crypto Syllabus",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/Distributed_Systems/Distributed Systems Overview.md",
-      "broken_link": "DS Syllabus",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/Operating_Systems/Operating Systems Overview.md",
-      "broken_link": "OS Syllabus",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/Human_Computer_Interaction/HCI Overview.md",
-      "broken_link": "HCI Syllabus",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/Numerical_Methods/Numerical Methods Overview.md",
-      "broken_link": "NM Syllabus",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/Data_Mining/Data Mining Overview.md",
-      "broken_link": "DM Syllabus",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/Image_Processing/Image Processing Overview.md",
-      "broken_link": "IP Syllabus",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/20_Cards/Social_Studies/Masa Praaksara dan Asal-usul Nenek Moyang Bangsa Indonesia.md",
-      "broken_link": "IPS Kelas 7 - Sumatif 4 MOC",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/20_Cards/Social_Studies/Masa Kerajaan Islam di Indonesia.md",
-      "broken_link": "IPS Kelas 7 - Sumatif 4 MOC",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/20_Cards/Social_Studies/Peran Lembaga Sosial.md",
-      "broken_link": "IPS Kelas 7 - Sumatif 4 MOC",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/20_Cards/Social_Studies/Konsep Dasar Ilmu Sejarah.md",
-      "broken_link": "IPS Kelas 7 - Sumatif 4 MOC",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/20_Cards/Social_Studies/Jalur Rempah Nusantara.md",
-      "broken_link": "IPS Kelas 7 - Sumatif 4 MOC",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/20_Cards/Social_Studies/Masa Kerajaan Hindu-Budha di Indonesia.md",
-      "broken_link": "IPS Kelas 7 - Sumatif 4 MOC",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/20_Cards/STEM/Energi Panas (Kalor).md",
-      "broken_link": "Fisika Kelas 10 - PSAT MOC",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/20_Cards/STEM/Energi Panas (Kalor).md",
-      "broken_link": "Energi Mekanik",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/20_Cards/STEM/Energi Panas (Kalor).md",
-      "broken_link": "Energi Terbarukan dan Tak Terbarukan",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/20_Cards/STEM/Gerak Lurus.md",
-      "broken_link": "IPA Kelas 7 - Sumatif 4 MOC",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/20_Cards/STEM/Gerak Lurus Berubah Beraturan (GLBB).md",
-      "broken_link": "IPA Kelas 7 - Sumatif 4 MOC",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/20_Cards/STEM/[Math] Kisi-Kisi ASAT - Master Summary.md",
-      "broken_link": "Matematika ASAT MOC",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/20_Cards/STEM/[Math] Kisi-Kisi ASAT - Master Summary.md",
-      "broken_link": "Persamaan Kuadrat",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/20_Cards/STEM/[Math] Kisi-Kisi ASAT - Master Summary.md",
-      "broken_link": "Sistem Persamaan Linear",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/20_Cards/STEM/[Math] Kisi-Kisi ASAT - Master Summary.md",
-      "broken_link": "Pertidaksamaan Linear",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/20_Cards/STEM/[Math] Kisi-Kisi ASAT - Master Summary.md",
-      "broken_link": "Statistika Deskriptif",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/20_Cards/STEM/Ekosistem dan Keanekaragaman Hayati.md",
-      "broken_link": "IPA Kelas 7 - Sumatif 4 MOC",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/20_Cards/STEM/Rantai Makanan dan Jaring-Jaring Makanan.md",
-      "broken_link": "IPA Kelas 7 - Sumatif 4 MOC",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/20_Cards/STEM/Kecepatan dan Kelajuan.md",
-      "broken_link": "IPA Kelas 7 - Sumatif 4 MOC",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/20_Cards/STEM/Tata Surya dan Bumi.md",
-      "broken_link": "IPA Kelas 7 - Sumatif 4 MOC",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/20_Cards/STEM/Energi Listrik.md",
-      "broken_link": "Fisika Kelas 10 - PSAT MOC",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/20_Cards/STEM/Energi Listrik.md",
-      "broken_link": "Energi Mekanik",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/20_Cards/STEM/Energi Listrik.md",
-      "broken_link": "Energi Potensial",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/20_Cards/STEM/Energi Listrik.md",
-      "broken_link": "Sumber Energi",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/20_Cards/STEM/Gaya dan Hukum Newton.md",
-      "broken_link": "IPA Kelas 7 - Sumatif 4 MOC",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Kunci Jawaban - Tata Nama dan Biloks.md",
-      "broken_link": "IUPAC",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Kunci Jawaban - Tata Nama dan Biloks.md",
-      "broken_link": "keelektronegatifan",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Kunci Jawaban - Tata Nama dan Biloks.md",
-      "broken_link": "Redoks",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Kunci Jawaban - Tata Nama dan Biloks.md",
-      "broken_link": "setengah reaksi",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Tata Nama dan Biloks.md",
-      "broken_link": "tata nama IUPAC",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Tata Nama dan Biloks.md",
-      "broken_link": "senyawa ion biner",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Tata Nama dan Biloks.md",
-      "broken_link": "senyawa ion poliatomik",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Tata Nama dan Biloks.md",
-      "broken_link": "senyawa kovalen biner",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Tata Nama dan Biloks.md",
-      "broken_link": "asam",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Tata Nama dan Biloks.md",
-      "broken_link": "basa",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Tata Nama dan Biloks.md",
-      "broken_link": "tata nama IUPAC",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Tata Nama dan Biloks.md",
-      "broken_link": "bilangan oksidasi",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Tata Nama dan Biloks.md",
-      "broken_link": "bilangan oksidasi",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Tata Nama dan Biloks.md",
-      "broken_link": "reaksi redoks",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Tata Nama dan Biloks.md",
-      "broken_link": "titrasi redoks",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Tata Nama dan Biloks.md",
-      "broken_link": "oksidasi",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Tata Nama dan Biloks.md",
-      "broken_link": "reduksi",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/00_Atlas/index.md",
-      "broken_link": "20_Cards/",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/00_Atlas/index.md",
-      "broken_link": "40_Practice/",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/00_Atlas/index.md",
-      "broken_link": "30_Sources/",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/STEM/[Chem] Tata Nama Senyawa dan Biloks - First Principle.md",
-      "broken_link": "Bab 3 \u2014 Reaksi Redoks",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Machine_Learning_Roadmap.md",
-      "broken_link": "Machine Learning Roadmap",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Machine_Learning_Roadmap.md",
-      "broken_link": "Bottom-Up vs. Top-Down Learning",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Machine_Learning_Roadmap.md",
-      "broken_link": "Vectorization in NumPy",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Cybersecurity/Cybersecurity_Roadmap.md",
-      "broken_link": "Symmetric vs. Asymmetric Encryption",
-      "context": "wikilink"
-    }
-  ],
+  "broken_links": [],
   "orphans": [
-    {
-      "file": "10_Spaces/11_College/Syllabi/Distributed Systems Syllabus.md",
-      "title": "Distributed Systems Syllabus"
-    },
-    {
-      "file": "10_Spaces/11_College/Syllabi/Numerical Methods Syllabus.md",
-      "title": "Numerical Methods Syllabus"
-    },
-    {
-      "file": "10_Spaces/11_College/Syllabi/Operating Systems Syllabus.md",
-      "title": "Operating Systems Syllabus"
-    },
-    {
-      "file": "10_Spaces/11_College/Syllabi/Human Computer Interaction Syllabus.md",
-      "title": "Human Computer Interaction Syllabus"
-    },
-    {
-      "file": "10_Spaces/11_College/Syllabi/Cryptography Syllabus.md",
-      "title": "Cryptography Syllabus"
-    },
     {
       "file": "10_Spaces/11_College/Syllabi/Syllabus_Template.md",
       "title": "Syllabus_Template"
     },
     {
-      "file": "10_Spaces/11_College/Syllabi/Data Mining Syllabus.md",
-      "title": "Data Mining Syllabus"
+      "file": "10_Spaces/12_Teaching/20_Cards/Languages/[ESL] Present Continuous Tense.md",
+      "title": "[ESL] Present Continuous Tense"
     },
     {
-      "file": "10_Spaces/11_College/Syllabi/Image Processing Syllabus.md",
-      "title": "Image Processing Syllabus"
+      "file": "10_Spaces/12_Teaching/20_Cards/Social_Studies/Peran Lembaga Sosial.md",
+      "title": "Peran Lembaga Sosial"
     },
     {
       "file": "10_Spaces/12_Teaching/20_Cards/STEM/[Chem] Reaksi Redoks - Rangkuman.md",
@@ -363,8 +22,16 @@
       "title": "[Chem] Tata Nama dan Biloks - Rangkuman"
     },
     {
+      "file": "10_Spaces/12_Teaching/20_Cards/STEM/[Math] Kisi-Kisi ASAT - Master Summary.md",
+      "title": "[Math] Kisi-Kisi ASAT - Master Summary"
+    },
+    {
       "file": "10_Spaces/12_Teaching/20_Cards/STEM/[Chem] Konsep Mol - Rangkuman.md",
       "title": "[Chem] Konsep Mol - Rangkuman"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/40_Practice/Languages/[ESL] Worksheet - Simple Present vs Present Continuous.md",
+      "title": "[ESL] Worksheet - Simple Present vs Present Continuous"
     },
     {
       "file": "10_Spaces/12_Teaching/40_Practice/Languages/LKPD_dan_Soal_Simple_Past_Tense.md",
@@ -383,6 +50,18 @@
       "title": "LKPD_dan_Soal_Pola_Bilangan"
     },
     {
+      "file": "10_Spaces/12_Teaching/40_Practice/Biology/LKPD_dan_Soal_Sistem_Pencernaan_Makanan.md",
+      "title": "LKPD_dan_Soal_Sistem_Pencernaan_Makanan"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Kunci Jawaban - Tata Nama dan Biloks.md",
+      "title": "[Chem] Kunci Jawaban - Tata Nama dan Biloks"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Tata Nama dan Biloks.md",
+      "title": "[Chem] Worksheet - Tata Nama dan Biloks"
+    },
+    {
       "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Reaksi Redoks.md",
       "title": "[Chem] Worksheet - Reaksi Redoks"
     },
@@ -397,6 +76,10 @@
     {
       "file": "10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Kunci Jawaban - Reaksi Redoks.md",
       "title": "[Chem] Kunci Jawaban - Reaksi Redoks"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/00_Atlas/index.md",
+      "title": "index"
     },
     {
       "file": "10_Spaces/12_Teaching/30_Sources/Languages/[Arabic] Pengenalan Kosakata Anggota Keluarga.md",
@@ -419,12 +102,20 @@
       "title": "Materi_Pola_Bilangan"
     },
     {
+      "file": "10_Spaces/12_Teaching/30_Sources/Biology/Materi_Sistem_Pencernaan_Makanan.md",
+      "title": "Materi_Sistem_Pencernaan_Makanan"
+    },
+    {
       "file": "10_Spaces/12_Teaching/30_Sources/STEM/[Chem] Reaksi Redoks - First Principle.md",
       "title": "[Chem] Reaksi Redoks - First Principle"
     },
     {
       "file": "10_Spaces/12_Teaching/30_Sources/STEM/[Math] Logarithms - First Principle.md",
       "title": "[Math] Logarithms - First Principle"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/30_Sources/STEM/[Chem] Tata Nama Senyawa dan Biloks - First Principle.md",
+      "title": "[Chem] Tata Nama Senyawa dan Biloks - First Principle"
     },
     {
       "file": "10_Spaces/12_Teaching/30_Sources/STEM/[Math] Statistika - First Principle.md",
@@ -455,40 +146,24 @@
       "title": "Gerak Melingkar Beraturan - First Principle"
     },
     {
-      "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/Computer_Network/(CN-8) IPv4 Subnetting Lecture Notes.md",
-      "title": "(CN-8) IPv4 Subnetting Lecture Notes"
-    },
-    {
-      "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/Computer_Network/(CN-10) ICMP Lecture Notes.md",
-      "title": "(CN-10) ICMP Lecture Notes"
-    },
-    {
-      "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/Computer_Network/(CN-9a) IPv6 Lecture Notes.md",
-      "title": "(CN-9a) IPv6 Lecture Notes"
-    },
-    {
-      "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/Computer_Network/(CN-13) Application, Presentation, dan Session Layer Lecture Notes.md",
-      "title": "(CN-13) Application, Presentation, dan Session Layer Lecture Notes"
-    },
-    {
-      "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/Computer_Network/(CN-9b) IPv6 Subnetting Lecture Notes.md",
-      "title": "(CN-9b) IPv6 Subnetting Lecture Notes"
-    },
-    {
-      "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/Computer_Network/(CN-7) IPv4 Lecture Notes.md",
-      "title": "(CN-7) IPv4 Lecture Notes"
-    },
-    {
-      "file": "20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/Computer_Network/(CN-11) Transport Layer Lecture Notes.md",
-      "title": "(CN-11) Transport Layer Lecture Notes"
-    },
-    {
       "file": "00_Inbox/Mari Kenali Keanekaragaman Hayati Indonesia.md",
       "title": "Mari Kenali Keanekaragaman Hayati Indonesia"
     },
     {
       "file": "00_Inbox/LITOSFER TENAGA ENDOGEN DAN EKSOGEN.md",
       "title": "LITOSFER TENAGA ENDOGEN DAN EKSOGEN"
+    },
+    {
+      "file": "00_Inbox/8 Macam Gangguan pada Organ Pencernaan Manusia.md",
+      "title": "8 Macam Gangguan pada Organ Pencernaan Manusia"
+    },
+    {
+      "file": "00_Inbox/Macam-Macam Organ Sistem Pencernaan Manusia & Fungsinya.md",
+      "title": "Macam-Macam Organ Sistem Pencernaan Manusia & Fungsinya"
+    },
+    {
+      "file": "00_Inbox/Sistem Pencernaan Manusia Proses Pencernaan, Penyakit Sistem Pencernaan, dan Pola Makan Sehat  IPA.md",
+      "title": "Sistem Pencernaan Manusia Proses Pencernaan, Penyakit Sistem Pencernaan, dan Pola Makan Sehat  IPA"
     },
     {
       "file": "00_Inbox/ULASAN SINGKAT TENTANG TENAGA EKSOGEN!  Belajar Geografi, Yuk! Eps 35.md",

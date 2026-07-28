@@ -8,7 +8,7 @@ subject: IPA
 class: Kelas 7
 topic: Gerak Lurus
 nomor_soal: ["1", "2", "21"]
-up: "[[IPA Kelas 7 - Sumatif 4 MOC]]"
+up: "IPA Kelas 7 - Sumatif 4 MOC"
 ---
 
 # 🏃 Gerak Lurus
@@ -311,7 +311,7 @@ b. **Perpindahan:**
 
 ## 🔗 Koneksi
 
-- Kembali ke → [[IPA Kelas 7 - Sumatif 4 MOC]]
+- Kembali ke → IPA Kelas 7 - Sumatif 4 MOC
 - Lanjut ke → [[Kecepatan dan Kelajuan]]
 - Terkait → [[Gerak Lurus Berubah Beraturan (GLBB)]]
 - Terkait → [[Gaya dan Hukum Newton]]

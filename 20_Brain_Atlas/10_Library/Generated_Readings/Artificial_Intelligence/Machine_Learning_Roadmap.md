@@ -6,7 +6,7 @@ requested_on: "2026-07-13"
 prompt: "If I wanna learn about Machine Learning from scratch, how the roadmap would look like? Adjusted to be a time-independent, dependency-based skill tree to flow naturally."
 status: done
 tags: [machine-learning, roadmap, study-guide, computer-science]
-promoted_to: []
+promoted_to: ["[[Machine Learning Roadmap]]", "[[Bottom-Up vs. Top-Down Learning]]", "[[Vectorization in NumPy]]"]
 ---
 
 ## The reading
@@ -129,6 +129,6 @@ Here, the path branches. You can follow either or both branches depending on wha
 ---
 
 ## Concepts to extract
-- [ ] [[Machine Learning Roadmap]]
-- [ ] [[Bottom-Up vs. Top-Down Learning]]
-- [ ] [[Vectorization in NumPy]]
+- [x] [[Machine Learning Roadmap]]
+- [x] [[Bottom-Up vs. Top-Down Learning]]
+- [x] [[Vectorization in NumPy]]

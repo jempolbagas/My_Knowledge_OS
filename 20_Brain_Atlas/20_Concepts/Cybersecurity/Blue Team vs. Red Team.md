@@ -5,7 +5,7 @@ subject: "Cybersecurity"
 date_created: 2026-07-19
 tags: [cybersecurity, security-roles]
 source: "[[Cybersecurity_Roadmap]]"
-source_hash: "f1764a8b764c08ae4fce5f221e579773"
+source_hash: "1572d01123e2f95e15b99e8b446c7118"
 ---
 
 ## The idea (one clear statement)

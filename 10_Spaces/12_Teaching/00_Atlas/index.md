@@ -10,13 +10,13 @@ Welcome to the Teaching Resources Hub! This space is dedicated to organizing lea
 
 ## 🧭 Navigation Dashboard
 
-> [!tip] 🧠 **[[20_Cards/|Topic & Concept Notes]]**
+> [!tip] 🧠 **Topic & Concept Notes**
 > Core concepts across STEM and Social Studies, broken down into digestible notes.
 
-> [!example] 📝 **[[40_Practice/|Worked Examples & Exercises]]**
+> [!example] 📝 **Worked Examples & Exercises**
 > Practical applications, step-by-step solutions, and student practice sets.
 
-> [!info] 🛠️ **[[30_Sources/|Source Materials]]**
+> [!info] 🛠️ **Source Materials**
 > Reference books, papers, and curriculum guides.
 
 ---

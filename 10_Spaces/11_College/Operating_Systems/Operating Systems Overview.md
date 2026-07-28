@@ -13,7 +13,7 @@ type: CourseOverview
 # 💻 Operating Systems (OS) — Semester 5 (Retake / Smt 3)
 
 > [!warning] **Course Status:** Retake Course (Matkul Smt 3)
-> - **Syllabus:** [[OS Syllabus]]
+> - **Syllabus:** [[Operating Systems Syllabus]]
 > - **Dashboard:** [[00_Semester_5_Dashboard|Semester 5 Dashboard]]
 
 ---

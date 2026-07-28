@@ -7,7 +7,7 @@ created: "2026-05-26"
 subject: IPS
 class: Kelas 7
 nomor_soal: ["15", "16", "17", "18", "25", "30", "35"]
-up: "[[IPS Kelas 7 - Sumatif 4 MOC]]"
+up: "IPS Kelas 7 - Sumatif 4 MOC"
 ---
 
 # 🕌 Masa Kerajaan Islam di Indonesia
@@ -545,4 +545,4 @@ Tradisi:
 ## 🔗 Koneksi
 - Sebelumnya → [[Masa Kerajaan Hindu-Budha di Indonesia]]
 - Selanjutnya → [[Jalur Rempah Nusantara]]
-- Kembali ke → [[IPS Kelas 7 - Sumatif 4 MOC]]
+- Kembali ke → IPS Kelas 7 - Sumatif 4 MOC

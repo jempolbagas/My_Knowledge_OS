@@ -11,7 +11,7 @@ type: CourseOverview
 # ⛏️ Data Mining (DM) — Semester 5
 
 > [!info] **Course Information**
-> - **Syllabus:** [[DM Syllabus]]
+> - **Syllabus:** [[Data Mining Syllabus]]
 > - **Dashboard:** [[00_Semester_5_Dashboard|Semester 5 Dashboard]]
 
 ---

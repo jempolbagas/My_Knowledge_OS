@@ -14,7 +14,7 @@ date: "2026-05-24"
 
 > [!info] Petunjuk Pengerjaan
 > - Kerjakan semua soal dengan menunjukkan **langkah-langkah** penyelesaian.
-> - Gunakan [[tata nama IUPAC]] yang berlaku.
+> - Gunakan tata nama IUPAC yang berlaku.
 > - Untuk soal bilangan oksidasi, tuliskan **perhitungan lengkap**.
 
 ---
@@ -29,7 +29,7 @@ date: "2026-05-24"
    - c. Aluminium sulfat
    - d. Amonium nitrat
 
-3. **Identifikasi Jenis:** Klasifikasikan senyawa berikut ke dalam kategori yang tepat ([[senyawa ion biner]], [[senyawa ion poliatomik]], [[senyawa kovalen biner]], [[asam]], atau [[basa]]):
+3. **Identifikasi Jenis:** Klasifikasikan senyawa berikut ke dalam kategori yang tepat (senyawa ion biner, senyawa ion poliatomik, senyawa kovalen biner, asam, atau basa):
 
    | Senyawa | Jenis Senyawa |
    | ------- | ------------- |
@@ -58,13 +58,13 @@ date: "2026-05-24"
    | $\text{H}_2\text{SO}_3$ | … | … |
    | $\text{NH}_4\text{Cl}$ | … | … |
 
-7. **Tantangan Penamaan:** Seorang siswa menulis "besi klorida" untuk $\text{FeCl}_2$ dan $\text{FeCl}_3$ tanpa membedakan keduanya. Jelaskan mengapa penamaan ini ambigu dan bagaimana sistem [[tata nama IUPAC]] menyelesaikan masalah ini.
+7. **Tantangan Penamaan:** Seorang siswa menulis "besi klorida" untuk $\text{FeCl}_2$ dan $\text{FeCl}_3$ tanpa membedakan keduanya. Jelaskan mengapa penamaan ini ambigu dan bagaimana sistem tata nama IUPAC menyelesaikan masalah ini.
 
 ---
 
 ## Bagian 2: Bilangan Oksidasi
 
-8. **Biloks Dasar:** Tentukan [[bilangan oksidasi]] setiap unsur dalam senyawa berikut:
+8. **Biloks Dasar:** Tentukan bilangan oksidasi setiap unsur dalam senyawa berikut:
    - a. $\text{NaCl}$
    - b. $\text{H}_2\text{O}$
    - c. $\text{MgO}$
@@ -98,11 +98,11 @@ date: "2026-05-24"
     - c. $\text{N}$ dalam $\text{Ca(NO}_3)_2$
     - d. $\text{Fe}$ dalam $\text{Fe}_2(\text{SO}_4)_3$
 
-13. **Konseptual:** Mengapa [[bilangan oksidasi]] penting dalam kimia? Berikan minimal 2 alasan dan kaitkan dengan konsep [[reaksi redoks]].
+13. **Konseptual:** Mengapa bilangan oksidasi penting dalam kimia? Berikan minimal 2 alasan dan kaitkan dengan konsep reaksi redoks.
 
-14. **Tantangan Akhir:** Seorang peneliti menganalisis senyawa $\text{K}_2\text{Cr}_2\text{O}_7$ (kalium dikromat) yang digunakan dalam [[titrasi redoks]].
+14. **Tantangan Akhir:** Seorang peneliti menganalisis senyawa $\text{K}_2\text{Cr}_2\text{O}_7$ (kalium dikromat) yang digunakan dalam titrasi redoks.
     - a. Tentukan biloks $\text{Cr}$ dalam $\text{K}_2\text{Cr}_2\text{O}_7$
-    - b. Jika $\text{Cr}$ berubah menjadi $\text{Cr}^{3+}$ setelah reaksi, apakah $\text{Cr}$ mengalami [[oksidasi]] atau [[reduksi]]? Jelaskan.
+    - b. Jika $\text{Cr}$ berubah menjadi $\text{Cr}^{3+}$ setelah reaksi, apakah $\text{Cr}$ mengalami oksidasi atau reduksi? Jelaskan.
     - c. Berapa perubahan biloks yang terjadi?
 
 ---

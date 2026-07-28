@@ -7,7 +7,7 @@ created: "2026-06-03"
 subject: Matematika
 class: SMA
 topic: "Kisi-Kisi ASAT"
-up: "[[Matematika ASAT MOC]]"
+up: "Matematika ASAT MOC"
 ---
 
 # 📐 Kisi-Kisi ASAT Matematika — Master Summary
@@ -700,8 +700,8 @@ $$CV = \frac{\sigma}{\bar{x}} \times 100\%$$
 
 ## 🔗 Koneksi
 
-- Kembali ke → [[Matematika ASAT MOC]]
-- Terkait → [[Persamaan Kuadrat]]
-- Terkait → [[Sistem Persamaan Linear]]
-- Terkait → [[Pertidaksamaan Linear]]
-- Terkait → [[Statistika Deskriptif]]
+- Kembali ke → Matematika ASAT MOC
+- Terkait → Persamaan Kuadrat
+- Terkait → Sistem Persamaan Linear
+- Terkait → Pertidaksamaan Linear
+- Terkait → Statistika Deskriptif

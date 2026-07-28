@@ -11,7 +11,7 @@ type: CourseOverview
 # 🖼️ Image Processing (IP) — Semester 5
 
 > [!info] **Course Information**
-> - **Syllabus:** [[IP Syllabus]]
+> - **Syllabus:** [[Image Processing Syllabus]]
 > - **Dashboard:** [[00_Semester_5_Dashboard|Semester 5 Dashboard]]
 
 ---

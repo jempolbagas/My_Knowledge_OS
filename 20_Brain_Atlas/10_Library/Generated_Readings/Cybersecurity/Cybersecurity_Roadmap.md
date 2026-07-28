@@ -6,7 +6,7 @@ requested_on: "2026-07-13"
 prompt: "Alright then, I want to start learning on cybersecurity. I have a linux fedora on my laptop if you're wondering. So, how do i start?"
 status: archived
 tags: [cybersecurity, linux, fedora, roadmap, misfiled]
-promoted_to: []
+promoted_to: ["[[CIA Triad]]", "[[Blue Team vs. Red Team]]", "[[Cybersecurity Roadmap]]", "[[Symmetric vs. Asymmetric Encryption]]"]
 ---
 
 ## The reading
@@ -123,7 +123,7 @@ At this level, select the track that matches your goals. You can shift paths dyn
 ---
 
 ## Concepts to extract
-- [ ] [[Cybersecurity_Roadmap]]
+- [x] [[Cybersecurity Roadmap]]
 - [x] [[CIA Triad]]
-- [ ] [[Symmetric vs. Asymmetric Encryption]]
+- [x] [[Symmetric vs. Asymmetric Encryption]]
 - [x] [[Blue Team vs. Red Team]]

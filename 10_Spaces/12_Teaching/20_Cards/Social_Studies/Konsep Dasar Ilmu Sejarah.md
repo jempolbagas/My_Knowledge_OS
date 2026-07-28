@@ -7,7 +7,7 @@ created: "2026-05-26"
 subject: IPS
 class: Kelas 7
 nomor_soal: ["4", "5", "6", "22", "27", "32"]
-up: "[[IPS Kelas 7 - Sumatif 4 MOC]]"
+up: "IPS Kelas 7 - Sumatif 4 MOC"
 ---
 
 # 📜 Konsep Dasar Ilmu Sejarah
@@ -490,4 +490,4 @@ Candi Borobudur, fosil manusia purba, dan arca Budha merupakan contoh sumber sej
 
 ## 🔗 Koneksi
 - Berlanjut ke → [[Masa Praaksara dan Asal-usul Nenek Moyang Bangsa Indonesia]]
-- Kembali ke → [[IPS Kelas 7 - Sumatif 4 MOC]]
+- Kembali ke → IPS Kelas 7 - Sumatif 4 MOC

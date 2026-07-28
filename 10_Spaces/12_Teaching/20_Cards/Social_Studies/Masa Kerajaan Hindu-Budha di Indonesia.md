@@ -7,7 +7,7 @@ created: "2026-05-26"
 subject: IPS
 class: Kelas 7
 nomor_soal: ["11", "12", "13", "14", "24", "29", "34"]
-up: "[[IPS Kelas 7 - Sumatif 4 MOC]]"
+up: "IPS Kelas 7 - Sumatif 4 MOC"
 ---
 
 # 🕌 Masa Kerajaan Hindu-Budha di Indonesia
@@ -642,4 +642,4 @@ d. Arjunawiwaha karya Mpu Kanwa
 ## 🔗 Koneksi
 - Sebelumnya → [[Masa Praaksara dan Asal-usul Nenek Moyang Bangsa Indonesia]]
 - Selanjutnya → [[Masa Kerajaan Islam di Indonesia]]
-- Kembali ke → [[IPS Kelas 7 - Sumatif 4 MOC]]
+- Kembali ke → IPS Kelas 7 - Sumatif 4 MOC

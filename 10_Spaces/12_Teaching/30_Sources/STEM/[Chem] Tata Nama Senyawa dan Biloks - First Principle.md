@@ -273,7 +273,7 @@ Sekarang kita terapkan aturan-aturan di atas untuk mencari biloks atom yang tida
 > - **Oksidasi** = biloks **naik** (atom kehilangan elektron)
 > - **Reduksi** = biloks **turun** (atom mendapat elektron)
 >
-> Kita akan membahas ini secara mendalam di [[Bab 3 — Reaksi Redoks]].
+> Kita akan membahas ini secara mendalam di Bab 3 — Reaksi Redoks.
 
 ---
 

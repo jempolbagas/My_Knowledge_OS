@@ -8,7 +8,7 @@ subject: IPA
 class: Kelas 7
 topic: Ekosistem dan Keanekaragaman Hayati
 nomor_soal: ["11", "12", "13", "14"]
-up: "[[IPA Kelas 7 - Sumatif 4 MOC]]"
+up: "IPA Kelas 7 - Sumatif 4 MOC"
 ---
 
 # 🌿 Ekosistem dan Keanekaragaman Hayati
@@ -409,6 +409,6 @@ Yang termasuk komponen **biotik** adalah …
 
 ## 🔗 Koneksi
 
-- Kembali ke → [[IPA Kelas 7 - Sumatif 4 MOC]]
+- Kembali ke → IPA Kelas 7 - Sumatif 4 MOC
 - Lanjut ke → [[Rantai Makanan dan Jaring-Jaring Makanan]]
 - Terkait → [[Tata Surya dan Bumi]]

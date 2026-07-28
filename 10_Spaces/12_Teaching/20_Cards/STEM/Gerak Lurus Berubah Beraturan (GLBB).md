@@ -8,7 +8,7 @@ subject: IPA
 class: Kelas 7
 topic: GLBB
 nomor_soal: ["32"]
-up: "[[IPA Kelas 7 - Sumatif 4 MOC]]"
+up: "IPA Kelas 7 - Sumatif 4 MOC"
 ---
 
 # 🚀 Gerak Lurus Berubah Beraturan (GLBB)
@@ -383,7 +383,7 @@ Contoh GLBB: motor yang mulai bergerak dari lampu merah dengan kecepatan bertamb
 
 ## 🔗 Koneksi
 
-- Kembali ke → [[IPA Kelas 7 - Sumatif 4 MOC]]
+- Kembali ke → IPA Kelas 7 - Sumatif 4 MOC
 - Sebelumnya → [[Kecepatan dan Kelajuan]]
 - Terkait → [[Gerak Lurus]]
 - Lanjut ke → [[Gaya dan Hukum Newton]]

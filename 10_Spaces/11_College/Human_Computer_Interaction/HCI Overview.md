@@ -11,7 +11,7 @@ type: CourseOverview
 # 🖥️ Human & Computer Interaction (HCI) — Semester 5
 
 > [!info] **Course Information**
-> - **Syllabus:** [[HCI Syllabus]]
+> - **Syllabus:** [[Human Computer Interaction Syllabus]]
 > - **Dashboard:** [[00_Semester_5_Dashboard|Semester 5 Dashboard]]
 
 ---

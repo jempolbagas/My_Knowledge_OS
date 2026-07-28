@@ -13,7 +13,7 @@ type: CourseOverview
 # 📐 Numerical Methods (NM) — Semester 5 (Retake / Smt 3)
 
 > [!warning] **Course Status:** Retake Course (Matkul Smt 3)
-> - **Syllabus:** [[NM Syllabus]]
+> - **Syllabus:** [[Numerical Methods Syllabus]]
 > - **Dashboard:** [[00_Semester_5_Dashboard|Semester 5 Dashboard]]
 
 ---

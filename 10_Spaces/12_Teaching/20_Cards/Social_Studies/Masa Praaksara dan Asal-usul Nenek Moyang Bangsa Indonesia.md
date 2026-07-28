@@ -7,7 +7,7 @@ created: "2026-05-26"
 subject: IPS
 class: Kelas 7
 nomor_soal: ["7", "8", "9", "10", "23", "28", "33"]
-up: "[[IPS Kelas 7 - Sumatif 4 MOC]]"
+up: "IPS Kelas 7 - Sumatif 4 MOC"
 ---
 
 # 🪨 Masa Praaksara dan Asal-usul Nenek Moyang Bangsa Indonesia
@@ -573,4 +573,4 @@ Berdasarkan teori migrasi, penduduk kepulauan Indonesia berasal dari beberapa ge
 ## 🔗 Koneksi
 - Sebelumnya → [[Konsep Dasar Ilmu Sejarah]]
 - Selanjutnya → [[Masa Kerajaan Hindu-Budha di Indonesia]]
-- Kembali ke → [[IPS Kelas 7 - Sumatif 4 MOC]]
+- Kembali ke → IPS Kelas 7 - Sumatif 4 MOC

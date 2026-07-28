@@ -1,101 +1,39 @@
 # Knowledge OS Structural Linter Report
 
 ## 🔗 Broken Links
-| File | Broken Link Target | Context |
-| --- | --- | --- |
-| [[00_Semester_5_Dashboard]] | `DS Syllabus` | `wikilink` |
-| [[00_Semester_5_Dashboard]] | `IP Syllabus` | `wikilink` |
-| [[00_Semester_5_Dashboard]] | `DM Syllabus` | `wikilink` |
-| [[00_Semester_5_Dashboard]] | `HCI Syllabus` | `wikilink` |
-| [[00_Semester_5_Dashboard]] | `Crypto Syllabus` | `wikilink` |
-| [[00_Semester_5_Dashboard]] | `NM Syllabus` | `wikilink` |
-| [[00_Semester_5_Dashboard]] | `OS Syllabus` | `wikilink` |
-| [[Cryptography Overview]] | `Crypto Syllabus` | `wikilink` |
-| [[Distributed Systems Overview]] | `DS Syllabus` | `wikilink` |
-| [[Operating Systems Overview]] | `OS Syllabus` | `wikilink` |
-| [[HCI Overview]] | `HCI Syllabus` | `wikilink` |
-| [[Numerical Methods Overview]] | `NM Syllabus` | `wikilink` |
-| [[Data Mining Overview]] | `DM Syllabus` | `wikilink` |
-| [[Image Processing Overview]] | `IP Syllabus` | `wikilink` |
-| [[Masa Praaksara dan Asal-usul Nenek Moyang Bangsa Indonesia]] | `IPS Kelas 7 - Sumatif 4 MOC` | `wikilink` |
-| [[Masa Kerajaan Islam di Indonesia]] | `IPS Kelas 7 - Sumatif 4 MOC` | `wikilink` |
-| [[Peran Lembaga Sosial]] | `IPS Kelas 7 - Sumatif 4 MOC` | `wikilink` |
-| [[Konsep Dasar Ilmu Sejarah]] | `IPS Kelas 7 - Sumatif 4 MOC` | `wikilink` |
-| [[Jalur Rempah Nusantara]] | `IPS Kelas 7 - Sumatif 4 MOC` | `wikilink` |
-| [[Masa Kerajaan Hindu-Budha di Indonesia]] | `IPS Kelas 7 - Sumatif 4 MOC` | `wikilink` |
-| [[Energi Panas (Kalor)]] | `Fisika Kelas 10 - PSAT MOC` | `wikilink` |
-| [[Energi Panas (Kalor)]] | `Energi Mekanik` | `wikilink` |
-| [[Energi Panas (Kalor)]] | `Energi Terbarukan dan Tak Terbarukan` | `wikilink` |
-| [[Gerak Lurus]] | `IPA Kelas 7 - Sumatif 4 MOC` | `wikilink` |
-| [[Gerak Lurus Berubah Beraturan (GLBB)]] | `IPA Kelas 7 - Sumatif 4 MOC` | `wikilink` |
-| [[[Math] Kisi-Kisi ASAT - Master Summary]] | `Matematika ASAT MOC` | `wikilink` |
-| [[[Math] Kisi-Kisi ASAT - Master Summary]] | `Persamaan Kuadrat` | `wikilink` |
-| [[[Math] Kisi-Kisi ASAT - Master Summary]] | `Sistem Persamaan Linear` | `wikilink` |
-| [[[Math] Kisi-Kisi ASAT - Master Summary]] | `Pertidaksamaan Linear` | `wikilink` |
-| [[[Math] Kisi-Kisi ASAT - Master Summary]] | `Statistika Deskriptif` | `wikilink` |
-| [[Ekosistem dan Keanekaragaman Hayati]] | `IPA Kelas 7 - Sumatif 4 MOC` | `wikilink` |
-| [[Rantai Makanan dan Jaring-Jaring Makanan]] | `IPA Kelas 7 - Sumatif 4 MOC` | `wikilink` |
-| [[Kecepatan dan Kelajuan]] | `IPA Kelas 7 - Sumatif 4 MOC` | `wikilink` |
-| [[Tata Surya dan Bumi]] | `IPA Kelas 7 - Sumatif 4 MOC` | `wikilink` |
-| [[Energi Listrik]] | `Fisika Kelas 10 - PSAT MOC` | `wikilink` |
-| [[Energi Listrik]] | `Energi Mekanik` | `wikilink` |
-| [[Energi Listrik]] | `Energi Potensial` | `wikilink` |
-| [[Energi Listrik]] | `Sumber Energi` | `wikilink` |
-| [[Gaya dan Hukum Newton]] | `IPA Kelas 7 - Sumatif 4 MOC` | `wikilink` |
-| [[[Chem] Kunci Jawaban - Tata Nama dan Biloks]] | `IUPAC` | `wikilink` |
-| [[[Chem] Kunci Jawaban - Tata Nama dan Biloks]] | `keelektronegatifan` | `wikilink` |
-| [[[Chem] Kunci Jawaban - Tata Nama dan Biloks]] | `Redoks` | `wikilink` |
-| [[[Chem] Kunci Jawaban - Tata Nama dan Biloks]] | `setengah reaksi` | `wikilink` |
-| [[[Chem] Worksheet - Tata Nama dan Biloks]] | `tata nama IUPAC` | `wikilink` |
-| [[[Chem] Worksheet - Tata Nama dan Biloks]] | `senyawa ion biner` | `wikilink` |
-| [[[Chem] Worksheet - Tata Nama dan Biloks]] | `senyawa ion poliatomik` | `wikilink` |
-| [[[Chem] Worksheet - Tata Nama dan Biloks]] | `senyawa kovalen biner` | `wikilink` |
-| [[[Chem] Worksheet - Tata Nama dan Biloks]] | `asam` | `wikilink` |
-| [[[Chem] Worksheet - Tata Nama dan Biloks]] | `basa` | `wikilink` |
-| [[[Chem] Worksheet - Tata Nama dan Biloks]] | `tata nama IUPAC` | `wikilink` |
-| [[[Chem] Worksheet - Tata Nama dan Biloks]] | `bilangan oksidasi` | `wikilink` |
-| [[[Chem] Worksheet - Tata Nama dan Biloks]] | `bilangan oksidasi` | `wikilink` |
-| [[[Chem] Worksheet - Tata Nama dan Biloks]] | `reaksi redoks` | `wikilink` |
-| [[[Chem] Worksheet - Tata Nama dan Biloks]] | `titrasi redoks` | `wikilink` |
-| [[[Chem] Worksheet - Tata Nama dan Biloks]] | `oksidasi` | `wikilink` |
-| [[[Chem] Worksheet - Tata Nama dan Biloks]] | `reduksi` | `wikilink` |
-| [[index]] | `20_Cards/` | `wikilink` |
-| [[index]] | `40_Practice/` | `wikilink` |
-| [[index]] | `30_Sources/` | `wikilink` |
-| [[[Chem] Tata Nama Senyawa dan Biloks - First Principle]] | `Bab 3 — Reaksi Redoks` | `wikilink` |
-| [[Machine_Learning_Roadmap]] | `Machine Learning Roadmap` | `wikilink` |
-| [[Machine_Learning_Roadmap]] | `Bottom-Up vs. Top-Down Learning` | `wikilink` |
-| [[Machine_Learning_Roadmap]] | `Vectorization in NumPy` | `wikilink` |
-| [[Cybersecurity_Roadmap]] | `Symmetric vs. Asymmetric Encryption` | `wikilink` |
+No broken links found! 🎉
 
 ## 🕳️ Orphan Pages (Disconnected Nodes)
 These files have no incoming or outgoing links:
-- [[Distributed Systems Syllabus]] (`10_Spaces/11_College/Syllabi/Distributed Systems Syllabus.md`)
-- [[Numerical Methods Syllabus]] (`10_Spaces/11_College/Syllabi/Numerical Methods Syllabus.md`)
-- [[Operating Systems Syllabus]] (`10_Spaces/11_College/Syllabi/Operating Systems Syllabus.md`)
-- [[Human Computer Interaction Syllabus]] (`10_Spaces/11_College/Syllabi/Human Computer Interaction Syllabus.md`)
-- [[Cryptography Syllabus]] (`10_Spaces/11_College/Syllabi/Cryptography Syllabus.md`)
 - [[Syllabus_Template]] (`10_Spaces/11_College/Syllabi/Syllabus_Template.md`)
-- [[Data Mining Syllabus]] (`10_Spaces/11_College/Syllabi/Data Mining Syllabus.md`)
-- [[Image Processing Syllabus]] (`10_Spaces/11_College/Syllabi/Image Processing Syllabus.md`)
+- [[[ESL] Present Continuous Tense]] (`10_Spaces/12_Teaching/20_Cards/Languages/[ESL] Present Continuous Tense.md`)
+- [[Peran Lembaga Sosial]] (`10_Spaces/12_Teaching/20_Cards/Social_Studies/Peran Lembaga Sosial.md`)
 - [[[Chem] Reaksi Redoks - Rangkuman]] (`10_Spaces/12_Teaching/20_Cards/STEM/[Chem] Reaksi Redoks - Rangkuman.md`)
 - [[[Chem] Tata Nama dan Biloks - Rangkuman]] (`10_Spaces/12_Teaching/20_Cards/STEM/[Chem] Tata Nama dan Biloks - Rangkuman.md`)
+- [[[Math] Kisi-Kisi ASAT - Master Summary]] (`10_Spaces/12_Teaching/20_Cards/STEM/[Math] Kisi-Kisi ASAT - Master Summary.md`)
 - [[[Chem] Konsep Mol - Rangkuman]] (`10_Spaces/12_Teaching/20_Cards/STEM/[Chem] Konsep Mol - Rangkuman.md`)
+- [[[ESL] Worksheet - Simple Present vs Present Continuous]] (`10_Spaces/12_Teaching/40_Practice/Languages/[ESL] Worksheet - Simple Present vs Present Continuous.md`)
 - [[LKPD_dan_Soal_Simple_Past_Tense]] (`10_Spaces/12_Teaching/40_Practice/Languages/LKPD_dan_Soal_Simple_Past_Tense.md`)
 - [[LKPD_dan_Soal_Tenaga_Endogen_Vulkanisme]] (`10_Spaces/12_Teaching/40_Practice/Social_Studies/LKPD_dan_Soal_Tenaga_Endogen_Vulkanisme.md`)
 - [[LKPD_dan_Soal_Tenaga_Eksogen]] (`10_Spaces/12_Teaching/40_Practice/Social_Studies/LKPD_dan_Soal_Tenaga_Eksogen.md`)
 - [[LKPD_dan_Soal_Pola_Bilangan]] (`10_Spaces/12_Teaching/40_Practice/Mathematics/LKPD_dan_Soal_Pola_Bilangan.md`)
+- [[LKPD_dan_Soal_Sistem_Pencernaan_Makanan]] (`10_Spaces/12_Teaching/40_Practice/Biology/LKPD_dan_Soal_Sistem_Pencernaan_Makanan.md`)
+- [[[Chem] Kunci Jawaban - Tata Nama dan Biloks]] (`10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Kunci Jawaban - Tata Nama dan Biloks.md`)
+- [[[Chem] Worksheet - Tata Nama dan Biloks]] (`10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Tata Nama dan Biloks.md`)
 - [[[Chem] Worksheet - Reaksi Redoks]] (`10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Reaksi Redoks.md`)
 - [[[Chem] Kunci Jawaban - Konsep Mol]] (`10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Kunci Jawaban - Konsep Mol.md`)
 - [[[Chem] Worksheet - Konsep Mol]] (`10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Worksheet - Konsep Mol.md`)
 - [[[Chem] Kunci Jawaban - Reaksi Redoks]] (`10_Spaces/12_Teaching/40_Practice/STEM/[Chem] Kunci Jawaban - Reaksi Redoks.md`)
+- [[index]] (`10_Spaces/12_Teaching/00_Atlas/index.md`)
 - [[[Arabic] Pengenalan Kosakata Anggota Keluarga]] (`10_Spaces/12_Teaching/30_Sources/Languages/[Arabic] Pengenalan Kosakata Anggota Keluarga.md`)
 - [[Materi_Simple_Past_Tense]] (`10_Spaces/12_Teaching/30_Sources/Languages/Materi_Simple_Past_Tense.md`)
 - [[Materi_Tenaga_Endogen_Vulkanisme]] (`10_Spaces/12_Teaching/30_Sources/Social_Studies/Materi_Tenaga_Endogen_Vulkanisme.md`)
 - [[Materi_Tenaga_Eksogen]] (`10_Spaces/12_Teaching/30_Sources/Social_Studies/Materi_Tenaga_Eksogen.md`)
 - [[Materi_Pola_Bilangan]] (`10_Spaces/12_Teaching/30_Sources/Mathematics/Materi_Pola_Bilangan.md`)
+- [[Materi_Sistem_Pencernaan_Makanan]] (`10_Spaces/12_Teaching/30_Sources/Biology/Materi_Sistem_Pencernaan_Makanan.md`)
 - [[[Chem] Reaksi Redoks - First Principle]] (`10_Spaces/12_Teaching/30_Sources/STEM/[Chem] Reaksi Redoks - First Principle.md`)
 - [[[Math] Logarithms - First Principle]] (`10_Spaces/12_Teaching/30_Sources/STEM/[Math] Logarithms - First Principle.md`)
+- [[[Chem] Tata Nama Senyawa dan Biloks - First Principle]] (`10_Spaces/12_Teaching/30_Sources/STEM/[Chem] Tata Nama Senyawa dan Biloks - First Principle.md`)
 - [[[Math] Statistika - First Principle]] (`10_Spaces/12_Teaching/30_Sources/STEM/[Math] Statistika - First Principle.md`)
 - [[[Math] Mengapa Kita Menggunakan Radian?]] (`10_Spaces/12_Teaching/30_Sources/STEM/[Math] Mengapa Kita Menggunakan Radian?.md`)
 - [[[Physics] Energi Mekanik - First Principle]] (`10_Spaces/12_Teaching/30_Sources/STEM/[Physics] Energi Mekanik - First Principle.md`)
@@ -103,15 +41,11 @@ These files have no incoming or outgoing links:
 - [[[Chem] Konsep Mol - First Principle]] (`10_Spaces/12_Teaching/30_Sources/STEM/[Chem] Konsep Mol - First Principle.md`)
 - [[[Chem] Hukum-Hukum Dasar Kimia - First Principle]] (`10_Spaces/12_Teaching/30_Sources/STEM/[Chem] Hukum-Hukum Dasar Kimia - First Principle.md`)
 - [[Gerak Melingkar Beraturan - First Principle]] (`10_Spaces/12_Teaching/30_Sources/STEM/Gerak Melingkar Beraturan - First Principle.md`)
-- [[(CN-8) IPv4 Subnetting Lecture Notes]] (`20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/Computer_Network/(CN-8) IPv4 Subnetting Lecture Notes.md`)
-- [[(CN-10) ICMP Lecture Notes]] (`20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/Computer_Network/(CN-10) ICMP Lecture Notes.md`)
-- [[(CN-9a) IPv6 Lecture Notes]] (`20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/Computer_Network/(CN-9a) IPv6 Lecture Notes.md`)
-- [[(CN-13) Application, Presentation, dan Session Layer Lecture Notes]] (`20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/Computer_Network/(CN-13) Application, Presentation, dan Session Layer Lecture Notes.md`)
-- [[(CN-9b) IPv6 Subnetting Lecture Notes]] (`20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/Computer_Network/(CN-9b) IPv6 Subnetting Lecture Notes.md`)
-- [[(CN-7) IPv4 Lecture Notes]] (`20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/Computer_Network/(CN-7) IPv4 Lecture Notes.md`)
-- [[(CN-11) Transport Layer Lecture Notes]] (`20_Brain_Atlas/30_Reference_Lib/Lecture_Logs/Computer_Network/(CN-11) Transport Layer Lecture Notes.md`)
 - [[Mari Kenali Keanekaragaman Hayati Indonesia]] (`00_Inbox/Mari Kenali Keanekaragaman Hayati Indonesia.md`)
 - [[LITOSFER TENAGA ENDOGEN DAN EKSOGEN]] (`00_Inbox/LITOSFER TENAGA ENDOGEN DAN EKSOGEN.md`)
+- [[8 Macam Gangguan pada Organ Pencernaan Manusia]] (`00_Inbox/8 Macam Gangguan pada Organ Pencernaan Manusia.md`)
+- [[Macam-Macam Organ Sistem Pencernaan Manusia & Fungsinya]] (`00_Inbox/Macam-Macam Organ Sistem Pencernaan Manusia & Fungsinya.md`)
+- [[Sistem Pencernaan Manusia Proses Pencernaan, Penyakit Sistem Pencernaan, dan Pola Makan Sehat  IPA]] (`00_Inbox/Sistem Pencernaan Manusia Proses Pencernaan, Penyakit Sistem Pencernaan, dan Pola Makan Sehat  IPA.md`)
 - [[ULASAN SINGKAT TENTANG TENAGA EKSOGEN!  Belajar Geografi, Yuk! Eps 35]] (`00_Inbox/ULASAN SINGKAT TENTANG TENAGA EKSOGEN!  Belajar Geografi, Yuk! Eps 35.md`)
 - [[Simple past tense  EF Global Site (English)]] (`00_Inbox/Simple past tense  EF Global Site (English).md`)
 - [[Tenaga Endogen Vulkanisme (Part1)]] (`00_Inbox/Tenaga Endogen Vulkanisme (Part1).md`)

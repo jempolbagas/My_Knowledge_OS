@@ -8,7 +8,7 @@ subject: Fisika
 class: Kelas 10
 topic: Energi Panas (Kalor)
 nomor_soal: ["11", "12"]
-up: "[[Fisika Kelas 10 - PSAT MOC]]"
+up: "Fisika Kelas 10 - PSAT MOC"
 ---
 
 # 🔥 Energi Panas (Kalor)
@@ -392,7 +392,7 @@ $$Q = 378.000 \text{ J} = 378 \text{ kJ}$$
 
 ## 🔗 Koneksi
 
-- Kembali ke → [[Fisika Kelas 10 - PSAT MOC]]
-- Terkait → [[Energi Mekanik]]
+- Kembali ke → Fisika Kelas 10 - PSAT MOC
+- Terkait → Energi Mekanik
 - Terkait → [[Energi Listrik]]
-- Terkait → [[Energi Terbarukan dan Tak Terbarukan]]
+- Terkait → Energi Terbarukan dan Tak Terbarukan

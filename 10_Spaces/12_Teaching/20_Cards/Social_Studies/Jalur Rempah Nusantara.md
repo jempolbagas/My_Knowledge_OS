@@ -7,7 +7,7 @@ created: "2026-05-26"
 subject: IPS
 class: Kelas 7
 nomor_soal: ["19", "20"]
-up: "[[IPS Kelas 7 - Sumatif 4 MOC]]"
+up: "IPS Kelas 7 - Sumatif 4 MOC"
 ---
 
 # 🌶️ Jalur Rempah Nusantara
@@ -508,4 +508,4 @@ Jalur rempah tidak hanya soal perdagangan — ia membawa perubahan besar dalam b
 
 ## 🔗 Koneksi
 - Sebelumnya → [[Masa Kerajaan Islam di Indonesia]]
-- Kembali ke → [[IPS Kelas 7 - Sumatif 4 MOC]]
+- Kembali ke → IPS Kelas 7 - Sumatif 4 MOC

@@ -13,13 +13,13 @@ status: 🌿 incubating
 # [ESL] Worksheet: Simple Present vs Present Continuous
 
 ## Daftar Isi
-- [[#1. Pengantar: Memilih Mode Eksekusi yang Tepat]]
-- [[#2. Sesi Pemanasan: Identifikasi Pattern]]
-- [[#3. Debugging Code: Perbaiki Error Syntax]]
-- [[#4. Build the Sentence: Eksekusi Fungsi Sesuai Parameter]]
-- [[#5. Edge Cases: Stative Verbs (Si "Mager")]]
-- [[#6. Summary — Key Concepts at a Glance]]
-- [[#7. Active Recall & Self-Test]]
+- #1. Pengantar: Memilih Mode Eksekusi yang Tepat
+- #2. Sesi Pemanasan: Identifikasi Pattern
+- #3. Debugging Code: Perbaiki Error Syntax
+- #4. Build the Sentence: Eksekusi Fungsi Sesuai Parameter
+- #5. Edge Cases: Stative Verbs (Si "Mager")
+- #6. Summary — Key Concepts at a Glance
+- #7. Active Recall & Self-Test
 
 ---
 

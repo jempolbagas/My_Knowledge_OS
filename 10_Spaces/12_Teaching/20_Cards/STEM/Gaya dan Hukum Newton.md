@@ -8,7 +8,7 @@ subject: IPA
 class: Kelas 7
 topic: Gaya dan Hukum Newton
 nomor_soal: ["4", "5", "6", "7", "8", "9", "10", "23", "27", "28", "33"]
-up: "[[IPA Kelas 7 - Sumatif 4 MOC]]"
+up: "IPA Kelas 7 - Sumatif 4 MOC"
 ---
 
 # ⚙️ Gaya dan Hukum Newton
@@ -474,7 +474,7 @@ $F = m \cdot a = 1200 \times 2,5 = 3000$ **N**
 
 ## 🔗 Koneksi
 
-- Kembali ke → [[IPA Kelas 7 - Sumatif 4 MOC]]
+- Kembali ke → IPA Kelas 7 - Sumatif 4 MOC
 - Sebelumnya → [[Gerak Lurus Berubah Beraturan (GLBB)]]
 - Terkait → [[Gerak Lurus]]
 - Terkait → [[Kecepatan dan Kelajuan]]

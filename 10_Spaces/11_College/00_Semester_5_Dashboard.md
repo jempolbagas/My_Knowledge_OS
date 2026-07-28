@@ -28,13 +28,13 @@ created: "2026-07-27"
 
 | Code / Abbr | Course Name | Status / Notes | Course Hub | Syllabus (RPS) |
 | :--- | :--- | :--- | :--- | :--- |
-| **DS** | Distributed Systems | Main (Smt 5) | [[Distributed Systems Overview]] | [[DS Syllabus]] |
-| **IP** | Image Processing | Main (Smt 5) | [[Image Processing Overview]] | [[IP Syllabus]] |
-| **DM** | Data Mining | Main (Smt 5) | [[Data Mining Overview]] | [[DM Syllabus]] |
-| **HCI** | Human & Computer Interaction | Main (Smt 5) | [[HCI Overview]] | [[HCI Syllabus]] |
-| **CRYPTO** | Cryptography | Main (Smt 5) | [[Cryptography Overview]] | [[Crypto Syllabus]] |
-| **NM** | Numerical Methods | ⚠️ Retake (Smt 3) | [[Numerical Methods Overview]] | [[NM Syllabus]] |
-| **OS** | Operating Systems | ⚠️ Retake (Smt 3) | [[Operating Systems Overview]] | [[OS Syllabus]] |
+| **DS** | Distributed Systems | Main (Smt 5) | [[Distributed Systems Overview]] | [[Distributed Systems Syllabus]] |
+| **IP** | Image Processing | Main (Smt 5) | [[Image Processing Overview]] | [[Image Processing Syllabus]] |
+| **DM** | Data Mining | Main (Smt 5) | [[Data Mining Overview]] | [[Data Mining Syllabus]] |
+| **HCI** | Human & Computer Interaction | Main (Smt 5) | [[HCI Overview]] | [[Human Computer Interaction Syllabus]] |
+| **CRYPTO** | Cryptography | Main (Smt 5) | [[Cryptography Overview]] | [[Cryptography Syllabus]] |
+| **NM** | Numerical Methods | ⚠️ Retake (Smt 3) | [[Numerical Methods Overview]] | [[Numerical Methods Syllabus]] |
+| **OS** | Operating Systems | ⚠️ Retake (Smt 3) | [[Operating Systems Overview]] | [[Operating Systems Syllabus]] |
 
 ---
 

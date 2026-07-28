@@ -8,23 +8,26 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-07-27T08:47:30Z"
+    "generated_at": "2026-07-28T04:33:27Z"
   },
   "stats": {
-    "total_notes": 93,
-    "total_edges": 163,
-    "broken_links": 94,
-    "untyped_notes": 62,
-    "health_score": 14.1
+    "total_notes": 104,
+    "total_edges": 143,
+    "broken_links": 30,
+    "untyped_notes": 67,
+    "health_score": 28.1
   },
   "inbox": [
     "Mari Kenali Keanekaragaman Hayati Indonesia",
     "LITOSFER TENAGA ENDOGEN DAN EKSOGEN",
+    "8 Macam Gangguan pada Organ Pencernaan Manusia",
     "Pengertian Simple Past Tense, Rumus, dan Contoh Kalimatnya",
+    "Macam-Macam Organ Sistem Pencernaan Manusia & Fungsinya",
     "Lengkap! Pengertian Simple Past Tense, Rumus, Ciri, dan Contoh Kalimat",
     "Pola Bilangan Kelas 8 Pengertian, Jenis, Rumus dan Contoh Soal",
     "Pola Bilangan - Matematika Kelas 8",
     "Cara Mencari Rumus Pola Bilangan, Jenis-Jenis & Contohnya",
+    "Sistem Pencernaan Manusia Proses Pencernaan, Penyakit Sistem Pencernaan, dan Pola Makan Sehat  IPA",
     "ULASAN SINGKAT TENTANG TENAGA EKSOGEN!  Belajar Geografi, Yuk! Eps 35",
     "Simple past tense  EF Global Site (English)",
     "Tenaga Endogen Vulkanisme (Part1)",
@@ -94,6 +97,10 @@
       "Mathematics": [
         "LKPD_dan_Soal_Pola_Bilangan",
         "Materi_Pola_Bilangan"
+      ],
+      "Biology": [
+        "LKPD_dan_Soal_Sistem_Pencernaan_Makanan",
+        "Materi_Sistem_Pencernaan_Makanan"
       ]
     }
   },
@@ -113,12 +120,22 @@
       }
     },
     "concepts": {
+      "Artificial_Intelligence": [
+        "Machine Learning Roadmap",
+        "Vectorization in NumPy"
+      ],
       "Cybersecurity": [
+        "Symmetric vs. Asymmetric Encryption",
         "Blue Team vs. Red Team",
+        "Cybersecurity Roadmap",
         "CIA Triad"
+      ],
+      "Computer_Science": [
+        "Bottom-Up vs. Top-Down Learning"
       ]
     },
     "reference_lib": [
+      "Computer Network Reference Index",
       "(CN-8) IPv4 Subnetting Lecture Notes",
       "(CN-10) ICMP Lecture Notes",
       "(CN-9a) IPv6 Lecture Notes",
@@ -132,36 +149,36 @@
   },
   "maintenance": {
     "orphan_pages_sample": [
-      "Distributed Systems Syllabus",
-      "Numerical Methods Syllabus",
-      "Operating Systems Syllabus",
-      "Human Computer Interaction Syllabus",
-      "Cryptography Syllabus",
       "Syllabus_Template",
-      "Data Mining Syllabus",
-      "Image Processing Syllabus",
+      "[ESL] Present Continuous Tense",
+      "Peran Lembaga Sosial",
       "[Chem] Reaksi Redoks - Rangkuman",
       "[Chem] Tata Nama dan Biloks - Rangkuman",
+      "[Math] Kisi-Kisi ASAT - Master Summary",
       "[Chem] Konsep Mol - Rangkuman",
+      "[ESL] Worksheet - Simple Present vs Present Continuous",
       "LKPD_dan_Soal_Simple_Past_Tense",
       "LKPD_dan_Soal_Tenaga_Endogen_Vulkanisme",
       "LKPD_dan_Soal_Tenaga_Eksogen",
       "LKPD_dan_Soal_Pola_Bilangan",
+      "LKPD_dan_Soal_Sistem_Pencernaan_Makanan",
+      "[Chem] Kunci Jawaban - Tata Nama dan Biloks",
+      "[Chem] Worksheet - Tata Nama dan Biloks",
       "[Chem] Worksheet - Reaksi Redoks",
       "[Chem] Kunci Jawaban - Konsep Mol",
       "[Chem] Worksheet - Konsep Mol",
       "[Chem] Kunci Jawaban - Reaksi Redoks",
+      "index",
       "[Arabic] Pengenalan Kosakata Anggota Keluarga",
       "Materi_Simple_Past_Tense",
       "Materi_Tenaga_Endogen_Vulkanisme",
       "Materi_Tenaga_Eksogen",
       "Materi_Pola_Bilangan",
+      "Materi_Sistem_Pencernaan_Makanan",
       "[Chem] Reaksi Redoks - First Principle",
       "[Math] Logarithms - First Principle",
-      "[Math] Statistika - First Principle",
-      "[Math] Mengapa Kita Menggunakan Radian?",
-      "[Physics] Energi Mekanik - First Principle",
-      "[Math] Program Linier - First Principle"
+      "[Chem] Tata Nama Senyawa dan Biloks - First Principle",
+      "[Math] Statistika - First Principle"
     ],
     "untyped_notes_sample": [
       {

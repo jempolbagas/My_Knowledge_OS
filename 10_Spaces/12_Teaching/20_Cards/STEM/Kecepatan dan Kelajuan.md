@@ -8,7 +8,7 @@ subject: IPA
 class: Kelas 7
 topic: Kecepatan dan Kelajuan
 nomor_soal: ["3", "22", "26", "31"]
-up: "[[IPA Kelas 7 - Sumatif 4 MOC]]"
+up: "IPA Kelas 7 - Sumatif 4 MOC"
 ---
 
 # ⚡ Kecepatan dan Kelajuan
@@ -351,6 +351,6 @@ b. $t = \dfrac{s}{\bar{v}} = \dfrac{10}{18} = 0,556$ jam = **33,3 menit ≈ 33 m
 
 ## 🔗 Koneksi
 
-- Kembali ke → [[IPA Kelas 7 - Sumatif 4 MOC]]
+- Kembali ke → IPA Kelas 7 - Sumatif 4 MOC
 - Sebelumnya → [[Gerak Lurus]]
 - Lanjut ke → [[Gerak Lurus Berubah Beraturan (GLBB)]]

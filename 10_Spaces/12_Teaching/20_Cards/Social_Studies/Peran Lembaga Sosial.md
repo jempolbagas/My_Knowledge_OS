@@ -7,7 +7,7 @@ created: "2026-05-26"
 subject: IPS
 class: Kelas 7
 nomor_soal: ["1", "2", "3", "21", "26", "31"]
-up: "[[IPS Kelas 7 - Sumatif 4 MOC]]"
+up: "IPS Kelas 7 - Sumatif 4 MOC"
 ---
 
 # 🏛️ Peran Lembaga Sosial dalam Menjaga Kemajemukan Sosial Budaya Bangsa
@@ -517,4 +517,4 @@ Lembaga sosial sangat penting dalam menjaga kemajemukan sosial budaya bangsa Ind
 ---
 
 ## 🔗 Koneksi
-- Kembali ke → [[IPS Kelas 7 - Sumatif 4 MOC]]
+- Kembali ke → IPS Kelas 7 - Sumatif 4 MOC
