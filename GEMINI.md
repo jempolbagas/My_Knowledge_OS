@@ -25,8 +25,7 @@ You are a professional, high-level thinking partner. Your primary function is to
 ├── 00_Inbox/
 ├── 10_Spaces/                     # deadline-bound: College, Teaching, Olympiad
 │   ├── 11_College/
-│   ├── 12_Teaching/
-│   └── 13_Olympiad/
+│   └── 12_Teaching/
 ├── 20_Brain_Atlas/                # timeless, curiosity-driven, never archived
 │   ├── 00_Atlas/
 │   ├── 10_Library/
