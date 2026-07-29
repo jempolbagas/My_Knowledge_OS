@@ -8,14 +8,14 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-07-29T14:48:32Z"
+    "generated_at": "2026-07-29T14:53:36Z"
   },
   "stats": {
-    "total_notes": 115,
+    "total_notes": 116,
     "total_edges": 213,
     "broken_links": 26,
     "untyped_notes": 47,
-    "health_score": 51.9
+    "health_score": 52.2
   },
   "inbox": [],
   "spaces": {
@@ -172,6 +172,7 @@
   },
   "maintenance": {
     "orphan_pages_sample": [
+      "KTI_Context",
       "Koordinasi",
       "Draf Index",
       "Referensi Index",
@@ -200,8 +201,7 @@
       "Materi_Tenaga_Eksogen",
       "Materi_Persamaan_Kuadrat",
       "Materi_Pola_Bilangan",
-      "Materi_Suku_Banyak_Polinomial",
-      "Materi_Pengenalan_Sel"
+      "Materi_Suku_Banyak_Polinomial"
     ],
     "untyped_notes_sample": [
       {

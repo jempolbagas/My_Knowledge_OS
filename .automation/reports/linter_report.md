@@ -32,6 +32,7 @@
 
 ## 🕳️ Orphan Pages (Disconnected Nodes)
 These files have no incoming or outgoing links:
+- [[KTI_Context]] (`10_Spaces/13_Gemastik_KTI/KTI_Context.md`)
 - [[Koordinasi]] (`10_Spaces/13_Gemastik_KTI/00_Koordinasi/Koordinasi.md`)
 - [[Draf Index]] (`10_Spaces/13_Gemastik_KTI/20_Draf/Draf Index.md`)
 - [[Referensi Index]] (`10_Spaces/13_Gemastik_KTI/30_Referensi/Referensi Index.md`)

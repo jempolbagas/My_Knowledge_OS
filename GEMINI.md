@@ -23,9 +23,10 @@ You are a professional, high-level thinking partner. Your primary function is to
 ```text
 10_Knowledge_OS/
 ├── 00_Inbox/
-├── 10_Spaces/                     # deadline-bound: College, Teaching, Olympiad
+├── 10_Spaces/                     # deadline-bound: College, Teaching, Competition
 │   ├── 11_College/
-│   └── 12_Teaching/
+│   ├── 12_Teaching/
+│   └── 13_Gemastik_KTI/
 ├── 20_Brain_Atlas/                # timeless, curiosity-driven, never archived
 │   ├── 00_Atlas/
 │   ├── 10_Library/
@@ -117,3 +118,24 @@ Background scripts in `.automation/` (hidden from Obsidian) maintain a SQLite in
 |Checking broken links / orphans|`.automation/reports/linter_report.md`|
 |Checking concept freshness|`.automation/reports/stale_concepts.md`|
 |Quick content check|SQLite `nodes.summary` column|
+
+## Context Switching
+
+The vault serves multiple modes: self-study, teaching, college, and competition work. Load context selectively — don't bleed KTI specifics into unrelated sessions.
+
+**Trigger: load `10_Spaces/13_Gemastik_KTI/KTI_Context.md` when:**
+- User explicitly mentions KTI, Gemastik, lomba KTI, or the paper/competition
+- The task involves researching, drafting, or reviewing content for the KTI project
+- User asks about the team's topic, arguments, or research direction
+
+**When KTI context is loaded:**
+- Treat `KTI_Context.md` as the single source of truth for topic, team, and current phase
+- Filter all suggestions (riset topics, concept promotions, source recommendations) through the central claim stated there
+- After the session, if `KTI_Context.md` needs updating (new phase, new concepts added, topic refined), update it before ending the turn
+
+**When KTI context is NOT needed:**
+- General self-study or Brain Atlas queries unrelated to the KTI topic
+- Teaching material work (`12_Teaching/`)
+- College coursework (`11_College/`)
+- In these cases, do not open `KTI_Context.md` — it adds irrelevant noise
+
