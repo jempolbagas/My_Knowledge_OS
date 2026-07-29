@@ -11,35 +11,39 @@ last_updated: 2026-07-29
 
 ## Topik & Judul
 
-- **Judul sementara:** *(belum ditentukan)*
-- **Bidang:** *(belum ditentukan)*
-- **Kata kunci utama:** *(belum ditentukan)*
+- **Judul sementara:** *(dalam diskusi — lihat [[Pertimbangan Judul dan Metodologi]])*
+- **Bidang:** Systems Engineering, Edge Computing, Healthcare IT
+- **Kata kunci utama:** WebAssembly, TinyML, Delta-Update, Edge Computing, 3T, Inferensi Klinis, Offline-first
 
 ## Tim
 
-| Nama | Role |
-|------|------|
-| *(isi)* | Ketua / penulis utama |
-| *(isi)* | Riset |
-| *(isi)* | Riset |
+| Nama  | Role                  |
+| ----- | --------------------- |
+| Alfin | Ketua / penulis utama |
+| Bagas | Riset                 |
+| Lia   | Riset                 |
 
 ## Argumen Utama (Central Claim)
 
 > Isi dengan thesis/klaim utama KTI setelah topik ditentukan.
 > Contoh format: "Kami berargumen bahwa X dapat menyelesaikan Y karena Z."
 
-*(belum ditentukan)*
+Arah sementara: Kombinasi WebAssembly runtime + TinyML + mekanisme Delta-Update dapat menjadi solusi infrastruktur komputasi yang viable untuk fasilitas kesehatan di daerah 3T dengan keterbatasan hardware, listrik, dan bandwidth.
+
+*(perlu diperketat setelah metodologi diputuskan)*
 
 ## Pertanyaan Riset
 
-1. *(belum ditentukan)*
-2. *(belum ditentukan)*
-3. *(belum ditentukan)*
+1. Apakah WebAssembly runtime layak dijalankan pada hardware edge ultra-terbatas untuk inferensi klinis?
+2. Seberapa efisien mekanisme Delta-Update dalam mereduksi kebutuhan bandwidth sinkronisasi model TinyML?
+3. Bagaimana arsitektur sistem ini dapat menjamin operasi offline-first yang reliabel di kondisi 3T?
+
+*(pertanyaan riset masih tentatif, menyesuaikan dengan keputusan metodologi)*
 
 ## Status Saat Ini
 
-- **Fase:** Persiapan awal
-- **Bottleneck:** Topik belum final
+- **Fase:** Persiapan awal — diskusi topik & metodologi
+- **Bottleneck:** Keputusan metodologi (Rancang Bangun vs Kajian/Simulasi) dan finalisasi judul
 - **Deadline terdekat:** *(isi)*
 
 ## Konsep Kunci (Brain Atlas Links)

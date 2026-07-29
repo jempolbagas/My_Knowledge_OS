@@ -133,10 +133,6 @@
   ],
   "orphans": [
     {
-      "file": "10_Spaces/13_Gemastik_KTI/KTI_Context.md",
-      "title": "KTI_Context"
-    },
-    {
       "file": "10_Spaces/13_Gemastik_KTI/00_Koordinasi/Koordinasi.md",
       "title": "Koordinasi"
     },
@@ -151,6 +147,10 @@
     {
       "file": "10_Spaces/13_Gemastik_KTI/10_Riset/Riset Index.md",
       "title": "Riset Index"
+    },
+    {
+      "file": "10_Spaces/13_Gemastik_KTI/10_Riset/Cetak Biru KTI.md",
+      "title": "Cetak Biru KTI"
     },
     {
       "file": "10_Spaces/11_College/Syllabi/Syllabus_Template.md",

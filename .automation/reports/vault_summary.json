@@ -8,14 +8,14 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-07-29T14:53:36Z"
+    "generated_at": "2026-07-29T15:16:32Z"
   },
   "stats": {
-    "total_notes": 116,
-    "total_edges": 213,
+    "total_notes": 118,
+    "total_edges": 214,
     "broken_links": 26,
-    "untyped_notes": 47,
-    "health_score": 52.2
+    "untyped_notes": 48,
+    "health_score": 52.1
   },
   "inbox": [],
   "spaces": {
@@ -172,11 +172,11 @@
   },
   "maintenance": {
     "orphan_pages_sample": [
-      "KTI_Context",
       "Koordinasi",
       "Draf Index",
       "Referensi Index",
       "Riset Index",
+      "Cetak Biru KTI",
       "Syllabus_Template",
       "[ESL] Present Continuous Tense",
       "Peran Lembaga Sosial",
@@ -207,6 +207,10 @@
       {
         "title": "README",
         "path": "10_Spaces/13_Gemastik_KTI/README.md"
+      },
+      {
+        "title": "Cetak Biru KTI",
+        "path": "10_Spaces/13_Gemastik_KTI/10_Riset/Cetak Biru KTI.md"
       },
       {
         "title": "Masa Praaksara dan Asal-usul Nenek Moyang Bangsa Indonesia",
@@ -279,10 +283,6 @@
       {
         "title": "Gaya dan Hukum Newton",
         "path": "10_Spaces/12_Teaching/20_Cards/STEM/Gaya dan Hukum Newton.md"
-      },
-      {
-        "title": "[Chem] Konsep Mol - Rangkuman",
-        "path": "10_Spaces/12_Teaching/20_Cards/STEM/[Chem] Konsep Mol - Rangkuman.md"
       }
     ]
   }

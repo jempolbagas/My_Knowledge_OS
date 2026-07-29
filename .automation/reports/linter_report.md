@@ -32,11 +32,11 @@
 
 ## 🕳️ Orphan Pages (Disconnected Nodes)
 These files have no incoming or outgoing links:
-- [[KTI_Context]] (`10_Spaces/13_Gemastik_KTI/KTI_Context.md`)
 - [[Koordinasi]] (`10_Spaces/13_Gemastik_KTI/00_Koordinasi/Koordinasi.md`)
 - [[Draf Index]] (`10_Spaces/13_Gemastik_KTI/20_Draf/Draf Index.md`)
 - [[Referensi Index]] (`10_Spaces/13_Gemastik_KTI/30_Referensi/Referensi Index.md`)
 - [[Riset Index]] (`10_Spaces/13_Gemastik_KTI/10_Riset/Riset Index.md`)
+- [[Cetak Biru KTI]] (`10_Spaces/13_Gemastik_KTI/10_Riset/Cetak Biru KTI.md`)
 - [[Syllabus_Template]] (`10_Spaces/11_College/Syllabi/Syllabus_Template.md`)
 - [[[ESL] Present Continuous Tense]] (`10_Spaces/12_Teaching/20_Cards/Languages/[ESL] Present Continuous Tense.md`)
 - [[Peran Lembaga Sosial]] (`10_Spaces/12_Teaching/20_Cards/Social_Studies/Peran Lembaga Sosial.md`)
