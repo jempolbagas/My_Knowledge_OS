@@ -6,11 +6,14 @@ sources:
   - "[[8 Macam Gangguan pada Organ Pencernaan Manusia]]"
   - "[[Macam-Macam Organ Sistem Pencernaan Manusia & Fungsinya]]"
   - "[[Sistem Pencernaan Manusia Proses Pencernaan, Penyakit Sistem Pencernaan, dan Pola Makan Sehat  IPA]]"
+  - "[[Enzim Pencernaan dan Fungsinya, Kenali Jenisnya!]]"
+  - "[[Berbagai Jenis Enzim Pencernaan dan Fungsinya]]"
 tags:
   - "teaching-material"
   - "biology"
   - "digestive-system"
   - "nutrients"
+  - "enzymes"
 ---
 
 # BAB: Sistem Pencernaan Makanan pada Manusia
@@ -24,15 +27,21 @@ Tubuh manusia membutuhkan energi dan zat gizi untuk menjalankan aktivitas harian
 Namun, makanan yang masuk ke dalam tubuh umumnya masih berbentuk molekul kompleks dan utuh (misalnya nasi, daging, sayuran). Agar zat-zat gizi dalam makanan dapat diserap oleh pembuluh darah dan digunakan oleh sel-sel tubuh, makanan harus diurai dan diubah terlebih dahulu melalui **Sistem Pencernaan Makanan** (Sistem Gastrointestinal).
 
 ```
-   [ Makanan Utuh / Kompleks ]
-               │
-               ▼
-┌──────────────────────────────┐
-│  Pencernaan Mekanis & Kimia  │
-└──────────────┬───────────────┘
-               │
-               ▼
- [ Molekul Sederhana / Terlarut ] ──► Penyerapan oleh Darah ──► Energi & Sel Tubuh
+       [ Makanan Utuh / Kompleks ]
+                    │
+                    ▼
+     ┌────────────────────────────┐
+     │ Pencernaan Mekanis & Kimia │
+     └──────────────┬─────────────┘
+                    │
+                    ▼
+      [ Molekul Sederhana / Gizi ]
+                    │
+                    ▼
+          Penyerapan oleh Darah
+                    │
+                    ▼
+           Energi & Sel Tubuh
 ```
 
 ### Dua Jenis Proses Pencernaan Makanan
@@ -60,19 +69,19 @@ Secara umum, proses pencernaan pada manusia terbagi menjadi dua mekanisme utama:
 Makanan yang bergizi harus mengandung zat-zat makanan yang dibutuhkan oleh tubuh dalam jumlah seimbang. Berdasarkan fungsinya dalam tubuh, zat gizi dikelompokkan menjadi tiga golongan utama:
 
 ```
-                          ┌─────────────────────────────────────┐
-                          │   Pengelompokan Zat Gizi Makanan   │
-                          └──────────────────┬──────────────────┘
-                                             │
-      ┌──────────────────────────────────────┼──────────────────────────────────────┐
-      ▼                                      ▼                                      ▼
-┌───────────┐                          ┌───────────┐                          ┌───────────┐
-│Zat Tenaga │                          │Pembangun  │                          │ Pengatur  │
-├───────────┤                          ├───────────┤                          ├───────────┤
-│Karbohidrat│                          │  Protein  │                          │  Vitamin  │
-│  Lemak    │                          │  Mineral  │                          │  Mineral  │
-└───────────┘                          └───────────┘                          │    Air    │
-                                                                              └───────────┘
+           ┌───────────────────────────────┐
+           │ Pengelompokan Zat Gizi Makanan│
+           └───────────────┬───────────────┘
+                           │
+      ┌────────────────────┼────────────────────┐
+      ▼                    ▼                    ▼
+┌───────────┐        ┌───────────┐        ┌───────────┐
+│Zat Tenaga │        │ Pembangun │        │  Pengatur │
+├───────────┤        ├───────────┤        ├───────────┤
+│Karbohidrat│        │  Protein  │        │  Vitamin  │
+│   Lemak   │        │  Mineral  │        │  Mineral  │
+└───────────┘        └───────────┘        │    Air    │
+                                          └───────────┘
 ```
 
 ### A. Karbohidrat (Zat Tenaga Utama)
@@ -121,10 +130,10 @@ Makanan yang bergizi harus mengandung zat-zat makanan yang dibutuhkan oleh tubuh
 Sistem pencernaan terdiri dari **Saluran Pencernaan** (organ beruntun yang dilalui makanan) dan **Organ Aksesoris/Kelenjar Pencernaan** (organ pelengkap yang menghasilkan sekresi untuk mendukung pencernaan).
 
 ```
-   Mulut ──► Faring & Esofagus ──► Lambung ──► Usus Halus ──► Usus Besar ──► Rektum & Anus
-                                     ▲              ▲
-                                     │              │
-                              [Getah Lambung]   [Pankreas, Hati, Empedu]
+Mulut ──► Esofagus ──► Lambung ──► Usus Halus ──► Usus Besar ──► Anus
+                         ▲             ▲
+                         │             │
+                  [Getah Lambung] [Pankreas & Empedu]
 ```
 
 ### A. Organ Saluran Pencernaan
@@ -181,21 +190,10 @@ Sistem pencernaan terdiri dari **Saluran Pencernaan** (organ beruntun yang dilal
 
 ### B. Organ Aksesoris (Kelenjar Pencernaan Pendukung)
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                    ORGAN AKSESTORIS PENCERNAAN                          │
-├─────────────────┬───────────────────────────────┬───────────────────────┤
-│   Organ Pelengkap│         Hasil Sekresi         │     Fungsi Utama      │
-├─────────────────┼───────────────────────────────┼───────────────────────┤
-│ 1. Hati (Hepar) │ Cairan Empedu                 │ Mengemulsi lemak agar │
-│                 │ (disimpan di Kantung Empedu) │ mudah dicerna lipase  │
-├─────────────────┼───────────────────────────────┼───────────────────────┤
-│ 2. Pankreas     │ - Natrium Bikarbonat (NaHCO3) │ Menetralkan asam chyme│
-│                 │ - Enzim Amilase               │ Amilum ──► Glukosa    │
-│                 │ - Enzim Tripsin               │ Pepton ──► Asam Amino │
-│                 │ - Enzim Lipase                │ Lemak ──► Asam Lemak  │
-└─────────────────┴───────────────────────────────┴───────────────────────┘
-```
+| Organ Pelengkap | Hasil Sekresi | Fungsi Utama |
+| :--- | :--- | :--- |
+| **1. Hati (Hepar)** | Cairan Empedu (disimpan di Kantung Empedu) | Mengemulsi lemak agar mudah dicerna lipase |
+| **2. Pankreas** | • Natrium Bikarbonat ($NaHCO_3$)<br>• Enzim Amilase<br>• Enzim Tripsin<br>• Enzim Lipase | • Menetralkan asam *chyme*<br>• Amilum ──► Glukosa<br>• Pepton ──► Asam Amino<br>• Lemak ──► Asam Lemak |
 
 1. **Hati (*Hepar*):** Organ glandular terbesar yang memproduksi cairan empedu (berwarna hijau kekuningan mengandung garam empedu, kolesterol, dan pigmen bilirubin).
 2. **Kantung Empedu (*Vesica Fellea*):** Menampung empedu dari hati dan menyalurkannya ke duodenum. Empedu berfungsi **mengemulsikan lemak** (memecah gumpalan lemak menjadi tetesan halus) sehingga permukaan lemak luas dan mudah diurai oleh enzim lipase.
@@ -208,41 +206,87 @@ Sistem pencernaan terdiri dari **Saluran Pencernaan** (organ beruntun yang dilal
 
 ---
 
-## 4. Gangguan & Penyakit pada Sistem Pencernaan
+## 4. Enzim-Enzim Pencernaan Manusia & Mekanisme Kerja
+
+Enzim pencernaan adalah biomolekul berupa protein (biokatalisator) yang disekresikan oleh organ dan kelenjar pencernaan untuk memicu serta mempercepat hidrolisis makromolekul makanan (karbohidrat, protein, lemak, dan asam nukleat) menjadi monomer/molekul sederhana yang dapat diserap oleh dinding usus halus ke dalam pembuluh darah.
+
+### A. Pengelompokan Enzim Berdasarkan Substrat (Zat Target)
+
+1. **Enzim Amilase / Karbohidrase (Pencerna Karbohidrat)**
+   * **Amilase Ptialin (Kelenjar Ludah):** Diproduksi oleh kelenjar saliva di rongga mulut. Memecah karbohidrat kompleks (amilum/pati) menjadi disakarida (maltosa) pada suasana netral hingga agak asam.
+   * **Amilase Pankreas:** Diproduksi oleh pankreas dan dialirkan ke usus 12 jari (duodenum). Melanjutkan pemecahan amilum dan disakarida menjadi maltosa dan glukosa pada suasana basa.
+   * **Maltase (Usus Halus):** Diproduksi oleh sel epitel usus halus. Memecah maltosa (gula malt pada biji-bijian & gandum) menjadi 2 molekul glukosa.
+   * **Laktase (Usus Halus):** Diproduksi oleh enterosit usus halus. Memecah laktosa (gula susu) menjadi glukosa dan galaktosa. *Catatan klinis:* Defisiensi enzim laktase menyebabkan **intoleransi laktosa**, di mana laktosa yang tidak tercerna difermentasi oleh bakteri kolon hingga memicu kembung, mual, dan diare.
+   * **Sukrase (Usus Halus):** Diproduksi oleh usus halus. Memecah sukrosa (gula tebu/buah-buahan) menjadi glukosa dan fruktosa.
+
+2. **Enzim Protease / Peptidase (Pencerna Protein)**
+   * **Pepsin (Lambung):** Enzim protease utama lambung yang disekresikan dalam bentuk prekursor pasif (*pepsinogen*) dan diaktifkan oleh asam klorida (HCl). Memecah protein kompleks menjadi peptida sederhana / pepton pada pH sangat asam (pH 1–2).
+   * **Renin (Lambung):** Khas pada mamalia/bayi untuk mengendapkan protein susu (*kaseinogen*) menjadi *kasein*.
+   * **Tripsin & Kimotripsin (Pankreas):** Disekresikan pankreas ke duodenum dalam bentuk zimogen (*tripsinogen* & *kimotripsinogen*). Memecah pepton/polipeptida menjadi peptida pendek dan asam amino dalam lingkungan basa.
+   * **Karboksipeptidase A & B (Pankreas):** Memotong ikatan peptida dari ujung karboksil molekul protein menjadi asam amino bebas.
+   * **Elastase (Pankreas):** Memecah serat protein elastin pada jaringan ikat serat daging.
+   * **Peptidase / Erepsin (Usus Halus):** Disintesis oleh usus halus untuk memecah peptida menjadi asam amino bebas yang siap diserap kapiler darah.
+
+3. **Enzim Lipase & Esterase (Pencerna Lemak)**
+   * **Lipase Lingual & Gastrik:** Disekresikan dalam jumlah kecil di mulut dan lambung untuk memulai hidrolisis trigliserida (terutama pada pencernaan ASI bayi).
+   * **Lipase Pankreas (Steapsin):** Enzim pencerna lemak utama. Memecah molekul trigliserida/lemak yang telah **teremulsi oleh empedu** menjadi asam lemak dan gliserol.
+   * **Fosfolipase (Pankreas):** Mengurai ikatan fosfolipid membran sel makanan menjadi asam lemak dan kelompok fosfat.
+
+4. **Enzim Nuklease & Enzim Lainnya**
+   * **Nuklease (Pankreas):** Memecah asam nukleat (DNA dan RNA) dari makanan menjadi nukleotida dan nukleosida.
+
+---
+
+### B. Tabel Master Enzim Pencernaan Manusia
+
+| Organ Penghasil | Nama Enzim | Substrat (Target) | Hasil Akhir Pencernaan | Suasana pH |
+| :--- | :--- | :--- | :--- | :--- |
+| **Mulut (Saliva)** | Amilase (Ptialin) | Amilum / Pati | Maltosa | Netral (6.8) |
+| **Lambung** | Pepsin | Protein | Pepton / Polipeptida | Asam (1–2) |
+| | Renin | Kaseinogen (Susu) | Kasein | Asam (1–2) |
+| | Lipase Gastrik | Lemak Sederhana | Asam Lemak & Gliserol | Asam (1–2) |
+| **Pankreas** | Amilase Pankreas | Amilum / Disakarida | Maltosa / Glukosa | Basa (7–8) |
+| | Tripsin | Protein / Pepton | Peptida & Asam Amino | Basa (7–8) |
+| | Kimotripsin | Polipeptida | Peptida Pendek | Basa (7–8) |
+| | Lipase Pankreas | Lemak Teremulsi | Asam Lemak & Gliserol | Basa (7–8) |
+| | Karboksipeptidase | Ujung Peptida | Asam Amino | Basa (7–8) |
+| | Elastase | Protein Elastin | Peptida | Basa (7–8) |
+| | Nuklease | Asam Nukleat (DNA/RNA) | Nukleotida | Basa (7–8) |
+| | Fosfolipase | Fosfolipid | Asam Lemak & Fosfat | Basa (7–8) |
+| **Usus Halus** | Maltase | Maltosa | Glukosa | Basa (7.5–8) |
+| | Laktase | Laktosa | Glukosa + Galaktosa | Basa (7.5–8) |
+| | Sukrase | Sukrosa | Glukosa + Fruktosa | Basa (7.5–8) |
+| | Peptidase (Erepsin) | Peptida | Asam Amino | Basa (7.5–8) |
+
+---
+
+### C. Faktor Lingkungan & Kondisi Medis yang Mempengaruhi Aktivitas Enzim
+
+1. **Pengaruh Derajat Keasaman (pH):**
+   * Setiap enzim bekerja optimal pada kisaran pH tertentu. Pepsin bekerja sangat efektif pada pH 1–2 di lambung. Ketika *chyme* berpindah ke usus 12 jari (duodenum), sekresi natrium bikarbonat ($NaHCO_3$) dari pankreas menetralkan keasaman tersebut hingga pH menjadi 7–8. Hal ini penting karena enzim pencernaan pankreas dan usus halus akan mengalami denaturasi/inaktivasi jika berada di lingkungan asam.
+2. **Pengaruh Suhu Tubuh:**
+   * Suhu tubuh normal (±37°C) merupakan suhu optimum bagi metabolisme enzimatis. Kondisi demam tinggi dapat menurunkan efisiensi kerja enzim pencernaan.
+3. **Faktor Gangguan Kesehatan & Konsumsi Obat:**
+   * **Radang Pankreas (Pankreatitis):** Menghambat produksi dan penyaluran getah pankreas sehingga terjadi gangguan penyerapan nutrisi (malabsorpsi).
+   * **Penyakit Crohn & Kanker Kolorektal:** Kerusakan mukosa dan jaringan usus yang mengganggu sekresi enzim pencernaan lokal (seperti laktase, maltase, sukrase).
+   * **Penggunaan Obat-obatan & Diet Ketat:** Konsumsi antibiotik jangka panjang atau diet yang terlalu ketat dapat menekan produksi enzim pencernaan alami dan mengganggu keseimbangan mikroflora usus.
+
+---
+
+## 5. Gangguan & Penyakit pada Sistem Pencernaan
 
 Sistem pencernaan dapat mengalami gangguan fungsi atau serangan penyakit akibat infeksi kuman, pola makan tidak teratur, kurang serat/air, atau kelainan bawaan.
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                   RINGKASAN GANGGUAN SISTEM PENCERNAAN                      │
-├───────────────┬───────────────────────────────┬─────────────────────────────┤
-│ Gangguan      │ Penyebab Utama                │ Dampak / Gejala             │
-├───────────────┼───────────────────────────────┼─────────────────────────────┤
-│ Diare         │ Patogen (bakteri/virus),      │ Feses encer, penyerapan air │
-│               │ toksin, intoleransi laktosa   │ berkurang di usus besar     │
-├───────────────┼───────────────────────────────┼─────────────────────────────┤
-│ Gastritis     │ Asam lambung berlebih, iritasi│ Peradangan pada mukosa      │
-│               │ pedas/alkohol, H. pylori      │ lambung, perut perih        │
-├───────────────┼───────────────────────────────┼─────────────────────────────┤
-│ Tukak Lambung │ Terkikisnya dinding lambung   │ Ulser/luka pada dinding     │
-│ (Ulkus)       │ oleh asam & H. pylori         │ lambung, nyeri tajam        │
-├───────────────┼───────────────────────────────┼─────────────────────────────┤
-│ Sembelit      │ Kurang serat & air putih,     │ Feses keras/kering, sulit   │
-│ (Konstipasi)  │ penyerapan air berlebihan     │ dikeluarkan                 │
-├───────────────┼───────────────────────────────┼─────────────────────────────┤
-│ GERD          │ Melemahnya sfingter esofagus  │ Asam lambung naik ke dada,  │
-│               │ bawah                         │ heartburn (sensasi terbakar)│
-├───────────────┼───────────────────────────────┼─────────────────────────────┤
-│ Apendiksitis  │ Tersumbatnya apendiks oleh    │ Peradangan usus buntu, nyeri│
-│               │ sisa makanan & infeksi        │ perut kanan bawah           │
-├───────────────┼───────────────────────────────┼─────────────────────────────┤
-│ Wasir         │ Tekanan berlebih pada pembuluh│ Pembengkakan vena anus/     │
-│ (Hemoroid)    │ darah anus (mengejan keras)   │ rektum, perdarahan BAB      │
-├───────────────┼───────────────────────────────┼─────────────────────────────┤
-│ Tifus         │ Infeksi bakteri Salmonella    │ Demam tinggi, radang usus,  │
-│               │ typhi dari makanan kotor      │ tubuh menggigil & lemas     │
-└───────────────┴───────────────────────────────┴─────────────────────────────┘
-```
+| Gangguan | Penyebab Utama | Dampak / Gejala |
+| :--- | :--- | :--- |
+| **Diare** | Patogen (bakteri/virus), toksin, intoleransi laktosa | Feses encer, penyerapan air berkurang di usus besar |
+| **Gastritis** | Asam lambung berlebih, iritasi pedas/alkohol, *H. pylori* | Peradangan pada mukosa lambung, perut perih |
+| **Tukak Lambung (Ulkus)** | Terkikisnya dinding lambung oleh asam & *H. pylori* | Ulser/luka pada dinding lambung, nyeri tajam |
+| **Sembelit (Konstipasi)** | Kurang serat & air putih, penyerapan air berlebihan | Feses keras/kering, sulit dikeluarkan |
+| **GERD** | Melemahnya sfingter esofagus bawah | Asam lambung naik ke dada, *heartburn* (sensasi terbakar) |
+| **Apendiksitis** | Tersumbatnya apendiks oleh sisa makanan & infeksi | Peradangan usus buntu, nyeri perut kanan bawah |
+| **Wasir (Hemoroid)** | Tekanan berlebih pada pembuluh darah anus (mengejan keras) | Pembengkakan vena anus/rektum, perdarahan BAB |
+| **Tifus** | Infeksi bakteri *Salmonella typhi* dari makanan kotor | Demam tinggi, radang usus, tubuh menggigil & lemas |
 
 ### Detail Analisis Penyakit Pencernaan:
 
@@ -274,7 +318,7 @@ Sistem pencernaan dapat mengalami gangguan fungsi atau serangan penyakit akibat 
 
 ---
 
-## 5. Upaya Memelihara Kesehatan Sistem Pencernaan
+## 6. Upaya Memelihara Kesehatan Sistem Pencernaan
 
 Untuk menjaga agar organ-organ pencernaan tetap berfungsi optimal dan terhindar dari penyakit, berikut adalah langkah-langkah praktis yang wajib diterapkan dalam kehidupan sehari-hari:
 

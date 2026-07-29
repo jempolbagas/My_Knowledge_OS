@@ -20,3 +20,8 @@ An **activation function** is a mathematical formula applied to a neuron's outpu
 - [[Model Parameters]]
 - [[Post-Training Quantization]]
 - [[Activation_Functions_Explained]]
+- [[Sigmoid Function]]
+- [[Tanh Function]]
+- [[ReLU Function]]
+- [[Leaky ReLU Function]]
+- [[Softmax Function]]

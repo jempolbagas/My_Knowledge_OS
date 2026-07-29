@@ -8,14 +8,14 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-07-28T17:14:32Z"
+    "generated_at": "2026-07-29T07:38:00Z"
   },
   "stats": {
-    "total_notes": 97,
-    "total_edges": 166,
+    "total_notes": 107,
+    "total_edges": 207,
     "broken_links": 21,
     "untyped_notes": 44,
-    "health_score": 47.7
+    "health_score": 52.9
   },
   "inbox": [],
   "spaces": {
@@ -105,7 +105,10 @@
       "Books": [],
       "Generated_Readings": {
         "Artificial_Intelligence": [
+          "Scale_Factor_and_Zero_Point_in_Quantization",
+          "Gradient_Flow_and_Activation_Slope",
           "Model_Parameters_Explained",
+          "Quantization_Calibration_in_PTQ",
           "Machine_Learning_Roadmap",
           "Activation_Functions_Explained"
         ],
@@ -130,9 +133,16 @@
       "Artificial_Intelligence": [
         "Model Parameters",
         "Machine Learning Roadmap",
+        "Quantization Calibration",
         "Vectorization in NumPy",
+        "Softmax Function",
+        "ReLU Function",
         "Activation Functions",
-        "Post-Training Quantization"
+        "Post-Training Quantization",
+        "Leaky ReLU Function",
+        "Sigmoid Function",
+        "Tanh Function",
+        "Scale Factor and Zero-Point"
       ],
       "Cybersecurity": [
         "Symmetric vs. Asymmetric Encryption",

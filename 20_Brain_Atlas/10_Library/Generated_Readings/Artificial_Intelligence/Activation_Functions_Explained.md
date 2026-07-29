@@ -8,6 +8,11 @@ status: done
 tags: [machine-learning, deep-learning, activation-functions, relu, sigmoid, neural-networks]
 promoted_to:
   - "[[Activation Functions]]"
+  - "[[Sigmoid Function]]"
+  - "[[Tanh Function]]"
+  - "[[ReLU Function]]"
+  - "[[Leaky ReLU Function]]"
+  - "[[Softmax Function]]"
 ---
 
 ## The reading

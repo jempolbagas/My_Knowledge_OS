@@ -9,12 +9,75 @@
     "status": "outdated"
   },
   {
+    "concept_file": "20_Brain_Atlas/20_Concepts/Artificial_Intelligence/Quantization Calibration.md",
+    "concept_title": "Quantization Calibration",
+    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Quantization_Calibration_in_PTQ.md",
+    "source_title": "Quantization_Calibration_in_PTQ",
+    "stored_hash": "fa3c8d5120df53a8e52164a8e73fb44e",
+    "current_hash": "9432a335b66b3c79b69d9f380a2969d8",
+    "status": "outdated"
+  },
+  {
+    "concept_file": "20_Brain_Atlas/20_Concepts/Artificial_Intelligence/Softmax Function.md",
+    "concept_title": "Softmax Function",
+    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Activation_Functions_Explained.md",
+    "source_title": "Activation_Functions_Explained",
+    "stored_hash": "f79b33ad105945a896c6978800b44b95",
+    "current_hash": "8966748bfbac3fd02cb68b8785533502",
+    "status": "outdated"
+  },
+  {
+    "concept_file": "20_Brain_Atlas/20_Concepts/Artificial_Intelligence/ReLU Function.md",
+    "concept_title": "ReLU Function",
+    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Activation_Functions_Explained.md",
+    "source_title": "Activation_Functions_Explained",
+    "stored_hash": "f79b33ad105945a896c6978800b44b95",
+    "current_hash": "8966748bfbac3fd02cb68b8785533502",
+    "status": "outdated"
+  },
+  {
     "concept_file": "20_Brain_Atlas/20_Concepts/Artificial_Intelligence/Activation Functions.md",
     "concept_title": "Activation Functions",
     "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Activation_Functions_Explained.md",
     "source_title": "Activation_Functions_Explained",
     "stored_hash": "f79b33ad105945a896c6978800b44b95",
-    "current_hash": "bcaa4f817a9fa896474e6fcc98a9b01d",
+    "current_hash": "8966748bfbac3fd02cb68b8785533502",
+    "status": "outdated"
+  },
+  {
+    "concept_file": "20_Brain_Atlas/20_Concepts/Artificial_Intelligence/Leaky ReLU Function.md",
+    "concept_title": "Leaky ReLU Function",
+    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Activation_Functions_Explained.md",
+    "source_title": "Activation_Functions_Explained",
+    "stored_hash": "f79b33ad105945a896c6978800b44b95",
+    "current_hash": "8966748bfbac3fd02cb68b8785533502",
+    "status": "outdated"
+  },
+  {
+    "concept_file": "20_Brain_Atlas/20_Concepts/Artificial_Intelligence/Sigmoid Function.md",
+    "concept_title": "Sigmoid Function",
+    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Activation_Functions_Explained.md",
+    "source_title": "Activation_Functions_Explained",
+    "stored_hash": "f79b33ad105945a896c6978800b44b95",
+    "current_hash": "8966748bfbac3fd02cb68b8785533502",
+    "status": "outdated"
+  },
+  {
+    "concept_file": "20_Brain_Atlas/20_Concepts/Artificial_Intelligence/Tanh Function.md",
+    "concept_title": "Tanh Function",
+    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Activation_Functions_Explained.md",
+    "source_title": "Activation_Functions_Explained",
+    "stored_hash": "f79b33ad105945a896c6978800b44b95",
+    "current_hash": "8966748bfbac3fd02cb68b8785533502",
+    "status": "outdated"
+  },
+  {
+    "concept_file": "20_Brain_Atlas/20_Concepts/Artificial_Intelligence/Scale Factor and Zero-Point.md",
+    "concept_title": "Scale Factor and Zero-Point",
+    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Scale_Factor_and_Zero_Point_in_Quantization.md",
+    "source_title": "Scale_Factor_and_Zero_Point_in_Quantization",
+    "stored_hash": "42839293822885af053254b55dea6858",
+    "current_hash": "1c1ffc12a33769ab19996b314f06971d",
     "status": "outdated"
   }
 ]
