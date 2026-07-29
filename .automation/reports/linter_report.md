@@ -43,6 +43,7 @@ These files have no incoming or outgoing links:
 - [[LKPD_dan_Soal_Pola_Bilangan]] (`10_Spaces/12_Teaching/40_Practice/Mathematics/LKPD_dan_Soal_Pola_Bilangan.md`)
 - [[LKPD_dan_Soal_Suku_Banyak_Polinomial]] (`10_Spaces/12_Teaching/40_Practice/Mathematics/LKPD_dan_Soal_Suku_Banyak_Polinomial.md`)
 - [[LKPD_dan_Soal_Sistem_Pencernaan_Makanan]] (`10_Spaces/12_Teaching/40_Practice/Biology/LKPD_dan_Soal_Sistem_Pencernaan_Makanan.md`)
+- [[LKPD_dan_Soal_Pengenalan_Sel]] (`10_Spaces/12_Teaching/40_Practice/Biology/LKPD_dan_Soal_Pengenalan_Sel.md`)
 - [[index]] (`10_Spaces/12_Teaching/00_Atlas/index.md`)
 - [[Materi_Simple_Past_Tense]] (`10_Spaces/12_Teaching/30_Sources/Languages/Materi_Simple_Past_Tense.md`)
 - [[Materi_Parts_of_Speech]] (`10_Spaces/12_Teaching/30_Sources/Languages/Materi_Parts_of_Speech.md`)
@@ -51,7 +52,9 @@ These files have no incoming or outgoing links:
 - [[Materi_Persamaan_Kuadrat]] (`10_Spaces/12_Teaching/30_Sources/Mathematics/Materi_Persamaan_Kuadrat.md`)
 - [[Materi_Pola_Bilangan]] (`10_Spaces/12_Teaching/30_Sources/Mathematics/Materi_Pola_Bilangan.md`)
 - [[Materi_Suku_Banyak_Polinomial]] (`10_Spaces/12_Teaching/30_Sources/Mathematics/Materi_Suku_Banyak_Polinomial.md`)
+- [[Materi_Pengenalan_Sel]] (`10_Spaces/12_Teaching/30_Sources/Biology/Materi_Pengenalan_Sel.md`)
 - [[Materi_Sistem_Pencernaan_Makanan]] (`10_Spaces/12_Teaching/30_Sources/Biology/Materi_Sistem_Pencernaan_Makanan.md`)
+- [[Materi IPA Kelas 8 Bab 1 Pengenalan Sel]] (`00_Inbox/Materi IPA Kelas 8 Bab 1 Pengenalan Sel.md`)
 
 ## 📄 Missing/Invalid Frontmatter Properties
 | File | Missing/Invalid Fields |

@@ -8,16 +8,19 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-07-29T07:38:00Z"
+    "generated_at": "2026-07-29T13:59:59Z"
   },
   "stats": {
-    "total_notes": 107,
-    "total_edges": 207,
-    "broken_links": 21,
-    "untyped_notes": 44,
-    "health_score": 52.9
+    "total_notes": 111,
+    "total_edges": 212,
+    "broken_links": 26,
+    "untyped_notes": 48,
+    "health_score": 49.8
   },
-  "inbox": [],
+  "inbox": [
+    "Apa Itu Sel Kenali Jenis & Strukturnya, Yuk!",
+    "Materi IPA Kelas 8 Bab 1 Pengenalan Sel"
+  ],
   "spaces": {
     "College": {
       "General": [
@@ -76,6 +79,8 @@
       ],
       "Biology": [
         "LKPD_dan_Soal_Sistem_Pencernaan_Makanan",
+        "LKPD_dan_Soal_Pengenalan_Sel",
+        "Materi_Pengenalan_Sel",
         "Materi_Sistem_Pencernaan_Makanan"
       ]
     }
@@ -186,6 +191,7 @@
       "LKPD_dan_Soal_Pola_Bilangan",
       "LKPD_dan_Soal_Suku_Banyak_Polinomial",
       "LKPD_dan_Soal_Sistem_Pencernaan_Makanan",
+      "LKPD_dan_Soal_Pengenalan_Sel",
       "index",
       "Materi_Simple_Past_Tense",
       "Materi_Parts_of_Speech",
@@ -194,7 +200,9 @@
       "Materi_Persamaan_Kuadrat",
       "Materi_Pola_Bilangan",
       "Materi_Suku_Banyak_Polinomial",
-      "Materi_Sistem_Pencernaan_Makanan"
+      "Materi_Pengenalan_Sel",
+      "Materi_Sistem_Pencernaan_Makanan",
+      "Materi IPA Kelas 8 Bab 1 Pengenalan Sel"
     ],
     "untyped_notes_sample": [
       {
