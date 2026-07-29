@@ -11,6 +11,8 @@ source: agent-review
 
 Review kritis terhadap [[Cetak Biru KTI]]. Jadikan bahan diskusi tim sebelum mulai menulis draf.
 
+*Update:* Lihat [[Kajian Justifikasi Pivot dan Drop WASM]] untuk argumen teknis detail mengenai usulan drop WebAssembly.
+
 ---
 
 ## Yang Kuat

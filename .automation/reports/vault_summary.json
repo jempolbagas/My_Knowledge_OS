@@ -8,14 +8,14 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-07-29T15:16:32Z"
+    "generated_at": "2026-07-29T15:42:29Z"
   },
   "stats": {
-    "total_notes": 118,
-    "total_edges": 214,
+    "total_notes": 121,
+    "total_edges": 215,
     "broken_links": 26,
-    "untyped_notes": 48,
-    "health_score": 52.1
+    "untyped_notes": 50,
+    "health_score": 51.6
   },
   "inbox": [],
   "spaces": {
@@ -175,8 +175,9 @@
       "Koordinasi",
       "Draf Index",
       "Referensi Index",
+      "Perplexity - ONNX Runtime",
+      "Perplexity - WasmEdge + WASI-NN + TFLite",
       "Riset Index",
-      "Cetak Biru KTI",
       "Syllabus_Template",
       "[ESL] Present Continuous Tense",
       "Peran Lembaga Sosial",
@@ -200,13 +201,20 @@
       "Materi_Tenaga_Endogen_Vulkanisme",
       "Materi_Tenaga_Eksogen",
       "Materi_Persamaan_Kuadrat",
-      "Materi_Pola_Bilangan",
-      "Materi_Suku_Banyak_Polinomial"
+      "Materi_Pola_Bilangan"
     ],
     "untyped_notes_sample": [
       {
         "title": "README",
         "path": "10_Spaces/13_Gemastik_KTI/README.md"
+      },
+      {
+        "title": "Perplexity - ONNX Runtime",
+        "path": "10_Spaces/13_Gemastik_KTI/10_Riset/Perplexity - ONNX Runtime.md"
+      },
+      {
+        "title": "Perplexity - WasmEdge + WASI-NN + TFLite",
+        "path": "10_Spaces/13_Gemastik_KTI/10_Riset/Perplexity - WasmEdge + WASI-NN + TFLite.md"
       },
       {
         "title": "Cetak Biru KTI",
@@ -275,14 +283,6 @@
       {
         "title": "Tata Surya dan Bumi",
         "path": "10_Spaces/12_Teaching/20_Cards/STEM/Tata Surya dan Bumi.md"
-      },
-      {
-        "title": "Energi Listrik",
-        "path": "10_Spaces/12_Teaching/20_Cards/STEM/Energi Listrik.md"
-      },
-      {
-        "title": "Gaya dan Hukum Newton",
-        "path": "10_Spaces/12_Teaching/20_Cards/STEM/Gaya dan Hukum Newton.md"
       }
     ]
   }

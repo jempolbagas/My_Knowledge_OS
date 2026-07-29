@@ -145,12 +145,16 @@
       "title": "Referensi Index"
     },
     {
-      "file": "10_Spaces/13_Gemastik_KTI/10_Riset/Riset Index.md",
-      "title": "Riset Index"
+      "file": "10_Spaces/13_Gemastik_KTI/10_Riset/Perplexity - ONNX Runtime.md",
+      "title": "Perplexity - ONNX Runtime"
     },
     {
-      "file": "10_Spaces/13_Gemastik_KTI/10_Riset/Cetak Biru KTI.md",
-      "title": "Cetak Biru KTI"
+      "file": "10_Spaces/13_Gemastik_KTI/10_Riset/Perplexity - WasmEdge + WASI-NN + TFLite.md",
+      "title": "Perplexity - WasmEdge + WASI-NN + TFLite"
+    },
+    {
+      "file": "10_Spaces/13_Gemastik_KTI/10_Riset/Riset Index.md",
+      "title": "Riset Index"
     },
     {
       "file": "10_Spaces/11_College/Syllabi/Syllabus_Template.md",

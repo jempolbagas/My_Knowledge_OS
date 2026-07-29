@@ -17,8 +17,19 @@ Kumpulan catatan riset dan brainstorming tim.
 
 ## Catatan Riset
 
-> Tambahkan links ke catatan riset di bawah setelah topik ditentukan.
+- [[Cetak Biru KTI]]
+- [[Kritik dan Evaluasi Cetak Biru]]
+- [[Kajian Justifikasi Pivot dan Drop WASM]] (Pivot Proposal)
+
+### Perplexity Research Sessions
+- [[Perplexity - ONNX Runtime]]
+- [[Perplexity - WasmEdge + WASI-NN + TFLite]]
+- [[Perplexity - Hybrid]]
+- [[Perplexity - What are real-world deployments of ML inference on]]
 
 ## Referensi Brain Atlas (Relevan)
 
-> Isi dengan wikilinks ke Library/Concept notes setelah topik ditentukan.
+- [[WebAssembly_Sandbox_and_Security_Architecture]]
+- [[Wasm_vs_Docker]]
+- [[Post-Training Quantization]]
+
