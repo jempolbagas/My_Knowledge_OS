@@ -3,6 +3,11 @@
 ## 🔗 Broken Links
 | File | Broken Link Target | Context |
 | --- | --- | --- |
+| [[Index]] | `00_Koordinasi/Koordinasi` | `wikilink` |
+| [[Index]] | `10_Riset/Riset Index` | `wikilink` |
+| [[Index]] | `20_Draf/Draf Index` | `wikilink` |
+| [[Index]] | `30_Referensi/Referensi Index` | `wikilink` |
+| [[README]] | `Nama Note` | `wikilink` |
 | [[WebAssembly_Sandbox_and_Security_Architecture]] | `WebAssembly Sandboxing` | `wikilink` |
 | [[WebAssembly_Sandbox_and_Security_Architecture]] | `WebAssembly Sandboxing` | `frontmatter_promoted_to` |
 | [[Wasm_vs_Docker]] | `WebAssembly vs Docker` | `wikilink` |
@@ -27,6 +32,10 @@
 
 ## 🕳️ Orphan Pages (Disconnected Nodes)
 These files have no incoming or outgoing links:
+- [[Koordinasi]] (`10_Spaces/13_Gemastik_KTI/00_Koordinasi/Koordinasi.md`)
+- [[Draf Index]] (`10_Spaces/13_Gemastik_KTI/20_Draf/Draf Index.md`)
+- [[Referensi Index]] (`10_Spaces/13_Gemastik_KTI/30_Referensi/Referensi Index.md`)
+- [[Riset Index]] (`10_Spaces/13_Gemastik_KTI/10_Riset/Riset Index.md`)
 - [[Syllabus_Template]] (`10_Spaces/11_College/Syllabi/Syllabus_Template.md`)
 - [[[ESL] Present Continuous Tense]] (`10_Spaces/12_Teaching/20_Cards/Languages/[ESL] Present Continuous Tense.md`)
 - [[Peran Lembaga Sosial]] (`10_Spaces/12_Teaching/20_Cards/Social_Studies/Peran Lembaga Sosial.md`)
@@ -54,7 +63,6 @@ These files have no incoming or outgoing links:
 - [[Materi_Suku_Banyak_Polinomial]] (`10_Spaces/12_Teaching/30_Sources/Mathematics/Materi_Suku_Banyak_Polinomial.md`)
 - [[Materi_Pengenalan_Sel]] (`10_Spaces/12_Teaching/30_Sources/Biology/Materi_Pengenalan_Sel.md`)
 - [[Materi_Sistem_Pencernaan_Makanan]] (`10_Spaces/12_Teaching/30_Sources/Biology/Materi_Sistem_Pencernaan_Makanan.md`)
-- [[Materi IPA Kelas 8 Bab 1 Pengenalan Sel]] (`00_Inbox/Materi IPA Kelas 8 Bab 1 Pengenalan Sel.md`)
 
 ## 📄 Missing/Invalid Frontmatter Properties
 | File | Missing/Invalid Fields |

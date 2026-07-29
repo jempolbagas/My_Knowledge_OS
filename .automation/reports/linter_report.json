@@ -1,6 +1,31 @@
 {
   "broken_links": [
     {
+      "file": "10_Spaces/13_Gemastik_KTI/Index.md",
+      "broken_link": "00_Koordinasi/Koordinasi",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/13_Gemastik_KTI/Index.md",
+      "broken_link": "10_Riset/Riset Index",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/13_Gemastik_KTI/Index.md",
+      "broken_link": "20_Draf/Draf Index",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/13_Gemastik_KTI/Index.md",
+      "broken_link": "30_Referensi/Referensi Index",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/13_Gemastik_KTI/README.md",
+      "broken_link": "Nama Note",
+      "context": "wikilink"
+    },
+    {
       "file": "20_Brain_Atlas/10_Library/Articles_Talks/WebAssembly_Sandbox_and_Security_Architecture.md",
       "broken_link": "WebAssembly Sandboxing",
       "context": "wikilink"
@@ -108,6 +133,22 @@
   ],
   "orphans": [
     {
+      "file": "10_Spaces/13_Gemastik_KTI/00_Koordinasi/Koordinasi.md",
+      "title": "Koordinasi"
+    },
+    {
+      "file": "10_Spaces/13_Gemastik_KTI/20_Draf/Draf Index.md",
+      "title": "Draf Index"
+    },
+    {
+      "file": "10_Spaces/13_Gemastik_KTI/30_Referensi/Referensi Index.md",
+      "title": "Referensi Index"
+    },
+    {
+      "file": "10_Spaces/13_Gemastik_KTI/10_Riset/Riset Index.md",
+      "title": "Riset Index"
+    },
+    {
       "file": "10_Spaces/11_College/Syllabi/Syllabus_Template.md",
       "title": "Syllabus_Template"
     },
@@ -214,10 +255,6 @@
     {
       "file": "10_Spaces/12_Teaching/30_Sources/Biology/Materi_Sistem_Pencernaan_Makanan.md",
       "title": "Materi_Sistem_Pencernaan_Makanan"
-    },
-    {
-      "file": "00_Inbox/Materi IPA Kelas 8 Bab 1 Pengenalan Sel.md",
-      "title": "Materi IPA Kelas 8 Bab 1 Pengenalan Sel"
     }
   ],
   "missing_frontmatter": [

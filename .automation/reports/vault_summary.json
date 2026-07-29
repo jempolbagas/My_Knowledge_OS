@@ -8,19 +8,16 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-07-29T13:59:59Z"
+    "generated_at": "2026-07-29T14:48:32Z"
   },
   "stats": {
-    "total_notes": 111,
-    "total_edges": 212,
+    "total_notes": 115,
+    "total_edges": 213,
     "broken_links": 26,
-    "untyped_notes": 48,
-    "health_score": 49.8
+    "untyped_notes": 47,
+    "health_score": 51.9
   },
-  "inbox": [
-    "Apa Itu Sel Kenali Jenis & Strukturnya, Yuk!",
-    "Materi IPA Kelas 8 Bab 1 Pengenalan Sel"
-  ],
+  "inbox": [],
   "spaces": {
     "College": {
       "General": [
@@ -175,6 +172,10 @@
   },
   "maintenance": {
     "orphan_pages_sample": [
+      "Koordinasi",
+      "Draf Index",
+      "Referensi Index",
+      "Riset Index",
       "Syllabus_Template",
       "[ESL] Present Continuous Tense",
       "Peran Lembaga Sosial",
@@ -200,11 +201,13 @@
       "Materi_Persamaan_Kuadrat",
       "Materi_Pola_Bilangan",
       "Materi_Suku_Banyak_Polinomial",
-      "Materi_Pengenalan_Sel",
-      "Materi_Sistem_Pencernaan_Makanan",
-      "Materi IPA Kelas 8 Bab 1 Pengenalan Sel"
+      "Materi_Pengenalan_Sel"
     ],
     "untyped_notes_sample": [
+      {
+        "title": "README",
+        "path": "10_Spaces/13_Gemastik_KTI/README.md"
+      },
       {
         "title": "Masa Praaksara dan Asal-usul Nenek Moyang Bangsa Indonesia",
         "path": "10_Spaces/12_Teaching/20_Cards/Social_Studies/Masa Praaksara dan Asal-usul Nenek Moyang Bangsa Indonesia.md"
@@ -280,10 +283,6 @@
       {
         "title": "[Chem] Konsep Mol - Rangkuman",
         "path": "10_Spaces/12_Teaching/20_Cards/STEM/[Chem] Konsep Mol - Rangkuman.md"
-      },
-      {
-        "title": "LKPD_dan_Soal_Parts_of_Speech",
-        "path": "10_Spaces/12_Teaching/40_Practice/Languages/LKPD_dan_Soal_Parts_of_Speech.md"
       }
     ]
   }
