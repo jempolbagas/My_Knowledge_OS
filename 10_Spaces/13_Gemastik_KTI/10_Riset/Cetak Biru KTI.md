@@ -1,6 +1,6 @@
 # **CETAK BIRU KARYA TULIS ILMIAH**
 
-**Judul Tentatif:** Rancang Bangun Arsitektur *Edge Computing* Ultra-Ringan Berbasis WebAssembly dan TinyML untuk Inferensi Medis Mandiri di Fasilitas Kesehatan 3T
+**Judul Tentatif:** Rancang Bangun Arsitektur *Resilient Edge Computing* Berbasis Immutable OS dan TinyML untuk Inferensi Medis Mandiri di Fasilitas Kesehatan 3T
 
 ## **1\. Latar Belakang & Pernyataan Masalah**
 
@@ -30,11 +30,11 @@ Sistem ini memisahkan model (*payload*) dari infrastruktur (*vehicle*). Berikut 
 > * **Sistem Operasi:** Menggunakan *Immutable OS* (seperti Alpine Linux tipe *read-only*).  
 > * **Keunggulan:** Tahan terhadap kerusakan OS akibat mati listrik mendadak. *Troubleshooting* cukup dilakukan dengan *Hard Reset* (cabut-pasang kabel daya).
 
-### **B. Layer Eksekusi: WebAssembly (Wasm) & WASI-NN**
+### **B. Layer Eksekusi: Native ML Runtime (Tanpa Kontainer)**
 
-> * **Desain:** Menggantikan Docker dengan *runtime* **WasmEdge**.  
-> * **WASI-NN (WebAssembly System Interface for Neural Networks):** Modul ini bertindak sebagai jembatan yang memungkinkan Wasm mengakses kapabilitas komputasi CPU asli sistem lokal (via OpenVINO atau TFLite C-API) tanpa hambatan abstraksi.  
-> * **Keunggulan:** Waktu *cold start* turun ke level milidetik, konsumsi RAM sangat kecil, dan keamanan tingkat tinggi berkat arsitektur *deny-by-default sandbox*.
+> * **Desain:** Menghilangkan *overhead* kontainerisasi (Docker) maupun *sandbox* (WASM) untuk mengeksekusi inferensi langsung secara *native* (Host OS).  
+> * **Runtime:** Menggunakan *engine* inferensi standar yang telah teroptimasi untuk ARM64 (seperti TensorFlow Lite atau ONNX Runtime).  
+> * **Keunggulan:** Menghilangkan kompleksitas arsitektur berlapis, memberikan latensi prediksi tercepat (murni dari CPU tanpa terpotong *virtualization layer*), dan memaksimalkan RAM yang tersisa.
 
 ### **C. Layer Model: *TinyML Pipeline* (Integrasi Model Publik)**
 
@@ -56,9 +56,9 @@ Karena penelitian ini menggunakan model *pre-trained* (tidak membuat dataset sen
 
 KTI ini berfokus pada **Rekayasa Sistem (Systems Engineering)**, bukan akurasi diagnosis medis. Oleh karena itu, pengujian dilakukan dengan membandingkan tiga skenario arsitektur menjalankan satu model *pre-trained* yang sama:
 
-> * **Skenario A (Baseline):** Eksekusi langsung (Native Python) di PC Standar.  
-> * **Skenario B (Konvensional):** Eksekusi via Docker Container.  
-> * **Skenario C (Usulan):** Eksekusi via WasmEdge (WASI-NN) \+ Quantized Model.
+> * **Skenario A (Pengujian Bandwidth):** Sinkronisasi *Full Model Update* (transfer utuh) vs *Delta-Update* (hanya mentransfer perbedaan *byte*).  
+> * **Skenario B (Pengujian Hardware):** Eksekusi Model Asli (FP32) vs Model Terkuantisasi (INT8) secara *Native* di Raspberry Pi 4.  
+> * **Skenario C (Pengujian Reliabilitas Listrik):** Simulasi *Hard Power-Off* paksa pada OS Standar (Raspbian) vs *Immutable OS* (Alpine Linux).
 
 **Metrik Kuantitatif yang akan diukur dan disajikan sebagai hasil penelitian:**
 
@@ -69,7 +69,7 @@ KTI ini berfokus pada **Rekayasa Sistem (Systems Engineering)**, bukan akurasi d
 
 ## **5\. Kesimpulan KTI**
 
-Arsitektur yang diusulkan menggeser paradigma dari "memaksakan komputasi berat ke Edge" menjadi "merestrukturisasi komputasi agar sesuai dengan Edge". Pendekatan integratif antara *Immutable OS*, WasmEdge, TinyML, dan *Delta-Update* ini menawarkan kerangka kerja infrastruktur yang pragmatis, hemat biaya, dan *bulletproof* untuk digitalisasi layanan medis di wilayah paling terisolasi di Indonesia.
+Arsitektur yang diusulkan menggeser paradigma dari "memaksakan komputasi berat ke Edge" menjadi "merestrukturisasi komputasi agar sesuai dengan Edge". Pendekatan integratif antara *Immutable OS*, *Native ML Runtime*, TinyML, dan *Delta-Update* ini menawarkan kerangka kerja infrastruktur yang pragmatis, hemat biaya, dan *bulletproof* untuk digitalisasi layanan medis di wilayah paling terisolasi di Indonesia.
 
 [image1]: <data:image/png;base64,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>
 

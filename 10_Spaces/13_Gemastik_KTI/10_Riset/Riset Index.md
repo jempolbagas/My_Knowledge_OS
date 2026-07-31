@@ -18,6 +18,7 @@ Kumpulan catatan riset dan brainstorming tim.
 ## Catatan Riset
 
 - [[Cetak Biru KTI]]
+- [[Pertimbangan Judul dan Metodologi]]
 - [[Kritik dan Evaluasi Cetak Biru]]
 - [[Kajian Justifikasi Pivot dan Drop WASM]] (Pivot Proposal)
 

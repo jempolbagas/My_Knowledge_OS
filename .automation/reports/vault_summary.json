@@ -8,14 +8,14 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-07-29T15:42:29Z"
+    "generated_at": "2026-07-31T10:33:55Z"
   },
   "stats": {
-    "total_notes": 121,
-    "total_edges": 215,
+    "total_notes": 130,
+    "total_edges": 229,
     "broken_links": 26,
-    "untyped_notes": 50,
-    "health_score": 51.6
+    "untyped_notes": 57,
+    "health_score": 49.8
   },
   "inbox": [],
   "spaces": {
@@ -28,10 +28,14 @@
       "Languages": [
         "[ESL] Present Continuous Tense",
         "[ESL] Worksheet - Simple Present vs Present Continuous",
+        "LKPD_dan_Soal_Functional_Texts",
         "LKPD_dan_Soal_Parts_of_Speech",
+        "LKPD_dan_Soal_Descriptive_Text",
         "LKPD_dan_Soal_Simple_Past_Tense",
         "Materi_Simple_Past_Tense",
-        "Materi_Parts_of_Speech"
+        "Materi_Descriptive_Text",
+        "Materi_Parts_of_Speech",
+        "Materi_Functional_Texts"
       ],
       "Social Studies": [
         "Masa Praaksara dan Asal-usul Nenek Moyang Bangsa Indonesia",
@@ -89,6 +93,10 @@
       "Articles_Talks": [
         {
           "title": "WebAssembly_Sandbox_and_Security_Architecture",
+          "status": "done"
+        },
+        {
+          "title": "Short Functional Text Definisi, Jenis-Jenis, dan Contohnya - Belajar Bahasa Inggris Gratis & Mudah",
           "status": "done"
         },
         {
@@ -175,9 +183,7 @@
       "Koordinasi",
       "Draf Index",
       "Referensi Index",
-      "Perplexity - ONNX Runtime",
-      "Perplexity - WasmEdge + WASI-NN + TFLite",
-      "Riset Index",
+      "Model AI buat penyakit",
       "Syllabus_Template",
       "[ESL] Present Continuous Tense",
       "Peran Lembaga Sosial",
@@ -186,7 +192,9 @@
       "[Math] Kisi-Kisi ASAT - Master Summary",
       "[Chem] Konsep Mol - Rangkuman",
       "[ESL] Worksheet - Simple Present vs Present Continuous",
+      "LKPD_dan_Soal_Functional_Texts",
       "LKPD_dan_Soal_Parts_of_Speech",
+      "LKPD_dan_Soal_Descriptive_Text",
       "LKPD_dan_Soal_Simple_Past_Tense",
       "LKPD_dan_Soal_Tenaga_Endogen_Vulkanisme",
       "LKPD_dan_Soal_Tenaga_Eksogen",
@@ -197,11 +205,11 @@
       "LKPD_dan_Soal_Pengenalan_Sel",
       "index",
       "Materi_Simple_Past_Tense",
+      "Materi_Descriptive_Text",
       "Materi_Parts_of_Speech",
       "Materi_Tenaga_Endogen_Vulkanisme",
       "Materi_Tenaga_Eksogen",
-      "Materi_Persamaan_Kuadrat",
-      "Materi_Pola_Bilangan"
+      "Materi_Persamaan_Kuadrat"
     ],
     "untyped_notes_sample": [
       {
@@ -209,12 +217,24 @@
         "path": "10_Spaces/13_Gemastik_KTI/README.md"
       },
       {
+        "title": "Model AI buat penyakit",
+        "path": "10_Spaces/13_Gemastik_KTI/10_Riset/Model AI buat penyakit.md"
+      },
+      {
         "title": "Perplexity - ONNX Runtime",
         "path": "10_Spaces/13_Gemastik_KTI/10_Riset/Perplexity - ONNX Runtime.md"
       },
       {
+        "title": "Perplexity - What are real-world deployments of ML inference on",
+        "path": "10_Spaces/13_Gemastik_KTI/10_Riset/Perplexity - What are real-world deployments of ML inference on.md"
+      },
+      {
         "title": "Perplexity - WasmEdge + WASI-NN + TFLite",
         "path": "10_Spaces/13_Gemastik_KTI/10_Riset/Perplexity - WasmEdge + WASI-NN + TFLite.md"
+      },
+      {
+        "title": "Perplexity - Hybrid",
+        "path": "10_Spaces/13_Gemastik_KTI/10_Riset/Perplexity - Hybrid.md"
       },
       {
         "title": "Cetak Biru KTI",
@@ -271,18 +291,6 @@
       {
         "title": "Ekosistem dan Keanekaragaman Hayati",
         "path": "10_Spaces/12_Teaching/20_Cards/STEM/Ekosistem dan Keanekaragaman Hayati.md"
-      },
-      {
-        "title": "Rantai Makanan dan Jaring-Jaring Makanan",
-        "path": "10_Spaces/12_Teaching/20_Cards/STEM/Rantai Makanan dan Jaring-Jaring Makanan.md"
-      },
-      {
-        "title": "Kecepatan dan Kelajuan",
-        "path": "10_Spaces/12_Teaching/20_Cards/STEM/Kecepatan dan Kelajuan.md"
-      },
-      {
-        "title": "Tata Surya dan Bumi",
-        "path": "10_Spaces/12_Teaching/20_Cards/STEM/Tata Surya dan Bumi.md"
       }
     ]
   }

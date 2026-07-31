@@ -13,7 +13,7 @@ last_updated: 2026-07-29
 
 - **Judul sementara:** *(dalam diskusi — lihat [[Pertimbangan Judul dan Metodologi]])*
 - **Bidang:** Systems Engineering, Edge Computing, Healthcare IT
-- **Kata kunci utama:** WebAssembly, TinyML, Delta-Update, Edge Computing, 3T, Inferensi Klinis, Offline-first
+- **Kata kunci utama:** Resilient Edge, Immutable OS, TinyML, Delta-Update, Edge Computing, 3T, Inferensi Klinis, Offline-first
 
 ## Tim
 
@@ -28,22 +28,18 @@ last_updated: 2026-07-29
 > Isi dengan thesis/klaim utama KTI setelah topik ditentukan.
 > Contoh format: "Kami berargumen bahwa X dapat menyelesaikan Y karena Z."
 
-Arah sementara: Kombinasi WebAssembly runtime + TinyML + mekanisme Delta-Update dapat menjadi solusi infrastruktur komputasi yang viable untuk fasilitas kesehatan di daerah 3T dengan keterbatasan hardware, listrik, dan bandwidth.
-
-*(perlu diperketat setelah metodologi diputuskan)*
+Arah riset (Pivot disetujui): Kombinasi **Immutable OS** (mengatasi instabilitas listrik), **Native ML Runtime + Quantization** (mengatasi limitasi hardware), dan **Delta-Update** (mengatasi limitasi bandwidth) membentuk arsitektur *Resilient Edge* yang viable untuk fasilitas kesehatan 3T.
 
 ## Pertanyaan Riset
 
-1. Apakah WebAssembly runtime layak dijalankan pada hardware edge ultra-terbatas untuk inferensi klinis?
-2. Seberapa efisien mekanisme Delta-Update dalam mereduksi kebutuhan bandwidth sinkronisasi model TinyML?
-3. Bagaimana arsitektur sistem ini dapat menjamin operasi offline-first yang reliabel di kondisi 3T?
-
-*(pertanyaan riset masih tentatif, menyesuaikan dengan keputusan metodologi)*
+1. Bagaimana Immutable OS dapat menjaga reliabilitas sistem edge dari risiko korupsi data akibat pemutusan daya paksa di daerah 3T?
+2. Seberapa efisien mekanisme Delta-Update dalam mereduksi konsumsi bandwidth saat sinkronisasi pembaruan model klinis?
+3. Apakah performa inferensi native dengan model terkuantisasi INT8 di perangkat keras terbatas (RPi 4) memenuhi syarat latensi untuk penggunaan klinis?
 
 ## Status Saat Ini
 
-- **Fase:** Persiapan awal — diskusi topik & metodologi
-- **Bottleneck:** Keputusan metodologi (Rancang Bangun vs Kajian/Simulasi) dan finalisasi judul
+- **Fase:** Rancang Bangun (Arsitektur Resilient Edge tanpa WASM)
+- **Bottleneck:** Penentuan satu model klinis/kondisi medis spesifik untuk pengujian baseline
 - **Deadline terdekat:** *(isi)*
 
 ## Konsep Kunci (Brain Atlas Links)

@@ -145,16 +145,8 @@
       "title": "Referensi Index"
     },
     {
-      "file": "10_Spaces/13_Gemastik_KTI/10_Riset/Perplexity - ONNX Runtime.md",
-      "title": "Perplexity - ONNX Runtime"
-    },
-    {
-      "file": "10_Spaces/13_Gemastik_KTI/10_Riset/Perplexity - WasmEdge + WASI-NN + TFLite.md",
-      "title": "Perplexity - WasmEdge + WASI-NN + TFLite"
-    },
-    {
-      "file": "10_Spaces/13_Gemastik_KTI/10_Riset/Riset Index.md",
-      "title": "Riset Index"
+      "file": "10_Spaces/13_Gemastik_KTI/10_Riset/Model AI buat penyakit.md",
+      "title": "Model AI buat penyakit"
     },
     {
       "file": "10_Spaces/11_College/Syllabi/Syllabus_Template.md",
@@ -189,8 +181,16 @@
       "title": "[ESL] Worksheet - Simple Present vs Present Continuous"
     },
     {
+      "file": "10_Spaces/12_Teaching/40_Practice/Languages/LKPD_dan_Soal_Functional_Texts.md",
+      "title": "LKPD_dan_Soal_Functional_Texts"
+    },
+    {
       "file": "10_Spaces/12_Teaching/40_Practice/Languages/LKPD_dan_Soal_Parts_of_Speech.md",
       "title": "LKPD_dan_Soal_Parts_of_Speech"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/40_Practice/Languages/LKPD_dan_Soal_Descriptive_Text.md",
+      "title": "LKPD_dan_Soal_Descriptive_Text"
     },
     {
       "file": "10_Spaces/12_Teaching/40_Practice/Languages/LKPD_dan_Soal_Simple_Past_Tense.md",
@@ -231,6 +231,10 @@
     {
       "file": "10_Spaces/12_Teaching/30_Sources/Languages/Materi_Simple_Past_Tense.md",
       "title": "Materi_Simple_Past_Tense"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/30_Sources/Languages/Materi_Descriptive_Text.md",
+      "title": "Materi_Descriptive_Text"
     },
     {
       "file": "10_Spaces/12_Teaching/30_Sources/Languages/Materi_Parts_of_Speech.md",
