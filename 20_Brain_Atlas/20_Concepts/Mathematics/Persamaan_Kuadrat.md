@@ -7,7 +7,7 @@ tags:
   - concept
   - mathematics
   - algebra
-source: "[[3 Cara Mudah Menyelesaikan Persamaan Kuadrat]]"
+source: "[[Materi_Persamaan_Kuadrat]]"
 source_hash: "d07b403d242c847dcdbbc05268e62916"
 ---
 
@@ -20,6 +20,7 @@ Persamaan kuadrat adalah persamaan polinomial variabel tunggal dengan pangkat te
 - **Sifat Akar (Diskriminan):** Nilai diskriminan $D = b^2 - 4ac$ memberikan informasi krusial mengenai keberadaan dan jenis akar (dua akar real berbeda jika $D > 0$, akar kembar jika $D = 0$, dan akar kompleks jika $D < 0$).
 
 ## Related concepts
-- [[Aljabar]]
-- [[Polinomial]]
-- [[Fungsi Kuadrat]]
+- [[Suku_Banyak_Polinomial]]
+- [[Materi_Persamaan_Kuadrat]]
+- [[LKPD_dan_Soal_Persamaan_Kuadrat]]
+- [[Matriks]]

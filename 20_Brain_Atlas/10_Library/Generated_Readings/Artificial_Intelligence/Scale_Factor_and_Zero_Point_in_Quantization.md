@@ -82,5 +82,10 @@ Quantization algorithms configure the zero-point in one of two ways:
 
 During inference, weights are typically quantized **symmetrically** to speed up hardware execution, whereas dynamic activations (which are often strictly positive, like after a ReLU) are quantized **asymmetrically** to preserve precision.
 
+## Related Generated Readings
+- [[Quantization_Calibration_in_PTQ]]
+- [[Post_Training_Quantization_End_to_End_Guide]]
+- [[Activation_Functions_Explained]]
+
 ## Concepts to extract
 - [x] [[Scale Factor and Zero-Point]]

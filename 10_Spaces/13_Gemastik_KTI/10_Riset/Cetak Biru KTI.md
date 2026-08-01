@@ -78,3 +78,13 @@ Arsitektur yang diusulkan menggeser paradigma dari "memaksakan komputasi berat k
 [image3]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAaCAYAAACHD21cAAAA3ElEQVR4Xu3QsY4BURSA4SPZKLawFdW2WyLRUIhks6VO7Q0UXoAt2QfYhGjFC0isRKJHQSQSGj21SlaW/5or7pylVYg/+Yo5Z+4wI/Lodn2gixEG6CCKNiLOfb7KWCDmzJLYYOrMfKWxR1wvqIUvPTxVxx+e9YK+kdHDU2ZpfrGHd/E/4AUB59rXG9biHTZ+MUTWvelaIeTRwFy8B+zk8nsfu/aZq+IdLuqFKYy+HtpS4h3M6YXJ/LWJHtoqWCKoF6YmtijJ+Us+oYAVEnb2rx+84hNjzKyanT+60w5g7iek98V0vgAAAABJRU5ErkJggg==>
 
 [image4]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAZCAYAAAA4/K6pAAAA2klEQVR4Xu3Sv6tBYRzH8ecWlzIoShlEucvdbGzKYLX6C0xi8h/4d+56R2W4wx3IwGZApKQMCiU/3sc5Ts/zJYyG86nXcD7fp059n0cpL++ZOk6OJQboO7ZO33RP30kbXeTwofVlHPADn9YbiWGMqOhL2OMXn2JmpIKa6IrYoYWgmN3E+nNA+85jgz+EtP6lZLFGB2Exe5oMVsrevNzHw3xhjhES5uiyn4bojCSVfQMzpMUsgglSoncTxxALfGu9HwX08K/1N7Gu6KjspU0115dnPaCqe9qLF5EzRqwq072QBEMAAAAASUVORK5CYII=>
+
+---
+
+## 🔗 Keterkaitan & Navigasi Riset
+- [[Riset Index]]
+- [[Cetak Biru KTI]]
+- [[WebAssembly_vs_Docker]]
+- [[WebAssembly_Sandboxing]]
+- [[Post-Training Quantization]]
+- [[Single Board Computer]]

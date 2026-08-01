@@ -165,3 +165,10 @@ As an open standard, MCP encourages a vibrant ecosystem of open source implement
 - [Host MCP servers on Cloud Run](https://cloud.google.com/run/docs/host-mcp-servers)
 - [Build and deploy a remote MCP Server on Cloud Run](https://cloud.google.com/run/docs/tutorials/deploy-remote-mcp-server)
 - [Connect your IDE to Cloud SQL with MCP](https://cloud.google.com/sql/docs/mysql/pre-built-tools-with-mcp-toolbox)
+
+---
+## 🔗 Related Notes
+- [[Introducing the Model Context Protocol]]
+- [[What is the Model Context Protocol (MCP)]]
+- [[What is Model Context Protocol (MCP) A guide]]
+- [[WebAssembly_vs_Docker]]

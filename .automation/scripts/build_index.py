@@ -7,7 +7,9 @@ VAULT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '../..'))
 DB_PATH = os.path.join(VAULT_ROOT, '.automation/db/vault_index.db')
 
 # Regex for wikilinks: [[Note Name]] or [[Note Name|Alias]]
-WIKILINK_RE = re.compile(r'\[\[([^\]|]+)(?:\|[^\]]+)?\]\]')
+WIKILINK_RE = re.compile(r'\[\[\s*([^|\n\r]+?)(?:\|[^\]\n\r]+)?\s*\]\]')
+
+
 
 # Splits a raw wikilink target into (note_name, anchor).
 # Handles: "Note Name", "Note Name#Heading", "Note Name#^blockid", "#Heading" (same-note anchor)

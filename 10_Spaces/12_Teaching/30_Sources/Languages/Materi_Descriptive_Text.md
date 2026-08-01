@@ -192,3 +192,10 @@ Saat kamu ngerjain soal *Descriptive Text* di ujian, inget trik cepat ini:
    * *Cozy* = *Comfortable* (Nyaman)
    * *Breathtaking / Stunning* = *Very beautiful / Amazing* (Sangat indah/memukau)
    * *Durable* = *Strong / Long-lasting* (Kuat/tahan lama)
+
+
+---
+
+## 📝 Lembar Kerja & Soal Evaluasi Terkait
+- [[LKPD_dan_Soal_Descriptive_Text]]
+- [[index_teaching|🍎 Teaching Resources Hub]]

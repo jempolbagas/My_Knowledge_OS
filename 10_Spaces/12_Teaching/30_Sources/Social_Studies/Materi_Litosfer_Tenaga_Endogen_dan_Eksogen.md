@@ -258,3 +258,10 @@ Hancurnya batuan akibat aktivitas makhluk hidup (tumbuhan, hewan, dan manusia).
 4. **Pertanian Kontur (*Contour Plowing*):** Membajak tanah searah garis kontur untuk menahan aliran erosi permukaan.
 
 ---
+
+
+---
+
+## 📝 Lembar Kerja & Soal Evaluasi Terkait
+- [[LKPD_dan_Soal_Litosfer_Tenaga_Endogen_dan_Eksogen]]
+- [[index_teaching|🍎 Teaching Resources Hub]]

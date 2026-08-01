@@ -8,14 +8,14 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-08-01T17:51:35Z"
+    "generated_at": "2026-08-01T19:40:31Z"
   },
   "stats": {
-    "total_notes": 141,
-    "total_edges": 303,
-    "broken_links": 26,
-    "untyped_notes": 60,
-    "health_score": 52.5
+    "total_notes": 139,
+    "total_edges": 488,
+    "broken_links": 3,
+    "untyped_notes": 59,
+    "health_score": 57.2
   },
   "inbox": [
     "Introducing the Model Context Protocol",
@@ -94,14 +94,15 @@
   "brain_atlas": {
     "library": {
       "Papers": [],
-      "Repos": [],
+      "Repos": [
+        {
+          "title": "Graphify",
+          "status": "done"
+        }
+      ],
       "Articles_Talks": [
         {
           "title": "WebAssembly_Sandbox_and_Security_Architecture",
-          "status": "done"
-        },
-        {
-          "title": "Short Functional Text Definisi, Jenis-Jenis, dan Contohnya - Belajar Bahasa Inggris Gratis & Mudah",
           "status": "done"
         },
         {
@@ -133,7 +134,6 @@
           "Cybersecurity_Roadmap"
         ],
         "Computer_Science": [
-          "Virtual_Private_Server_Architecture_and_Mechanics",
           "Single_Board_Computers_Architecture_and_Use_Cases"
         ]
       }
@@ -169,10 +169,9 @@
         "CIA Triad"
       ],
       "Computer_Science": [
-        "Hypervisor",
         "Bottom-Up vs. Top-Down Learning",
-        "Virtual Private Server",
-        "Single Board Computer"
+        "Single Board Computer",
+        "Off-Chip DRAM"
       ]
     },
     "reference_lib": [
@@ -189,38 +188,7 @@
     ]
   },
   "maintenance": {
-    "orphan_pages_sample": [
-      "Koordinasi",
-      "Draf Index",
-      "Referensi Index",
-      "Model AI buat penyakit",
-      "Syllabus_Template",
-      "[ESL] Present Continuous Tense",
-      "Peran Lembaga Sosial",
-      "[Chem] Reaksi Redoks - Rangkuman",
-      "[Chem] Tata Nama dan Biloks - Rangkuman",
-      "[Math] Kisi-Kisi ASAT - Master Summary",
-      "[Chem] Konsep Mol - Rangkuman",
-      "[ESL] Worksheet - Simple Present vs Present Continuous",
-      "LKPD_dan_Soal_Functional_Texts",
-      "LKPD_dan_Soal_Parts_of_Speech",
-      "LKPD_dan_Soal_Descriptive_Text",
-      "LKPD_dan_Soal_Simple_Past_Tense",
-      "LKPD_dan_Soal_Tenaga_Endogen_Vulkanisme",
-      "LKPD_dan_Soal_Tenaga_Eksogen",
-      "LKPD_dan_Soal_Persamaan_Kuadrat",
-      "LKPD_dan_Soal_Pola_Bilangan",
-      "LKPD_dan_Soal_Suku_Banyak_Polinomial",
-      "LKPD_dan_Soal_Sistem_Pencernaan_Makanan",
-      "LKPD_dan_Soal_Pengenalan_Sel",
-      "index",
-      "Materi_Simple_Past_Tense",
-      "Materi_Descriptive_Text",
-      "Materi_Parts_of_Speech",
-      "Materi_Tenaga_Endogen_Vulkanisme",
-      "Materi_Tenaga_Eksogen",
-      "Materi_Persamaan_Kuadrat"
-    ],
+    "orphan_pages_sample": [],
     "untyped_notes_sample": [
       {
         "title": "README",

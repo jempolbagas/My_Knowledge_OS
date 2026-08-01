@@ -9,8 +9,8 @@ date: "2026-05-24"
 
 # 📋 Kartu Rangkuman: Reaksi Redoks
 
-> Penjelasan lengkap → [[[Chem] Reaksi Redoks - First Principle|📖 Penjelasan Lengkap]]
-> Aturan biloks → [[[Chem] Tata Nama Senyawa dan Biloks - First Principle|Aturan Biloks]]
+> Penjelasan lengkap → [[[Chem] Tata Nama dan Biloks - Rangkuman|📖 Aturan Biloks & Tata Nama]]
+> Aturan biloks → [[[Chem] Konsep Mol - Rangkuman|📖 Konsep Mol]]
 
 ---
 
@@ -125,4 +125,13 @@ $$\text{Biloks turun} \Rightarrow \text{Reduksi} \Rightarrow \text{Oksidator}$$
 
 ---
 
-*Latihan soal → [[[Chem] Worksheet - Reaksi Redoks|📝 Latihan Soal]]*
+*Referensi STEM → [[[Math] Kisi-Kisi ASAT - Master Summary|📝 Kisi-Kisi ASAT]]*
+
+
+---
+## 🔗 Keterkaitan & Navigasi
+- [[[Chem] Reaksi Redoks - Rangkuman]]
+- [[[Chem] Tata Nama dan Biloks - Rangkuman]]
+- [[[Chem] Konsep Mol - Rangkuman]]
+- [[[Math] Kisi-Kisi ASAT - Master Summary]]
+- [[index_teaching|🍎 Teaching Resources Hub]]

@@ -47,3 +47,10 @@ To start building:
 ## An open community
 
 MCP was created at Anthropic by David Soria Parra and Justin Spahr-Summers. We’re committed to building MCP as a collaborative, open-source project and ecosystem, and we’re eager to hear your feedback. Whether you’re an AI tool developer, an enterprise looking to leverage existing data, or an early adopter exploring the frontier, we invite you to build the future of context-aware AI together.
+
+---
+## 🔗 Related Notes
+- [[Introducing the Model Context Protocol]]
+- [[What is the Model Context Protocol (MCP)]]
+- [[What is Model Context Protocol (MCP) A guide]]
+- [[WebAssembly_vs_Docker]]

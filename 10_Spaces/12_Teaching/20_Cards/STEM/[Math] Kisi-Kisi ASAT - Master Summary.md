@@ -705,3 +705,12 @@ $$CV = \frac{\sigma}{\bar{x}} \times 100\%$$
 - Terkait → Sistem Persamaan Linear
 - Terkait → Pertidaksamaan Linear
 - Terkait → Statistika Deskriptif
+
+
+---
+## 🔗 Keterkaitan & Navigasi
+- [[[Chem] Reaksi Redoks - Rangkuman]]
+- [[[Chem] Tata Nama dan Biloks - Rangkuman]]
+- [[[Chem] Konsep Mol - Rangkuman]]
+- [[[Math] Kisi-Kisi ASAT - Master Summary]]
+- [[index_teaching|🍎 Teaching Resources Hub]]

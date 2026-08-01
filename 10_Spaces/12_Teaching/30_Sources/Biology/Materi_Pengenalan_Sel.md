@@ -210,3 +210,10 @@ Mikroskop bekerja dengan memfokuskan cahaya/elektron tepat pada preparat (objek 
 
 > **Yuk, Refleksi Sejenak!**
 > Mempelajari sel menyadarkan kita betapa kompleksnya ciptaan Tuhan. Di dalam tubuh kita yang diam ini, ada triliunan sel yang sibuk bekerja tanpa henti seperti kota metropolitan agar kita tetap bisa bernapas, berlari, dan berpikir. *So, let's keep learning and stay curious!*
+
+
+---
+
+## 📝 Lembar Kerja & Soal Evaluasi Terkait
+- [[LKPD_dan_Soal_Pengenalan_Sel]]
+- [[index_teaching|🍎 Teaching Resources Hub]]

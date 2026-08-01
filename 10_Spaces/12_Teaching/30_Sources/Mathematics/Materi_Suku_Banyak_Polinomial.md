@@ -321,3 +321,10 @@ Metode Horner berhubungan erat dengan dua teorema fundamental polinomial:
 5. **Horner-Kino** sangat ampuh menyelesaikan pembagian kuadrat tanpa perlu memfaktorkan!
 
 Selamat berlatih! Semakin sering mencoba skema Horner, makin mahir kamu menyelesaikan soal polinomial jenis apa pun! 🎯
+
+
+---
+
+## 📝 Lembar Kerja & Soal Evaluasi Terkait
+- [[LKPD_dan_Soal_Suku_Banyak_Polinomial]]
+- [[index_teaching|🍎 Teaching Resources Hub]]

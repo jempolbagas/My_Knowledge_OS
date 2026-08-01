@@ -69,3 +69,14 @@ If you want, I can also turn this into a **short list of concrete case studies**
 
 [^1_15]: https://digitalmonk.biz/ai-models-raspberry-pi-edge-ai-deployment/
 
+
+
+---
+
+## 🔗 Keterkaitan & Navigasi Riset
+- [[Riset Index]]
+- [[Cetak Biru KTI]]
+- [[WebAssembly_vs_Docker]]
+- [[WebAssembly_Sandboxing]]
+- [[Post-Training Quantization]]
+- [[Single Board Computer]]

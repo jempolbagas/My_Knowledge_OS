@@ -328,3 +328,10 @@ Untuk menjaga agar organ-organ pencernaan tetap berfungsi optimal dan terhindar 
 4. **Cukupi Konsumsi Serat & Air Putih:** Perbanyak makan sayur-sayuran, buah-buahan, serta minum air putih minimal 8 gelas (2 liter) sehari untuk mencegah konstipasi.
 5. **Membatasi Makanan Pengiritasi:** Hindari konsumsi berlebihan makanan yang terlalu pedas, sangat asam, tinggi lemak jenuh, kafein tinggi, serta hindari minuman beralkohol dan bersoda.
 6. **Menjaga Higienitas Makanan:** Menutup makanan di atas meja agar tidak dihinggapi lalat, serta tidak membeli makanan di tempat yang terbuka dan kotor.
+
+
+---
+
+## 📝 Lembar Kerja & Soal Evaluasi Terkait
+- [[LKPD_dan_Soal_Sistem_Pencernaan_Makanan]]
+- [[index_teaching|🍎 Teaching Resources Hub]]

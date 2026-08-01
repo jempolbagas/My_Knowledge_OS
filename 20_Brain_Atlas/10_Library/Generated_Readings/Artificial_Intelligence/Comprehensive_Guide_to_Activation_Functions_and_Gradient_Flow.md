@@ -138,6 +138,10 @@ graph TD
     Output -->|Regression| Linear["Linear (No Activation)"]
 ```
 
+## Related Generated Readings
+- [[Activation_Functions_Explained]]
+- [[Gradient_Flow_and_Activation_Slope]]
+
 ## Concepts to extract
 - [x] [[Activation Functions]]
 - [x] [[Sigmoid Function]]

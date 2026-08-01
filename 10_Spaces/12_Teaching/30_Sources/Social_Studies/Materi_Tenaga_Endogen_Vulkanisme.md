@@ -141,3 +141,10 @@ Berdasarkan kombinasi jenis erupsi dan sifat magma, gunung api terbagi menjadi t
 * **Piroklastik:** Material padat pecahan batuan yang dilontarkan saat letusan gunung api.
 * **Eksalasi:** Emisi gas-gas vulkanik dari aktivitas magmatik.
 * **Litosfer:** Lapisan terluar bumi yang padat dan kaku (kerak bumi).
+
+
+---
+
+## 📝 Lembar Kerja & Soal Evaluasi Terkait
+- [[LKPD_dan_Soal_Tenaga_Endogen_Vulkanisme]]
+- [[index_teaching|🍎 Teaching Resources Hub]]

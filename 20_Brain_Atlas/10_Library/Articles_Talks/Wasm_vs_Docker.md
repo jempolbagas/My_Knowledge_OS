@@ -17,7 +17,7 @@ tags:
   - microservices
   - serverless
 promoted_to:
-  - "[[WebAssembly vs Docker]]"
+  - "[[WebAssembly_vs_Docker]]"
 ---
 
 ## Why I'm reading this
@@ -109,4 +109,4 @@ flowchart LR
 > "By marrying these two tools, developers can easily reap the performance benefits of WebAssembly with containerized software development." — Sohan Maheshwar
 
 ## Concepts to extract
-- [x] [[WebAssembly vs Docker]]
+- [x] [[WebAssembly_vs_Docker]]

@@ -182,3 +182,10 @@ Biar pemahaman kamu makin solid, yuk cek 5 skenario utama kapan Simple Past Tens
 ```
 
 > **Great job!** Kamu udah paham dasar-dasar teori Simple Past Tense. Sekarang saatnya kamu uji pemahamanmu lewat lembar latihan **LKPD & Soal Evaluasi**! *Keep practicing and keep glowing!* ✨
+
+
+---
+
+## 📝 Lembar Kerja & Soal Evaluasi Terkait
+- [[LKPD_dan_Soal_Simple_Past_Tense]]
+- [[index_teaching|🍎 Teaching Resources Hub]]

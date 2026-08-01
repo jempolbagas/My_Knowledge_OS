@@ -225,3 +225,14 @@ If you want, I can also give you a checklist for diagnosing a quantized ONNX mod
 
 [^3_16]: https://www.jobpreparena.com/blog/deploying-quantized-models-to-the-edge-a-guide-to-onnx-runtime-on-arm64
 
+
+
+---
+
+## 🔗 Keterkaitan & Navigasi Riset
+- [[Riset Index]]
+- [[Cetak Biru KTI]]
+- [[WebAssembly_vs_Docker]]
+- [[WebAssembly_Sandboxing]]
+- [[Post-Training Quantization]]
+- [[Single Board Computer]]

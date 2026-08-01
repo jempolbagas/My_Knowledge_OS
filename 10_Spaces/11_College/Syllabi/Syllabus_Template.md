@@ -40,3 +40,9 @@ semester: 5
 | :---: | :--- | :--- | :--- |
 | 1 | Introduction & Overview | Lecture | Reading |
 | 2 | Core Fundamentals | Lecture + Lab | Quiz 1 |
+
+
+---
+## 🔗 Navigasi College
+- [[00_Semester_5_Dashboard]]
+- [[Semester_5_Prep]]

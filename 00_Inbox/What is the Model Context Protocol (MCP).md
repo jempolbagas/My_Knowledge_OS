@@ -34,3 +34,10 @@ Depending on where you sit in the ecosystem, MCP can have a range of benefits.
 ## Broad ecosystem support
 
 MCP is an open protocol supported across a wide range of clients and servers. AI assistants like [Claude](https://claude.com/docs/connectors/building) and [ChatGPT](https://developers.openai.com/api/docs/mcp/), development tools like [Visual Studio Code](https://code.visualstudio.com/docs/copilot/chat/mcp-servers), [Cursor](https://cursor.com/docs/context/mcp), [MCPJam](https://docs.mcpjam.com/getting-started), and many others all support MCP — making it easy to build once and integrate everywhere.
+
+---
+## 🔗 Related Notes
+- [[Introducing the Model Context Protocol]]
+- [[What is the Model Context Protocol (MCP)]]
+- [[What is Model Context Protocol (MCP) A guide]]
+- [[WebAssembly_vs_Docker]]

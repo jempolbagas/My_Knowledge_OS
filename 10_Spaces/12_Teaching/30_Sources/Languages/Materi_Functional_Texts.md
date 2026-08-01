@@ -247,3 +247,10 @@ Pas ujian, soal Short Functional Text biasanya nuntut logika berpikir kritis (HO
    * *Annual* = Setahun sekali (*once a year / yearly*).
    * *Venue* = Tempat/lokasi acara (*location / place*).
    * *Resigned* = Mengundurkan diri (*quit / step down*).
+
+
+---
+
+## 📝 Lembar Kerja & Soal Evaluasi Terkait
+- [[LKPD_dan_Soal_Functional_Texts]]
+- [[index_teaching|🍎 Teaching Resources Hub]]

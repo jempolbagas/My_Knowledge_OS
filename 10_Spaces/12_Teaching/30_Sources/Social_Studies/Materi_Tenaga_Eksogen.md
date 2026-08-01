@@ -211,3 +211,10 @@ Tenaga eksogen memberikan dampak positif dan negatif yang signifikan bagi kehidu
 * **Mass Wasting:** Pergerakan massa tanah atau batuan ke arah bawah lereng akibat pengaruh gaya gravitasi.
 * **Oxbow Lake:** Danau tapal kuda yang terbentuk akibat pemotongan belokan sungai (meander) yang terisolasi.
 * **Tombolo:** Endapan pasir laut yang menghubungkan dataran daratan utama dengan pulau kecil.
+
+
+---
+
+## 📝 Lembar Kerja & Soal Evaluasi Terkait
+- [[LKPD_dan_Soal_Tenaga_Eksogen]]
+- [[index_teaching|🍎 Teaching Resources Hub]]

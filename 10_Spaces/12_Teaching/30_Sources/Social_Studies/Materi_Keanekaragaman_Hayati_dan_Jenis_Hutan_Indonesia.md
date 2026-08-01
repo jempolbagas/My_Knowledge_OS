@@ -189,3 +189,10 @@ Hutan secara umum didefinisikan sebagai ekosistem biosfer yang didominasi oleh k
 1. **Belajar:** Mempelajari ilmu keanekaragaman hayati dan membagikan informasi positif kepada sesama.
 2. **Peduli:** Menghemat penggunaan kertas dan kayu, memilah sampah, dan tidak merusak vegetasi di lingkungan sekolah.
 3. **Beraksi:** Ikut serta dalam gerakan menanam pohon (reboisasi) di lingkungan rumah/sekolah dan mengurangi sampah plastik.
+
+
+---
+
+## 📝 Lembar Kerja & Soal Evaluasi Terkait
+- [[LKPD_dan_Soal_Keanekaragaman_Hayati_Indonesia]]
+- [[index_teaching|🍎 Teaching Resources Hub]]

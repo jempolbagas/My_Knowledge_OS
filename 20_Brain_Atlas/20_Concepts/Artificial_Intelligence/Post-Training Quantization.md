@@ -5,7 +5,7 @@ subject: "Artificial_Intelligence"
 date_created: 2026-07-28
 tags: [quantization, deep-learning, machine-learning, model-optimization, inference]
 source: "[[Post_Training_Quantization_Explained]]"
-source_hash: "c47536d522eae9c78c638d1ea1db660c"
+source_hash: "64aa69bfe02449ec9f1894d8e0a05361"
 ---
 
 ## The idea (one clear statement)

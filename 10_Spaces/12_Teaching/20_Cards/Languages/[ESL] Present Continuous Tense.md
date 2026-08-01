@@ -156,3 +156,9 @@ Mereka biasanya mendeskripsikan:
 
 > [!question]- 4. Ubah kalimat ini menjadi kalimat negatif (-): "They are swimming in the pool."
 > Kalimat negatifnya adalah: "They are **not** swimming in the pool." (Tinggal tambahkan *not* setelah to be 'are').
+
+
+---
+## 📝 Practice Worksheet
+- [[[ESL] Worksheet - Simple Present vs Present Continuous]]
+- [[index_teaching|🍎 Teaching Resources Hub]]

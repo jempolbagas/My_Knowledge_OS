@@ -15,7 +15,7 @@ Panduan singkat untuk anggota tim yang baru join vault ini.
 ## Konvensi Wajib
 
 **1. Gunakan Wikilinks untuk referensi internal**
-Tulis `[[Nama Note]]` bukan path lengkap atau link biasa.
+Tulis `[[Index]]` bukan path lengkap atau link biasa.
 
 **2. Sumber eksternal masuk Brain Atlas, bukan sini**
 Kalau kamu baca paper atau artikel untuk riset KTI:
@@ -46,7 +46,7 @@ created: YYYY-MM-DD
 
 ## Mulai dari Sini
 
-→ Buka [[Index]] untuk overview lengkap tim dan status KTI.
+→ Buka [[Index_Gemastik]] untuk overview lengkap tim dan status KTI.
 
 ---
 

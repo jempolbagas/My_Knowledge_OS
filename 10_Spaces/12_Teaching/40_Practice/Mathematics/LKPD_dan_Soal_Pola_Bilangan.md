@@ -265,3 +265,10 @@ Sebuah gedung pertunjukan seni memiliki susunan kursi yang diatur membentuk pola
 | **TOTAL** | **Skor Maksimal Uraian** | **60 Poin** |
 
 $$\text{Nilai Akhir} = \text{Skor PG (Max 40)} + \text{Skor Uraian (Max 60)} = 100$$
+
+
+---
+
+## 📚 Materi Ajar Terkait
+- [[Materi_Pola_Bilangan]]
+- [[index_teaching|🍎 Teaching Resources Hub]]

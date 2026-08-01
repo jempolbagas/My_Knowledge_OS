@@ -69,5 +69,10 @@ Because PTQ avoids retraining, the quality of the calibration dataset is the pri
 *   **Out-of-Distribution Data:** If the calibration dataset does not reflect real-world inputs (e.g., calibrating an autonomous vehicle vision model using only sunny daytime images, then deploying it in heavy rain), the recorded activation ranges will be incorrect, resulting in severe accuracy drop.
 *   **Dataset Size:** A dataset that is too small (e.g., $<50$ samples) may fail to cover the model's normal activation range, leading to clipping boundaries that are too narrow and causing excessive information loss.
 
+## Related Generated Readings
+- [[Scale_Factor_and_Zero_Point_in_Quantization]]
+- [[Post_Training_Quantization_End_to_End_Guide]]
+- [[Activation_Functions_Explained]]
+
 ## Concepts to extract
 - [x] [[Quantization Calibration]]

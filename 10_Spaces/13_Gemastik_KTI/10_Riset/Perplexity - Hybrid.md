@@ -128,3 +128,14 @@ If you want, I can sketch a concrete **WasmEdge + host ORT IPC protocol** or a *
 
 [^2_21]: https://stackoverflow.com/questions/79706140/unable-to-run-inference-in-onnxruntime-web-wasm-backend-proxy-mode-with-multi
 
+
+
+---
+
+## 🔗 Keterkaitan & Navigasi Riset
+- [[Riset Index]]
+- [[Cetak Biru KTI]]
+- [[WebAssembly_vs_Docker]]
+- [[WebAssembly_Sandboxing]]
+- [[Post-Training Quantization]]
+- [[Single Board Computer]]

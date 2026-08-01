@@ -279,3 +279,10 @@ Perhatikan kebutuhan gizi harian seorang remaja SMP yang aktif berolahraga. Ranc
 * Skor Pilihan Ganda = Total Benar × 10 (Maksimal = 100)
 * Skor Uraian = Total Skor Uraian (Maksimal = 100)
 * **Nilai Akhir Evaluasi:** $\text{Nilai} = \frac{\text{Skor PG} + \text{Skor Uraian}}{2}$
+
+
+---
+
+## 📚 Materi Ajar Terkait
+- [[Materi_Sistem_Pencernaan_Makanan]]
+- [[index_teaching|🍎 Teaching Resources Hub]]

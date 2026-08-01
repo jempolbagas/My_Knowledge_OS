@@ -25,7 +25,7 @@ status: 🌿 incubating
 
 ## 1. Pengantar: Memilih Mode Eksekusi yang Tepat
 
-Halo *engineers* bahasa! Di materi sebelumnya, kita sudah membedah *engine* di balik [[[ESL] Simple Present Tense]] dan [[[ESL] Present Continuous Tense]]. Sekarang waktunya *hands-on practice*.
+Halo *engineers* bahasa! Di materi sebelumnya, kita sudah membedah *engine* di balik [[Materi_Simple_Past_Tense]] dan [[[ESL] Present Continuous Tense]]. Sekarang waktunya *hands-on practice*.
 
 Ibarat mengelola sebuah *server*, kamu harus tahu kapan menjalankan fungsi secara *background routine* (rutinitas) dan kapan harus memantau proses yang *live* detik ini juga. 
 - **Simple Present** = *Scheduled tasks / Cron jobs*. Rutinitas, fakta, *default state*.

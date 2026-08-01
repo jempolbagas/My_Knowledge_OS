@@ -16,3 +16,14 @@ Model AI yang relevan :
 - **CO2Wounds-V2** di Kaggle — dataset gambar luka kronis dari pasien kusta, ini paling relevan langsung kalau fokusmu kusta. Cari "Leprosy Chronic Wound Images CO2Wounds-V2" di Kaggle. [Kaggle](https://www.kaggle.com/datasets/orvile/leprosy-chronic-wound-images-co2wounds-v2)
 - Dataset dari studi **AI4Leprosy** (Brazil) yang saya sebutkan sebelumnya — 1229 gambar kulit dan 585 set metadata dari 222 pasien, disimpan sebagai open-source dataset, tapi aksesnya dibatasi dan hanya tersedia setelah registrasi serta validasi pengguna — perlu kamu hubungi tim peneliti lewat paper aslinya (ScienceDirect/Lancet Regional Health Americas). [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2667193X22000096)[The Lancet](https://www.thelancet.com/journals/lanam/article/PIIS2667-193X\(22\)00009-6/fulltext)
 - **WHO Skin NTD dataset** — dataset gabungan 12 skin NTD termasuk kusta, dengan total 5.760 gambar skin NTD, 16.577 penyakit kulit lain, 2.469 kulit sehat, dan 50.000 gambar non-kulit. Ini belum tentu publik penuh, tapi worth dicek lewat WHO NTD portal atau menghubungi tim risetnya — biasanya lewat aplikasi "Skin NTDs App" WHO. [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0022202X26011851)
+
+
+---
+
+## 🔗 Keterkaitan & Navigasi Riset
+- [[Riset Index]]
+- [[Cetak Biru KTI]]
+- [[WebAssembly_vs_Docker]]
+- [[WebAssembly_Sandboxing]]
+- [[Post-Training Quantization]]
+- [[Single Board Computer]]

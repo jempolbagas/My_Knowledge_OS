@@ -21,7 +21,7 @@ tags:
   - spectre
   - memory-safety
 promoted_to:
-  - "[[WebAssembly Sandboxing]]"
+  - "[[WebAssembly_Sandboxing]]"
 ---
 
 ## Why I'm reading this
@@ -188,4 +188,4 @@ flowchart LR
 > "WebAssembly and WASI together form a portable, memory-safe, capability-driven sandboxing substrate used for in-process isolation of untrusted code... bounds checking protects the host, not your application logic. Wasm contains memory-safety bugs, it does not eliminate them." — Emergent Mind Paper Survey
 
 ## Concepts to extract
-- [x] [[WebAssembly Sandboxing]]
+- [x] [[WebAssembly_Sandboxing]]

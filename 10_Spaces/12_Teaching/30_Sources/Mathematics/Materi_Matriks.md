@@ -218,3 +218,10 @@ $$A^{-1} = \frac{1}{\det(A)} \begin{pmatrix} d & -b \\ -c & a \end{pmatrix} = \f
 | **Invers Perkalian** | $(AB)^{-1} = B^{-1} A^{-1}$ | Posisinya dibalik saat dibuka |
 
 Semangat berlatih, makin sering coba corat-coret latihan soal, makin lincah ngerjain soal matriks! 🎯
+
+
+---
+
+## 📝 Lembar Kerja & Soal Evaluasi Terkait
+- [[LKPD_dan_Soal_Matriks]]
+- [[index_teaching|🍎 Teaching Resources Hub]]

@@ -1,11 +1,65 @@
 [
   {
+    "concept_file": "20_Brain_Atlas/20_Concepts/Mathematics/Suku_Banyak_Polinomial.md",
+    "concept_title": "Suku_Banyak_Polinomial",
+    "source_file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Materi_Suku_Banyak_Polinomial.md",
+    "source_title": "Materi_Suku_Banyak_Polinomial",
+    "stored_hash": "8fc3435a6aa003239e7dbf0fa74c32dd",
+    "current_hash": "71350e6c9ef37464799a2aeec707f41d",
+    "status": "outdated"
+  },
+  {
+    "concept_file": "20_Brain_Atlas/20_Concepts/Mathematics/Matriks.md",
+    "concept_title": "Matriks",
+    "source_file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Materi_Matriks.md",
+    "source_title": "Materi_Matriks",
+    "stored_hash": "8f2ad476d6c5550a3942702621047bb1",
+    "current_hash": "5438a5141526a139aeec31ab44d94a7c",
+    "status": "outdated"
+  },
+  {
+    "concept_file": "20_Brain_Atlas/20_Concepts/Mathematics/Persamaan_Kuadrat.md",
+    "concept_title": "Persamaan_Kuadrat",
+    "source_file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Materi_Persamaan_Kuadrat.md",
+    "source_title": "Materi_Persamaan_Kuadrat",
+    "stored_hash": "d07b403d242c847dcdbbc05268e62916",
+    "current_hash": "b9031a30fc18c274ce5f7261d79624e1",
+    "status": "outdated"
+  },
+  {
+    "concept_file": "20_Brain_Atlas/20_Concepts/Web_Development/WebAssembly_vs_Docker.md",
+    "concept_title": "WebAssembly_vs_Docker",
+    "source_file": "20_Brain_Atlas/10_Library/Articles_Talks/Wasm_vs_Docker.md",
+    "source_title": "Wasm_vs_Docker",
+    "stored_hash": "7421f8b8a9c26b827986428e3d01e7b0",
+    "current_hash": "6342736a489aad3a23b7f22808838f4b",
+    "status": "outdated"
+  },
+  {
+    "concept_file": "20_Brain_Atlas/20_Concepts/Web_Development/WebAssembly_Sandboxing.md",
+    "concept_title": "WebAssembly_Sandboxing",
+    "source_file": "20_Brain_Atlas/10_Library/Articles_Talks/WebAssembly_Sandbox_and_Security_Architecture.md",
+    "source_title": "WebAssembly_Sandbox_and_Security_Architecture",
+    "stored_hash": "1a4113506b768e18a494556c8f826606",
+    "current_hash": "9376ba271aa1c61a3710e33a8220c7eb",
+    "status": "outdated"
+  },
+  {
     "concept_file": "20_Brain_Atlas/20_Concepts/Artificial_Intelligence/Model Parameters.md",
     "concept_title": "Model Parameters",
     "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Model_Parameters_Explained.md",
     "source_title": "Model_Parameters_Explained",
     "stored_hash": "fd87257535fdd537e62e654d287bfb30",
-    "current_hash": "94f2bed88d3b549019787cd96008d37a",
+    "current_hash": "695af910ad5f6b21912abaa78e5ed862",
+    "status": "outdated"
+  },
+  {
+    "concept_file": "20_Brain_Atlas/20_Concepts/Artificial_Intelligence/Machine Learning Roadmap.md",
+    "concept_title": "Machine Learning Roadmap",
+    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Machine_Learning_Roadmap.md",
+    "source_title": "Machine_Learning_Roadmap",
+    "stored_hash": "85d4704529774e4eba80f5ef64cdb79a",
+    "current_hash": "1463b3ccf174675a2eb3d7405747b620",
     "status": "outdated"
   },
   {
@@ -14,7 +68,16 @@
     "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Quantization_Calibration_in_PTQ.md",
     "source_title": "Quantization_Calibration_in_PTQ",
     "stored_hash": "fa3c8d5120df53a8e52164a8e73fb44e",
-    "current_hash": "9432a335b66b3c79b69d9f380a2969d8",
+    "current_hash": "c6e5548a49d4e08f0fc12a7784b8ff19",
+    "status": "outdated"
+  },
+  {
+    "concept_file": "20_Brain_Atlas/20_Concepts/Artificial_Intelligence/Vectorization in NumPy.md",
+    "concept_title": "Vectorization in NumPy",
+    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Machine_Learning_Roadmap.md",
+    "source_title": "Machine_Learning_Roadmap",
+    "stored_hash": "85d4704529774e4eba80f5ef64cdb79a",
+    "current_hash": "1463b3ccf174675a2eb3d7405747b620",
     "status": "outdated"
   },
   {
@@ -23,7 +86,7 @@
     "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Activation_Functions_Explained.md",
     "source_title": "Activation_Functions_Explained",
     "stored_hash": "f79b33ad105945a896c6978800b44b95",
-    "current_hash": "8966748bfbac3fd02cb68b8785533502",
+    "current_hash": "3854fc5426a82dbed2a428be28eab5fc",
     "status": "outdated"
   },
   {
@@ -32,7 +95,7 @@
     "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Activation_Functions_Explained.md",
     "source_title": "Activation_Functions_Explained",
     "stored_hash": "f79b33ad105945a896c6978800b44b95",
-    "current_hash": "8966748bfbac3fd02cb68b8785533502",
+    "current_hash": "3854fc5426a82dbed2a428be28eab5fc",
     "status": "outdated"
   },
   {
@@ -41,7 +104,7 @@
     "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Activation_Functions_Explained.md",
     "source_title": "Activation_Functions_Explained",
     "stored_hash": "f79b33ad105945a896c6978800b44b95",
-    "current_hash": "8966748bfbac3fd02cb68b8785533502",
+    "current_hash": "3854fc5426a82dbed2a428be28eab5fc",
     "status": "outdated"
   },
   {
@@ -50,7 +113,7 @@
     "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Activation_Functions_Explained.md",
     "source_title": "Activation_Functions_Explained",
     "stored_hash": "f79b33ad105945a896c6978800b44b95",
-    "current_hash": "8966748bfbac3fd02cb68b8785533502",
+    "current_hash": "3854fc5426a82dbed2a428be28eab5fc",
     "status": "outdated"
   },
   {
@@ -59,7 +122,7 @@
     "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Activation_Functions_Explained.md",
     "source_title": "Activation_Functions_Explained",
     "stored_hash": "f79b33ad105945a896c6978800b44b95",
-    "current_hash": "8966748bfbac3fd02cb68b8785533502",
+    "current_hash": "3854fc5426a82dbed2a428be28eab5fc",
     "status": "outdated"
   },
   {
@@ -68,7 +131,7 @@
     "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Activation_Functions_Explained.md",
     "source_title": "Activation_Functions_Explained",
     "stored_hash": "f79b33ad105945a896c6978800b44b95",
-    "current_hash": "8966748bfbac3fd02cb68b8785533502",
+    "current_hash": "3854fc5426a82dbed2a428be28eab5fc",
     "status": "outdated"
   },
   {
@@ -77,7 +140,70 @@
     "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Scale_Factor_and_Zero_Point_in_Quantization.md",
     "source_title": "Scale_Factor_and_Zero_Point_in_Quantization",
     "stored_hash": "42839293822885af053254b55dea6858",
-    "current_hash": "1c1ffc12a33769ab19996b314f06971d",
+    "current_hash": "a0e51314dabaf4c2ac88eb08a7833caa",
     "status": "outdated"
+  },
+  {
+    "concept_file": "20_Brain_Atlas/20_Concepts/Cybersecurity/Symmetric vs. Asymmetric Encryption.md",
+    "concept_title": "Symmetric vs. Asymmetric Encryption",
+    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Cybersecurity/Cybersecurity_Roadmap.md",
+    "source_title": "Cybersecurity_Roadmap",
+    "stored_hash": "1572d01123e2f95e15b99e8b446c7118",
+    "current_hash": "1b67d0d65283c870324bc3d3695e7690",
+    "status": "outdated"
+  },
+  {
+    "concept_file": "20_Brain_Atlas/20_Concepts/Cybersecurity/Blue Team vs. Red Team.md",
+    "concept_title": "Blue Team vs. Red Team",
+    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Cybersecurity/Cybersecurity_Roadmap.md",
+    "source_title": "Cybersecurity_Roadmap",
+    "stored_hash": "1572d01123e2f95e15b99e8b446c7118",
+    "current_hash": "1b67d0d65283c870324bc3d3695e7690",
+    "status": "outdated"
+  },
+  {
+    "concept_file": "20_Brain_Atlas/20_Concepts/Cybersecurity/Cybersecurity Roadmap.md",
+    "concept_title": "Cybersecurity Roadmap",
+    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Cybersecurity/Cybersecurity_Roadmap.md",
+    "source_title": "Cybersecurity_Roadmap",
+    "stored_hash": "1572d01123e2f95e15b99e8b446c7118",
+    "current_hash": "1b67d0d65283c870324bc3d3695e7690",
+    "status": "outdated"
+  },
+  {
+    "concept_file": "20_Brain_Atlas/20_Concepts/Cybersecurity/CIA Triad.md",
+    "concept_title": "CIA Triad",
+    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Cybersecurity/Cybersecurity_Roadmap.md",
+    "source_title": "Cybersecurity_Roadmap",
+    "stored_hash": "1572d01123e2f95e15b99e8b446c7118",
+    "current_hash": "1b67d0d65283c870324bc3d3695e7690",
+    "status": "outdated"
+  },
+  {
+    "concept_file": "20_Brain_Atlas/20_Concepts/Computer_Science/Bottom-Up vs. Top-Down Learning.md",
+    "concept_title": "Bottom-Up vs. Top-Down Learning",
+    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Machine_Learning_Roadmap.md",
+    "source_title": "Machine_Learning_Roadmap",
+    "stored_hash": "85d4704529774e4eba80f5ef64cdb79a",
+    "current_hash": "1463b3ccf174675a2eb3d7405747b620",
+    "status": "outdated"
+  },
+  {
+    "concept_file": "20_Brain_Atlas/20_Concepts/Computer_Science/Single Board Computer.md",
+    "concept_title": "Single Board Computer",
+    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Computer_Science/Single_Board_Computers_Architecture_and_Use_Cases.md",
+    "source_title": "Single_Board_Computers_Architecture_and_Use_Cases",
+    "stored_hash": "a2190a000e91a11a1dd81e8f243a0df0",
+    "current_hash": "6130f379b07f28ada1648de5e25c5a8d",
+    "status": "outdated"
+  },
+  {
+    "concept_file": "20_Brain_Atlas/20_Concepts/Computer_Science/Off-Chip DRAM.md",
+    "concept_title": "Off-Chip DRAM",
+    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Post_Training_Quantization_End_to_End_Guide.md",
+    "source_title": "Post_Training_Quantization_End_to_End_Guide",
+    "stored_hash": "",
+    "current_hash": "23f6ffa8757c9a2e6102ee759ed006ed",
+    "status": "missing_hash"
   }
 ]

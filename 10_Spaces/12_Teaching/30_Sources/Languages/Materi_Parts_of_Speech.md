@@ -226,3 +226,10 @@ Perhatikan kalimat ajaib di bawah ini. Semua *Part of Speech* berkumpul jadi sat
 | **Conjunction** | Menghubungkan unit kata/klausa | `and`, `but`, `because`, `so` | I slept early **because** I was tired. |
 | **Interjection** | Ungkapan emosi mendadak | `ouch`, `wow`, `hey`, `oops` | **Ouch**! That knee hurt! |
 | **Determiner** | Membatasi/memperjelas noun | `the`, `a`, `this`, `some` | **This** coffee is great. |
+
+
+---
+
+## 📝 Lembar Kerja & Soal Evaluasi Terkait
+- [[LKPD_dan_Soal_Parts_of_Speech]]
+- [[index_teaching|🍎 Teaching Resources Hub]]

@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "firecrawl-knowledge-base": {
+      "source": "firecrawl/firecrawl-workflows",
+      "sourceType": "github",
+      "skillPath": "skills/firecrawl-knowledge-base/SKILL.md",
+      "computedHash": "f1534f3227a6ff687c725837d47bed101f4bad0897b8a00aad2e2a4db89bd836"
+    }
+  }
+}

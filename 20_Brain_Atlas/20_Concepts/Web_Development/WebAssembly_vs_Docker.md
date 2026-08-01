@@ -18,4 +18,4 @@ WebAssembly and Docker containers operate at different layers of the infrastruct
 Rather than replacing Docker, Wasm complements containers by enabling sub-millisecond cold starts, multi-architecture hardware portability without multi-arch builds, and megabyte-scale OCI images for serverless and edge computing. Using custom containerd shims, Docker Engine can run Wasm modules side-by-side with standard Linux containers under a single unified developer workflow.
 
 ## Related concepts
-- [[WebAssembly Sandboxing]]
+- [[WebAssembly_Sandboxing]]

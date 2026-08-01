@@ -67,5 +67,9 @@ $$w_{\text{new}} = w_{\text{old}} - \eta \cdot 0 = w_{\text{old}}$$
 
 This mathematical collapse is the root cause of training failures like the **vanishing gradient problem** (in Sigmoid and Tanh functions) and the **dying ReLU problem**. Without a non-zero slope, the error signal cannot flow backward through the activation function, leaving the weights before it permanently stuck.
 
+## Related Generated Readings
+- [[Activation_Functions_Explained]]
+- [[Comprehensive_Guide_to_Activation_Functions_and_Gradient_Flow]]
+
 ## Concepts to extract
 - [x] [[Activation Functions]]

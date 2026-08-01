@@ -44,5 +44,10 @@ SBC umumnya mengintegrasikan beberapa elemen arsitektur berikut:
 
 ---
 
+## Related Generated Readings
+- [[Virtual_Private_Server_Architecture_and_Mechanics]]
+- [[Post_Training_Quantization_End_to_End_Guide]]
+- [[Model_Parameters_Explained]]
+
 ## Concepts to extract
 - [x] [[Single Board Computer]]

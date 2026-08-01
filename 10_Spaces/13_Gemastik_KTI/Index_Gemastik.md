@@ -31,10 +31,10 @@ Ruang kolaborasi tim untuk lomba **Gemastik cabang Karya Tulis Ilmiah**.
 
 ## Navigasi
 
-- [[00_Koordinasi/Koordinasi|Koordinasi Tim]] — task list, pembagian tugas
-- [[10_Riset/Riset Index|Riset Index]] — brainstorming, catatan riset
-- [[20_Draf/Draf Index|Draf Index]] — draf KTI per iterasi
-- [[30_Referensi/Referensi Index|Referensi Index]] — panduan format, template Gemastik
+- [[Koordinasi|Koordinasi Tim]] — task list, pembagian tugas
+- [[Riset Index|Riset Index]] — brainstorming, catatan riset
+- [[Draf Index|Draf Index]] — draf KTI per iterasi
+- [[Referensi Index|Referensi Index]] — panduan format, template Gemastik
 
 ## Referensi Brain Atlas
 

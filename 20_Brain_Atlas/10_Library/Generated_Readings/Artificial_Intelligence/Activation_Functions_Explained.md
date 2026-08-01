@@ -94,5 +94,10 @@ Softmax is a specialized activation function used at the final layer of a multi-
 3.  **Multi-Class Classification Output:** Use **Softmax**.
 4.  **Regression Output:** Use a **Linear function** (no activation function, or identity function) to allow the model to predict any continuous number.
 
+## Related Generated Readings
+- [[Gradient_Flow_and_Activation_Slope]]
+- [[Comprehensive_Guide_to_Activation_Functions_and_Gradient_Flow]]
+- [[Quantization_Calibration_in_PTQ]]
+
 ## Concepts to extract
 - [x] [[Activation Functions]]

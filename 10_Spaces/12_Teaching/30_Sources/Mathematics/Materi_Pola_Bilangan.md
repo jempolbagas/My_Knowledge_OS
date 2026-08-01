@@ -264,3 +264,10 @@ Contoh barisan: $3, 8, 14, 21, 29, \dots$
 | **Aritmetika** | $a, a+b, a+2b, \dots$ | $U_n = a + (n-1)b$ |
 | **Geometri** | $a, ar, ar^2, \dots$ | $U_n = a \cdot r^{n-1}$ |
 | **Fibonacci** | $1, 1, 2, 3, 5, 8, \dots$ | $U_n = U_{n-1} + U_{n-2}$ |
+
+
+---
+
+## 📝 Lembar Kerja & Soal Evaluasi Terkait
+- [[LKPD_dan_Soal_Pola_Bilangan]]
+- [[index_teaching|🍎 Teaching Resources Hub]]

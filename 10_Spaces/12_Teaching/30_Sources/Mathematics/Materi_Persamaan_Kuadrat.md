@@ -187,3 +187,10 @@ Biar lebih efisien pas ngerjain soal, ini panduan milih jurusnya:
 4. Diskriminan $D = b^2 - 4ac$ menentukan jenis akar yang dihasilkan.
 
 Tetap semangat berlatih! Semakin sering kamu coba, makin makin cepat kamu nemuin nilai $x$-nya! 🎯
+
+
+---
+
+## 📝 Lembar Kerja & Soal Evaluasi Terkait
+- [[LKPD_dan_Soal_Persamaan_Kuadrat]]
+- [[index_teaching|🍎 Teaching Resources Hub]]

@@ -122,6 +122,10 @@ At this level, select the track that matches your goals. You can shift paths dyn
 
 ---
 
+## Related Generated Readings
+- [[Machine_Learning_Roadmap]]
+- [[Post_Training_Quantization_End_to_End_Guide]]
+
 ## Concepts to extract
 - [x] [[Cybersecurity Roadmap]]
 - [x] [[CIA Triad]]

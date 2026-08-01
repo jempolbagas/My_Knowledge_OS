@@ -3,12 +3,7 @@ title: "Matriks"
 type: concept
 subject: Mathematics
 date_created: 2026-07-28
-source:
-  - "[[Mengenal Matriks Pengertian, Jenis, dan Transpose]]"
-  - "[[Operasi Aljabar pada Matriks Penjumlahan, Pengurangan & Perkalian]]"
-  - "[[Cara Mencari Determinan & Invers Matriks Beserta Contohnya]]"
-  - "[[Types of Matrices Definition, Properties, Formulas and Examples]]"
-  - "[[Matrix Operations Addition, Subtraction, Multiplication, Inverse]]"
+source: "[[Materi_Matriks]]"
 source_hash: "8f2ad476d6c5550a3942702621047bb1"
 promoted_to: []
 tags:
@@ -50,5 +45,5 @@ tags:
   * Sifat: $(AB)^{-1} = B^{-1} A^{-1}$.
 
 ## Catatan Rujukan & Keterkaitan
-* Promoted from: [[Mengenal Matriks Pengertian, Jenis, dan Transpose]], [[Operasi Aljabar pada Matriks Penjumlahan, Pengurangan & Perkalian]], [[Cara Mencari Determinan & Invers Matriks Beserta Contohnya]], [[Types of Matrices Definition, Properties, Formulas and Examples]], [[Matrix Operations Addition, Subtraction, Multiplication, Inverse]]
+* Promoted from: [[Materi_Matriks]]
 * Berkas Ajar Terkait: [[Materi_Matriks]], [[LKPD_dan_Soal_Matriks]]

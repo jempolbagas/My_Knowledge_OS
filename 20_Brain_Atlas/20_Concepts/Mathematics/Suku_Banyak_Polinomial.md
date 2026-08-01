@@ -8,7 +8,7 @@ tags:
   - mathematics
   - algebra
   - polynomial
-source: "[[Mempelajari Konsep dan Nilai Suku Banyak (Polinomial)]]"
+source: "[[Materi_Suku_Banyak_Polinomial]]"
 source_hash: "8fc3435a6aa003239e7dbf0fa74c32dd"
 ---
 
@@ -26,4 +26,6 @@ Polinomial merupakan fondasi dasar aljabar tinggi, pemodelan kurva, kalkulus (tu
 - **Teorema Sisa & Faktor:** $S = P(k)$, dan $(x - k)$ adalah faktor jika dan hanya jika $S = P(k) = 0$.
 
 ## Related concepts
+- [[Materi_Suku_Banyak_Polinomial]]
+- [[LKPD_dan_Soal_Suku_Banyak_Polinomial]]
 - [[Persamaan_Kuadrat]]

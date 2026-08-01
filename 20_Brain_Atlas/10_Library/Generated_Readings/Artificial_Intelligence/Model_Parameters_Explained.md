@@ -89,5 +89,9 @@ Because parameters are stored as high-precision decimals (usually 32-bit floatin
 $$\text{Storage} = 175,000,000,000 \times 4 \text{ bytes} \approx 700 \text{ GB}$$
 This massive memory requirement is why techniques like **[[Post-Training Quantization]]** are necessary to compress these weights into 8-bit integers (INT8) or 4-bit integers (INT4) for deployment on consumer hardware.
 
+## Related Generated Readings
+- [[Post_Training_Quantization_End_to_End_Guide]]
+- [[Single_Board_Computers_Architecture_and_Use_Cases]]
+
 ## Concepts to extract
 - [x] [[Model Parameters]]

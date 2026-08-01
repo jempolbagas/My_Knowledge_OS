@@ -9,7 +9,7 @@ date: "2026-05-24"
 
 # 🧪 Rangkuman: Tata Nama Senyawa & Bilangan Oksidasi
 
-> 📖 Penjelasan lengkap: [[[Chem] Tata Nama Senyawa dan Biloks - First Principle|📖 Penjelasan Lengkap]]
+> 📖 Penjelasan lengkap: [[[Chem] Reaksi Redoks - Rangkuman|📖 Reaksi Redoks]]
 
 ---
 
@@ -91,5 +91,14 @@ date: "2026-05-24"
 ---
 
 > [!info] Tautan Terkait
-> - 📖 [[[Chem] Tata Nama Senyawa dan Biloks - First Principle|Penjelasan Lengkap (First Principle)]]
-> - 🏋️ [[[Chem] Worksheet - Tata Nama dan Biloks|📝 Latihan Soal]]
+> - 📖 [[[Chem] Reaksi Redoks - Rangkuman|Reaksi Redoks]]
+> - 📖 [[[Chem] Konsep Mol - Rangkuman|Konsep Mol]]
+
+
+---
+## 🔗 Keterkaitan & Navigasi
+- [[[Chem] Reaksi Redoks - Rangkuman]]
+- [[[Chem] Tata Nama dan Biloks - Rangkuman]]
+- [[[Chem] Konsep Mol - Rangkuman]]
+- [[[Math] Kisi-Kisi ASAT - Master Summary]]
+- [[index_teaching|🍎 Teaching Resources Hub]]

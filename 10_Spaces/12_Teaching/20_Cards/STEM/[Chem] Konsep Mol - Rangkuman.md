@@ -9,7 +9,7 @@ date: "2026-05-24"
 
 # 📋 Konsep Mol — Rangkuman
 
-> Lihat [[[Chem] Konsep Mol - First Principle|📖 Penjelasan Lengkap]] untuk derivasi dan analogi detail.
+> Lihat [[[Chem] Reaksi Redoks - Rangkuman|📖 Reaksi Redoks]] untuk derivasi dan analogi detail.
 
 ---
 
@@ -93,4 +93,13 @@ date: "2026-05-24"
 
 ---
 
-**🔗 Navigasi:** [[[Chem] Konsep Mol - First Principle|📖 Penjelasan Lengkap]] · [[[Chem] Worksheet - Konsep Mol|📝 Latihan Soal]] · [[[Chem] Kunci Jawaban - Konsep Mol|🔑 Kunci Jawaban]]
+**🔗 Navigasi:** [[[Chem] Reaksi Redoks - Rangkuman|📖 Reaksi Redoks]] · [[[Chem] Tata Nama dan Biloks - Rangkuman|📖 Tata Nama & Biloks]]
+
+
+---
+## 🔗 Keterkaitan & Navigasi
+- [[[Chem] Reaksi Redoks - Rangkuman]]
+- [[[Chem] Tata Nama dan Biloks - Rangkuman]]
+- [[[Chem] Konsep Mol - Rangkuman]]
+- [[[Math] Kisi-Kisi ASAT - Master Summary]]
+- [[index_teaching|🍎 Teaching Resources Hub]]

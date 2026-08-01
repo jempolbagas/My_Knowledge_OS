@@ -186,3 +186,10 @@ $$\text{Nilai Akhir} = \left( \frac{\text{Skor LKPD (50)} + \text{Skor PG (25)} 
 * **85 - 100:** Highly Proficient (Sangat Menguasai Simple Past Tense)
 * **70 - 84:** Proficient (Menguasai dengan baik)
 * **< 70:** Need Review (Perlu latihan ulang pada perubahaan Regular/Irregular & Was/Were)
+
+
+---
+
+## 📚 Materi Ajar Terkait
+- [[Materi_Simple_Past_Tense]]
+- [[index_teaching|🍎 Teaching Resources Hub]]
