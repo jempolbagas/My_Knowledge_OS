@@ -21,3 +21,4 @@ source_hash: "c47536d522eae9c78c638d1ea1db660c"
 - [[Vectorization in NumPy]]
 - [[Post_Training_Quantization_Explained]]
 - [[A_Simple_Introduction_to_Post_Training_Quantization]]
+- [[Post_Training_Quantization_End_to_End_Guide]]

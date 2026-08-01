@@ -66,6 +66,9 @@ These files have no incoming or outgoing links:
 - [[Materi_Suku_Banyak_Polinomial]] (`10_Spaces/12_Teaching/30_Sources/Mathematics/Materi_Suku_Banyak_Polinomial.md`)
 - [[Materi_Pengenalan_Sel]] (`10_Spaces/12_Teaching/30_Sources/Biology/Materi_Pengenalan_Sel.md`)
 - [[Materi_Sistem_Pencernaan_Makanan]] (`10_Spaces/12_Teaching/30_Sources/Biology/Materi_Sistem_Pencernaan_Makanan.md`)
+- [[Introducing the Model Context Protocol]] (`00_Inbox/Introducing the Model Context Protocol.md`)
+- [[What is the Model Context Protocol (MCP)]] (`00_Inbox/What is the Model Context Protocol (MCP).md`)
+- [[What is Model Context Protocol (MCP) A guide]] (`00_Inbox/What is Model Context Protocol (MCP) A guide.md`)
 
 ## 📄 Missing/Invalid Frontmatter Properties
 All frontmatter schemas are valid! 🎉

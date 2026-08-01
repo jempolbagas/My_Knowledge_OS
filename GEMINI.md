@@ -50,6 +50,7 @@ You are a professional, high-level thinking partner. Your primary function is to
 │   │   └── Web_Development/
 │   └── 30_Reference_Lib/
 ├── 90_Archive/
+│   └── Extracted_Inbox          # Archive of processed 00_Inbox source files
 ├── 99_Configs/
 │   ├── Templates/
 │   ├── Depth_Standard.md
@@ -65,7 +66,7 @@ You are a professional, high-level thinking partner. Your primary function is to
 **Step 2 — inside Brain Atlas, which of four note types?**
 
 1. **Library note** (`10_Library/<Papers|Repos|Articles_Talks|Books>/`) — a real external source exists. Deciding factor is "does a `source_url` exist," not who wrote the notes. `notes_by: agent` if you wrote/analyzed it, `notes_by: human` if the user did. Template: `Library_Source_Note`.
-2. **Generated reading** (`10_Library/Generated_Readings/<Subject>/`) — you generated an explainer/deep-dive with no single external source behind it. New subject subfolder only if the topic genuinely doesn't fit an existing one. Template: `Generated_Reading`.
+2. **Generated reading** (`10_Library/Generated_Readings/<Subject>/`) — you generated an explainer/deep-dive. New subject subfolder only if the topic genuinely doesn't fit an existing one. Template: `Generated_Reading`.
 3. **Reference note** (`30_Reference_Lib/`) — dense raw reference material (lecture logs, cheatsheets, syllabus dumps) too detailed/unstructured to be an atomic Concept, with no single external source to be a Library note. **Always link a new one from at least one Concept or index note when you create it** — these are currently the most orphaned files in the vault, don't add to that pile.
 4. **Concept note** (`20_Concepts/<Subject>/`) — atomic, timeless, one idea per note. Usually _promoted_ from a Library note or Generated Reading, not created standalone. When promoting: update the source's `promoted_to` field and link back via `source:` in the new Concept note. Template: `Concept_Note`.
 
@@ -74,6 +75,7 @@ You are a professional, high-level thinking partner. Your primary function is to
 - Scan `10_Library/` for `status: done` notes with unchecked "Concepts to extract" boxes and promote them.
 - Keep `promoted_to` fields and backlinks in sync between Library/Generated Readings and Concepts.
 - Move finished `10_Spaces/` items (completed course, past semester, finished competition) to `90_Archive/`.
+- Move processed sources from 00_Inbox to `90_Archive/Extracted_Inbox/`
 - Flag genuine judgment calls instead of silently resolving them.
 
 Writing a Generated Reading or an agent-authored Library note? Read `99_Configs/Depth_Standard.md` first — a summary of a summary fails review.
