@@ -2,7 +2,7 @@
 title: "Matriks"
 type: concept
 subject: Mathematics
-created: 2026-07-28
+date_created: 2026-07-28
 source:
   - "[[Mengenal Matriks Pengertian, Jenis, dan Transpose]]"
   - "[[Operasi Aljabar pada Matriks Penjumlahan, Pengurangan & Perkalian]]"

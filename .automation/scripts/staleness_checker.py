@@ -49,6 +49,9 @@ def check_staleness():
             
             if not source_raw:
                 continue
+            
+            if isinstance(source_raw, list):
+                source_raw = " ".join(str(s) for s in source_raw)
                 
             # Extract first wikilink target from the source field
             matches = WIKILINK_RE.findall(source_raw)

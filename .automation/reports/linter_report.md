@@ -68,6 +68,4 @@ These files have no incoming or outgoing links:
 - [[Materi_Sistem_Pencernaan_Makanan]] (`10_Spaces/12_Teaching/30_Sources/Biology/Materi_Sistem_Pencernaan_Makanan.md`)
 
 ## 📄 Missing/Invalid Frontmatter Properties
-| File | Missing/Invalid Fields |
-| --- | --- |
-| [[Matriks]] | `date_created` |
+All frontmatter schemas are valid! 🎉

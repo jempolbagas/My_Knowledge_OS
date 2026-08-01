@@ -269,12 +269,5 @@
       "title": "Materi_Sistem_Pencernaan_Makanan"
     }
   ],
-  "missing_frontmatter": [
-    {
-      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Matriks.md",
-      "missing_fields": [
-        "date_created"
-      ]
-    }
-  ]
+  "missing_frontmatter": []
 }
