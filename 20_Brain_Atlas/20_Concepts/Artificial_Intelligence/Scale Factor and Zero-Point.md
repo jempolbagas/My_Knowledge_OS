@@ -2,21 +2,24 @@
 type: concept
 title: "Scale Factor and Zero-Point"
 subject: "Artificial_Intelligence"
-date_created: 2026-07-29
-tags: [machine-learning, deep-learning, quantization, scale-factor, zero-point, model-compression]
-source: "[[Scale_Factor_and_Zero_Point_in_Quantization]]"
-source_hash: "42839293822885af053254b55dea6858"
+date_created: 2026-08-02
+tags: [quantization, deep-learning, math, int8]
+source: "[[Post_Training_Quantization_End_to_End_Guide]]"
+source_hash: "41e818cb181faf4fc06350273191d9c3"
 ---
 
 ## The idea (one clear statement)
-The **scale factor ($s$)** and **zero-point ($z$)** are mathematical mapping parameters that define a linear affine relationship to project continuous real-valued floats (FP32) onto a discrete grid of low-precision integers (INT8/INT4).
+The **Scale Factor ($s$)** and **Zero-Point ($z$)** define the linear affine transformation parameters that map a continuous floating-point interval $[x_{\min}, x_{\max}]$ onto a discrete integer grid $[q_{\min}, q_{\max}]$.
+
+$$\text{Scale: } s = \frac{x_{\max} - x_{\min}}{q_{\max} - q_{\min}}, \qquad \text{Zero-Point: } z = \text{round}\left( q_{\min} - \frac{x_{\min}}{s} \right)$$
 
 ## Why it matters / how it connects
-*   **Quantization Engine:** They enable the conversion ($x_q = \text{clamp}(\text{round}(x/s) + z)$) and approximation retrieval ($\hat{x} = s(x_q - z)$) of model weights and layer activations.
-*   **Zero Representation:** Zero-point ($z$) forces the real float value $0.0$ to map to an exact integer. This prevents numerical bias in zero-padding and preserves structural activation thresholds (like in ReLU).
-*   **Symmetry and Efficiency:** Enforcing a symmetric quantization scheme where $z = 0$ simplifies runtime matrix multiplications on target NPUs or Tensor Cores by eliminating scalar zero-point correction offset calculations.
+* **Affine Mapping:** Enables exact transformation from continuous FP32 values into INT8 integer indices via $x_q = \text{clamp}(\text{round}(x/s) + z)$ and reconstruction via $\hat{x} = s \cdot (x_q - z)$.
+* **Exact Zero Preservation:** The zero-point $z$ ensures that real floating-point $0.0$ maps precisely to an integer bucket index $z$. This is critical for zero-padding in convolutions and sparsity in ReLU activations without introducing numerical bias.
+* **Quantization Resolution:** The scale factor $s$ dictates the floating-point step size per integer bucket; smaller scale factors yield finer numerical precision.
 
 ## Related concepts
 - [[Post-Training Quantization]]
-- [[Activation Functions]]
-- [[Scale_Factor_and_Zero_Point_in_Quantization]]
+- [[Quantization Calibration]]
+- [[Symmetric vs Asymmetric Quantization]]
+- [[Post_Training_Quantization_End_to_End_Guide]]

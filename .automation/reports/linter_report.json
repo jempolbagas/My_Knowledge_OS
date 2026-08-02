@@ -6,16 +6,50 @@
       "context": "wikilink"
     },
     {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Post_Training_Quantization_End_to_End_Guide.md",
-      "broken_link": "Virtual_Private_Server_Architecture_and_Mechanics",
+      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Computer_Science/Model_Context_Protocol_Architecture.md",
+      "broken_link": "JSON-RPC 2.0",
+      "context": "wikilink"
+    },
+    {
+      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Computer_Science/Model_Context_Protocol_Architecture.md",
+      "broken_link": "JSON_RPC_2_0",
       "context": "wikilink"
     },
     {
       "file": "20_Brain_Atlas/10_Library/Generated_Readings/Computer_Science/Single_Board_Computers_Architecture_and_Use_Cases.md",
       "broken_link": "Virtual_Private_Server_Architecture_and_Mechanics",
       "context": "wikilink"
+    },
+    {
+      "file": "20_Brain_Atlas/20_Concepts/Computer_Science/Model_Context_Protocol.md",
+      "broken_link": "JSON-RPC 2.0",
+      "context": "wikilink"
     }
   ],
   "orphans": [],
-  "missing_frontmatter": []
+  "missing_frontmatter": [
+    {
+      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Post_Training_Quantization_End_to_End_Guide.md",
+      "missing_fields": [
+        "topic",
+        "prompt"
+      ]
+    },
+    {
+      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Computer_Science/Model_Context_Protocol_Architecture.md",
+      "missing_fields": [
+        "title",
+        "topic",
+        "requested_on",
+        "prompt",
+        "promoted_to"
+      ]
+    },
+    {
+      "file": "20_Brain_Atlas/20_Concepts/Computer_Science/Model_Context_Protocol.md",
+      "missing_fields": [
+        "title"
+      ]
+    }
+  ]
 }

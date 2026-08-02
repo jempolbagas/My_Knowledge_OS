@@ -65,10 +65,10 @@
   {
     "concept_file": "20_Brain_Atlas/20_Concepts/Artificial_Intelligence/Quantization Calibration.md",
     "concept_title": "Quantization Calibration",
-    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Quantization_Calibration_in_PTQ.md",
-    "source_title": "Quantization_Calibration_in_PTQ",
-    "stored_hash": "fa3c8d5120df53a8e52164a8e73fb44e",
-    "current_hash": "c6e5548a49d4e08f0fc12a7784b8ff19",
+    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Post_Training_Quantization_End_to_End_Guide.md",
+    "source_title": "Post_Training_Quantization_End_to_End_Guide",
+    "stored_hash": "41e818cb181faf4fc06350273191d9c3",
+    "current_hash": "891e6e2d7f065ee79b568d93230cd450",
     "status": "outdated"
   },
   {
@@ -108,6 +108,15 @@
     "status": "outdated"
   },
   {
+    "concept_file": "20_Brain_Atlas/20_Concepts/Artificial_Intelligence/Post-Training Quantization.md",
+    "concept_title": "Post-Training Quantization",
+    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Post_Training_Quantization_End_to_End_Guide.md",
+    "source_title": "Post_Training_Quantization_End_to_End_Guide",
+    "stored_hash": "41e818cb181faf4fc06350273191d9c3",
+    "current_hash": "891e6e2d7f065ee79b568d93230cd450",
+    "status": "outdated"
+  },
+  {
     "concept_file": "20_Brain_Atlas/20_Concepts/Artificial_Intelligence/Leaky ReLU Function.md",
     "concept_title": "Leaky ReLU Function",
     "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Activation_Functions_Explained.md",
@@ -135,12 +144,30 @@
     "status": "outdated"
   },
   {
+    "concept_file": "20_Brain_Atlas/20_Concepts/Artificial_Intelligence/Per-Tensor vs Per-Channel Quantization.md",
+    "concept_title": "Per-Tensor vs Per-Channel Quantization",
+    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Post_Training_Quantization_End_to_End_Guide.md",
+    "source_title": "Post_Training_Quantization_End_to_End_Guide",
+    "stored_hash": "41e818cb181faf4fc06350273191d9c3",
+    "current_hash": "891e6e2d7f065ee79b568d93230cd450",
+    "status": "outdated"
+  },
+  {
     "concept_file": "20_Brain_Atlas/20_Concepts/Artificial_Intelligence/Scale Factor and Zero-Point.md",
     "concept_title": "Scale Factor and Zero-Point",
-    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Scale_Factor_and_Zero_Point_in_Quantization.md",
-    "source_title": "Scale_Factor_and_Zero_Point_in_Quantization",
-    "stored_hash": "42839293822885af053254b55dea6858",
-    "current_hash": "a0e51314dabaf4c2ac88eb08a7833caa",
+    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Post_Training_Quantization_End_to_End_Guide.md",
+    "source_title": "Post_Training_Quantization_End_to_End_Guide",
+    "stored_hash": "41e818cb181faf4fc06350273191d9c3",
+    "current_hash": "891e6e2d7f065ee79b568d93230cd450",
+    "status": "outdated"
+  },
+  {
+    "concept_file": "20_Brain_Atlas/20_Concepts/Artificial_Intelligence/Symmetric vs Asymmetric Quantization.md",
+    "concept_title": "Symmetric vs Asymmetric Quantization",
+    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Post_Training_Quantization_End_to_End_Guide.md",
+    "source_title": "Post_Training_Quantization_End_to_End_Guide",
+    "stored_hash": "41e818cb181faf4fc06350273191d9c3",
+    "current_hash": "891e6e2d7f065ee79b568d93230cd450",
     "status": "outdated"
   },
   {
@@ -198,12 +225,21 @@
     "status": "outdated"
   },
   {
+    "concept_file": "20_Brain_Atlas/20_Concepts/Computer_Science/Model_Context_Protocol.md",
+    "concept_title": "Model_Context_Protocol",
+    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Computer_Science/Model_Context_Protocol_Architecture.md",
+    "source_title": "Model_Context_Protocol_Architecture",
+    "stored_hash": "7f4c9a8b1d2e3f5a6b7c8d9e0f1a2b3c",
+    "current_hash": "e19d6c6ebc740ba6a9460a89e436e052",
+    "status": "outdated"
+  },
+  {
     "concept_file": "20_Brain_Atlas/20_Concepts/Computer_Science/Off-Chip DRAM.md",
     "concept_title": "Off-Chip DRAM",
     "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Post_Training_Quantization_End_to_End_Guide.md",
     "source_title": "Post_Training_Quantization_End_to_End_Guide",
     "stored_hash": "",
-    "current_hash": "23f6ffa8757c9a2e6102ee759ed006ed",
+    "current_hash": "891e6e2d7f065ee79b568d93230cd450",
     "status": "missing_hash"
   }
 ]

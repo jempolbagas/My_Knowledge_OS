@@ -8,14 +8,14 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-08-01T19:40:31Z"
+    "generated_at": "2026-08-02T09:12:27Z"
   },
   "stats": {
-    "total_notes": 139,
-    "total_edges": 488,
-    "broken_links": 3,
+    "total_notes": 143,
+    "total_edges": 501,
+    "broken_links": 5,
     "untyped_notes": 59,
-    "health_score": 57.2
+    "health_score": 58.2
   },
   "inbox": [
     "Introducing the Model Context Protocol",
@@ -134,6 +134,7 @@
           "Cybersecurity_Roadmap"
         ],
         "Computer_Science": [
+          "Model_Context_Protocol_Architecture",
           "Single_Board_Computers_Architecture_and_Use_Cases"
         ]
       }
@@ -160,7 +161,9 @@
         "Leaky ReLU Function",
         "Sigmoid Function",
         "Tanh Function",
-        "Scale Factor and Zero-Point"
+        "Per-Tensor vs Per-Channel Quantization",
+        "Scale Factor and Zero-Point",
+        "Symmetric vs Asymmetric Quantization"
       ],
       "Cybersecurity": [
         "Symmetric vs. Asymmetric Encryption",
@@ -171,6 +174,7 @@
       "Computer_Science": [
         "Bottom-Up vs. Top-Down Learning",
         "Single Board Computer",
+        "Model_Context_Protocol",
         "Off-Chip DRAM"
       ]
     },
