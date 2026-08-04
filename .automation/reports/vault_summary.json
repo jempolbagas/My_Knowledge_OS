@@ -8,14 +8,14 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-08-02T09:12:27Z"
+    "generated_at": "2026-08-04T08:48:47Z"
   },
   "stats": {
-    "total_notes": 143,
-    "total_edges": 501,
-    "broken_links": 5,
-    "untyped_notes": 59,
-    "health_score": 58.2
+    "total_notes": 147,
+    "total_edges": 506,
+    "broken_links": 10,
+    "untyped_notes": 61,
+    "health_score": 57.3
   },
   "inbox": [
     "Introducing the Model Context Protocol",
@@ -71,7 +71,9 @@
         "Tata Surya dan Bumi",
         "Energi Listrik",
         "Gaya dan Hukum Newton",
-        "[Chem] Konsep Mol - Rangkuman"
+        "[Chem] Konsep Mol - Rangkuman",
+        "LKPD_dan_Soal_Dinamika_Gerak",
+        "Materi_Dinamika_Gerak"
       ],
       "Mathematics": [
         "LKPD_dan_Soal_Persamaan_Kuadrat",
@@ -140,6 +142,10 @@
       }
     },
     "concepts": {
+      "General": [
+        "Gaya_Normal",
+        "Gaya_Berat"
+      ],
       "Mathematics": [
         "Suku_Banyak_Polinomial",
         "Matriks",
@@ -192,7 +198,10 @@
     ]
   },
   "maintenance": {
-    "orphan_pages_sample": [],
+    "orphan_pages_sample": [
+      "LKPD_dan_Soal_Dinamika_Gerak",
+      "Materi_Dinamika_Gerak"
+    ],
     "untyped_notes_sample": [
       {
         "title": "README",

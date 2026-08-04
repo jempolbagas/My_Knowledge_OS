@@ -21,12 +21,46 @@
       "context": "wikilink"
     },
     {
+      "file": "20_Brain_Atlas/20_Concepts/Physics/Gaya_Normal.md",
+      "broken_link": "Gaya Berat",
+      "context": "wikilink"
+    },
+    {
+      "file": "20_Brain_Atlas/20_Concepts/Physics/Gaya_Normal.md",
+      "broken_link": "Gaya Gesek",
+      "context": "wikilink"
+    },
+    {
+      "file": "20_Brain_Atlas/20_Concepts/Physics/Gaya_Normal.md",
+      "broken_link": "Hukum Newton",
+      "context": "wikilink"
+    },
+    {
+      "file": "20_Brain_Atlas/20_Concepts/Physics/Gaya_Berat.md",
+      "broken_link": "Gaya Normal",
+      "context": "wikilink"
+    },
+    {
+      "file": "20_Brain_Atlas/20_Concepts/Physics/Gaya_Berat.md",
+      "broken_link": "Hukum Newton",
+      "context": "wikilink"
+    },
+    {
       "file": "20_Brain_Atlas/20_Concepts/Computer_Science/Model_Context_Protocol.md",
       "broken_link": "JSON-RPC 2.0",
       "context": "wikilink"
     }
   ],
-  "orphans": [],
+  "orphans": [
+    {
+      "file": "10_Spaces/12_Teaching/40_Practice/STEM/LKPD_dan_Soal_Dinamika_Gerak.md",
+      "title": "LKPD_dan_Soal_Dinamika_Gerak"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/30_Sources/STEM/Materi_Dinamika_Gerak.md",
+      "title": "Materi_Dinamika_Gerak"
+    }
+  ],
   "missing_frontmatter": [
     {
       "file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Post_Training_Quantization_End_to_End_Guide.md",
