@@ -46,6 +46,7 @@ These files have no incoming or outgoing links:
 | [[Kongruensi_Modular]] | `date_created` |
 | [[Chinese_Remainder_Theorem]] | `title, date_created` |
 | [[Coprime]] | `date_created` |
+| [[Invers_Modular]] | `title, date_created, source` |
 | [[Secret_Sharing_Scheme]] | `title, date_created` |
 | [[Shamir_Secret_Sharing]] | `title, date_created` |
 | [[Model_Context_Protocol]] | `title` |
