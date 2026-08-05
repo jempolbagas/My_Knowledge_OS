@@ -4,6 +4,7 @@
 | File | Broken Link Target | Context |
 | --- | --- | --- |
 | [[KTI_Context]] | `00_Inbox/s11277-023-10315-5` | `wikilink` |
+| [[KTI_Context]] | `KTI_Knowledge_Map.canvas` | `wikilink` |
 | [[Single_Secret_Sharing_CRT_Shamir_XOR]] | `00_Inbox/s11277-023-10315-5` | `wikilink` |
 | [[Model_Context_Protocol_Architecture]] | `JSON-RPC 2.0` | `wikilink` |
 | [[Model_Context_Protocol_Architecture]] | `JSON_RPC_2_0` | `wikilink` |

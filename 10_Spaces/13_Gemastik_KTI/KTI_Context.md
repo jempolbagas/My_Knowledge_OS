@@ -35,12 +35,19 @@ last_updated: 2026-08-05
 - **Fase:** Pembelajaran Mandiri & Analisis Algoritma Paper Pande et al. (2023).
 - **Aktivitas:** Menguasai konsep dasar (CRT, Shamir, XOR) sebelum sesi bimbingan teknis bersama Dosen Pembimbing.
 
+## Knowledge Map
+
+- [[KTI_Knowledge_Map.canvas|Canvas Hubungan Konsep & Reading KTI]]
+
 ## Konsep Kunci (Brain Atlas Links)
 
 - [[Secret_Sharing_Scheme]]
 - [[Chinese_Remainder_Theorem]]
 - [[Shamir_Secret_Sharing]]
+- [[Kongruensi_Modular]]
+- [[Coprime]]
 
 ## Sumber Utama (Library Links)
 
 - [[Single_Secret_Sharing_CRT_Shamir_XOR]]
+
