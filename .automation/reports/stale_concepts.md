@@ -4,6 +4,7 @@ Detected when a source file has changed since the Concept wiki page was generate
 
 | Concept Note | Source Note | Status | Action Required |
 | --- | --- | --- | --- |
+| [[Chinese_Remainder_Theorem]] | [[Single_Secret_Sharing_CRT_Shamir_XOR]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "e0ef5459c56b1047484e2a91453410f1"` |
 | [[Suku_Banyak_Polinomial]] | [[Materi_Suku_Banyak_Polinomial]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "71350e6c9ef37464799a2aeec707f41d"` |
 | [[Matriks]] | [[Materi_Matriks]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "5438a5141526a139aeec31ab44d94a7c"` |
 | [[Persamaan_Kuadrat]] | [[Materi_Persamaan_Kuadrat]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "b9031a30fc18c274ce5f7261d79624e1"` |
@@ -23,7 +24,9 @@ Detected when a source file has changed since the Concept wiki page was generate
 | [[Per-Tensor vs Per-Channel Quantization]] | [[Post_Training_Quantization_End_to_End_Guide]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "891e6e2d7f065ee79b568d93230cd450"` |
 | [[Scale Factor and Zero-Point]] | [[Post_Training_Quantization_End_to_End_Guide]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "891e6e2d7f065ee79b568d93230cd450"` |
 | [[Symmetric vs Asymmetric Quantization]] | [[Post_Training_Quantization_End_to_End_Guide]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "891e6e2d7f065ee79b568d93230cd450"` |
+| [[Secret_Sharing_Scheme]] | [[Single_Secret_Sharing_CRT_Shamir_XOR]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "e0ef5459c56b1047484e2a91453410f1"` |
 | [[Symmetric vs. Asymmetric Encryption]] | [[Cybersecurity_Roadmap]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "1b67d0d65283c870324bc3d3695e7690"` |
+| [[Shamir_Secret_Sharing]] | [[Single_Secret_Sharing_CRT_Shamir_XOR]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "e0ef5459c56b1047484e2a91453410f1"` |
 | [[Blue Team vs. Red Team]] | [[Cybersecurity_Roadmap]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "1b67d0d65283c870324bc3d3695e7690"` |
 | [[Cybersecurity Roadmap]] | [[Cybersecurity_Roadmap]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "1b67d0d65283c870324bc3d3695e7690"` |
 | [[CIA Triad]] | [[Cybersecurity_Roadmap]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "1b67d0d65283c870324bc3d3695e7690"` |

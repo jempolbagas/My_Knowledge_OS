@@ -2,7 +2,7 @@
 type: index
 space: Gemastik_KTI
 tags: [gemastik, kti, competition]
-created: 2026-08-05
+created: 2026-07-29
 status: active
 ---
 
@@ -14,21 +14,16 @@ Ruang kolaborasi tim untuk lomba **Gemastik cabang Karya Tulis Ilmiah**.
 
 | Nama | Role |
 |------|------|
-| Alfin | Ketua / penulis utama |
-| Bagas | Riset |
-| Lia | Riset |
+| (isi) | (isi) |
 
-## Topik KTI (Topik Baru)
+## Topik KTI
 
-> [!info] Status Topik
-> Tim sedang melakukan pivot ke topik baru atas bimbingan Dosen.
-> Materi topik 1 (Resilient Edge) telah diarsipkan di `90_Archive/Gemastik_KTI_Topik_1_Resilient_Edge/`.
+> [!todo] Topik belum ditentukan. Isi setelah diskusi tim.
 
 ## Deadline Penting
 
 | Milestone | Tanggal |
 |-----------|---------|
-| Diskusi Topik Baru | Ongoing |
 | Pengumpulan abstrak | - |
 | Pengumpulan full paper | - |
 | Pengumuman seleksi | - |
@@ -37,10 +32,10 @@ Ruang kolaborasi tim untuk lomba **Gemastik cabang Karya Tulis Ilmiah**.
 ## Navigasi
 
 - [[Koordinasi|Koordinasi Tim]] — task list, pembagian tugas
-- [[Riset Index|Riset Index]] — brainstorming, catatan riset topik baru
+- [[Riset Index|Riset Index]] — brainstorming, catatan riset
 - [[Draf Index|Draf Index]] — draf KTI per iterasi
 - [[Referensi Index|Referensi Index]] — panduan format, template Gemastik
 
 ## Referensi Brain Atlas
 
-> Tambahkan wikilinks ke Library/Concept notes yang relevan setelah topik baru ditentukan.
+> Tambahkan wikilinks ke Library/Concept notes yang relevan setelah topik ditentukan.

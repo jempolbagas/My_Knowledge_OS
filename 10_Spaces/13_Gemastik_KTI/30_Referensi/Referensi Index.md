@@ -1,27 +1,13 @@
 ---
 type: index
 space: Gemastik_KTI
-tags: [gemastik, referensi]
-created: 2026-07-29
+created: 2026-08-05
 ---
 
-# Referensi Index
+# Referensi Index — Gemastik KTI
 
-Panduan resmi dan template lomba Gemastik.
+Panduan format dan materi pendukung perlombaan.
 
-## Dokumen Resmi
+## Template & Guide
 
-> Tambahkan link ke dokumen resmi Gemastik (pedoman, template, format) setelah tersedia.
-
-## Checklist Format KTI
-
-- [ ] Margin dan ukuran kertas sesuai panduan
-- [ ] Font dan spasi sesuai panduan
-- [ ] Jumlah halaman dalam batas
-- [ ] Daftar pustaka menggunakan format yang ditentukan
-- [ ] Abstrak dalam Bahasa Indonesia dan Inggris
-- [ ] Cover sesuai template resmi
-
-## Link Eksternal
-
-- [Website Gemastik](https://gemastik.kemdikbud.go.id) (cek tahun aktif)
+- Pedoman umum KTI Gemastik

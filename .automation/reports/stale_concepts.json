@@ -1,5 +1,14 @@
 [
   {
+    "concept_file": "20_Brain_Atlas/20_Concepts/Mathematics/Chinese_Remainder_Theorem.md",
+    "concept_title": "Chinese_Remainder_Theorem",
+    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Cryptography/Single_Secret_Sharing_CRT_Shamir_XOR.md",
+    "source_title": "Single_Secret_Sharing_CRT_Shamir_XOR",
+    "stored_hash": "66e12d9252a0cc3e9ac35ebb4ee78657",
+    "current_hash": "e0ef5459c56b1047484e2a91453410f1",
+    "status": "outdated"
+  },
+  {
     "concept_file": "20_Brain_Atlas/20_Concepts/Mathematics/Suku_Banyak_Polinomial.md",
     "concept_title": "Suku_Banyak_Polinomial",
     "source_file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Materi_Suku_Banyak_Polinomial.md",
@@ -171,12 +180,30 @@
     "status": "outdated"
   },
   {
+    "concept_file": "20_Brain_Atlas/20_Concepts/Cybersecurity/Secret_Sharing_Scheme.md",
+    "concept_title": "Secret_Sharing_Scheme",
+    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Cryptography/Single_Secret_Sharing_CRT_Shamir_XOR.md",
+    "source_title": "Single_Secret_Sharing_CRT_Shamir_XOR",
+    "stored_hash": "66e12d9252a0cc3e9ac35ebb4ee78657",
+    "current_hash": "e0ef5459c56b1047484e2a91453410f1",
+    "status": "outdated"
+  },
+  {
     "concept_file": "20_Brain_Atlas/20_Concepts/Cybersecurity/Symmetric vs. Asymmetric Encryption.md",
     "concept_title": "Symmetric vs. Asymmetric Encryption",
     "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Cybersecurity/Cybersecurity_Roadmap.md",
     "source_title": "Cybersecurity_Roadmap",
     "stored_hash": "1572d01123e2f95e15b99e8b446c7118",
     "current_hash": "1b67d0d65283c870324bc3d3695e7690",
+    "status": "outdated"
+  },
+  {
+    "concept_file": "20_Brain_Atlas/20_Concepts/Cybersecurity/Shamir_Secret_Sharing.md",
+    "concept_title": "Shamir_Secret_Sharing",
+    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Cryptography/Single_Secret_Sharing_CRT_Shamir_XOR.md",
+    "source_title": "Single_Secret_Sharing_CRT_Shamir_XOR",
+    "stored_hash": "66e12d9252a0cc3e9ac35ebb4ee78657",
+    "current_hash": "e0ef5459c56b1047484e2a91453410f1",
     "status": "outdated"
   },
   {

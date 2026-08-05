@@ -13,7 +13,7 @@ Sobat Zenius, gimana nih perjalanan elo belajar **Dinamika Partikel & Gravitasi*
 
 Baca Juga: [Newton, Penemu Teori Gravitasi yang Benci Konfrontasi](https://www.zenius.net/blog/siapa-itu-newton-biografi-hukum-newton)
 
-![Isaac Newton sang penemu Hukum Newton](https://ghost-blog-assets.zenius.net/wordpress/2022/04/isaac_newton_meme_zenius_education.webp)
+![[isaac_newton_meme_zenius_education.webp|Isaac Newton sang penemu Hukum Newton]]
 
 Isaac Newton sang penemu Hukum Newton yang kece. (Arsip Zenius)
 
@@ -35,7 +35,7 @@ Nah, gaya kontak sendiri, ada yang namanya gaya normal dan gaya gesek. Bedanya a
 
 Nih, coba elo lihat kardus yang kesepian sendirian ini.
 
-![contoh gaya normal benda diam](https://ghost-blog-assets.zenius.net/wordpress/2022/04/gaya_normal_kotak_zenius_education.webp)
+![[gaya_normal_kotak_zenius_education.webp|contoh gaya normal benda diam]]
 
 Ilustrasi kardus paket yang diam. (Arsip Zenius)
 
@@ -175,7 +175,7 @@ Jadi gaya normal benda tersebut adalah 50√3 N.
 
 Oke Sobat Zenius, itulah pembahasan singkat mengenai gaya normal. Kalo elo ingin mempelajari gaya normal dan materi pelajaran Fisika lainnya dengan lebih dalam dan asyik, coba deh tonton video persiapan [UTBK Zenius](https://www.zenius.net/utbk/) dan akses soal-soalnya.
 
-![CTA materi belajar zenius fisika](https://ghost-blog-assets.zenius.net/wordpress/2022/03/FISIKA-1.webp)
+![[FISIKA-1.webp|CTA materi belajar zenius fisika]]
 
 CTA materi belajar zenius fisika
 

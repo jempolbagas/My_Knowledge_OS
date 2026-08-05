@@ -8,16 +8,17 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-08-04T11:53:46Z"
+    "generated_at": "2026-08-05T06:43:10Z"
   },
   "stats": {
-    "total_notes": 152,
-    "total_edges": 510,
-    "broken_links": 14,
-    "untyped_notes": 66,
-    "health_score": 55.0
+    "total_notes": 148,
+    "total_edges": 487,
+    "broken_links": 29,
+    "untyped_notes": 61,
+    "health_score": 55.3
   },
   "inbox": [
+    "s11277-023-10315-5",
     "Introducing the Model Context Protocol",
     "What is the Model Context Protocol (MCP)",
     "Belajar Online Interaktif Terbaik di Indonesia",
@@ -127,6 +128,9 @@
       ],
       "Books": [],
       "Generated_Readings": {
+        "General": [
+          "Single_Secret_Sharing_CRT_Shamir_XOR"
+        ],
         "Artificial_Intelligence": [
           "Post_Training_Quantization_End_to_End_Guide",
           "Scale_Factor_and_Zero_Point_in_Quantization",
@@ -152,6 +156,7 @@
         "Gaya_Berat"
       ],
       "Mathematics": [
+        "Chinese_Remainder_Theorem",
         "Suku_Banyak_Polinomial",
         "Matriks",
         "Persamaan_Kuadrat"
@@ -177,7 +182,9 @@
         "Symmetric vs Asymmetric Quantization"
       ],
       "Cybersecurity": [
+        "Secret_Sharing_Scheme",
         "Symmetric vs. Asymmetric Encryption",
+        "Shamir_Secret_Sharing",
         "Blue Team vs. Red Team",
         "Cybersecurity Roadmap",
         "CIA Triad"
@@ -215,30 +222,6 @@
       {
         "title": "README",
         "path": "10_Spaces/13_Gemastik_KTI/README.md"
-      },
-      {
-        "title": "Model AI buat penyakit",
-        "path": "10_Spaces/13_Gemastik_KTI/10_Riset/Model AI buat penyakit.md"
-      },
-      {
-        "title": "Perplexity - ONNX Runtime",
-        "path": "10_Spaces/13_Gemastik_KTI/10_Riset/Perplexity - ONNX Runtime.md"
-      },
-      {
-        "title": "Perplexity - What are real-world deployments of ML inference on",
-        "path": "10_Spaces/13_Gemastik_KTI/10_Riset/Perplexity - What are real-world deployments of ML inference on.md"
-      },
-      {
-        "title": "Perplexity - WasmEdge + WASI-NN + TFLite",
-        "path": "10_Spaces/13_Gemastik_KTI/10_Riset/Perplexity - WasmEdge + WASI-NN + TFLite.md"
-      },
-      {
-        "title": "Perplexity - Hybrid",
-        "path": "10_Spaces/13_Gemastik_KTI/10_Riset/Perplexity - Hybrid.md"
-      },
-      {
-        "title": "Cetak Biru KTI",
-        "path": "10_Spaces/13_Gemastik_KTI/10_Riset/Cetak Biru KTI.md"
       },
       {
         "title": "Masa Praaksara dan Asal-usul Nenek Moyang Bangsa Indonesia",
@@ -291,6 +274,30 @@
       {
         "title": "Ekosistem dan Keanekaragaman Hayati",
         "path": "10_Spaces/12_Teaching/20_Cards/STEM/Ekosistem dan Keanekaragaman Hayati.md"
+      },
+      {
+        "title": "Rantai Makanan dan Jaring-Jaring Makanan",
+        "path": "10_Spaces/12_Teaching/20_Cards/STEM/Rantai Makanan dan Jaring-Jaring Makanan.md"
+      },
+      {
+        "title": "Kecepatan dan Kelajuan",
+        "path": "10_Spaces/12_Teaching/20_Cards/STEM/Kecepatan dan Kelajuan.md"
+      },
+      {
+        "title": "Tata Surya dan Bumi",
+        "path": "10_Spaces/12_Teaching/20_Cards/STEM/Tata Surya dan Bumi.md"
+      },
+      {
+        "title": "Energi Listrik",
+        "path": "10_Spaces/12_Teaching/20_Cards/STEM/Energi Listrik.md"
+      },
+      {
+        "title": "Gaya dan Hukum Newton",
+        "path": "10_Spaces/12_Teaching/20_Cards/STEM/Gaya dan Hukum Newton.md"
+      },
+      {
+        "title": "[Chem] Konsep Mol - Rangkuman",
+        "path": "10_Spaces/12_Teaching/20_Cards/STEM/[Chem] Konsep Mol - Rangkuman.md"
       }
     ]
   }
