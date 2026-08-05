@@ -42,7 +42,9 @@ These files have no incoming or outgoing links:
 | [[Single_Secret_Sharing_CRT_Shamir_XOR]] | `title, topic, requested_on, prompt, tags, promoted_to` |
 | [[Post_Training_Quantization_End_to_End_Guide]] | `topic, prompt` |
 | [[Model_Context_Protocol_Architecture]] | `title, topic, requested_on, prompt, promoted_to` |
+| [[Kongruensi_Modular]] | `date_created` |
 | [[Chinese_Remainder_Theorem]] | `title, date_created` |
+| [[Coprime]] | `date_created` |
 | [[Secret_Sharing_Scheme]] | `title, date_created` |
 | [[Shamir_Secret_Sharing]] | `title, date_created` |
 | [[Model_Context_Protocol]] | `title` |

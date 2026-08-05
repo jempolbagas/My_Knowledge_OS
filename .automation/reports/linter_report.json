@@ -172,9 +172,21 @@
       ]
     },
     {
+      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Kongruensi_Modular.md",
+      "missing_fields": [
+        "date_created"
+      ]
+    },
+    {
       "file": "20_Brain_Atlas/20_Concepts/Mathematics/Chinese_Remainder_Theorem.md",
       "missing_fields": [
         "title",
+        "date_created"
+      ]
+    },
+    {
+      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Coprime.md",
+      "missing_fields": [
         "date_created"
       ]
     },

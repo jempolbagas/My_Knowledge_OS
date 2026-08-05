@@ -8,7 +8,7 @@ created: 2026-08-05
 
 # Chinese Remainder Theorem (CRT)
 
-**Chinese Remainder Theorem (CRT)** adalah teorema teori bilangan yang menyatakan bahwa jika kita memiliki himpunan modulo coprime $\{P_1, P_2, \dots, P_n\}$ dan sisa bagi $\{r_1, r_2, \dots, r_n\}$, maka terdapat satu solusi tunggal $x$ modulo $M = P_1 \times P_2 \times \dots \times P_n$ yang memenuhi seluruh sistem kongruensi linear:
+**Chinese Remainder Theorem (CRT)** adalah teorema teori bilangan yang menyatakan bahwa jika kita memiliki himpunan modulo [[Coprime]] $\{P_1, P_2, \dots, P_n\}$ dan sisa bagi $\{r_1, r_2, \dots, r_n\}$, maka terdapat satu solusi tunggal $x$ modulo $M = P_1 \times P_2 \times \dots \times P_n$ yang memenuhi seluruh sistem [[Kongruensi_Modular]] linear:
 
 $$x \equiv r_i \pmod{P_i} \quad \text{untuk } i = 1, 2, \dots, n$$
 

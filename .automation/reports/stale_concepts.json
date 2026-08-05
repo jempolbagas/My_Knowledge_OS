@@ -1,5 +1,14 @@
 [
   {
+    "concept_file": "20_Brain_Atlas/20_Concepts/Mathematics/Kongruensi_Modular.md",
+    "concept_title": "Kongruensi_Modular",
+    "source_file": "20_Brain_Atlas/20_Concepts/Mathematics/Chinese_Remainder_Theorem.md",
+    "source_title": "Chinese_Remainder_Theorem",
+    "stored_hash": "",
+    "current_hash": "c7ba00951080d173f343dfffdc7c155b",
+    "status": "missing_hash"
+  },
+  {
     "concept_file": "20_Brain_Atlas/20_Concepts/Mathematics/Chinese_Remainder_Theorem.md",
     "concept_title": "Chinese_Remainder_Theorem",
     "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Cryptography/Single_Secret_Sharing_CRT_Shamir_XOR.md",
@@ -34,6 +43,15 @@
     "stored_hash": "d07b403d242c847dcdbbc05268e62916",
     "current_hash": "b9031a30fc18c274ce5f7261d79624e1",
     "status": "outdated"
+  },
+  {
+    "concept_file": "20_Brain_Atlas/20_Concepts/Mathematics/Coprime.md",
+    "concept_title": "Coprime",
+    "source_file": "20_Brain_Atlas/20_Concepts/Mathematics/Chinese_Remainder_Theorem.md",
+    "source_title": "Chinese_Remainder_Theorem",
+    "stored_hash": "",
+    "current_hash": "c7ba00951080d173f343dfffdc7c155b",
+    "status": "missing_hash"
   },
   {
     "concept_file": "20_Brain_Atlas/20_Concepts/Web_Development/WebAssembly_vs_Docker.md",
