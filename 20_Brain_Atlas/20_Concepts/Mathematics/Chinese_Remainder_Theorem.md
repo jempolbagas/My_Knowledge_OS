@@ -24,6 +24,7 @@ di mana:
 - $m_i^{-1}$ adalah [[Invers_Modular]] dari $m_i \pmod{P_i}$
 
 ## Aplikasi Kriptografi
-- **Reverse CRT (RCRT):** Digunakan untuk memecah data acak/piksel rahasia menjadi komponen sisa bagi (*shares*).
+- **[[Reverse_CRT]]:** Digunakan untuk memecah data acak/piksel rahasia menjadi komponen sisa bagi (*shares*).
 - **Dekripsi Cepat:** Digunakan dalam RSA dan *Secret Sharing Schemes* untuk mempercepat kalkulasi modulo tanpa kehilangan akurasi data (*lossless*).
+
 

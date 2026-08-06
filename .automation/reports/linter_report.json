@@ -133,6 +133,17 @@
   ],
   "missing_frontmatter": [
     {
+      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Mathematics/Chinese_Remainder_Theorem_and_Reverse_CRT_Guide.md",
+      "missing_fields": [
+        "title",
+        "topic",
+        "requested_on",
+        "prompt",
+        "tags",
+        "promoted_to"
+      ]
+    },
+    {
       "file": "20_Brain_Atlas/10_Library/Generated_Readings/Cryptography/Single_Secret_Sharing_CRT_Shamir_XOR.md",
       "missing_fields": [
         "title",
@@ -168,6 +179,13 @@
     },
     {
       "file": "20_Brain_Atlas/20_Concepts/Mathematics/Chinese_Remainder_Theorem.md",
+      "missing_fields": [
+        "title",
+        "date_created"
+      ]
+    },
+    {
+      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Reverse_CRT.md",
       "missing_fields": [
         "title",
         "date_created"

@@ -36,11 +36,13 @@ These files have no incoming or outgoing links:
 ## 📄 Missing/Invalid Frontmatter Properties
 | File | Missing/Invalid Fields |
 | --- | --- |
+| [[Chinese_Remainder_Theorem_and_Reverse_CRT_Guide]] | `title, topic, requested_on, prompt, tags, promoted_to` |
 | [[Single_Secret_Sharing_CRT_Shamir_XOR]] | `title, topic, requested_on, prompt, tags, promoted_to` |
 | [[Post_Training_Quantization_End_to_End_Guide]] | `topic, prompt` |
 | [[Model_Context_Protocol_Architecture]] | `title, topic, requested_on, prompt, promoted_to` |
 | [[Kongruensi_Modular]] | `date_created` |
 | [[Chinese_Remainder_Theorem]] | `title, date_created` |
+| [[Reverse_CRT]] | `title, date_created` |
 | [[Coprime]] | `date_created` |
 | [[Invers_Modular]] | `title, date_created, source` |
 | [[Secret_Sharing_Scheme]] | `title, date_created` |

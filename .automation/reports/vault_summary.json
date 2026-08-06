@@ -8,14 +8,14 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-08-06T07:00:09Z"
+    "generated_at": "2026-08-06T08:28:38Z"
   },
   "stats": {
-    "total_notes": 159,
-    "total_edges": 555,
+    "total_notes": 161,
+    "total_edges": 576,
     "broken_links": 30,
     "untyped_notes": 69,
-    "health_score": 53.5
+    "health_score": 54.2
   },
   "inbox": [
     "s11277-023-10315-5",
@@ -136,6 +136,9 @@
       ],
       "Books": [],
       "Generated_Readings": {
+        "Mathematics": [
+          "Chinese_Remainder_Theorem_and_Reverse_CRT_Guide"
+        ],
         "General": [
           "Single_Secret_Sharing_CRT_Shamir_XOR"
         ],
@@ -167,6 +170,7 @@
         "Kongruensi_Modular",
         "Chinese_Remainder_Theorem",
         "Suku_Banyak_Polinomial",
+        "Reverse_CRT",
         "Matriks",
         "Persamaan_Kuadrat",
         "Coprime",

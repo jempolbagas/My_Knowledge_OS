@@ -7,7 +7,6 @@ date_created: 2026-08-05
 status: done
 user_baseline: "blank_slate_beginner"
 ---
-
 # Single Secret Sharing Scheme Berbasis Chinese Remainder Theorem (CRT), Modified Shamir, dan Operasi XOR
 
 > **Abstrak & Ringkasan Eksekutif:**  
