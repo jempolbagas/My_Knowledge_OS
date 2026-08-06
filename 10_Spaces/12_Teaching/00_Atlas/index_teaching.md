@@ -15,16 +15,32 @@ Selamat datang di Teaching Resources Hub! Halaman ini mengorganisir materi ajar,
 ## 📐 Mathematics & STEM
 
 ### 📚 Materi Ajar (Sources)
-- [[Materi_Persamaan_Kuadrat]] — Persamaan Kuadrat & Rumus ABC
-- [[Materi_Pola_Bilangan]] — Pola Bilangan & Barisan Aritmetika/Geometri
-- [[Materi_Suku_Banyak_Polinomial]] — Polinomial & Metode Horner
-- [[Materi_Matriks]] — Matriks, Transpose, Determinan & Invers
+* **Matematika:**
+  - [[Materi_Persamaan_Kuadrat]] — Persamaan Kuadrat & Rumus ABC
+  - [[Materi_Pola_Bilangan]] — Pola Bilangan & Barisan Aritmetika/Geometri
+  - [[Materi_Suku_Banyak_Polinomial]] — Polinomial & Metode Horner
+  - [[Materi_Matriks]] — Matriks, Transpose, Determinan & Invers
+* **Fisika (Dinamika Gerak & Gaya):**
+  - [[Materi_Dinamika_Gerak]] — Modul Terpadu Dinamika Gerak Partikel (Hukum Newton I, II, III)
+  - [[Materi_Gaya_Normal]] — Konsep Mikroskopis & Formulasi Gaya Normal di Berbagai Bidang
+  - [[Materi_Gaya_Berat]] — Asal-usul Gravitasi, Variasi $g$, Medan Magnet & Weightlessness
+  - [[Materi_Gaya_Gesek]] — Gesekan Statis/Kinetis, Asperities, Air Drag & Kecepatan Terminal
+  - [[Materi_Gaya_Sentripetal]] — Dinamika Melingkar, Banked Curves, Ayunan Konis & Roller Coaster
+  - [[Materi_Gaya_Tegangan_Tali_dan_Katrol]] — Multi-Body Systems, Mesin Atwood & Katrol Bergerak
 
 ### 📝 Lembar Kerja (Practice)
-- [[LKPD_dan_Soal_Persamaan_Kuadrat]]
-- [[LKPD_dan_Soal_Pola_Bilangan]]
-- [[LKPD_dan_Soal_Suku_Banyak_Polinomial]]
-- [[LKPD_dan_Soal_Matriks]]
+* **Matematika:**
+  - [[LKPD_dan_Soal_Persamaan_Kuadrat]]
+  - [[LKPD_dan_Soal_Pola_Bilangan]]
+  - [[LKPD_dan_Soal_Suku_Banyak_Polinomial]]
+  - [[LKPD_dan_Soal_Matriks]]
+* **Fisika (Dinamika Gerak & Gaya):**
+  - [[LKPD_dan_Soal_Dinamika_Gerak]]
+  - [[LKPD_dan_Soal_Gaya_Normal]]
+  - [[LKPD_dan_Soal_Gaya_Berat]]
+  - [[LKPD_dan_Soal_Gaya_Gesek]]
+  - [[LKPD_dan_Soal_Gaya_Sentripetal]]
+  - [[LKPD_dan_Soal_Gaya_Tegangan_Tali_dan_Katrol]]
 
 ### 🎴 STEM Concept Cards
 - [[[Chem] Reaksi Redoks - Rangkuman]]

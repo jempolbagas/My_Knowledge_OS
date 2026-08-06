@@ -30,10 +30,6 @@
 
 ## 🕳️ Orphan Pages (Disconnected Nodes)
 These files have no incoming or outgoing links:
-- [[LKPD_dan_Soal_Gaya_Normal]] (`10_Spaces/12_Teaching/40_Practice/STEM/LKPD_dan_Soal_Gaya_Normal.md`)
-- [[LKPD_dan_Soal_Dinamika_Gerak]] (`10_Spaces/12_Teaching/40_Practice/STEM/LKPD_dan_Soal_Dinamika_Gerak.md`)
-- [[Materi_Dinamika_Gerak]] (`10_Spaces/12_Teaching/30_Sources/STEM/Materi_Dinamika_Gerak.md`)
-- [[Materi_Gaya_Normal]] (`10_Spaces/12_Teaching/30_Sources/STEM/Materi_Gaya_Normal.md`)
 - [[Belajar Online Interaktif Terbaik di Indonesia]] (`00_Inbox/Belajar Online Interaktif Terbaik di Indonesia.md`)
 - [[Normal Force  Physics  Research Starters]] (`00_Inbox/Normal Force  Physics  Research Starters.md`)
 

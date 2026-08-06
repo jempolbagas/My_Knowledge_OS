@@ -1,70 +1,112 @@
 ---
-title: "Materi Ajar: Dinamika Gerak Partikel (Hukum Newton & Aplikasinya)"
+title: "Materi Ajar: Dinamika Gerak Partikel (Hukum Newton & Integrasi Gaya)"
 target_audience: "SMA Kelas XI"
-created: 2026-08-03
+created: 2026-08-05
 sources:
   - "[[Gaya dan Hukum Newton]]"
   - "[[Gerak Lurus]]"
   - "[[Gerak Lurus Berubah Beraturan (GLBB)]]"
+  - "[[Materi_Gaya_Berat]]"
+  - "[[Materi_Gaya_Normal]]"
+  - "[[Materi_Gaya_Gesek]]"
+  - "[[Materi_Gaya_Sentripetal]]"
+  - "[[Materi_Gaya_Tegangan_Tali_dan_Katrol]]"
 tags:
   - fisika
   - dinamika-gerak
   - hukum-newton
   - kelas-11
-  - modul-ajar
+  - modul-terpadu
 ---
 
-# Modul Ajar Terpadu: Dinamika Gerak Partikel
+# BAB 1: Dinamika Gerak Partikel — Mengapa Benda Bergerak, Diam, atau Berputar? 🚀🍎
 
-## 1. Pendahuluan & Capaian Pembelajaran
+Pernah kepikiran nggak, kenapa waktu bus yang kamu tumpangi mendadak mengerem, tubuh kamu otomatis terdorong ke depan? Atau kenapa HP yang kamu taruh di atas meja nggak jatuh tembus ke lantai padahal ada gravitasi? 
 
-### 1.1 Orientasi Umum
-Dinamika gerak merupakan cabang mekanika klasik yang mempelajari gerak suatu benda dengan memperhitungkan penyebab terjadinya gerak tersebut, yaitu **Gaya** ($\vec{F}$). Berbeda dengan Kinematika yang hanya mendeskripsikan posisi, kecepatan, dan percepatan tanpa memedulikan penyebab gerak, Dinamika menelaah hubungan kausalitas antara besaran fisis gaya, massa ($m$), dan respons gerak berupa percepatan ($\vec{a}$).
+Kalau di materi **Kinematika** kita cuma sibuk menghitung "seberapa cepat" atau "seberapa jauh" benda bergerak tanpa peduli penyebabnya, di materi **Dinamika Gerak** ini kita bakal membongkar *si dalang utama* di balik setiap gerakan di alam semesta, yaitu **GAYA ($\vec{F}$)**!
 
-### 1.2 Capaian Pembelajaran (CP) / Tujuan Pembelajaran
-Setelah mempelajari materi ini, peserta didik kelas XI diharapkan mampu:
-1. Menganalisis konsep hukum-hukum Newton (Hukum I, II, dan III Newton) serta menerapkannya pada fenomena kehidupan sehari-hari.
-2. Memprediksi dan menghitung besaran-besaran fisis (percepatan, tegangan tali, gaya normal, dan gaya gesek) pada berbagai sistem mekanika (bidang datar, bidang miring, sistem katrol, dan gerak dalam lift).
-3. Menggambar Diagram Bebas Benda (*Free-Body Diagram* / FBD) secara akurat sebagai alat bantu pemecahan masalah fisika.
-4. Menganalisis miskonsepsi umum terkait konsep gaya dan gerak melalui pendekatan nalar ilmiah.
+Yuk, kita bedah bersama gimana Hukum-Hukum Newton dan 5 Gaya Utama saling terhubung membentuk sistem mekanika yang super keren!
 
 ---
 
-## 2. Hakikat Gaya & Diagram Bebas Benda (Free-Body Diagram)
+## 1. Hakikat Gaya & Diagram Bebas Benda (Free-Body Diagram) ✍️
 
-### 2.1 Definisi Gaya
-Gaya ($\vec{F}$) adalah dorongan atau tarikan yang bekerja pada suatu benda yang dapat menyebabkan perubahan bentuk, ukuran, posisi, maupun keadaan gerak benda (kecepatan). Gaya merupakan **besaran vektor**, sehingga memiliki besar (magnitudo) dan arah. Satuan SI untuk gaya adalah **Newton (N)**, di mana $1\text{ N} = 1\text{ kg}\cdot\text{m/s}^2$.
+Secara sederhana, **gaya ($\vec{F}$)** adalah dorongan atau tarikan yang bekerja pada suatu benda. Gaya bisa bikin benda diam jadi bergerak, benda bergerak jadi makin kencang/lambat, atau mengubah arah gerakannya.
 
-### 2.2 Jenis-Jenis Gaya Khusus
+Gaya itu **besaran vektor**, artinya dia punya **nilai (besarnya)** dan **arah**. Satuan SI untuk gaya adalah **Newton (N)**, di mana $1\text{ N} = 1\text{ kg}\cdot\text{m/s}^2$.
 
-#### A. Gaya Berat ($\vec{W}$)
-Gaya tarik bumi (gravitasi) yang bekerja pada suatu benda bermassa. Direction gaya berat **selalu tegak lurus mengarah ke pusat bumi (ke bawah)**.
-$$\vec{W} = m \cdot \vec{g}$$
-*Keterangan:* $m$ = massa benda (kg), $g$ = percepatan gravitasi ($\text{m/s}^2$).
+### Kunci Utama: Diagram Bebas Benda (Free-Body Diagram / FBD) 🔍
+Sebelum menghitung rumus fisika, senjata paling ampuh yang wajib kamu kuasai adalah **FBD**. FBD itu seperti "foto rontgen gaya" yang memperlihatkan semua gaya luar yang sedang bekerja tepat pada satu benda yang kita tinjau.
 
-#### B. Gaya Normal ($\vec{N}$)
-Gaya kontak yang dikerjakan oleh permukaan bidang terhadap benda yang menyentuhnya. Direction gaya normal **selalu tegak lurus keluar dari bidang sentuh**.
-- Bidang datar datar: $N = W = mg$ (jika tidak ada gaya luar vertikal lain).
-- Bidang miring dengan sudut $\theta$: $N = W \cos\theta = mg \cos\theta$.
+```
+                    ▲ N (Gaya Normal)
+                    │
+       f_s / f_k ◄──┼──► F (Gaya Tarik Luar)
+  (Gaya Gesek)      │
+                    ▼ W = mg (Gaya Berat)
+```
 
-#### C. Gaya Gesekan ($\vec{f}$)
-Gaya yang timbul akibat interaksi dua permukaan yang saling bersentuhan. Arah gaya gesek **selalu berlawanan dengan arah kecenderungan gerak benda**.
-1. **Gaya Gesek Statis ($f_s$):** Gaya gesek yang bekerja saat benda belum bergerak.
-   - Nilai maksimum gaya gesek statis: $f_{s,\text{maks}} = \mu_s \cdot N$.
-   - Jika gaya tarik $F \le f_{s,\text{maks}}$, benda **diam** dan $f_s = F$.
-2. **Gaya Gesek Kinetis ($f_k$):** Gaya gesek yang bekerja saat benda sudah dalam keadaan bergerak.
-   - $f_k = \mu_k \cdot N$ (di mana $\mu_k < \mu_s$).
-
-#### D. Gaya Tegangan Tali ($\vec{T}$)
-Gaya tarik yang ditransmisikan melalui tali, kawat, atau kabel ketika ditarik oleh gaya dari arah berlawanan. Gaya tegangan tali selalu bekerja menjauhi benda yang ditinjau.
-
-#### E. Gaya Sentripetal ($\vec{F}_c$)
-Resultan gaya yang mengarah ke pusat lintasan melingkar yang menyebabkan benda mengalami gerak melingkar.
-$$F_c = m a_c = m \frac{v^2}{r} = m \omega^2 r$$
+> [!TIP]
+> **Aturan Emas FBD:** Selalu gambar panah gaya mulai dari titik tangkap benda, dan pastikan arah panahnya sesuai sifat fisis masing-masing gaya!
 
 ---
 
-## 3. Hukum-Hukum Newton tentang Gerak
+## 2. Peta Integrasi 5 Jenis Gaya Utama di Alam Semesta 🌌
+
+Dinamika gerak di SMA berporos pada interaksi 5 jenis gaya khusus. Masing-masing gaya ini punya modul *deep-dive* sendiri buat kamu pelajari sampai ke akar-akarnya. Coba cek peta integrasinya berikut:
+
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│                        DINAMIKA GERAK PARTIKEL                         │
+│                    (Penyebab Gerak & Hukum Newton)                     │
+└──────────────────────────────────┬─────────────────────────────────────┘
+                                   │
+      ┌────────────────────────────┼────────────────────────────┐
+      ▼                            ▼                            ▼
+┌──────────────┐             ┌──────────────┐             ┌──────────────┐
+│  GAYA MEDAN  │             │ GAYA KONTAK  │             │ GAYA RESULTAN│
+└──────┬───────┘             └──────┬───────┘             └──────┬───────┘
+       │                            │                            │
+       ├─► [[Materi_Gaya_Berat]]    ├─► [[Materi_Gaya_Normal]]   └─► [[Materi_Gaya_Sentripetal]]
+       │   (Gravitasi Bumi)         │   (Tolakan Bidang)             (Peran Gerak Melingkar)
+       │                            ├─► [[Materi_Gaya_Gesek]]
+       │                            │   (Hambatan Kontak)
+       │                            └─► [[Materi_Gaya_Tegangan_Tali_dan_Katrol]]
+       │                                (Transmisi Tarikan)
+```
+
+### Ringkasan & Hubungan Antar 5 Gaya Utama:
+
+1. **Gaya Berat ($\vec{W}$):** 
+   - **Sifat:** Gaya medan gravitasi bumi yang selalu ditarik lurus ke bawah (ke pusat bumi).
+   - **Rumus Utama:** $\vec{W} = m \cdot \vec{g}$.
+   - 🔗 *Pelajari selengkapnya di modul deep-dive:* **[[Materi_Gaya_Berat]]** (Membahas variasi $g$, massa vs berat, serta fenomena melayang astronaut di ISS).
+
+2. **Gaya Normal ($\vec{N}$):**
+   - **Sifat:** Gaya kontak tolakan elektrostatik bidang sentuh yang arahnya **selalu tegak lurus ($90^\circ$) keluar bidang**.
+   - **Rumus Utama:** Menyesuaikan tekanan bidang ($\sum F_\perp = 0$).
+   - 🔗 *Pelajari selengkapnya di modul deep-dive:* **[[Materi_Gaya_Normal]]** (Membahas skenario bidang datar, miring, dinding, lift, hingga roller coaster).
+
+3. **Gaya Gesekan ($\vec{f}$):**
+   - **Sifat:** Gaya penahan gerak akibat keterikatan mikroskopis permukaannya (*asperities*). Arahnya selalu berlawanan dengan arah gerak/kecenderungan gerak.
+   - **Rumus Utama:** Statis $f_{s,\max} = \mu_s N$, Kinetis $f_k = \mu_k N$. (Gaya Normal $N$ adalah penentu utama besar gaya gesek!).
+   - 🔗 *Pelajari selengkapnya di modul deep-dive:* **[[Materi_Gaya_Gesek]]** (Membahas gesekan statis vs kinetis, hambatan udara *air drag*, dan sistem rem ABS).
+
+4. **Gaya Tegangan Tali ($\vec{T}$):**
+   - **Sifat:** Gaya tarik internal yang ditransmisikan melalui tali ideal (massa nol, tak mulur). Arahnya selalu **menjauhi benda** yang sedang ditinjau.
+   - **Rumus Utama:** Ditentukan dari analisis Hukum II Newton sistem benda terhubung.
+   - 🔗 *Pelajari selengkapnya di modul deep-dive:* **[[Materi_Gaya_Tegangan_Tali_dan_Katrol]]** (Membahas sistem balok berdampingan, Mesin Atwood, dan katrol bergerak).
+
+5. **Gaya Sentripetal ($\vec{F}_c$):**
+   - **Sifat:** **Bukan jenis gaya baru!** Sentripetal adalah *job description* (peran resultan gaya radial) yang mengarah ke pusat lingkaran untuk membelokkan arah gerak benda.
+   - **Rumus Utama:** $F_c = m a_c = m \frac{v^2}{r}$. (Peran $F_c$ bisa diambil alih oleh gaya gesek $f_s$, gaya normal $N$, tegangan tali $T$, atau gaya gravitasi $W$).
+   - 🔗 *Pelajari selengkapnya di modul deep-dive:* **[[Materi_Gaya_Sentripetal]]** (Membahas tikungan jalan miring *banked curve*, ayunan konis, dan roller coaster).
+
+---
+
+## 3. Tiga Hukum Newton tentang Gerak (Sang Pondasi Utama) 🏛️
+
+Semua interaksi kelima gaya di atas diatur oleh 3 aturan utama Sir Isaac Newton:
 
 ```
 +-------------------------------------------------------------------------+
@@ -83,122 +125,102 @@ $$F_c = m a_c = m \frac{v^2}{r} = m \omega^2 r$$
 ```
 
 ### 3.1 Hukum I Newton (Inersia / Kelembaman)
-> *"Setiap benda akan tetap diam atau bergerak lurus beraturan (GLB) jika tidak ada gaya luar yang bekerja padanya, atau jika resultan gaya yang bekerja pada benda sama dengan nol."*
+> *"Kalau resultan gaya yang bekerja pada benda sama dengan nol ($\sum \vec{F} = 0$), benda yang diam akan tetap diam, dan benda yang sedang bergerak akan tetap bergerak lurus beraturan (GLB)."*
 
-$$\sum \vec{F} = 0 \implies \vec{a} = 0 \quad (\text{Benda Diam atau Gerak Lurus Beraturan})$$
+$$\sum \vec{F} = 0 \implies \vec{a} = 0$$
 
-* **Kerangka Acuan Inersial:** Kerangka acuan yang tidak mengalami percepatan (diam atau bergerak dengan kecepatan konstan). Hukum I dan II Newton hanya berlaku secara eksplisit pada kerangka acuan inersial.
-* **Aplikasi Nyata:**
-  - Penumpang mobil terdorong ke depan saat mobil direm mendadak.
-  - Memukul bagian bawah botol saus agar saus di dalamnya mengalir keluar akibat sifat kelembaman saus.
+* **Contoh Nyata:** Tubuh kita terdorong ke depan saat mobil direm mendadak karena tubuh kita mau mempertahankan kecepatannya!
 
 ### 3.2 Hukum II Newton (Percepatan)
-> *"Percepatan sebuah benda sebanding dengan resultan gaya yang bekerja pada benda tersebut dan berbanding terbalik dengan massa benda."*
+> *"Kalau ada resultan gaya total yang bekerja pada benda, benda tersebut bakal mengalami percepatan ($\vec{a}$) yang searah dengan gaya itu."*
 
 $$\sum \vec{F} = m \cdot \vec{a} \implies \vec{a} = \frac{\sum \vec{F}}{m}$$
 
 * **Bentuk Komponen 2D:**
   $$\sum F_x = m a_x \quad \text{dan} \quad \sum F_y = m a_y$$
-* **Catatan Penting:** Gaya memicu perubahan kecepatan (percepatan), bukan mempertahankan kecepatan. Tanpa resultan gaya, kecepatan benda bersifat konstan.
 
 ### 3.3 Hukum III Newton (Aksi - Reaksi)
-> *"Ketika suatu benda mengerjakan gaya pada benda kedua (gaya aksi), benda kedua akan mengerjakan gaya yang besarnya sama tetapi arahnya berlawanan pada benda pertama (gaya reaksi)."*
+> *"Saat kamu memberikan gaya pada suatu benda (gaya aksi), benda itu bakal membalas memberikan gaya yang besarnya sama persis tapi arahnya berlawanan (gaya reaksi)."*
 
 $$\vec{F}_{\text{aksi}} = -\vec{F}_{\text{reaksi}}$$
 
-* **Ciri-ciri Pasangan Gaya Aksi-Reaksi:**
-  1. Besarnya **sama**.
-  2. Arahnya **berlawanan** ($180^\circ$).
-  3. Bekerja pada **dua benda yang berbeda** (tidak saling meniadakan dalam satu benda).
-  4. Merupakan jenis gaya yang **sejenis** (sama-sama gaya kontak atau gaya medan).
+* **Syarat Mutlak Pasangan Aksi-Reaksi:**
+  1. Besarnya **sama**, arahnya **berlawanan ($180^\circ$)**.
+  2. Bekerja pada **dua benda yang BERBEDA** (makanya tidak pernah saling meniadakan di dalam satu benda!).
+  3. Jenis gayanya **sejenis** (sama-sama gaya kontak atau gaya medan).
 
 ---
 
-## 4. Analisis Sistem Dinamika Populer
+## 4. Sintesis Aplikasi Sistem Dinamika Populer 🎡
 
-### 4.1 Benda pada Bidang Datar (Kasus Kasar & Membentuk Sudut $\theta$)
-Sebuah benda bermassa $m$ ditarik gaya $F$ yang membentuk sudut $\theta$ terhadap bidang datar kasar dengan koefisien gesek $\mu_k$.
+Yuk, kita lihat gimana kelima gaya tadi berkolaborasi menyelesaikan 4 skenario fisika populer:
 
-1. **Komponen Gaya Vertikal ($y$-axis):**
+### 4.1 Benda ditarik Miring di Bidang Datar Kasar
+Gabungan antara **Gaya Tarik $F$**, **Gaya Berat $W$**, **Gaya Normal $N$**, dan **Gaya Gesek $f_k$**:
+
+1. **Analisis Sumbu Vertikal ($y$-axis):**
    $$\sum F_y = 0 \implies N + F \sin\theta - W = 0 \implies N = mg - F \sin\theta$$
 2. **Gaya Gesek Kinetis:**
    $$f_k = \mu_k N = \mu_k (mg - F \sin\theta)$$
-3. **Persamaan Gerak Horizontal ($x$-axis):**
-   $$\sum F_x = m a \implies F \cos\theta - f_k = m a$$
-   $$a = \frac{F \cos\theta - \mu_k (mg - F \sin\theta)}{m}$$
+3. **Analisis Gerak Horizontal ($x$-axis):**
+   $$\sum F_x = m a \implies F \cos\theta - f_k = m a \implies a = \frac{F \cos\theta - \mu_k (mg - F \sin\theta)}{m}$$
 
 ---
 
-### 4.2 Benda pada Bidang Miring (Kasus Kasar)
-Benda bermassa $m$ meluncur turun pada bidang miring kasar dengan sudut kemiringan $\theta$.
+### 4.2 Benda Meluncur di Bidang Miring Kasar
+Gabungan antara **Komponen Gaya Berat ($W \sin\theta, W \cos\theta$)**, **Gaya Normal $N$**, dan **Gaya Gesek $f_k$**:
 
-```
-         /|
-        / |
-       /  |
-      /   |
-     /    |
-    /_____|  \theta
-```
-
-1. **Uraian Gaya:**
-   - Komponen searah bidang miring (sejajar gerak): $W_x = mg \sin\theta$ (mengarah ke bawah).
-   - Komponen tegak lurus bidang miring: $W_y = mg \cos\theta$.
-2. **Keseimbangan Vertikal (Tegak lurus bidang miring):**
-   $$N = W_y = mg \cos\theta$$
-3. **Gaya Gesek:**
-   $$f_k = \mu_k N = \mu_k mg \cos\theta$$
-4. **Percepatan Meluncur Turun:**
-   $$\sum F = m a \implies mg \sin\theta - f_k = m a$$
-   $$a = g(\sin\theta - \mu_k \cos\theta)$$
-
-*Syarat benda bergerak meluncur turun:* $\tan\theta > \mu_s$.
+1. **Gaya Normal:** $N = mg \cos\theta$
+2. **Gaya Gesek:** $f_k = \mu_k N = \mu_k mg \cos\theta$
+3. **Percepatan Meluncur Turun:**
+   $$\sum F_x = m a \implies mg \sin\theta - \mu_k mg \cos\theta = m a \implies a = g(\sin\theta - \mu_k \cos\theta)$$
 
 ---
 
 ### 4.3 Sistem Katrol (Mesin Atwood)
-Dua benda bermassa $m_1$ dan $m_2$ ($m_2 > m_1$) dihubungkan dengan tali ideal melalui katrol licin dan massa katrol diabaikan.
+Gabungan antara **Gaya Berat ($W_1, W_2$)** dan **Gaya Tegangan Tali ($T$)**:
 
-```
-       [KATROL]
-        /    \
-       /      \
-     [m1]    [m2]  (m2 turun, m1 naik)
-```
-
-1. **Tinjauan Benda 1 ($m_1$ naik):**
-   $$\sum F_1 = m_1 a \implies T - m_1 g = m_1 a \quad \text{--- (1)}$$
-2. **Tinjauan Benda 2 ($m_2$ turun):**
-   $$\sum F_2 = m_2 a \implies m_2 g - T = m_2 a \quad \text{--- (2)}$$
-3. **Eliminasi / Penggabungan Sistem:**
-   $$a = \left( \frac{m_2 - m_1}{m_1 + m_2} \right) g$$
-4. **Tegangan Tali ($T$):**
-   $$T = \frac{2 m_1 m_2}{m_1 + m_2} g$$
+1. **Tinjauan Benda 1 ($m_1$ naik):** $T - m_1 g = m_1 a$
+2. **Tinjauan Benda 2 ($m_2$ turun):** $m_2 g - T = m_2 a$
+3. **Hasil Percepatan Sistem:** $a = \left( \frac{m_2 - m_1}{m_1 + m_2} \right) g$
 
 ---
 
-### 4.4 Gerak Semu dalam Lift (Desakan Kaki / Berat Semu)
-Seseorang bermassa $m$ berdiri di atas timbangan di dalam lift. Berat sesungguhnya adalah $W = mg$. Berat semu yang terbaca pada timbangan adalah gaya normal $N$.
+### 4.4 Tikungan Jalan Berkemiringan (Banked Curve)
+Gabungan antara **Gaya Normal $N$**, **Gaya Berat $W$**, dan **Gaya Sentripetal $F_c$**:
 
-| Kondisi Lift | Persamaan Hukum II Newton ($\sum F_y = m a$) | Berat Semu / Desakan Kaki ($N$) | Sensasi Fisik |
-| :--- | :--- | :--- | :--- |
-| **Diam / Kecepatan Konstan** | $N - mg = 0$ | $N = mg$ | Normal |
-| **Naik Dipercepat** ($a \uparrow$) | $N - mg = m a$ | $N = m(g + a)$ | Merasa Lebih Berat |
-| **Naik Diperlambat** ($a \downarrow$) | $N - mg = -m a$ | $N = m(g - a)$ | Merasa Lebih Ringan |
-| **Turun Dipercepat** ($a \downarrow$) | $mg - N = m a$ | $N = m(g - a)$ | Merasa Lebih Ringan |
-| **Turun Diperlambat** ($a \uparrow$) | $N - mg = m a$ | $N = m(g + a)$ | Merasa Lebih Berat |
-| **Tali Lift Putus** ($a = g \downarrow$) | $mg - N = mg$ | $N = 0$ | Bobot Kosong (*Weightlessness*) |
+Komponen gaya normal horizontal ($N \sin\theta$) bertindak sebagai **Gaya Sentripetal** yang membelokkan mobil:
+$$\tan\theta = \frac{v^2}{rg} \implies v_{\text{aman}} = \sqrt{r g \tan\theta}$$
 
 ---
 
-## 5. Miskonsepsi Umum & Klarifikasi Ilmiah
+## 5. Miskonsepsi Umum & Pembetulan Konsep ❌ ➔ ⭕
 
-| Miskonsepsi Peserta Didik | Pembetulan Konsep Ilmiah |
+| Miskonsepsi Populer | Pembetulan Konsep Ilmiah |
 | :--- | :--- |
-| **1. "Benda yang sedang bergerak pasti sedang dikenai gaya dorong."** | **Salah.** Sesuai Hukum I Newton, benda yang sedang bergerak dengan kecepatan konstan tidak memerlukan gaya dorong. Gaya diperlukan untuk **mengubah** kecepatan, bukan mempertahankan gerakan. |
-| **2. "Gaya aksi dan gaya reaksi saling meniadakan sehingga resultannya nol."** | **Salah.** Gaya aksi dan reaksi bekerja pada **dua benda yang berbeda**, sehingga keduanya tidak dapat dijumlahkan dalam satu diagram gaya benda tunggal. |
-| **3. "Gaya normal selalu sama besarnya dengan gaya berat ($N = W$)."** | **Salah.** Gaya normal $N$ bergantung pada tekanan kontak permukaan. Pada bidang miring $N = W \cos\theta$, dan pada lift yang berakselerasi $N \neq W$. |
-| **4. "Gaya gesek statis selalu bernilai $\mu_s N$."** | **Salah.** $\mu_s N$ adalah batas **maksimum** gaya gesek statis. Sebelum mencapai batas tersebut, $f_s$ menyesuaikan besarnya gaya tarik horizontal yang diberikan ($f_s = F_{\text{luar}}$). |
+| **1. "Benda bergerak pasti punya gaya dorong."** | **Salah.** Benda bergerak dengan kecepatan konstan justru gaya totalnya **nol** ($\sum F = 0$). Gaya dibutuhkan untuk **mengubah** kecepatan, bukan mempertahankan gerak. |
+| **2. "Gaya Normal itu pasangan aksi-reaksi Gaya Berat ($N = W$)."** | **Salah.** $N$ dan $W$ bekerja pada **satu benda yang sama**, jadi bukan aksi-reaksi. $N$ adalah gaya elektromagnetik bidang sentuh, sedangkan $W$ adalah gaya gravitasi bumi. |
+| **3. "Gaya Sentripetal itu gaya baru yang mendorong ke luar."** | **Salah.** Gaya dorong ke luar itu cuma efek ilusi inersia (gaya sentrifugal). Gaya sentripetal yang asli **selalu mengarah ke pusat lingkaran** dan merupakan peran dari gaya riil lain ($f_s, N, T,$ dll). |
+| **4. "Gaya gesek statis nilainya selalu $\mu_s N$."** | **Salah.** $\mu_s N$ adalah nilai **maksimum** ($f_{s,\max}$). Sebelum benda bergerak, gaya gesek statis menyesuaikan besarnya gaya tarik horizontal ($f_s = F_{\text{luar}}$). |
 
 ---
-*Dokumen ini disusun untuk mendukung pembelajaran Fisika SMA Kelas XI Kurikulum Merdeka.*
+
+## 📝 Modul Deep-Dive & Lembar Kerja Terkait
+
+Untuk menguasai masing-masing topik secara mendalam dan melatih keterampilan berpikir kritis (HOTS), pelajari berkas-berkas terkait berikut:
+
+* **Materi Deep-Dive:**
+  - 📄 [[Materi_Gaya_Berat]] — Asal-usul Gravitasi, Variasi $g$, & Weightlessness
+  - 📄 [[Materi_Gaya_Normal]] — Konsep Mikroskopis & 5 Skenario Bidang
+  - 📄 [[Materi_Gaya_Gesek]] — Gesekan Statis/Kinetis, Asperities, Air Drag & ABS
+  - 📄 [[Materi_Gaya_Sentripetal]] — Dinamika Melingkar, Banked Curves, & Roller Coaster
+  - 📄 [[Materi_Gaya_Tegangan_Tali_dan_Katrol]] — Multi-Body Systems & Mesin Atwood
+* **Lembar Kerja & Soal Evaluasi:**
+  - 📝 [[LKPD_dan_Soal_Dinamika_Gerak]] (LKPD Terpadu Utama)
+  - 📝 [[LKPD_dan_Soal_Gaya_Berat]]
+  - 📝 [[LKPD_dan_Soal_Gaya_Normal]]
+  - 📝 [[LKPD_dan_Soal_Gaya_Gesek]]
+  - 📝 [[LKPD_dan_Soal_Gaya_Sentripetal]]
+  - 📝 [[LKPD_dan_Soal_Gaya_Tegangan_Tali_dan_Katrol]]
+* **Pusat Navigasi Utama:**
+  - 🍎 [[index_teaching|Teaching Resources Hub]]

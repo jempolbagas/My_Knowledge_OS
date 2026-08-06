@@ -8,14 +8,14 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-08-05T08:38:48Z"
+    "generated_at": "2026-08-06T07:00:09Z"
   },
   "stats": {
-    "total_notes": 151,
-    "total_edges": 506,
+    "total_notes": 159,
+    "total_edges": 555,
     "broken_links": 30,
-    "untyped_notes": 61,
-    "health_score": 56.1
+    "untyped_notes": 69,
+    "health_score": 53.5
   },
   "inbox": [
     "s11277-023-10315-5",
@@ -76,9 +76,17 @@
         "Energi Listrik",
         "Gaya dan Hukum Newton",
         "[Chem] Konsep Mol - Rangkuman",
+        "LKPD_dan_Soal_Gaya_Tegangan_Tali_dan_Katrol",
+        "LKPD_dan_Soal_Gaya_Gesek",
+        "LKPD_dan_Soal_Gaya_Sentripetal",
         "LKPD_dan_Soal_Gaya_Normal",
+        "LKPD_dan_Soal_Gaya_Berat",
         "LKPD_dan_Soal_Dinamika_Gerak",
+        "Materi_Gaya_Gesek",
         "Materi_Dinamika_Gerak",
+        "Materi_Gaya_Berat",
+        "Materi_Gaya_Tegangan_Tali_dan_Katrol",
+        "Materi_Gaya_Sentripetal",
         "Materi_Gaya_Normal"
       ],
       "Mathematics": [
@@ -214,10 +222,6 @@
   },
   "maintenance": {
     "orphan_pages_sample": [
-      "LKPD_dan_Soal_Gaya_Normal",
-      "LKPD_dan_Soal_Dinamika_Gerak",
-      "Materi_Dinamika_Gerak",
-      "Materi_Gaya_Normal",
       "Belajar Online Interaktif Terbaik di Indonesia",
       "Normal Force  Physics  Research Starters"
     ],

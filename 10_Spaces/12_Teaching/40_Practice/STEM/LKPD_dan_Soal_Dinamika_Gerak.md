@@ -240,3 +240,16 @@ c. Percepatan balok $a$:
 | **Total Skor Maksimum Uraian** | **50 Poin (2 x 25 Poin)** |
 
 $$\text{Nilai Akhir Total} = \text{Skor PG} + \text{Skor Uraian} \quad (\text{Skala } 0 - 100)$$
+
+---
+
+## 📝 Navigasi Paket LKPD & Soal Spesifik Sub-Materi
+
+Untuk pendalaman praktikum dan latihan soal per topik spesifik, gunakan lembar kerja berikut:
+- 📝 [[LKPD_dan_Soal_Gaya_Berat]] — Eksperimen Massa vs Berat & Fenomena Lift/ISS
+- 📝 [[LKPD_dan_Soal_Gaya_Normal]] — FBD 5 Skenario Bidang & Kontak Permukaan
+- 📝 [[LKPD_dan_Soal_Gaya_Gesek]] — Penentuan $\mu_s$ Bidang Miring, Grafik $f$ vs $F$, & Rem ABS
+- 📝 [[LKPD_dan_Soal_Gaya_Sentripetal]] — Desain Tikungan Miring, Roller Coaster, & Jalan Basah
+- 📝 [[LKPD_dan_Soal_Gaya_Tegangan_Tali_dan_Katrol]] — Mesin Atwood, Balok Berdampingan, & Katrol Bergerak
+- 🍎 [[index_teaching|Teaching Resources Hub]]
+
