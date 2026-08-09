@@ -14,7 +14,6 @@ promoted_to:
   - "[[Leaky ReLU Function]]"
   - "[[Softmax Function]]"
 ---
-
 ## The reading
 
 This reading synthesizes the foundational concepts of activation functions in artificial neural networks, how they enable learning through backpropagation, and the mathematical relationship between activation slopes and weight adjustments.

@@ -5,6 +5,20 @@
 | --- | --- | --- |
 | [[KTI_Context]] | `00_Inbox/s11277-023-10315-5` | `wikilink` |
 | [[KTI_Context]] | `KTI_Knowledge_Map.canvas` | `wikilink` |
+| [[Sistem_Produksi_dan_Pengemasan_Kerajinan_Limbah_Bangun_Datar]] | `Aneka Produk Kerajinan Limbah Datar` | `wikilink` |
+| [[Sistem_Produksi_dan_Pengemasan_Kerajinan_Limbah_Bangun_Datar]] | `Kategori Manfaat Benda Pakai vs Benda Hias` | `wikilink` |
+| [[Sistem_Produksi_dan_Pengemasan_Kerajinan_Limbah_Bangun_Datar]] | `Potensi Limbah Berdasarkan Geografi Wilayah` | `wikilink` |
+| [[Sistem_Produksi_dan_Pengemasan_Kerajinan_Limbah_Bangun_Datar]] | `Proses 6 Tahap Pengolahan Bahan Limbah` | `wikilink` |
+| [[Sistem_Produksi_dan_Pengemasan_Kerajinan_Limbah_Bangun_Datar]] | `Prinsip Estetika dan Ergonomis Kerajinan` | `wikilink` |
+| [[Sistem_Produksi_dan_Pengemasan_Kerajinan_Limbah_Bangun_Datar]] | `Tutorial 10 Langkah Kerajinan Kulit Jagung` | `wikilink` |
+| [[Sistem_Produksi_dan_Pengemasan_Kerajinan_Limbah_Bangun_Datar]] | `Jenis Bahan Kemasan (Kertas, Kayu, Plastik-Akrilik)` | `wikilink` |
+| [[Perencanaan_Usaha_Kerajinan_Limbah_Bangun_Datar]] | `Ide dan Peluang Usaha Limbah Bangun Datar` | `wikilink` |
+| [[Perencanaan_Usaha_Kerajinan_Limbah_Bangun_Datar]] | `Analisis SWOT Usaha Kerajinan` | `wikilink` |
+| [[Perencanaan_Usaha_Kerajinan_Limbah_Bangun_Datar]] | `Manajemen 6M dalam Wirausaha` | `wikilink` |
+| [[Perencanaan_Usaha_Kerajinan_Limbah_Bangun_Datar]] | `Perizinan Usaha Kerajinan (SITU, HO, SIUP)` | `wikilink` |
+| [[Perencanaan_Usaha_Kerajinan_Limbah_Bangun_Datar]] | `Bukti Transaksi dan Laporan Keuangan Usaha` | `wikilink` |
+| [[Perencanaan_Usaha_Kerajinan_Limbah_Bangun_Datar]] | `Penetapan Harga Jual dan Biaya Total Produksi` | `wikilink` |
+| [[Perencanaan_Usaha_Kerajinan_Limbah_Bangun_Datar]] | `Bauran Promosi Usaha Kerajinan` | `wikilink` |
 | [[Single_Secret_Sharing_CRT_Shamir_XOR]] | `00_Inbox/s11277-023-10315-5` | `wikilink` |
 | [[Model_Context_Protocol_Architecture]] | `JSON-RPC 2.0` | `wikilink` |
 | [[Model_Context_Protocol_Architecture]] | `JSON_RPC_2_0` | `wikilink` |
