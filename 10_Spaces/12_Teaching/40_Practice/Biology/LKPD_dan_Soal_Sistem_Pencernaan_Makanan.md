@@ -67,28 +67,13 @@ Bacalah dua narasi studi kasus berikut dan selesaikan pertanyaan analisis di baw
 **Petunjuk:**
 Perhatikan kebutuhan gizi harian seorang remaja SMP yang aktif berolahraga. Rancanglah **Menu Makanan Seimbang 1 Hari** (Makan Pagi, Makan Siang, Makan Malam) yang memenuhi kriteria *Zat Tenaga, Zat Pembangun, dan Zat Pengatur*!
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                 RANCANGAN MENU GIZI SEIMBANG (1 HARI)                       │
-├─────────────┬───────────────────────┬──────────────────┬────────────────────┤
-│ Waktu Makan │ Nama Makanan & Minuman│ Kandungan Gizi   │ Golongan Gizi      │
-├─────────────┼───────────────────────┼──────────────────┼────────────────────┤
-│ Pagi        │ 1. Nasi Putih         │ Karbohidrat      │ Zat Tenaga         │
-│             │ 2. Telur Dadar        │ Protein & Lemak  │ Zat Pembangun      │
-│             │ 3. Tumis Bayam        │ Vitamin & Mineral│ Zat Pengatur       │
-│             │ 4. Segelas Susu       │ Protein & Kalsium│ Zat Pembangun/Lengkap│
-├─────────────┼───────────────────────┼──────────────────┼────────────────────┤
-│ Siang       │ 1. .................. │ ................ │ .................. │
-│             │ 2. .................. │ ................ │ .................. │
-│             │ 3. .................. │ ................ │ .................. │
-│             │ 4. .................. │ ................ │ .................. │
-├─────────────┼───────────────────────┼──────────────────┼────────────────────┤
-│ Malam       │ 1. .................. │ ................ │ .................. │
-│             │ 2. .................. │ ................ │ .................. │
-│             │ 3. .................. │ ................ │ .................. │
-│             │ 4. .................. │ ................ │ .................. │
-└─────────────┴───────────────────────┴──────────────────┴────────────────────┘
-```
+![[mindmap_biology_nutrient_classification.webp]]
+
+| Waktu Makan | Nama Makanan & Minuman | Kandungan Gizi | Golongan Gizi |
+| :--- | :--- | :--- | :--- |
+| **Pagi** | 1. Nasi Putih<br>2. Telur Dadar<br>3. Tumis Bayam<br>4. Segelas Susu | Karbohidrat<br>Protein & Lemak<br>Vitamin & Mineral<br>Protein & Kalsium | Zat Tenaga<br>Zat Pembangun<br>Zat Pengatur<br>Zat Pembangun / Lengkap |
+| **Siang** | 1. ....................<br>2. ....................<br>3. ....................<br>4. .................... | ....................<br>....................<br>....................<br>.................... | ....................<br>....................<br>....................<br>.................... |
+| **Malam** | 1. ....................<br>2. ....................<br>3. ....................<br>4. .................... | ....................<br>....................<br>....................<br>.................... | ....................<br>....................<br>....................<br>.................... |
 
 ---
 
@@ -235,45 +220,14 @@ Perhatikan kebutuhan gizi harian seorang remaja SMP yang aktif berolahraga. Ranc
 
 ### C. Pembahasan & Rubrik Penskoran Soal Uraian (Essay)
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                    RUBRIK PENILAIAN SOAL URAIAN                             │
-├──────┬─────────────────────────────────────────────────────────┬────────────┤
-│No Soal│ Kriteria Jawaban Ideal                                  │ Skor Maks  │
-├──────┼─────────────────────────────────────────────────────────┼────────────┤
-│  1   │ - Pencernaan mekanis: perubahan fisik tanpa enzim (2 pnt)│     20     │
-│      │ - Pencernaan kimiawi: perubahan struktur molekul via    │            │
-│      │   enzim (2 pnt)                                         │            │
-│      │ - Organ tempat keduanya terjadi bersamaan: Mulut dan    │            │
-│      │   Lambung (6 pnt)                                       │            │
-├──────┼─────────────────────────────────────────────────────────┼────────────┤
-│  2   │ - Nasi mengandung amilum (karbohidrat kompleks) (5 pnt) │     20     │
-│      │ - Dikunyah lama bercampur dengan saliva yang mengandung  │            │
-│      │   enzim amilase/ptyalin (5 pnt)                         │            │
-│      │ - Amilase diubah menjadi maltosa/glukosa (gula sederhana)│            │
-│      │   yang terasa manis di lidah (10 pnt)                   │            │
-├──────┼─────────────────────────────────────────────────────────┼────────────┤
-│  3   │ - Dampak: Kantung empedu menampung empedu untuk pencernaan│     20     │
-│      │   lemak. Tanpa kantung empedu, emulsi lemak tidak efisien│            │
-│      │   sehingga pencernaan lemak terganggu (10 pnt)           │            │
-│      │ - Rekomendasi: Mengurangi makanan tinggi lemak/gorengan, │            │
-│      │   makan makanan rendah lemak (10 pnt)                   │            │
-├──────┼─────────────────────────────────────────────────────────┼────────────┤
-│  4   │ - PERBEDAAN (Lokasi, Penyebab, Gejala):                 │     20     │
-│      │   * GERD: Katup esofagus; asam naik; heartburn/dada terbakar│          │
-│      │   * Gastritis: Mukosa lambung; iritasi/asam berlebih; perih │          │
-│      │   * Tukak Lambung: Dinding lambung (luka/ulser); H. pylori│          │
-│      │     /asam tinggi; nyeri tajam perut                     │            │
-├──────┼─────────────────────────────────────────────────────────┼────────────┤
-│  5   │ - Usus besar berfungsi menyerap air dari sisa makanan (5pnt)│   20     │
-│      │ - Diare parah menyebabkan penyerapan air terhenti & air │            │
-│      │   dibuang terus-menerus (5 pnt)                         │            │
-│      │ - Akibat: Dehidrasi berat, kehilangan cairan & elektrolit│            │
-│      │   tubuh, memicu syok hipovolemik / kematian (10 pnt)    │            │
-├──────┴─────────────────────────────────────────────────────────┼────────────┤
-│ TOTAL SKOR MAKSIMAL SOAL URAIAN                                │    100     │
-└────────────────────────────────────────────────────────────────┴────────────┘
-```
+| No Soal | Kriteria Jawaban Ideal | Skor Maks |
+| :---: | :--- | :---: |
+| **1** | • Pencernaan mekanis: perubahan fisik tanpa enzim (2 pnt)<br>• Pencernaan kimiawi: perubahan struktur molekul via enzim (2 pnt)<br>• Organ tempat keduanya terjadi bersamaan: Mulut dan Lambung (6 pnt) | **20** |
+| **2** | • Nasi mengandung amilum (karbohidrat kompleks) (5 pnt)<br>• Dikunyah lama bercampur dengan saliva yang mengandung enzim amilase/ptyalin (5 pnt)<br>• Amilase diubah menjadi maltosa/glukosa (gula sederhana) yang terasa manis di lidah (10 pnt) | **20** |
+| **3** | • Dampak: Kantung empedu menampung empedu untuk pencernaan lemak. Tanpa kantung empedu, emulsi lemak tidak efisien sehingga pencernaan lemak terganggu (10 pnt)<br>• Rekomendasi: Mengurangi makanan tinggi lemak/gorengan, makan makanan rendah lemak (10 pnt) | **20** |
+| **4** | • **GERD:** Katup esofagus; asam naik; heartburn/dada terbakar<br>• **Gastritis:** Mukosa lambung; iritasi/asam berlebih; perih<br>• **Tukak Lambung:** Dinding lambung (luka/ulser); H. pylori/asam tinggi; nyeri tajam perut | **20** |
+| **5** | • Usus besar berfungsi menyerap air dari sisa makanan (5 pnt)<br>• Diare parah menyebabkan penyerapan air terhenti & air dibuang terus-menerus (5 pnt)<br>• Akibat: Dehidrasi berat, kehilangan cairan & elektrolit tubuh, memicu syok hipovolemik / kematian (10 pnt) | **20** |
+| **TOTAL** | **TOTAL SKOR MAKSIMAL SOAL URAIAN** | **100** |
 
 **Pedoman Penilaian Akhir:**
 * Skor Pilihan Ganda = Total Benar × 10 (Maksimal = 100)

@@ -5,7 +5,13 @@
 | --- | --- | --- |
 | [[KTI_Context]] | `KTI_Knowledge_Map.canvas` | `wikilink` |
 | [[[ESL] Worksheet - Simple Present vs Present Continuous]] | `[ESL] Present Continuous Tense` | `wikilink` |
+| [[LKPD_dan_Soal_Pola_Bilangan]] | `diagram_mathematics_number_patterns_matchstick_squares.webp` | `wikilink` |
+| [[LKPD_dan_Soal_Pola_Bilangan]] | `infographic_mathematics_number_patterns_pascal_triangle.webp` | `wikilink` |
+| [[LKPD_dan_Soal_Pola_Bilangan]] | `illustration_mathematics_number_patterns_theater_seating.webp` | `wikilink` |
 | [[LKPD_dan_Soal_Pola_Bilangan]] | `diagram_mathematics_number_patterns_multilevel_scheme.webp` | `wikilink` |
+| [[LKPD_dan_Soal_Sistem_Pencernaan_Makanan_SMP_8]] | `infographic_biology_food_testing_reagents.webp` | `wikilink` |
+| [[LKPD_dan_Soal_Sistem_Pencernaan_Makanan_SMP_8]] | `infographic_biology_nutrition_facts_boba.webp` | `wikilink` |
+| [[LKPD_dan_Soal_Sistem_Pencernaan_Makanan]] | `mindmap_biology_nutrient_classification.webp` | `wikilink` |
 | [[index_teaching]] | `[Chem] Reaksi Redoks - Rangkuman` | `wikilink` |
 | [[index_teaching]] | `[Chem] Tata Nama dan Biloks - Rangkuman` | `wikilink` |
 | [[index_teaching]] | `[Chem] Konsep Mol - Rangkuman` | `wikilink` |
@@ -25,7 +31,14 @@
 | [[index_teaching]] | `Masa Kerajaan Islam di Indonesia` | `wikilink` |
 | [[index_teaching]] | `Peran Lembaga Sosial` | `wikilink` |
 | [[index_teaching]] | `[ESL] Present Continuous Tense` | `wikilink` |
+| [[Materi_Narrative_Text]] | `infographic_languages_narrative_text_structure.webp` | `wikilink` |
 | [[Materi_Pola_Bilangan]] | `diagram_mathematics_number_patterns_multilevel_scheme.webp` | `wikilink` |
+| [[Materi_Sistem_Pencernaan_Makanan]] | `diagram_biology_digestive_process_flow.webp` | `wikilink` |
+| [[Materi_Sistem_Pencernaan_Makanan]] | `mindmap_biology_nutrient_classification.webp` | `wikilink` |
+| [[Materi_Sistem_Pencernaan_Makanan]] | `infographic_biology_digestive_system_smp8.webp` | `wikilink` |
+| [[Materi_Sistem_Pencernaan_Makanan_SMP_8]] | `infographic_biology_digestive_system_smp8.webp` | `wikilink` |
+| [[Materi_Sistem_Pencernaan_Makanan_SMP_8]] | `infographic_biology_nutrition_facts_boba.webp` | `wikilink` |
+| [[Materi_Sistem_Pencernaan_Makanan_SMP_8]] | `infographic_biology_digestive_system_smp8.webp` | `wikilink` |
 | [[Materi_Distribusi_Pendapatan]] | `chart_economics_national_income_lorenz_curve.webp` | `wikilink` |
 | [[Materi_Pendapatan_Nasional]] | `mindmap_economics_national_income_master_dashboard.webp` | `wikilink` |
 | [[Materi_Pendapatan_Nasional]] | `Materi_Konsep_Pendapatan_Nasional\` | `wikilink` |
@@ -48,6 +61,8 @@
 | [[Perencanaan_Usaha_Kerajinan_Limbah_Bangun_Datar]] | `Bukti Transaksi dan Laporan Keuangan Usaha` | `wikilink` |
 | [[Perencanaan_Usaha_Kerajinan_Limbah_Bangun_Datar]] | `Penetapan Harga Jual dan Biaya Total Produksi` | `wikilink` |
 | [[Perencanaan_Usaha_Kerajinan_Limbah_Bangun_Datar]] | `Bauran Promosi Usaha Kerajinan` | `wikilink` |
+| [[Shamir_Secret_Sharing_and_Modified_Pande_Scheme]] | `diagram_cybersecurity_shamir_polynomial_interpolation.webp` | `wikilink` |
+| [[Shamir_Secret_Sharing_and_Modified_Pande_Scheme]] | `diagram_cybersecurity_pande_modified_shamir_pipeline.webp` | `wikilink` |
 | [[Model_Context_Protocol_Architecture]] | `JSON-RPC 2.0` | `wikilink` |
 | [[Model_Context_Protocol_Architecture]] | `JSON_RPC_2_0` | `wikilink` |
 | [[Single_Board_Computers_Architecture_and_Use_Cases]] | `Virtual_Private_Server_Architecture_and_Mechanics` | `wikilink` |

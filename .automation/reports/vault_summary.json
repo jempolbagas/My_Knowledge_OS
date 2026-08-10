@@ -8,14 +8,14 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-08-10T11:36:00Z"
+    "generated_at": "2026-08-10T14:14:43Z"
   },
   "stats": {
-    "total_notes": 157,
-    "total_edges": 557,
-    "broken_links": 71,
-    "untyped_notes": 58,
-    "health_score": 55.0
+    "total_notes": 159,
+    "total_edges": 568,
+    "broken_links": 80,
+    "untyped_notes": 60,
+    "health_score": 53.5
   },
   "inbox": [
     "15 Contoh Narrative Text Bahasa Inggris Beserta Strukturnya",
@@ -84,10 +84,12 @@
         "Materi_Matriks"
       ],
       "Biology": [
+        "LKPD_dan_Soal_Sistem_Pencernaan_Makanan_SMP_8",
         "LKPD_dan_Soal_Sistem_Pencernaan_Makanan",
         "LKPD_dan_Soal_Pengenalan_Sel",
         "Materi_Pengenalan_Sel",
-        "Materi_Sistem_Pencernaan_Makanan"
+        "Materi_Sistem_Pencernaan_Makanan",
+        "Materi_Sistem_Pencernaan_Makanan_SMP_8"
       ],
       "Economics": [
         "LKPD_dan_Soal_Pendapatan_Nasional",

@@ -25,23 +25,7 @@ Tubuh manusia membutuhkan energi dan zat gizi untuk menjalankan aktivitas harian
 
 Namun, makanan yang masuk ke dalam tubuh umumnya masih berbentuk molekul kompleks dan utuh (misalnya nasi, daging, sayuran). Agar zat-zat gizi dalam makanan dapat diserap oleh pembuluh darah dan digunakan oleh sel-sel tubuh, makanan harus diurai dan diubah terlebih dahulu melalui **Sistem Pencernaan Makanan** (Sistem Gastrointestinal).
 
-```
-       [ Makanan Utuh / Kompleks ]
-                    │
-                    ▼
-     ┌────────────────────────────┐
-     │ Pencernaan Mekanis & Kimia │
-     └──────────────┬─────────────┘
-                    │
-                    ▼
-      [ Molekul Sederhana / Gizi ]
-                    │
-                    ▼
-          Penyerapan oleh Darah
-                    │
-                    ▼
-           Energi & Sel Tubuh
-```
+![[diagram_biology_digestive_process_flow.webp]]
 
 ### Dua Jenis Proses Pencernaan Makanan
 
@@ -67,21 +51,7 @@ Secara umum, proses pencernaan pada manusia terbagi menjadi dua mekanisme utama:
 
 Makanan yang bergizi harus mengandung zat-zat makanan yang dibutuhkan oleh tubuh dalam jumlah seimbang. Berdasarkan fungsinya dalam tubuh, zat gizi dikelompokkan menjadi tiga golongan utama:
 
-```
-           ┌───────────────────────────────┐
-           │ Pengelompokan Zat Gizi Makanan│
-           └───────────────┬───────────────┘
-                           │
-      ┌────────────────────┼────────────────────┐
-      ▼                    ▼                    ▼
-┌───────────┐        ┌───────────┐        ┌───────────┐
-│Zat Tenaga │        │ Pembangun │        │  Pengatur │
-├───────────┤        ├───────────┤        ├───────────┤
-│Karbohidrat│        │  Protein  │        │  Vitamin  │
-│   Lemak   │        │  Mineral  │        │  Mineral  │
-└───────────┘        └───────────┘        │    Air    │
-                                          └───────────┘
-```
+![[mindmap_biology_nutrient_classification.webp]]
 
 ### A. Karbohidrat (Zat Tenaga Utama)
 * **Fungsi Utama:** Sumber energi utama bagi tubuh untuk melakukan aktivitas sehari-hari (bekerja, belajar, berolahraga).
@@ -128,12 +98,7 @@ Makanan yang bergizi harus mengandung zat-zat makanan yang dibutuhkan oleh tubuh
 
 Sistem pencernaan terdiri dari **Saluran Pencernaan** (organ beruntun yang dilalui makanan) dan **Organ Aksesoris/Kelenjar Pencernaan** (organ pelengkap yang menghasilkan sekresi untuk mendukung pencernaan).
 
-```
-Mulut ──► Esofagus ──► Lambung ──► Usus Halus ──► Usus Besar ──► Anus
-                         ▲             ▲
-                         │             │
-                  [Getah Lambung] [Pankreas & Empedu]
-```
+![[infographic_biology_digestive_system_smp8.webp]]
 
 ### A. Organ Saluran Pencernaan
 
