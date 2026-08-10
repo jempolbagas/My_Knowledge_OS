@@ -83,7 +83,7 @@ Leaky ReLU addresses the "Dying ReLU" problem by allowing a small, non-zero grad
 Softmax is a specialized activation function used at the final layer of a multi-class classifier.
 *   **Formula:** 
     $$\text{Softmax}(z_i) = \frac{e^{z_i}}{\sum_{j} e^{z_j}}$$
-*   **Range:** $(0, 1)$ (and the sum of all outputs equals exactly $1.0$).
+*   **Range:** $(0, 1)$ 13_Gemastik_KTI(and the sum of all outputs equals exactly $1.0$).
 *   **Primary Use Case:** Output layer for multi-class classification problems, converting raw scores into a probability distribution over classes.
 
 ---

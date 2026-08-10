@@ -16,13 +16,13 @@ Detected when a source file has changed since the Concept wiki page was generate
 | [[Machine Learning Roadmap]] | [[Machine_Learning_Roadmap]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "1463b3ccf174675a2eb3d7405747b620"` |
 | [[Quantization Calibration]] | [[Post_Training_Quantization_End_to_End_Guide]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "891e6e2d7f065ee79b568d93230cd450"` |
 | [[Vectorization in NumPy]] | [[Machine_Learning_Roadmap]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "1463b3ccf174675a2eb3d7405747b620"` |
-| [[Softmax Function]] | [[Activation_Functions_Explained]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "3854fc5426a82dbed2a428be28eab5fc"` |
-| [[ReLU Function]] | [[Activation_Functions_Explained]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "3854fc5426a82dbed2a428be28eab5fc"` |
-| [[Activation Functions]] | [[Activation_Functions_Explained]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "3854fc5426a82dbed2a428be28eab5fc"` |
+| [[Softmax Function]] | [[Activation_Functions_Explained]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "3cf9de84cbbb4b768122100c33ef1556"` |
+| [[ReLU Function]] | [[Activation_Functions_Explained]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "3cf9de84cbbb4b768122100c33ef1556"` |
+| [[Activation Functions]] | [[Activation_Functions_Explained]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "3cf9de84cbbb4b768122100c33ef1556"` |
 | [[Post-Training Quantization]] | [[Post_Training_Quantization_End_to_End_Guide]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "891e6e2d7f065ee79b568d93230cd450"` |
-| [[Leaky ReLU Function]] | [[Activation_Functions_Explained]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "3854fc5426a82dbed2a428be28eab5fc"` |
-| [[Sigmoid Function]] | [[Activation_Functions_Explained]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "3854fc5426a82dbed2a428be28eab5fc"` |
-| [[Tanh Function]] | [[Activation_Functions_Explained]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "3854fc5426a82dbed2a428be28eab5fc"` |
+| [[Leaky ReLU Function]] | [[Activation_Functions_Explained]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "3cf9de84cbbb4b768122100c33ef1556"` |
+| [[Sigmoid Function]] | [[Activation_Functions_Explained]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "3cf9de84cbbb4b768122100c33ef1556"` |
+| [[Tanh Function]] | [[Activation_Functions_Explained]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "3cf9de84cbbb4b768122100c33ef1556"` |
 | [[Per-Tensor vs Per-Channel Quantization]] | [[Post_Training_Quantization_End_to_End_Guide]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "891e6e2d7f065ee79b568d93230cd450"` |
 | [[Scale Factor and Zero-Point]] | [[Post_Training_Quantization_End_to_End_Guide]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "891e6e2d7f065ee79b568d93230cd450"` |
 | [[Symmetric vs Asymmetric Quantization]] | [[Post_Training_Quantization_End_to_End_Guide]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "891e6e2d7f065ee79b568d93230cd450"` |

@@ -415,7 +415,7 @@ Diketahui barisan bertingkat: **$5, 11, 19, 29, 41, \dots$**. Tentukan rumus suk
 
 * **Langkah 1: Skema Selisih Bertingkat (Piramida Penurunan)**
 
-  ![[skema_pola_bertingkat.jpg|Skema Pola Bilangan Bertingkat Dua]]
+  ![[skema_pola_bertingkat.webp|Skema Pola Bilangan Bertingkat Dua]]
 
 
   > [!TIP]

@@ -24,15 +24,12 @@
 | [[index_teaching]] | `Masa Kerajaan Islam di Indonesia` | `wikilink` |
 | [[index_teaching]] | `Peran Lembaga Sosial` | `wikilink` |
 | [[index_teaching]] | `[ESL] Present Continuous Tense` | `wikilink` |
+| [[Materi_Pola_Bilangan]] | `skema_pola_bertingkat.webp` | `wikilink` |
+| [[Materi_Distribusi_Pendapatan]] | `kurva_lorenz_pendapatan_nasional.webp` | `wikilink` |
 | [[Materi_Pendapatan_Nasional]] | `Materi_Konsep_Pendapatan_Nasional\` | `wikilink` |
 | [[Materi_Pendapatan_Nasional]] | `Materi_Pendapatan_Per_Kapita\` | `wikilink` |
 | [[Materi_Pendapatan_Nasional]] | `Materi_Distribusi_Pendapatan\` | `wikilink` |
 | [[Materi_Pendapatan_Nasional]] | `LKPD_dan_Soal_Pendapatan_Nasional\` | `wikilink` |
-| [[s11277-023-10315-5]] | `14, 25, 32, 33, 42, 43, 52` | `wikilink` |
-| [[s11277-023-10315-5]] | `15` | `wikilink` |
-| [[s11277-023-10315-5]] | `25, 32, 33, 42, 52` | `wikilink` |
-| [[s11277-023-10315-5]] | `14, 15, 43` | `wikilink` |
-| [[s11277-023-10315-5]] | `15, 25, 52` | `wikilink` |
 | [[Sistem_Produksi_dan_Pengemasan_Kerajinan_Limbah_Bangun_Datar]] | `Aneka Produk Kerajinan Limbah Datar` | `wikilink` |
 | [[Sistem_Produksi_dan_Pengemasan_Kerajinan_Limbah_Bangun_Datar]] | `Kategori Manfaat Benda Pakai vs Benda Hias` | `wikilink` |
 | [[Sistem_Produksi_dan_Pengemasan_Kerajinan_Limbah_Bangun_Datar]] | `Potensi Limbah Berdasarkan Geografi Wilayah` | `wikilink` |
@@ -56,6 +53,17 @@
 | [[Gaya_Berat]] | `Gaya Normal` | `wikilink` |
 | [[Gaya_Berat]] | `Hukum Newton` | `wikilink` |
 | [[Model_Context_Protocol]] | `JSON-RPC 2.0` | `wikilink` |
+| [[s11277-023-10315-5]] | `page_15_image_2_v2.webp` | `wikilink` |
+| [[s11277-023-10315-5]] | `page_16_table_1_v2.webp` | `wikilink` |
+| [[s11277-023-10315-5]] | `page_17_image_2_v2.webp` | `wikilink` |
+| [[s11277-023-10315-5]] | `page_18_table_1_v2.webp` | `wikilink` |
+| [[s11277-023-10315-5]] | `page_19_chart_1_v2.webp` | `wikilink` |
+| [[s11277-023-10315-5]] | `page_20_chart_1_v2.webp` | `wikilink` |
+| [[s11277-023-10315-5]] | `14, 25, 32, 33, 42, 43, 52` | `wikilink` |
+| [[s11277-023-10315-5]] | `15` | `wikilink` |
+| [[s11277-023-10315-5]] | `25, 32, 33, 42, 52` | `wikilink` |
+| [[s11277-023-10315-5]] | `14, 15, 43` | `wikilink` |
+| [[s11277-023-10315-5]] | `15, 25, 52` | `wikilink` |
 
 ## 🕳️ Orphan Pages (Disconnected Nodes)
 These files have no incoming or outgoing links:

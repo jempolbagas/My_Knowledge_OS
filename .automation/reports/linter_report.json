@@ -106,6 +106,16 @@
       "context": "wikilink"
     },
     {
+      "file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Materi_Pola_Bilangan.md",
+      "broken_link": "skema_pola_bertingkat.webp",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/30_Sources/Economics/Pendapatan_Nasional/Materi_Distribusi_Pendapatan.md",
+      "broken_link": "kurva_lorenz_pendapatan_nasional.webp",
+      "context": "wikilink"
+    },
+    {
       "file": "10_Spaces/12_Teaching/30_Sources/Economics/Pendapatan_Nasional/Materi_Pendapatan_Nasional.md",
       "broken_link": "Materi_Konsep_Pendapatan_Nasional\\",
       "context": "wikilink"
@@ -123,31 +133,6 @@
     {
       "file": "10_Spaces/12_Teaching/30_Sources/Economics/Pendapatan_Nasional/Materi_Pendapatan_Nasional.md",
       "broken_link": "LKPD_dan_Soal_Pendapatan_Nasional\\",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/s11277-023-10315-5.md",
-      "broken_link": "14, 25, 32, 33, 42, 43, 52",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/s11277-023-10315-5.md",
-      "broken_link": "15",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/s11277-023-10315-5.md",
-      "broken_link": "25, 32, 33, 42, 52",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/s11277-023-10315-5.md",
-      "broken_link": "14, 15, 43",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/s11277-023-10315-5.md",
-      "broken_link": "15, 25, 52",
       "context": "wikilink"
     },
     {
@@ -263,6 +248,61 @@
     {
       "file": "20_Brain_Atlas/20_Concepts/Computer_Science/Model_Context_Protocol.md",
       "broken_link": "JSON-RPC 2.0",
+      "context": "wikilink"
+    },
+    {
+      "file": "20_Brain_Atlas/30_Reference_Lib/s11277-023-10315-5.md",
+      "broken_link": "page_15_image_2_v2.webp",
+      "context": "wikilink"
+    },
+    {
+      "file": "20_Brain_Atlas/30_Reference_Lib/s11277-023-10315-5.md",
+      "broken_link": "page_16_table_1_v2.webp",
+      "context": "wikilink"
+    },
+    {
+      "file": "20_Brain_Atlas/30_Reference_Lib/s11277-023-10315-5.md",
+      "broken_link": "page_17_image_2_v2.webp",
+      "context": "wikilink"
+    },
+    {
+      "file": "20_Brain_Atlas/30_Reference_Lib/s11277-023-10315-5.md",
+      "broken_link": "page_18_table_1_v2.webp",
+      "context": "wikilink"
+    },
+    {
+      "file": "20_Brain_Atlas/30_Reference_Lib/s11277-023-10315-5.md",
+      "broken_link": "page_19_chart_1_v2.webp",
+      "context": "wikilink"
+    },
+    {
+      "file": "20_Brain_Atlas/30_Reference_Lib/s11277-023-10315-5.md",
+      "broken_link": "page_20_chart_1_v2.webp",
+      "context": "wikilink"
+    },
+    {
+      "file": "20_Brain_Atlas/30_Reference_Lib/s11277-023-10315-5.md",
+      "broken_link": "14, 25, 32, 33, 42, 43, 52",
+      "context": "wikilink"
+    },
+    {
+      "file": "20_Brain_Atlas/30_Reference_Lib/s11277-023-10315-5.md",
+      "broken_link": "15",
+      "context": "wikilink"
+    },
+    {
+      "file": "20_Brain_Atlas/30_Reference_Lib/s11277-023-10315-5.md",
+      "broken_link": "25, 32, 33, 42, 52",
+      "context": "wikilink"
+    },
+    {
+      "file": "20_Brain_Atlas/30_Reference_Lib/s11277-023-10315-5.md",
+      "broken_link": "14, 15, 43",
+      "context": "wikilink"
+    },
+    {
+      "file": "20_Brain_Atlas/30_Reference_Lib/s11277-023-10315-5.md",
+      "broken_link": "15, 25, 52",
       "context": "wikilink"
     }
   ],

@@ -8,7 +8,7 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-08-10T03:20:34Z"
+    "generated_at": "2026-08-10T09:57:32Z"
   },
   "stats": {
     "total_notes": 149,
@@ -203,6 +203,7 @@
       ]
     },
     "reference_lib": [
+      "s11277-023-10315-5",
       "Computer Network Reference Index",
       "(CN-8) IPv4 Subnetting Lecture Notes",
       "(CN-10) ICMP Lecture Notes",
