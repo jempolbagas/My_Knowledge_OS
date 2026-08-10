@@ -91,21 +91,7 @@ Kondisi negara yang aman dan hukum yang pasti bakal bikin investor percaya diri 
 
 Nah, ini dia bagian yang sering keluar di ujian! Pendapatan Nasional itu punya 6 konsep bertingkat. Ibarat tangga, dari angka kotor paling atas sampai uang bersih yang siap kamu jajain di dompet!
 
-```mermaid
-flowchart TD
-    GDP["Produk Domestik Bruto (GDP / PDB)"]
-    GNP["Produk Nasional Bruto (GNP / PNB)"]
-    NNP["Produk Nasional Neto (NNP / PNN)"]
-    NNI["Pendapatan Nasional Neto (NNI)"]
-    PI["Pendapatan Perseorangan (PI)"]
-    DI["Disposable Income (DI / Siap Dibelanjakan)"]
-
-    GDP -->|"+ Pendapatan WNI LN - Pendapatan WNA DN"| GNP
-    GNP -->|"- Penyusutan / Depresiasi Barang Modal"| NNP
-    NNP -->|"- Pajak Tidak Langsung + Subsidi"| NNI
-    NNI -->|"- (Laba Ditahan + Pajak Perseroan + Iuran Pensiun) + Transfer Payment"| PI
-    PI -->|"- Pajak Langsung (PPh)"| DI
-```
+![[diagram_konsep_pendapatan_nasional.webp]]
 
 Yuk kita bedah satu per satu secara santai:
 
@@ -148,18 +134,7 @@ Yuk kita bedah satu per satu secara santai:
 
 Ada 3 sudut pandang (pendekatan) untuk menghitung angka Pendapatan Nasional. Hasil akhirnya secara teori harus menunjukkan nilai yang setara!
 
-```mermaid
-graph TD
-    PN["Pendapatan Nasional (Y)"]
-    
-    PN --> M1["1. Pendekatan Pendapatan"]
-    PN --> M2["2. Pendekatan Produksi"]
-    PN --> M3["3. Pendekatan Pengeluaran"]
-    
-    M1 -->|"Balas Jasa Faktor Produksi"| F1["Y = w + r + i + p"]
-    M2 -->|"Nilai Tambah Sektor"| F2["Y = Σ (Nilai Output - Input Antara)"]
-    M3 -->|"Pengeluaran 4 Pelaku Ekonomi"| F3["Y = C + I + G + (X - M)"]
-```
+![[diagram_metode_perhitungan_pendapatan_nasional.webp]]
 
 ### 1. Pendekatan Pendapatan (*Income Approach*)
 Menjumlahkan semua arus uang masukan/balas jasa yang diterima oleh pemilik faktor produksi dalam masyarakat selama setahun.

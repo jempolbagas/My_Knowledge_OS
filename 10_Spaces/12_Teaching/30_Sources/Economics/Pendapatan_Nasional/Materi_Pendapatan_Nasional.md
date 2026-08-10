@@ -23,26 +23,7 @@ tags:
 
 ## 🗺️ Peta Konsep & Navigasi Modul Pembelajaran
 
-```mermaid
-graph TD
-    Dashboard["Materi Pendapatan Nasional (Master Dashboard)"]
-    
-    Dashboard --> Modul1["1. Konsep & Metode Perhitungan"]
-    Dashboard --> Modul2["2. PDB Riil & Pendapatan Per Kapita"]
-    Dashboard --> Modul3["3. Distribusi Pendapatan & Ketimpangan"]
-    Dashboard --> Practice["📝 LKPD & Soal Evaluasi"]
-
-    Modul1 --> M1_1["Analogi & 8 Manfaat"]
-    Modul1 --> M1_2["The Big 6: GDP - DI"]
-    Modul1 --> M1_3["3 Metode: Y = w+r+i+p / NT / C+I+G+X-M"]
-
-    Modul2 --> M2_1["PDB Nominal vs Riil & Deflator"]
-    Modul2 --> M2_2["Per Kapita & Klasifikasi Bank Dunia"]
-
-    Modul3 --> M3_1["Kurva Lorenz & Koefisien Gini"]
-    Modul3 --> M3_2["Kriteria Bank Dunia 40%"]
-    Modul3 --> M3_3["Tantangan Indonesia & IPM"]
-```
+![[diagram_peta_konsep_pendapatan_nasional.webp]]
 
 ---
 
