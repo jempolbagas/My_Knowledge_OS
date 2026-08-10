@@ -91,7 +91,7 @@ Kondisi negara yang aman dan hukum yang pasti bakal bikin investor percaya diri 
 
 Nah, ini dia bagian yang sering keluar di ujian! Pendapatan Nasional itu punya 6 konsep bertingkat. Ibarat tangga, dari angka kotor paling atas sampai uang bersih yang siap kamu jajain di dompet!
 
-![[diagram_konsep_pendapatan_nasional.webp]]
+![[diagram_economics_national_income_concepts_flow.webp]]
 
 Yuk kita bedah satu per satu secara santai:
 
@@ -134,7 +134,7 @@ Yuk kita bedah satu per satu secara santai:
 
 Ada 3 sudut pandang (pendekatan) untuk menghitung angka Pendapatan Nasional. Hasil akhirnya secara teori harus menunjukkan nilai yang setara!
 
-![[diagram_metode_perhitungan_pendapatan_nasional.webp]]
+![[infographic_economics_national_income_calculation_methods.webp]]
 
 ### 1. Pendekatan Pendapatan (*Income Approach*)
 Menjumlahkan semua arus uang masukan/balas jasa yang diterima oleh pemilik faktor produksi dalam masyarakat selama setahun.

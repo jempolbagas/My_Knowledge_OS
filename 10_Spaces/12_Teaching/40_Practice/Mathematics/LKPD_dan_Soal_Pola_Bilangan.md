@@ -1,7 +1,7 @@
 ---
 title: "LKPD dan Soal Evaluasi: Pola Bilangan dan Barisan Matematika — Petualangan Angka!"
 target_audience: "SMP Kelas VIII"
-created: 2026-08-05
+created: 2026-08-10
 sources:
   - "[[Materi_Pola_Bilangan]]"
   - "[[Cara Mencari Rumus Pola Bilangan, Jenis-Jenis & Contohnya]]"
@@ -11,18 +11,26 @@ tags:
   - "lkpd"
   - "soal-evaluasi"
   - "pola-bilangan"
+  - "smp-kelas-8"
 ---
 
 # LEMBAR KERJA PESERTA DIDIK (LKPD) & SOAL EVALUASI 🧩
-## MATERI: POLA BILANGAN DAN BARISAN MATEMATIKA (KELAS VIII SMP)
+## MATERI: POLA BILANGAN DAN BARISAN MATEMATIKA (KELAS VIII SMP / KURIKULUM MERDEKA)
+
+---
+
+> 📌 **Bilah Navigasi Ajar**:
+> [[index_teaching|Teaching Hub]] | [[Materi_Pola_Bilangan|Materi Utama Pola Bilangan]] | **LKPD & Soal Evaluasi**
 
 ---
 
 ## 🎯 BUKU PANDUAN KELOMPOK
 * **Mata Pelajaran:** Matematika
 * **Kelas / Semester:** VIII / Ganjil
-* **Materi Utama:** Pola Bilangan & Barisan Matematika
-* **Alokasi Waktu:** 4 JP (2 x 45 Menit Pembelajaran + 2 x 45 Menit Evaluasi)
+* **Fase:** D (Kurikulum Merdeka)
+* **Materi Utama:** Pola Bilangan, Barisan, & Deret Matematika
+* **Alokasi Waktu:** 4 JP (2 x 45 Menit Pembelajaran Berbasis Masalah + 2 x 45 Menit Evaluasi)
+* **Capaian Pembelajaran (CP):** Peserta didik dapat mengenali, memprediksi, dan menggeneralisasi pola dalam bentuk susunan objek dan barisan bilangan, serta menyelesaikan masalah kontekstual yang berkaitan dengan barisan dan deret aritmetika dan geometri.
 
 ---
 
@@ -38,25 +46,19 @@ tags:
 
 ---
 
-### 🕵️‍♂️ AKTIVITAS 1: PENYELIDIKAN FORMASI KOREK API (COLLABORATION & CREATIVITY)
+### 🕵️‍♂️ AKTIVITAS 1: PENYELIDIKAN FORMASI KOREK API (COLLABORATION & DISCOVERY LEARNING)
 
 **Halo Guys!** Amati susunan korek api berikut. Bersama tim kelompokmu, yuk selidiki pola rahasia yang tersembunyi di balik pembentukan susunan persegi ini!
 
-```
-Konfigurasi Objek (Susunan Batang Korek Api):
-
-Pola 1:  [  ]             (4 batang korek api)
-Pola 2:  [  ][  ]         (7 batang korek api)
-Pola 3:  [  ][  ][  ]     (10 batang korek api)
-```
+![[diagram_mathematics_number_patterns_matchstick_squares.webp|Diagram Visual Formasi Persegi Batang Korek Api]]
 
 #### 1. Lengkapi Tabel Penyelidikan Berikut:
 
 | Pola Ke- ($n$) | Banyak Persegi yang Terbentuk | Banyak Batang Korek Api ($U_n$) | Pola Penjumlahan / Selisih |
 | :---: | :---: | :---: | :---: |
-| 1 | 1 | 4 | $4$ |
-| 2 | 2 | 7 | $4 + 3$ |
-| 3 | 3 | 10 | $4 + 3 + 3$ |
+| 1 | 1 | 4 | $4 = 1(3) + 1$ |
+| 2 | 2 | 7 | $4 + 3 = 2(3) + 1$ |
+| 3 | 3 | 10 | $4 + 3 + 3 = 3(3) + 1$ |
 | 4 | 4 | ...... | .................... |
 | 5 | 5 | ...... | .................... |
 | $n$ | $n$ | $U_n = \dots$ | .................... |
@@ -71,7 +73,9 @@ c. Hitunglah berapa banyak batang korek api yang dibutuhkan kalau kamu mau bikin
 
 ---
 
-### 🔍 AKTIVITAS 2: TABEL KLASIFIKASI & MATRIKS KOMPARASI BARISAN & DERET (CRITICAL THINKING)
+### 🔍 AKTIVITAS 2: MATRIKS KOMPARASI & KLASIFIKASI JENIS POLA BILANGAN (CRITICAL THINKING)
+
+![[infographic_mathematics_number_patterns_pascal_triangle.webp|Infografis Segitiga Pascal dan Jumlah Suku Baris]]
 
 **Instruksi**: Analisis dan lengkapi matriks komparasi jenis-jenis pola barisan dan deret bilangan berikut berdasarkan rumus umum suku ke-$n$ ($U_n$) dan jumlah $n$ suku pertama ($S_n$)!
 
@@ -86,7 +90,9 @@ c. Hitunglah berapa banyak batang korek api yang dibutuhkan kalau kamu mau bikin
 
 ---
 
-### 🎟️ AKTIVITAS 3: STUDI KASUS HOTS (DESAIN FORMASI KURSI GEBUNG PERTUNJUKAN & ANALISIS DERET)
+### 🎟️ AKTIVITAS 3: STUDI KASUS HOTS (DESAIN FORMASI KURSI GEDUNG PERTUNJUKAN & ANALISIS DERET)
+
+![[illustration_mathematics_number_patterns_theater_seating.webp|Ilustrasi Formasi Kursi Gedung Pertunjukan Seni]]
 
 #### Latar Belakang Skenario:
 Sebuah gedung pertunjukan seni memiliki susunan kursi yang diatur rapi membentuk pola aritmetika. Pada baris paling depan (baris ke-1) terdapat $12$ kursi, baris kedua terdapat $16$ kursi, baris ketiga terdapat $20$ kursi, dan seterusnya bertambah secara tetap untuk baris-baris di belakangnya. Gedung tersebut memiliki total $15$ baris kursi.
@@ -97,6 +103,21 @@ Sebuah gedung pertunjukan seni memiliki susunan kursi yang diatur rapi membentuk
 3. Hitung berapa jumlah kursi yang terdapat pada baris paling belakang (baris ke-15 / $U_{15}$)!
 4. **Hitung total seluruh kapasitas kursi** di dalam gedung pertunjukan dari baris ke-1 hingga baris ke-15 menggunakan rumus deret aritmetika ($S_{15}$)!
 5. Jika panitia ingin menjual tiket seharga Rp 50.000 per kursi khusus untuk 5 baris terbelakang (baris ke-11 sampai ke-15), hitunglah total jumlah kursi 5 baris terbelakang tersebut menggunakan formula $S_{15} - S_{10}$ dan berapakah total potensi pendapatannya?
+
+---
+
+### 📈 AKTIVITAS 4: PENYELIDIKAN POLA BILANGAN BERTINGKAT DUA (PIRAMIDA PENURUNAN)
+
+![[diagram_mathematics_number_patterns_multilevel_scheme.webp|Skema Penyelidikan Pola Bilangan Bertingkat Dua]]
+
+#### Skenario Masalah:
+Perhatikan barisan bertingkat berikut: $5, 11, 19, 29, 41, \dots$
+
+#### Tugas Diskusi Kelompok:
+1. Hitunglah selisih antar-suku tingkat pertama ($U_2 - U_1, U_3 - U_2, \dots$)!  
+2. Hitunglah selisih antar-suku tingkat kedua! Apakah bernilai konstan?  
+3. Gunakan metode aljabar 3 persamaan kunci ($2a = d_2$, $3a+b = U_2-U_1$, $a+b+c = U_1$) untuk menemukan rumus suku ke-$n$ ($U_n = an^2 + bn + c$)!  
+4. Hitunglah nilai suku ke-30 ($U_{30}$)!
 
 ---
 
@@ -259,7 +280,6 @@ Sebuah gedung pertunjukan seni memiliki susunan kursi yang diatur rapi membentuk
         $$U_n = n^2 + 4$$
         Substitusi $n = 8$ untuk menghitung panen minggu ke-8:
         $$U_8 = 8^2 + 4 = 64 + 4 = 68 \text{ ton.}$$
-      *(Kedua metode menghasilkan nilai yang presisi: **68 ton**).*
 
 4. **Soal 4**:
    * **Barisan Aritmetika ($U_n$)**: Urutan angka dengan beda konstan ($U_n = a + (n-1)b$). Contoh: Mengetahui jumlah kursi di baris ke-10 bioskop.
@@ -434,5 +454,3 @@ $$\text{Nilai Akhir Evaluasi Utama} = \text{Skor PG (Max 40)} + \text{Skor Uraia
 ## 📚 Berkas Terkait
 - 📄 [[Materi_Pola_Bilangan]]
 - 🍎 [[index_teaching|Teaching Resources Hub]]
-
-

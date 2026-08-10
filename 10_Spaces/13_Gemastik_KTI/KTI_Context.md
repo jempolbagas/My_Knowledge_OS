@@ -44,10 +44,12 @@ last_updated: 2026-08-05
 - [[Secret_Sharing_Scheme]]
 - [[Chinese_Remainder_Theorem]]
 - [[Shamir_Secret_Sharing]]
+- [[Modified_Shamir_Scheme]]
 - [[Kongruensi_Modular]]
 - [[Coprime]]
 
 ## Sumber Utama (Library Links)
 
 - [[Single_Secret_Sharing_CRT_Shamir_XOR]]
+- [[Shamir_Secret_Sharing_and_Modified_Pande_Scheme]]
 

@@ -216,12 +216,21 @@
     "status": "outdated"
   },
   {
+    "concept_file": "20_Brain_Atlas/20_Concepts/Cybersecurity/Modified_Shamir_Scheme.md",
+    "concept_title": "Modified_Shamir_Scheme",
+    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Cybersecurity/Shamir_Secret_Sharing_and_Modified_Pande_Scheme.md",
+    "source_title": "Shamir_Secret_Sharing_and_Modified_Pande_Scheme",
+    "stored_hash": "1380dde6540ae949ff00e2dfb902853d",
+    "current_hash": "271b3a3b6fc5ff83af8ef2adfa5fca7e",
+    "status": "outdated"
+  },
+  {
     "concept_file": "20_Brain_Atlas/20_Concepts/Cybersecurity/Shamir_Secret_Sharing.md",
     "concept_title": "Shamir_Secret_Sharing",
-    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Cryptography/Single_Secret_Sharing_CRT_Shamir_XOR.md",
-    "source_title": "Single_Secret_Sharing_CRT_Shamir_XOR",
-    "stored_hash": "66e12d9252a0cc3e9ac35ebb4ee78657",
-    "current_hash": "2a94364a85872818f78bbba8e512aaee",
+    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Cybersecurity/Shamir_Secret_Sharing_and_Modified_Pande_Scheme.md",
+    "source_title": "Shamir_Secret_Sharing_and_Modified_Pande_Scheme",
+    "stored_hash": "1380dde6540ae949ff00e2dfb902853d",
+    "current_hash": "271b3a3b6fc5ff83af8ef2adfa5fca7e",
     "status": "outdated"
   },
   {

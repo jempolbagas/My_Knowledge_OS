@@ -11,6 +11,11 @@
       "context": "wikilink"
     },
     {
+      "file": "10_Spaces/12_Teaching/40_Practice/Mathematics/LKPD_dan_Soal_Pola_Bilangan.md",
+      "broken_link": "diagram_mathematics_number_patterns_multilevel_scheme.webp",
+      "context": "wikilink"
+    },
+    {
       "file": "10_Spaces/12_Teaching/00_Atlas/index_teaching.md",
       "broken_link": "[Chem] Reaksi Redoks - Rangkuman",
       "context": "wikilink"
@@ -107,12 +112,17 @@
     },
     {
       "file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Materi_Pola_Bilangan.md",
-      "broken_link": "skema_pola_bertingkat.webp",
+      "broken_link": "diagram_mathematics_number_patterns_multilevel_scheme.webp",
       "context": "wikilink"
     },
     {
       "file": "10_Spaces/12_Teaching/30_Sources/Economics/Pendapatan_Nasional/Materi_Distribusi_Pendapatan.md",
-      "broken_link": "kurva_lorenz_pendapatan_nasional.webp",
+      "broken_link": "chart_economics_national_income_lorenz_curve.webp",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/30_Sources/Economics/Pendapatan_Nasional/Materi_Pendapatan_Nasional.md",
+      "broken_link": "mindmap_economics_national_income_master_dashboard.webp",
       "context": "wikilink"
     },
     {
@@ -133,6 +143,16 @@
     {
       "file": "10_Spaces/12_Teaching/30_Sources/Economics/Pendapatan_Nasional/Materi_Pendapatan_Nasional.md",
       "broken_link": "LKPD_dan_Soal_Pendapatan_Nasional\\",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/30_Sources/Economics/Pendapatan_Nasional/Materi_Konsep_Pendapatan_Nasional.md",
+      "broken_link": "diagram_economics_national_income_concepts_flow.webp",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/30_Sources/Economics/Pendapatan_Nasional/Materi_Konsep_Pendapatan_Nasional.md",
+      "broken_link": "infographic_economics_national_income_calculation_methods.webp",
       "context": "wikilink"
     },
     {
@@ -252,32 +272,32 @@
     },
     {
       "file": "20_Brain_Atlas/30_Reference_Lib/s11277-023-10315-5.md",
-      "broken_link": "page_15_image_2_v2.webp",
+      "broken_link": "illustration_cybersecurity_secret_sharing_scheme_flow.webp",
       "context": "wikilink"
     },
     {
       "file": "20_Brain_Atlas/30_Reference_Lib/s11277-023-10315-5.md",
-      "broken_link": "page_16_table_1_v2.webp",
+      "broken_link": "infographic_cybersecurity_secret_sharing_comparison_table.webp",
       "context": "wikilink"
     },
     {
       "file": "20_Brain_Atlas/30_Reference_Lib/s11277-023-10315-5.md",
-      "broken_link": "page_17_image_2_v2.webp",
+      "broken_link": "illustration_cybersecurity_secret_sharing_share_reconstruction.webp",
       "context": "wikilink"
     },
     {
       "file": "20_Brain_Atlas/30_Reference_Lib/s11277-023-10315-5.md",
-      "broken_link": "page_18_table_1_v2.webp",
+      "broken_link": "infographic_cybersecurity_secret_sharing_performance_metrics.webp",
       "context": "wikilink"
     },
     {
       "file": "20_Brain_Atlas/30_Reference_Lib/s11277-023-10315-5.md",
-      "broken_link": "page_19_chart_1_v2.webp",
+      "broken_link": "chart_cybersecurity_secret_sharing_npcr_uaci_analysis.webp",
       "context": "wikilink"
     },
     {
       "file": "20_Brain_Atlas/30_Reference_Lib/s11277-023-10315-5.md",
-      "broken_link": "page_20_chart_1_v2.webp",
+      "broken_link": "chart_cybersecurity_secret_sharing_noise_robustness_curve.webp",
       "context": "wikilink"
     },
     {
@@ -326,6 +346,18 @@
     {
       "file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Materi_Kaidah_Pencacahan_dan_Kombinatorika.md",
       "title": "Materi_Kaidah_Pencacahan_dan_Kombinatorika"
+    },
+    {
+      "file": "00_Inbox/15 Contoh Narrative Text Bahasa Inggris Beserta Strukturnya.md",
+      "title": "15 Contoh Narrative Text Bahasa Inggris Beserta Strukturnya"
+    },
+    {
+      "file": "00_Inbox/Pengertian Narrative Text, Struktur, Jenis & Contoh.md",
+      "title": "Pengertian Narrative Text, Struktur, Jenis & Contoh"
+    },
+    {
+      "file": "00_Inbox/Kaidah Kebahasaan Narrative Text dan Contohnya  Bahasa Inggris Kelas 8.md",
+      "title": "Kaidah Kebahasaan Narrative Text dan Contohnya  Bahasa Inggris Kelas 8"
     }
   ],
   "missing_frontmatter": [
@@ -356,6 +388,16 @@
       "missing_fields": [
         "topic",
         "prompt"
+      ]
+    },
+    {
+      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Cybersecurity/Shamir_Secret_Sharing_and_Modified_Pande_Scheme.md",
+      "missing_fields": [
+        "title",
+        "topic",
+        "requested_on",
+        "prompt",
+        "tags"
       ]
     },
     {
@@ -404,6 +446,13 @@
     },
     {
       "file": "20_Brain_Atlas/20_Concepts/Cybersecurity/Secret_Sharing_Scheme.md",
+      "missing_fields": [
+        "title",
+        "date_created"
+      ]
+    },
+    {
+      "file": "20_Brain_Atlas/20_Concepts/Cybersecurity/Modified_Shamir_Scheme.md",
       "missing_fields": [
         "title",
         "date_created"

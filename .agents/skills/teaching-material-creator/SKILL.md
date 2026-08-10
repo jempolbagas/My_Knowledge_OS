@@ -18,8 +18,11 @@ Selalu pisahkan antara Materi Ajar dan Lembar Aktivitas/Soal ke dalam subfolder 
   * **Ketentuan Format:** 
     - **Jangan** menyertakan outline slide presentasi kecuali diminta secara eksplisit oleh pengguna.
     - **Visualisasi & Diagram:**
-      - Gunakan diagram Mermaid (`mermaid` code block seperti `flowchart TD` atau `graph TD`) untuk visualisasi alur, hirarki, atau konsep terstruktur sederhana.
-      - **Diagram Matematika Bertingkat / Kompleks (misal: Skema Selisih Bertingkat, Piramida Rumus):** Jangan paksa menggunakan Mermaid atau monospace text block jika tampilannya berantakan/kurang intuitif. Gunakan `generate_image` untuk membuat aset gambar diagram berkualitas tinggi, simpan ke folder terpusat vault `30_Assets/` (`30_Assets/<nama_aset>.jpg`), lalu sematkan di dalam catatan menggunakan sintaks gambar Obsidian (`![[<nama_aset>.jpg]]`). Dilarang membuat folder `30_Assets` lokal di dalam sub-space.
+      - Utamakan penggunaan aset gambar visual berkualitas tinggi (disimpan di folder terpusat vault `30_Assets/`, dibuat via `generate_image` atau hasil pencarian web) dibandingkan blok kode Mermaid atau diagram ASCII art. Sematkan di dalam catatan menggunakan sintaks gambar Obsidian (`![[<nama_aset>.ext]]`).
+      - **Standar Desain:** Clean Light / Academic Mode (latar belakang putih atau krem lembut, tipografi gelap kontras tinggi, highlight aksen yang cerah).
+      - **Estetika Layout:** Kartu infografis vektor sudut membulat (rounded vector cards) yang terstruktur dengan bayangan lembut, panah penghubung yang bersih, dan hirarki visual yang kuat.
+      - **Kebijakan Rasio Aspek (Aspect Ratio):** Rasio adaptif — 16:9 lanskap untuk alur proses/mindmap lebar; 3:4 potret untuk alur vertikal bertingkat yang tinggi.
+      - **Konvensi Penamaan di `30_Assets/`:** Gunakan format `<type>_<subject>_<topic>_<descriptor>.ext` (huruf kecil `snake_case`), di mana `<type>` menentukan jenis aset (`diagram_` untuk flowchart, `chart_` untuk grafik/kurva, `mindmap_` untuk pohon konsep, `infographic_` untuk ringkasan visual, `illustration_` untuk grafik konsep; contoh: `mindmap_economics_national_income_dashboard.jpg`). Dilarang keras membuat folder `30_Assets` lokal di dalam sub-space.
 
 
 * **File Praktik (LKPD & Soal Evaluasi):**
@@ -46,7 +49,7 @@ Jika topik materi ajar mencakup cakupan luas (>200-300 baris atau memuat 3+ sub-
 
 2. **Master Dashboard Note (`Materi_<Nama_Topik>.md`):**
    * Berfungsi sebagai indeks navigasi dan pusat kontrol materi.
-   * **Struktur Wajib:** Overview Eksekutif, Peta Konsep Utama (Diagram Mermaid `graph TD`), Tabel Navigasi Modul dengan Wikilinks `[[...]]`, dan Cheatsheet Formula Gabungan.
+   * **Struktur Wajib:** Overview Eksekutif, Peta Konsep Utama / Infografis Visual (Menggunakan Aset Gambar Visual di `30_Assets/` yang dibuat via `generate_image` sesuai standar visual `GEMINI.md`, disematkan dengan `![[<nama_aset>.ext]]`), Tabel Navigasi Modul dengan Wikilinks `[[...]]`, dan Cheatsheet Formula Gabungan.
 
 3. **Penamaan Sub-Modul Ringkas & Berfokus Judul:**
    * Nama berkas sub-modul harus ringkas dan langsung berfokus pada judul topik/modulnya (contoh: `Materi_Konsep_Pendapatan_Nasional.md`, `Materi_Pendapatan_Per_Kapita.md`, `Materi_Distribusi_Pendapatan.md`). Hindari imbuhan nomor urut yang terlalu panjang.

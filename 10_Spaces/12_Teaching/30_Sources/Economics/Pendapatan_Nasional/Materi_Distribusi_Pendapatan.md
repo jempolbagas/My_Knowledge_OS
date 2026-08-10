@@ -32,7 +32,7 @@ Nah, di sinilah pentingnya menganalisis **Distribusi Pendapatan** dan **Ketimpan
 
 **Kurva Lorenz** adalah kurva dalam bentuk diagram yang menggambarkan hubungan antara persentase kumulatif penduduk dengan persentase kumulatif pendapatan nasional yang mereka terima.
 
-![[kurva_lorenz_pendapatan_nasional.webp]]
+![[chart_economics_national_income_lorenz_curve.webp]]
 
 * **Garis Pemerataan Sempurna (Diagonal 45°):**  
   Jika kurva berhimpit lurus pada garis diagonal 45°, artinya terjadi pemerataan pendapatan yang sempurna 100% (misal: 20% penduduk terbawah menikmati 20% pendapatan nasional).

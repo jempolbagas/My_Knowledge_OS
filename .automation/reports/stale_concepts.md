@@ -28,7 +28,8 @@ Detected when a source file has changed since the Concept wiki page was generate
 | [[Symmetric vs Asymmetric Quantization]] | [[Post_Training_Quantization_End_to_End_Guide]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "891e6e2d7f065ee79b568d93230cd450"` |
 | [[Secret_Sharing_Scheme]] | [[Single_Secret_Sharing_CRT_Shamir_XOR]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "2a94364a85872818f78bbba8e512aaee"` |
 | [[Symmetric vs. Asymmetric Encryption]] | [[Cybersecurity_Roadmap]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "1b67d0d65283c870324bc3d3695e7690"` |
-| [[Shamir_Secret_Sharing]] | [[Single_Secret_Sharing_CRT_Shamir_XOR]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "2a94364a85872818f78bbba8e512aaee"` |
+| [[Modified_Shamir_Scheme]] | [[Shamir_Secret_Sharing_and_Modified_Pande_Scheme]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "271b3a3b6fc5ff83af8ef2adfa5fca7e"` |
+| [[Shamir_Secret_Sharing]] | [[Shamir_Secret_Sharing_and_Modified_Pande_Scheme]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "271b3a3b6fc5ff83af8ef2adfa5fca7e"` |
 | [[Blue Team vs. Red Team]] | [[Cybersecurity_Roadmap]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "1b67d0d65283c870324bc3d3695e7690"` |
 | [[Cybersecurity Roadmap]] | [[Cybersecurity_Roadmap]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "1b67d0d65283c870324bc3d3695e7690"` |
 | [[CIA Triad]] | [[Cybersecurity_Roadmap]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "1b67d0d65283c870324bc3d3695e7690"` |

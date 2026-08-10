@@ -23,7 +23,7 @@ tags:
 
 ## 🗺️ Peta Konsep & Navigasi Modul Pembelajaran
 
-![[diagram_peta_konsep_pendapatan_nasional.webp]]
+![[mindmap_economics_national_income_master_dashboard.webp]]
 
 ---
 
