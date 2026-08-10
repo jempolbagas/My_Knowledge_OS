@@ -12,7 +12,7 @@ last_updated: 2026-08-05
 ## Topik & Judul
 
 - **Topik Baru:** *Single & Multi Secret Sharing Scheme* berbasis Chinese Remainder Theorem (CRT), Modified Shamir, dan Boolean Operations.
-- **Paper Referensi Utama:** [[00_Inbox/s11277-023-10315-5|Paper Dinesh Pande et al. (2023)]]
+- **Paper Referensi Utama:** [[s11277-023-10315-5|Paper Dinesh Pande et al. (2023)]]
 - **Catatan Pembelajaran Vault:** [[Single_Secret_Sharing_CRT_Shamir_XOR]]
 - **Arah Pivot/Upgrade:** Mengatasi keterbatasan skema $(n,n)$ single secret paper Pande et al. menjadi skema yang mendukung multi-secret / threshold fleksibel dengan efisiensi tinggi (Persiapan Bimbingan Dosen).
 - **Arsip Topik Lama:** Topik 1 (Resilient Edge) diarsipkan ke `90_Archive/Gemastik_KTI_Topik_1_Resilient_Edge/`.

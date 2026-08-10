@@ -236,8 +236,30 @@ Sebuah gedung pertunjukan seni memiliki susunan kursi yang diatur rapi membentuk
    * Total 10 layer ($S_{10}$): $S_{10} = \frac{10(11)(12)}{6} = 220$ bola.
 
 3. **Soal 3**:
-   a. Panen: $5, 8, 13, 20, 29, \dots \implies$ Selisih: $+3, +5, +7, +9, \dots$ (Selisih nambah $+2$).
-   b. Suku ke-8 ($U_8$): Minggu 6 = $29+11=40$, Minggu 7 = $40+13=53$, Minggu 8 = $53+15=68$ ton.
+   a. **Pola Selisih Antar-Minggu**:
+      Panen: $5, 8, 13, 20, 29, \dots$
+      * Beda Tingkat 1: $+3, +5, +7, +9, \dots$
+      * Beda Tingkat 2: $+2, +2, +2, \dots$ (Konstan $+2$, menunjukkan **Pola Bilangan Bertingkat Dua / Kuadrat**).
+
+   b. **Menentukan Hasil Panen Minggu ke-8 ($U_8$)**:
+      * **Metode 1: Penjumlahan Berkelanjutan (Langkah demi Langkah)**:
+        - Minggu 6 ($U_6$) = $29 + 11 = 40$ ton
+        - Minggu 7 ($U_7$) = $40 + 13 = 53$ ton
+        - Minggu 8 ($U_8$) = $53 + 15 = 68$ ton.
+
+      * **Metode 2: Formulasi Aljabar Formal ($U_n = an^2 + bn + c$)**:
+        Diketahui barisan bertingkat dua: $5, 8, 13, 20, 29, \dots$
+        1. Menentukan $a$:
+           $$2a = d_2 \implies 2a = 2 \implies a = 1$$
+        2. Menentukan $b$:
+           $$3a + b = U_2 - U_1 \implies 3(1) + b = 3 \implies b = 0$$
+        3. Menentukan $c$:
+           $$a + b + c = U_1 \implies 1 + 0 + c = 5 \implies c = 4$$
+        Dengan demikian, diperoleh rumus aljabar suku ke-$n$:
+        $$U_n = n^2 + 4$$
+        Substitusi $n = 8$ untuk menghitung panen minggu ke-8:
+        $$U_8 = 8^2 + 4 = 64 + 4 = 68 \text{ ton.}$$
+      *(Kedua metode menghasilkan nilai yang presisi: **68 ton**).*
 
 4. **Soal 4**:
    * **Barisan Aritmetika ($U_n$)**: Urutan angka dengan beda konstan ($U_n = a + (n-1)b$). Contoh: Mengetahui jumlah kursi di baris ke-10 bioskop.
@@ -252,7 +274,7 @@ Sebuah gedung pertunjukan seni memiliki susunan kursi yang diatur rapi membentuk
 
 ---
 
-## 3. RUBRIK PENILAIAN EVALUASI
+## 3. RUBRIK PENILAIAN EVALUASI UTAMA
 
 ### A. Skor Pilihan Ganda (PG)
 * Jumlah soal = 10 soal
@@ -265,16 +287,152 @@ Sebuah gedung pertunjukan seni memiliki susunan kursi yang diatur rapi membentuk
 | :---: | :--- | :---: |
 | **Soal 1** | Menentukan $a=5, b=3$ (skor 4), rumus $U_n$ dan $S_n$ (skor 4), nilai $U_{20}=62$ & $S_{20}=670$ (skor 4). | 12 |
 | **Soal 2** | Identifikasi pola segitiga (skor 4), nilai $U_{12}=78$ (skor 4), dan nilai $S_{10}=220$ (skor 4). | 12 |
-| **Soal 3** | Menuliskan pola selisih bertingkat (skor 4) dan menentukan $U_8 = 68$ ton (skor 8). | 12 |
+| **Soal 3** | Mengidentifikasi beda bertingkat / merumuskan $U_n = n^2 + 4$ (skor 6) dan menghitung $U_8 = 68$ ton (skor 6). | 12 |
 | **Soal 4** | Penjelasan perbedaan $U_n$ dan $S_n$ logis (skor 6) dan penulisan rumus/contoh kontekstual tepat (skor 6). | 12 |
 | **Soal 5** | Menuliskan rumus $U_n$ & $S_n$ (skor 4), menentukan $n=6$ (skor 2), dan menghitung total sel $S_6=630$ (skor 6). | 12 |
 | **TOTAL** | **Skor Maksimal Uraian** | **60 Poin** |
 
-$$\text{Nilai Akhir Total} = \text{Skor PG (Max 40)} + \text{Skor Uraian (Max 60)} = 100$$
+$$\text{Nilai Akhir Evaluasi Utama} = \text{Skor PG (Max 40)} + \text{Skor Uraian (Max 60)} = 100$$
+
+---
+
+# BAGIAN IV: PAKET SOAL REMEDIAL (DENGAN SCAFFOLDING & HINT) 🛟
+
+**Peruntukan:** Siswa yang membutuhkan penguatan fondasi pemahaman dasar pola bilangan dan barisan aritmetika/geometri ($< \text{KKM}$).
+
+---
+
+### 📝 Soal Remedial (Struktur Bertahap)
+
+1. **Soal 1 (Barisan Aritmetika Dasar)**:  
+   Diketahui barisan bilangan: $7, 11, 15, 19, \dots$  
+   a. Tuliskan 3 suku berikutnya!  
+   b. Hitunglah suku ke-15 ($U_{15}$)!  
+
+   > [!TIP]
+   > **💡 Hint & Scaffolding**:  
+   > 1. Hitung selisih antar-suku ($b$) dengan mengurangkan $U_2 - U_1 = 11 - 7$.  
+   > 2. Untuk 3 suku berikutnya, tambahkan beda $b$ tersebut secara berurutan.  
+   > 3. Gunakan rumus $U_n = a + (n-1)b$ dengan $a = 7$ dan nilai $b$ yang telah kamu temukan.
+
+2. **Soal 2 (Konfigurasi Objek Korek Api)**:  
+   Suatu pola susunan korek api membentuk barisan: Pola 1 memerlukan 3 batang, Pola 2 memerlukan 5 batang, dan Pola 3 memerlukan 7 batang.  
+   Berapakah banyak batang korek api yang dibutuhkan untuk membuat Pola ke-10 ($U_{10}$)?  
+
+   > [!TIP]
+   > **💡 Hint & Scaffolding**:  
+   > 1. Susun barisannya: $3, 5, 7, \dots$  
+   > 2. Temukan nilai $a$ (suku pertama) dan $b$ (beda).  
+   > 3. Tuliskan rumus $U_n = a + (n-1)b$, lalu masukkan nilai $n = 10$.
+
+3. **Soal 3 (Jumlah Deret Aritmetika)**:  
+   Hitunglah jumlah 8 suku pertama ($S_8$) dari deret aritmetika $2 + 5 + 8 + 11 + \dots$  
+
+   > [!TIP]
+   > **💡 Hint & Scaffolding**:  
+   > 1. Tentukan $a = 2$ dan $b = 5 - 2 = 3$.  
+   > 2. Gunakan rumus deret aritmetika: $S_n = \frac{n}{2} [2a + (n-1)b]$.  
+   > 3. Gantikan $n = 8$, $a = 2$, dan $b = 3$ ke dalam formula di atas.
+
+---
+
+## 🔑 Kunci Jawaban & Pembahasan Paket Remedial
+
+1. **Pembahasan Soal 1**:  
+   a. Beda $b = 11 - 7 = 4$. Suku berikutnya: $19+4=23$, $23+4=27$, $27+4=31$.  
+   b. $U_{15} = a + (15-1)b = 7 + 14(4) = 7 + 56 = 63$.
+
+2. **Pembahasan Soal 2**:  
+   * $a = 3$, $b = 2$.  
+   * Rumus $U_n = 3 + (n-1)2 = 2n + 1$.  
+   * Untuk $n = 10 \implies U_{10} = 2(10) + 1 = 21$ batang korek api.
+
+3. **Pembahasan Soal 3**:  
+   * $a = 2$, $b = 3$, $n = 8$.  
+   * $S_8 = \frac{8}{2} [2(2) + (8-1)3] = 4 [4 + 21] = 4 \times 25 = 100$.
+
+### 📊 Rubrik & Kriteria Ketuntasan Remedial
+* **Target Ketuntasan**: Menjawab benar minimum 2 dari 3 soal remedial (Skor $\ge 70$).
+* **Skor Maksimal Per Soal**: 35 Poin (Soal 1), 30 Poin (Soal 2), 35 Poin (Soal 3) = **Total 100 Poin Remedial**.
+
+---
+
+# BAGIAN V: PAKET SOAL PENGAYAAN (HOTS PLUS / LEVEL OSN) 🚀
+
+**Peruntukan:** Siswa dengan capaian di atas KKM ($\ge \text{85}$) untuk mengasah kemampuan analisis tingkat tinggi dan persiapan Kompetisi Matematika/OSN.
+
+---
+
+### 🧩 Soal Pengayaan Level OSN
+
+1. **Soal 1 (Fraktal Segitiga Sierpinski & Pola Luas Rekursif)**:  
+   Sebuah segitiga sama sisi awal (Tahap 0) memiliki luas $64 \text{ cm}^2$. Pada Tahap 1, bagian tengah segitiga dipotong dengan menghubungkan titik-titik tengah sisinya, sehingga menyisakan 3 buah segitiga sama sisi yang lebih kecil. Pada Tahap 2, proses pemotongan yang sama dilakukan pada ketiga segitiga tersisa tersebut, dan seterusnya secara berulang.  
+   
+   ```
+   Tahap 0: [ ▲ ]                    (Luas = 64 cm²)
+   Tahap 1: [ ▲ △ ▲ ]                (Terpotong 1 segitiga tengah)
+   Tahap 2: [ ▲ △ ▲  △  ▲ △ ▲ ]      (Terpotong pada tiap segitiga tersisa)
+   ```  
+   a. Analisis rasio luas area tersisa dan tentukan rumus umum $L_n$ (luas total area hitam tersisa) pada Tahap ke-$n$!  
+   b. Hitunglah luas total area tersisa pada Tahap ke-5 ($L_5$) dalam bentuk pecahan/desimal!
+
+2. **Soal 2 (Pembagian Bidang oleh $n$ Garis Lurus / Lazy Caterer's Sequence)**:  
+   Di atas sebuah kertas gambar terdapat $n$ buah garis lurus. Diketahui tidak ada dua garis yang sejajar dan tidak ada tiga garis yang berpotongan di satu titik yang sama.  
+   * 1 garis membagi kertas menjadi 2 daerah ($D_1 = 2$).  
+   * 2 garis membagi kertas menjadi 4 daerah ($D_2 = 4$).  
+   * 3 garis membagi kertas menjadi 7 daerah ($D_3 = 7$).  
+   * 4 garis membagi kertas menjadi 11 daerah ($D_4 = 11$).  
+   
+   a. Buktikan bahwa pola jumlah daerah tersebut merupakan pola bertingkat dua dan tentukan formula aljabar umum $D_n$ untuk $n$ buah garis!  
+   b. Jika terdapat 20 garis lurus pada kertas tersebut, berapa jumlah maksimal daerah yang terbentuk ($D_{20}$)?
+
+---
+
+## 🔑 Kunci Jawaban & Pembahasan Paket Pengayaan
+
+1. **Pembahasan Soal 1 (Fraktal Sierpinski)**:  
+   a. **Formulasi Luas Rekursif**:  
+      * Setiap tahap memotong $\frac{1}{4}$ bagian luas dari setiap segitiga yang tersisa, sehingga menyisakan $\frac{3}{4}$ dari luas sebelumnya.  
+      * Barisan Luas:  
+        - Tahap 0 ($L_0$) = $64 \text{ cm}^2$  
+        - Tahap 1 ($L_1$) = $64 \times \frac{3}{4} = 48 \text{ cm}^2$  
+        - Tahap 2 ($L_2$) = $64 \times \left(\frac{3}{4}\right)^2 = 36 \text{ cm}^2$  
+      * Rumus umum suku ke-$n$ (Barisan Geometri):  
+        $$L_n = 64 \times \left(\frac{3}{4}\right)^n \text{ cm}^2$$
+
+   b. **Menghitung $L_5$**:  
+      $$L_5 = 64 \times \left(\frac{3}{4}\right)^5 = 64 \times \frac{243}{1024} = \frac{64 \times 243}{1024}$$  
+      Karena $1024 / 64 = 16$, maka:  
+      $$L_5 = \frac{243}{16} = 15{,}1875 \text{ cm}^2$$
+
+2. **Pembahasan Soal 2 (Lazy Caterer's Sequence)**:  
+   a. **Analisis Pola Bertingkat Dua**:  
+      * Barisan Daerah $D_n$: $2, 4, 7, 11, 16, \dots$  
+      * Selisih Tingkat 1: $+2, +3, +4, +5, \dots$  
+      * Selisih Tingkat 2 ($d_2$): $+1, +1, +1, \dots$ (Konstan $+1 \implies$ Pola Kuadrat $D_n = an^2 + bn + c$).  
+      
+      Menentukan koefisien $a, b, c$:  
+      1. $2a = d_2 \implies 2a = 1 \implies a = \frac{1}{2}$  
+      2. $3a + b = D_2 - D_1 \implies 3\left(\frac{1}{2}\right) + b = 2 \implies b = \frac{1}{2}$  
+      3. $a + b + c = D_1 \implies \frac{1}{2} + \frac{1}{2} + c = 2 \implies 1 + c = 2 \implies c = 1$  
+      
+      Diperoleh formula umum $D_n$:  
+      $$D_n = \frac{1}{2}n^2 + \frac{1}{2}n + 1 = \frac{n(n+1)}{2} + 1$$
+
+   b. **Menghitung $D_{20}$ (20 Garis)**:  
+      $$D_{20} = \frac{20(21)}{2} + 1 = 10 \times 21 + 1 = 210 + 1 = 211 \text{ daerah.}$$
+
+### 🏆 Rubrik Penilaian Pengayaan (Bonus / Talent Score)
+| Soal | Kriteria Penilaian | Bobot Skor |
+| :---: | :--- | :---: |
+| **Pengayaan 1** | Merumuskan barisan geometri rasio $\frac{3}{4}$ (skor 25) dan menghitung $L_5 = \frac{243}{16}\text{ cm}^2$ (skor 25). | 50 Poin |
+| **Pengayaan 2** | Membuktikan pola bertingkat & merumuskan $D_n = \frac{n(n+1)}{2}+1$ (skor 25) dan menentukan $D_{20} = 211$ (skor 25). | 50 Poin |
+| **TOTAL** | **Skor Maksimal Pengayaan** | **100 Poin** |
 
 ---
 
 ## 📚 Berkas Terkait
 - 📄 [[Materi_Pola_Bilangan]]
 - 🍎 [[index_teaching|Teaching Resources Hub]]
+
 

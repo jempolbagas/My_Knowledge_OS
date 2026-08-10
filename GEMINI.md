@@ -13,6 +13,8 @@
 ### 1. Space Selection
 - **`10_Spaces/`**: Deadline-bound (College, Teaching, Competitions).
 - **`20_Brain_Atlas/`**: Timeless, self-study, no deadlines. Never archive.
+- **`30_Assets/`**: Centralized storage for ALL active media and image assets across the vault. Do not create sub-space asset folders.
+- **`90_Archive/Archived_Assets/`**: Archive location for assets used exclusively by archived notes.
 
 ### 2. Note Classification (`20_Brain_Atlas/`)
 - **`10_Library/`**: Has an external `source_url`. Template: `Library_Source_Note`.
@@ -23,6 +25,7 @@
 ### 3. File Formatting
 - **Links:** Always use Wikilinks (`[[Note Name]]`). No path names or raw file names. Plain URLs for external links only.
 - **Metadata:** Keep in YAML frontmatter, not `#tags`.
+- **Diagrams:** Prefer standard Mermaid diagrams (`mermaid` code blocks such as `flowchart TD` or `graph TD`) instead of ASCII art text diagrams for visual flows, hierarchies, and structural concepts.
 - **Quality Standard:** Always follow `99_Configs/Depth_Standard.md` for agent-created notes.
 
 ## Operational Workflows

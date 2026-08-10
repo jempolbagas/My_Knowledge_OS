@@ -4,6 +4,7 @@ target_audience: "SMA Kelas 11"
 created: 2026-07-28
 sources:
   - "[[Mempelajari Konsep dan Nilai Suku Banyak (Polinomial)]]"
+  - "[[Materi_Kaidah_Pencacahan_dan_Kombinatorika]]"
 tags:
   - teaching-material
   - mathematics

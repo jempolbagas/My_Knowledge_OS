@@ -5,9 +5,9 @@ Detected when a source file has changed since the Concept wiki page was generate
 | Concept Note | Source Note | Status | Action Required |
 | --- | --- | --- | --- |
 | [[Kongruensi_Modular]] | [[Chinese_Remainder_Theorem]] | ❓ No Snapshot Hash | Run LLM review to update concept and update `source_hash: "37211e637f265b9b17c4dd3aa0bede54"` |
-| [[Chinese_Remainder_Theorem]] | [[Single_Secret_Sharing_CRT_Shamir_XOR]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "273e8d3eba8b60f3138ec29a657f6522"` |
-| [[Suku_Banyak_Polinomial]] | [[Materi_Suku_Banyak_Polinomial]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "71350e6c9ef37464799a2aeec707f41d"` |
-| [[Matriks]] | [[Materi_Matriks]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "a857eec37968a77be91af6d3707e8676"` |
+| [[Chinese_Remainder_Theorem]] | [[Single_Secret_Sharing_CRT_Shamir_XOR]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "2a94364a85872818f78bbba8e512aaee"` |
+| [[Suku_Banyak_Polinomial]] | [[Materi_Suku_Banyak_Polinomial]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "7519f46e5963ed51946e00f4ba93ac4f"` |
+| [[Matriks]] | [[Materi_Matriks]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "9576e5ca7ccc58c82fa76d663a83886b"` |
 | [[Persamaan_Kuadrat]] | [[Materi_Persamaan_Kuadrat]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "b9031a30fc18c274ce5f7261d79624e1"` |
 | [[Coprime]] | [[Chinese_Remainder_Theorem]] | ❓ No Snapshot Hash | Run LLM review to update concept and update `source_hash: "37211e637f265b9b17c4dd3aa0bede54"` |
 | [[WebAssembly_vs_Docker]] | [[Wasm_vs_Docker]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "6342736a489aad3a23b7f22808838f4b"` |
@@ -26,9 +26,9 @@ Detected when a source file has changed since the Concept wiki page was generate
 | [[Per-Tensor vs Per-Channel Quantization]] | [[Post_Training_Quantization_End_to_End_Guide]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "891e6e2d7f065ee79b568d93230cd450"` |
 | [[Scale Factor and Zero-Point]] | [[Post_Training_Quantization_End_to_End_Guide]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "891e6e2d7f065ee79b568d93230cd450"` |
 | [[Symmetric vs Asymmetric Quantization]] | [[Post_Training_Quantization_End_to_End_Guide]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "891e6e2d7f065ee79b568d93230cd450"` |
-| [[Secret_Sharing_Scheme]] | [[Single_Secret_Sharing_CRT_Shamir_XOR]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "273e8d3eba8b60f3138ec29a657f6522"` |
+| [[Secret_Sharing_Scheme]] | [[Single_Secret_Sharing_CRT_Shamir_XOR]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "2a94364a85872818f78bbba8e512aaee"` |
 | [[Symmetric vs. Asymmetric Encryption]] | [[Cybersecurity_Roadmap]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "1b67d0d65283c870324bc3d3695e7690"` |
-| [[Shamir_Secret_Sharing]] | [[Single_Secret_Sharing_CRT_Shamir_XOR]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "273e8d3eba8b60f3138ec29a657f6522"` |
+| [[Shamir_Secret_Sharing]] | [[Single_Secret_Sharing_CRT_Shamir_XOR]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "2a94364a85872818f78bbba8e512aaee"` |
 | [[Blue Team vs. Red Team]] | [[Cybersecurity_Roadmap]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "1b67d0d65283c870324bc3d3695e7690"` |
 | [[Cybersecurity Roadmap]] | [[Cybersecurity_Roadmap]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "1b67d0d65283c870324bc3d3695e7690"` |
 | [[CIA Triad]] | [[Cybersecurity_Roadmap]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "1b67d0d65283c870324bc3d3695e7690"` |

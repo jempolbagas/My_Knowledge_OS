@@ -1,7 +1,10 @@
 ---
 title: "LKPD & Latihan Soal Evaluasi: Matriks"
+type: practice-material
+subject: Mathematics
 target_audience: "SMA Kelas 11"
 created: 2026-07-28
+updated: 2026-08-09
 sources:
   - "[[Materi_Matriks]]"
 tags:

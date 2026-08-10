@@ -186,7 +186,7 @@ Untuk keperluan Gemastik KTI (di mana tim akan melakukan *upgrade* pada metode i
 
 ## 6. Peta Referensi & Konsep Terkait
 
-- **Sumber Utama Vault:** [[00_Inbox/s11277-023-10315-5|Paper Dinesh Pande et al. (2023)]]
+- **Sumber Utama Vault:** [[s11277-023-10315-5|Paper Dinesh Pande et al. (2023)]]
 - **Konsep Terkait di Brain Atlas:**
   - [[Secret_Sharing_Scheme]]
   - [[Chinese_Remainder_Theorem]]

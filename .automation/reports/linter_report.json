@@ -2,12 +2,152 @@
   "broken_links": [
     {
       "file": "10_Spaces/13_Gemastik_KTI/KTI_Context.md",
-      "broken_link": "00_Inbox/s11277-023-10315-5",
+      "broken_link": "KTI_Knowledge_Map.canvas",
       "context": "wikilink"
     },
     {
-      "file": "10_Spaces/13_Gemastik_KTI/KTI_Context.md",
-      "broken_link": "KTI_Knowledge_Map.canvas",
+      "file": "10_Spaces/12_Teaching/40_Practice/Languages/[ESL] Worksheet - Simple Present vs Present Continuous.md",
+      "broken_link": "[ESL] Present Continuous Tense",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/00_Atlas/index_teaching.md",
+      "broken_link": "[Chem] Reaksi Redoks - Rangkuman",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/00_Atlas/index_teaching.md",
+      "broken_link": "[Chem] Tata Nama dan Biloks - Rangkuman",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/00_Atlas/index_teaching.md",
+      "broken_link": "[Chem] Konsep Mol - Rangkuman",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/00_Atlas/index_teaching.md",
+      "broken_link": "[Math] Kisi-Kisi ASAT - Master Summary",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/00_Atlas/index_teaching.md",
+      "broken_link": "Gerak Lurus",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/00_Atlas/index_teaching.md",
+      "broken_link": "Gerak Lurus Berubah Beraturan (GLBB)",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/00_Atlas/index_teaching.md",
+      "broken_link": "Energi Panas (Kalor)",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/00_Atlas/index_teaching.md",
+      "broken_link": "Energi Listrik",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/00_Atlas/index_teaching.md",
+      "broken_link": "Gaya dan Hukum Newton",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/00_Atlas/index_teaching.md",
+      "broken_link": "Tata Surya dan Bumi",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/00_Atlas/index_teaching.md",
+      "broken_link": "Ekosistem dan Keanekaragaman Hayati",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/00_Atlas/index_teaching.md",
+      "broken_link": "Rantai Makanan dan Jaring-Jaring Makanan",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/00_Atlas/index_teaching.md",
+      "broken_link": "Konsep Dasar Ilmu Sejarah",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/00_Atlas/index_teaching.md",
+      "broken_link": "Jalur Rempah Nusantara",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/00_Atlas/index_teaching.md",
+      "broken_link": "Masa Praaksara dan Asal-usul Nenek Moyang Bangsa Indonesia",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/00_Atlas/index_teaching.md",
+      "broken_link": "Masa Kerajaan Hindu-Budha di Indonesia",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/00_Atlas/index_teaching.md",
+      "broken_link": "Masa Kerajaan Islam di Indonesia",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/00_Atlas/index_teaching.md",
+      "broken_link": "Peran Lembaga Sosial",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/00_Atlas/index_teaching.md",
+      "broken_link": "[ESL] Present Continuous Tense",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/30_Sources/Economics/Pendapatan_Nasional/Materi_Pendapatan_Nasional.md",
+      "broken_link": "Materi_Konsep_Pendapatan_Nasional\\",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/30_Sources/Economics/Pendapatan_Nasional/Materi_Pendapatan_Nasional.md",
+      "broken_link": "Materi_Pendapatan_Per_Kapita\\",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/30_Sources/Economics/Pendapatan_Nasional/Materi_Pendapatan_Nasional.md",
+      "broken_link": "Materi_Distribusi_Pendapatan\\",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/30_Sources/Economics/Pendapatan_Nasional/Materi_Pendapatan_Nasional.md",
+      "broken_link": "LKPD_dan_Soal_Pendapatan_Nasional\\",
+      "context": "wikilink"
+    },
+    {
+      "file": "20_Brain_Atlas/s11277-023-10315-5.md",
+      "broken_link": "14, 25, 32, 33, 42, 43, 52",
+      "context": "wikilink"
+    },
+    {
+      "file": "20_Brain_Atlas/s11277-023-10315-5.md",
+      "broken_link": "15",
+      "context": "wikilink"
+    },
+    {
+      "file": "20_Brain_Atlas/s11277-023-10315-5.md",
+      "broken_link": "25, 32, 33, 42, 52",
+      "context": "wikilink"
+    },
+    {
+      "file": "20_Brain_Atlas/s11277-023-10315-5.md",
+      "broken_link": "14, 15, 43",
+      "context": "wikilink"
+    },
+    {
+      "file": "20_Brain_Atlas/s11277-023-10315-5.md",
+      "broken_link": "15, 25, 52",
       "context": "wikilink"
     },
     {
@@ -81,11 +221,6 @@
       "context": "wikilink"
     },
     {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Cryptography/Single_Secret_Sharing_CRT_Shamir_XOR.md",
-      "broken_link": "00_Inbox/s11277-023-10315-5",
-      "context": "wikilink"
-    },
-    {
       "file": "20_Brain_Atlas/10_Library/Generated_Readings/Computer_Science/Model_Context_Protocol_Architecture.md",
       "broken_link": "JSON-RPC 2.0",
       "context": "wikilink"
@@ -129,76 +264,28 @@
       "file": "20_Brain_Atlas/20_Concepts/Computer_Science/Model_Context_Protocol.md",
       "broken_link": "JSON-RPC 2.0",
       "context": "wikilink"
-    },
-    {
-      "file": "00_Inbox/s11277-023-10315-5.md",
-      "broken_link": "14, 25, 32, 33, 42, 43, 52",
-      "context": "wikilink"
-    },
-    {
-      "file": "00_Inbox/s11277-023-10315-5.md",
-      "broken_link": "15",
-      "context": "wikilink"
-    },
-    {
-      "file": "00_Inbox/s11277-023-10315-5.md",
-      "broken_link": "25, 32, 33, 42, 52",
-      "context": "wikilink"
-    },
-    {
-      "file": "00_Inbox/s11277-023-10315-5.md",
-      "broken_link": "14, 15, 43",
-      "context": "wikilink"
-    },
-    {
-      "file": "00_Inbox/s11277-023-10315-5.md",
-      "broken_link": "15, 25, 52",
-      "context": "wikilink"
-    },
-    {
-      "file": "00_Inbox/Gaya Normal - Pengertian, Rumus, dan Contoh Soal.md",
-      "broken_link": "isaac_newton_meme_zenius_education.webp",
-      "context": "wikilink"
-    },
-    {
-      "file": "00_Inbox/Gaya Normal - Pengertian, Rumus, dan Contoh Soal.md",
-      "broken_link": "gaya_normal_kotak_zenius_education.webp",
-      "context": "wikilink"
-    },
-    {
-      "file": "00_Inbox/Gaya Normal - Pengertian, Rumus, dan Contoh Soal.md",
-      "broken_link": "gaya_normal_pada_benda_diam_zenius_education.webp",
-      "context": "wikilink"
-    },
-    {
-      "file": "00_Inbox/Gaya Normal - Pengertian, Rumus, dan Contoh Soal.md",
-      "broken_link": "gaya_normal_bidang_vertikal_zenius_education.webp",
-      "context": "wikilink"
-    },
-    {
-      "file": "00_Inbox/Gaya Normal - Pengertian, Rumus, dan Contoh Soal.md",
-      "broken_link": "gaya_normal_sumbu_x_zenius_education.webp",
-      "context": "wikilink"
-    },
-    {
-      "file": "00_Inbox/Gaya Normal - Pengertian, Rumus, dan Contoh Soal.md",
-      "broken_link": "gaya_normal_bidang_miring_zenius_education.webp",
-      "context": "wikilink"
-    },
-    {
-      "file": "00_Inbox/Gaya Normal - Pengertian, Rumus, dan Contoh Soal.md",
-      "broken_link": "FISIKA-1.webp",
-      "context": "wikilink"
     }
   ],
   "orphans": [
     {
-      "file": "00_Inbox/Belajar Online Interaktif Terbaik di Indonesia.md",
-      "title": "Belajar Online Interaktif Terbaik di Indonesia"
+      "file": "10_Spaces/12_Teaching/40_Practice/Mathematics/LKPD_dan_Soal_Kaidah_Pencacahan_dan_Kombinatorika.md",
+      "title": "LKPD_dan_Soal_Kaidah_Pencacahan_dan_Kombinatorika"
     },
     {
-      "file": "00_Inbox/Normal Force  Physics  Research Starters.md",
-      "title": "Normal Force  Physics  Research Starters"
+      "file": "10_Spaces/12_Teaching/40_Practice/Mathematics/LKPD_dan_Soal_Teori_Peluang_dan_Kejadian_Majemuk.md",
+      "title": "LKPD_dan_Soal_Teori_Peluang_dan_Kejadian_Majemuk"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Materi_Logika_Permutasi_dan_Kombinasi.md",
+      "title": "Materi_Logika_Permutasi_dan_Kombinasi"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Materi_Teori_Peluang_dan_Kejadian_Majemuk.md",
+      "title": "Materi_Teori_Peluang_dan_Kejadian_Majemuk"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Materi_Kaidah_Pencacahan_dan_Kombinatorika.md",
+      "title": "Materi_Kaidah_Pencacahan_dan_Kombinatorika"
     }
   ],
   "missing_frontmatter": [

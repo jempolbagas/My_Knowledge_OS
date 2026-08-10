@@ -8,24 +8,16 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-08-09T11:19:06Z"
+    "generated_at": "2026-08-10T03:20:34Z"
   },
   "stats": {
-    "total_notes": 165,
-    "total_edges": 594,
-    "broken_links": 44,
-    "untyped_notes": 69,
-    "health_score": 53.9
+    "total_notes": 149,
+    "total_edges": 534,
+    "broken_links": 61,
+    "untyped_notes": 52,
+    "health_score": 57.7
   },
-  "inbox": [
-    "s11277-023-10315-5",
-    "Introducing the Model Context Protocol",
-    "What is the Model Context Protocol (MCP)",
-    "Belajar Online Interaktif Terbaik di Indonesia",
-    "Normal Force  Physics  Research Starters",
-    "What is Model Context Protocol (MCP) A guide",
-    "Gaya Normal - Pengertian, Rumus, dan Contoh Soal"
-  ],
+  "inbox": [],
   "spaces": {
     "College": {
       "General": [
@@ -35,7 +27,6 @@
     },
     "Teaching": {
       "Languages": [
-        "[ESL] Present Continuous Tense",
         "[ESL] Worksheet - Simple Present vs Present Continuous",
         "LKPD_dan_Soal_Functional_Texts",
         "LKPD_dan_Soal_Parts_of_Speech",
@@ -46,36 +37,7 @@
         "Materi_Parts_of_Speech",
         "Materi_Functional_Texts"
       ],
-      "Social Studies": [
-        "Masa Praaksara dan Asal-usul Nenek Moyang Bangsa Indonesia",
-        "Masa Kerajaan Islam di Indonesia",
-        "Peran Lembaga Sosial",
-        "Konsep Dasar Ilmu Sejarah",
-        "Jalur Rempah Nusantara",
-        "Masa Kerajaan Hindu-Budha di Indonesia",
-        "LKPD_dan_Soal_Tenaga_Endogen_Vulkanisme",
-        "LKPD_dan_Soal_Litosfer_Tenaga_Endogen_dan_Eksogen",
-        "LKPD_dan_Soal_Tenaga_Eksogen",
-        "LKPD_dan_Soal_Keanekaragaman_Hayati_Indonesia",
-        "Materi_Tenaga_Endogen_Vulkanisme",
-        "Materi_Tenaga_Eksogen",
-        "Materi_Keanekaragaman_Hayati_dan_Jenis_Hutan_Indonesia",
-        "Materi_Litosfer_Tenaga_Endogen_dan_Eksogen"
-      ],
-      "STEM": [
-        "[Chem] Reaksi Redoks - Rangkuman",
-        "Energi Panas (Kalor)",
-        "[Chem] Tata Nama dan Biloks - Rangkuman",
-        "Gerak Lurus",
-        "Gerak Lurus Berubah Beraturan (GLBB)",
-        "[Math] Kisi-Kisi ASAT - Master Summary",
-        "Ekosistem dan Keanekaragaman Hayati",
-        "Rantai Makanan dan Jaring-Jaring Makanan",
-        "Kecepatan dan Kelajuan",
-        "Tata Surya dan Bumi",
-        "Energi Listrik",
-        "Gaya dan Hukum Newton",
-        "[Chem] Konsep Mol - Rangkuman",
+      "Physics": [
         "LKPD_dan_Soal_Gaya_Tegangan_Tali_dan_Katrol",
         "LKPD_dan_Soal_Gaya_Gesek",
         "LKPD_dan_Soal_Gaya_Sentripetal",
@@ -89,14 +51,29 @@
         "Materi_Gaya_Sentripetal",
         "Materi_Gaya_Normal"
       ],
+      "Social Studies": [
+        "LKPD_dan_Soal_Tenaga_Endogen_Vulkanisme",
+        "LKPD_dan_Soal_Litosfer_Tenaga_Endogen_dan_Eksogen",
+        "LKPD_dan_Soal_Tenaga_Eksogen",
+        "LKPD_dan_Soal_Keanekaragaman_Hayati_Indonesia",
+        "Materi_Tenaga_Endogen_Vulkanisme",
+        "Materi_Tenaga_Eksogen",
+        "Materi_Keanekaragaman_Hayati_dan_Jenis_Hutan_Indonesia",
+        "Materi_Litosfer_Tenaga_Endogen_dan_Eksogen"
+      ],
       "Mathematics": [
         "LKPD_dan_Soal_Persamaan_Kuadrat",
         "LKPD_dan_Soal_Matriks",
         "LKPD_dan_Soal_Pola_Bilangan",
         "LKPD_dan_Soal_Suku_Banyak_Polinomial",
+        "LKPD_dan_Soal_Kaidah_Pencacahan_dan_Kombinatorika",
+        "LKPD_dan_Soal_Teori_Peluang_dan_Kejadian_Majemuk",
+        "Materi_Logika_Permutasi_dan_Kombinasi",
+        "Materi_Teori_Peluang_dan_Kejadian_Majemuk",
         "Materi_Persamaan_Kuadrat",
         "Materi_Pola_Bilangan",
         "Materi_Suku_Banyak_Polinomial",
+        "Materi_Kaidah_Pencacahan_dan_Kombinatorika",
         "Materi_Matriks"
       ],
       "Biology": [
@@ -104,6 +81,13 @@
         "LKPD_dan_Soal_Pengenalan_Sel",
         "Materi_Pengenalan_Sel",
         "Materi_Sistem_Pencernaan_Makanan"
+      ],
+      "Economics": [
+        "LKPD_dan_Soal_Pendapatan_Nasional",
+        "Materi_Distribusi_Pendapatan",
+        "Materi_Pendapatan_Per_Kapita",
+        "Materi_Pendapatan_Nasional",
+        "Materi_Konsep_Pendapatan_Nasional"
       ]
     }
   },
@@ -233,8 +217,11 @@
   },
   "maintenance": {
     "orphan_pages_sample": [
-      "Belajar Online Interaktif Terbaik di Indonesia",
-      "Normal Force  Physics  Research Starters"
+      "LKPD_dan_Soal_Kaidah_Pencacahan_dan_Kombinatorika",
+      "LKPD_dan_Soal_Teori_Peluang_dan_Kejadian_Majemuk",
+      "Materi_Logika_Permutasi_dan_Kombinasi",
+      "Materi_Teori_Peluang_dan_Kejadian_Majemuk",
+      "Materi_Kaidah_Pencacahan_dan_Kombinatorika"
     ],
     "untyped_notes_sample": [
       {
@@ -242,80 +229,80 @@
         "path": "10_Spaces/13_Gemastik_KTI/README.md"
       },
       {
-        "title": "Masa Praaksara dan Asal-usul Nenek Moyang Bangsa Indonesia",
-        "path": "10_Spaces/12_Teaching/20_Cards/Social_Studies/Masa Praaksara dan Asal-usul Nenek Moyang Bangsa Indonesia.md"
+        "title": "LKPD_dan_Soal_Functional_Texts",
+        "path": "10_Spaces/12_Teaching/40_Practice/Languages/LKPD_dan_Soal_Functional_Texts.md"
       },
       {
-        "title": "Masa Kerajaan Islam di Indonesia",
-        "path": "10_Spaces/12_Teaching/20_Cards/Social_Studies/Masa Kerajaan Islam di Indonesia.md"
+        "title": "LKPD_dan_Soal_Parts_of_Speech",
+        "path": "10_Spaces/12_Teaching/40_Practice/Languages/LKPD_dan_Soal_Parts_of_Speech.md"
       },
       {
-        "title": "Peran Lembaga Sosial",
-        "path": "10_Spaces/12_Teaching/20_Cards/Social_Studies/Peran Lembaga Sosial.md"
+        "title": "LKPD_dan_Soal_Descriptive_Text",
+        "path": "10_Spaces/12_Teaching/40_Practice/Languages/LKPD_dan_Soal_Descriptive_Text.md"
       },
       {
-        "title": "Konsep Dasar Ilmu Sejarah",
-        "path": "10_Spaces/12_Teaching/20_Cards/Social_Studies/Konsep Dasar Ilmu Sejarah.md"
+        "title": "LKPD_dan_Soal_Simple_Past_Tense",
+        "path": "10_Spaces/12_Teaching/40_Practice/Languages/LKPD_dan_Soal_Simple_Past_Tense.md"
       },
       {
-        "title": "Jalur Rempah Nusantara",
-        "path": "10_Spaces/12_Teaching/20_Cards/Social_Studies/Jalur Rempah Nusantara.md"
+        "title": "LKPD_dan_Soal_Gaya_Tegangan_Tali_dan_Katrol",
+        "path": "10_Spaces/12_Teaching/40_Practice/Physics/LKPD_dan_Soal_Gaya_Tegangan_Tali_dan_Katrol.md"
       },
       {
-        "title": "Masa Kerajaan Hindu-Budha di Indonesia",
-        "path": "10_Spaces/12_Teaching/20_Cards/Social_Studies/Masa Kerajaan Hindu-Budha di Indonesia.md"
+        "title": "LKPD_dan_Soal_Gaya_Gesek",
+        "path": "10_Spaces/12_Teaching/40_Practice/Physics/LKPD_dan_Soal_Gaya_Gesek.md"
       },
       {
-        "title": "[Chem] Reaksi Redoks - Rangkuman",
-        "path": "10_Spaces/12_Teaching/20_Cards/STEM/[Chem] Reaksi Redoks - Rangkuman.md"
+        "title": "LKPD_dan_Soal_Gaya_Sentripetal",
+        "path": "10_Spaces/12_Teaching/40_Practice/Physics/LKPD_dan_Soal_Gaya_Sentripetal.md"
       },
       {
-        "title": "Energi Panas (Kalor)",
-        "path": "10_Spaces/12_Teaching/20_Cards/STEM/Energi Panas (Kalor).md"
+        "title": "LKPD_dan_Soal_Gaya_Normal",
+        "path": "10_Spaces/12_Teaching/40_Practice/Physics/LKPD_dan_Soal_Gaya_Normal.md"
       },
       {
-        "title": "[Chem] Tata Nama dan Biloks - Rangkuman",
-        "path": "10_Spaces/12_Teaching/20_Cards/STEM/[Chem] Tata Nama dan Biloks - Rangkuman.md"
+        "title": "LKPD_dan_Soal_Gaya_Berat",
+        "path": "10_Spaces/12_Teaching/40_Practice/Physics/LKPD_dan_Soal_Gaya_Berat.md"
       },
       {
-        "title": "Gerak Lurus",
-        "path": "10_Spaces/12_Teaching/20_Cards/STEM/Gerak Lurus.md"
+        "title": "LKPD_dan_Soal_Dinamika_Gerak",
+        "path": "10_Spaces/12_Teaching/40_Practice/Physics/LKPD_dan_Soal_Dinamika_Gerak.md"
       },
       {
-        "title": "Gerak Lurus Berubah Beraturan (GLBB)",
-        "path": "10_Spaces/12_Teaching/20_Cards/STEM/Gerak Lurus Berubah Beraturan (GLBB).md"
+        "title": "LKPD_dan_Soal_Tenaga_Endogen_Vulkanisme",
+        "path": "10_Spaces/12_Teaching/40_Practice/Social_Studies/LKPD_dan_Soal_Tenaga_Endogen_Vulkanisme.md"
       },
       {
-        "title": "[Math] Kisi-Kisi ASAT - Master Summary",
-        "path": "10_Spaces/12_Teaching/20_Cards/STEM/[Math] Kisi-Kisi ASAT - Master Summary.md"
+        "title": "LKPD_dan_Soal_Litosfer_Tenaga_Endogen_dan_Eksogen",
+        "path": "10_Spaces/12_Teaching/40_Practice/Social_Studies/LKPD_dan_Soal_Litosfer_Tenaga_Endogen_dan_Eksogen.md"
       },
       {
-        "title": "Ekosistem dan Keanekaragaman Hayati",
-        "path": "10_Spaces/12_Teaching/20_Cards/STEM/Ekosistem dan Keanekaragaman Hayati.md"
+        "title": "LKPD_dan_Soal_Tenaga_Eksogen",
+        "path": "10_Spaces/12_Teaching/40_Practice/Social_Studies/LKPD_dan_Soal_Tenaga_Eksogen.md"
       },
       {
-        "title": "Rantai Makanan dan Jaring-Jaring Makanan",
-        "path": "10_Spaces/12_Teaching/20_Cards/STEM/Rantai Makanan dan Jaring-Jaring Makanan.md"
+        "title": "LKPD_dan_Soal_Keanekaragaman_Hayati_Indonesia",
+        "path": "10_Spaces/12_Teaching/40_Practice/Social_Studies/LKPD_dan_Soal_Keanekaragaman_Hayati_Indonesia.md"
       },
       {
-        "title": "Kecepatan dan Kelajuan",
-        "path": "10_Spaces/12_Teaching/20_Cards/STEM/Kecepatan dan Kelajuan.md"
+        "title": "LKPD_dan_Soal_Persamaan_Kuadrat",
+        "path": "10_Spaces/12_Teaching/40_Practice/Mathematics/LKPD_dan_Soal_Persamaan_Kuadrat.md"
       },
       {
-        "title": "Tata Surya dan Bumi",
-        "path": "10_Spaces/12_Teaching/20_Cards/STEM/Tata Surya dan Bumi.md"
+        "title": "LKPD_dan_Soal_Pola_Bilangan",
+        "path": "10_Spaces/12_Teaching/40_Practice/Mathematics/LKPD_dan_Soal_Pola_Bilangan.md"
       },
       {
-        "title": "Energi Listrik",
-        "path": "10_Spaces/12_Teaching/20_Cards/STEM/Energi Listrik.md"
+        "title": "LKPD_dan_Soal_Suku_Banyak_Polinomial",
+        "path": "10_Spaces/12_Teaching/40_Practice/Mathematics/LKPD_dan_Soal_Suku_Banyak_Polinomial.md"
       },
       {
-        "title": "Gaya dan Hukum Newton",
-        "path": "10_Spaces/12_Teaching/20_Cards/STEM/Gaya dan Hukum Newton.md"
+        "title": "LKPD_dan_Soal_Kaidah_Pencacahan_dan_Kombinatorika",
+        "path": "10_Spaces/12_Teaching/40_Practice/Mathematics/LKPD_dan_Soal_Kaidah_Pencacahan_dan_Kombinatorika.md"
       },
       {
-        "title": "[Chem] Konsep Mol - Rangkuman",
-        "path": "10_Spaces/12_Teaching/20_Cards/STEM/[Chem] Konsep Mol - Rangkuman.md"
+        "title": "LKPD_dan_Soal_Teori_Peluang_dan_Kejadian_Majemuk",
+        "path": "10_Spaces/12_Teaching/40_Practice/Mathematics/LKPD_dan_Soal_Teori_Peluang_dan_Kejadian_Majemuk.md"
       }
     ]
   }

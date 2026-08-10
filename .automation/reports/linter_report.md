@@ -3,8 +3,36 @@
 ## 🔗 Broken Links
 | File | Broken Link Target | Context |
 | --- | --- | --- |
-| [[KTI_Context]] | `00_Inbox/s11277-023-10315-5` | `wikilink` |
 | [[KTI_Context]] | `KTI_Knowledge_Map.canvas` | `wikilink` |
+| [[[ESL] Worksheet - Simple Present vs Present Continuous]] | `[ESL] Present Continuous Tense` | `wikilink` |
+| [[index_teaching]] | `[Chem] Reaksi Redoks - Rangkuman` | `wikilink` |
+| [[index_teaching]] | `[Chem] Tata Nama dan Biloks - Rangkuman` | `wikilink` |
+| [[index_teaching]] | `[Chem] Konsep Mol - Rangkuman` | `wikilink` |
+| [[index_teaching]] | `[Math] Kisi-Kisi ASAT - Master Summary` | `wikilink` |
+| [[index_teaching]] | `Gerak Lurus` | `wikilink` |
+| [[index_teaching]] | `Gerak Lurus Berubah Beraturan (GLBB)` | `wikilink` |
+| [[index_teaching]] | `Energi Panas (Kalor)` | `wikilink` |
+| [[index_teaching]] | `Energi Listrik` | `wikilink` |
+| [[index_teaching]] | `Gaya dan Hukum Newton` | `wikilink` |
+| [[index_teaching]] | `Tata Surya dan Bumi` | `wikilink` |
+| [[index_teaching]] | `Ekosistem dan Keanekaragaman Hayati` | `wikilink` |
+| [[index_teaching]] | `Rantai Makanan dan Jaring-Jaring Makanan` | `wikilink` |
+| [[index_teaching]] | `Konsep Dasar Ilmu Sejarah` | `wikilink` |
+| [[index_teaching]] | `Jalur Rempah Nusantara` | `wikilink` |
+| [[index_teaching]] | `Masa Praaksara dan Asal-usul Nenek Moyang Bangsa Indonesia` | `wikilink` |
+| [[index_teaching]] | `Masa Kerajaan Hindu-Budha di Indonesia` | `wikilink` |
+| [[index_teaching]] | `Masa Kerajaan Islam di Indonesia` | `wikilink` |
+| [[index_teaching]] | `Peran Lembaga Sosial` | `wikilink` |
+| [[index_teaching]] | `[ESL] Present Continuous Tense` | `wikilink` |
+| [[Materi_Pendapatan_Nasional]] | `Materi_Konsep_Pendapatan_Nasional\` | `wikilink` |
+| [[Materi_Pendapatan_Nasional]] | `Materi_Pendapatan_Per_Kapita\` | `wikilink` |
+| [[Materi_Pendapatan_Nasional]] | `Materi_Distribusi_Pendapatan\` | `wikilink` |
+| [[Materi_Pendapatan_Nasional]] | `LKPD_dan_Soal_Pendapatan_Nasional\` | `wikilink` |
+| [[s11277-023-10315-5]] | `14, 25, 32, 33, 42, 43, 52` | `wikilink` |
+| [[s11277-023-10315-5]] | `15` | `wikilink` |
+| [[s11277-023-10315-5]] | `25, 32, 33, 42, 52` | `wikilink` |
+| [[s11277-023-10315-5]] | `14, 15, 43` | `wikilink` |
+| [[s11277-023-10315-5]] | `15, 25, 52` | `wikilink` |
 | [[Sistem_Produksi_dan_Pengemasan_Kerajinan_Limbah_Bangun_Datar]] | `Aneka Produk Kerajinan Limbah Datar` | `wikilink` |
 | [[Sistem_Produksi_dan_Pengemasan_Kerajinan_Limbah_Bangun_Datar]] | `Kategori Manfaat Benda Pakai vs Benda Hias` | `wikilink` |
 | [[Sistem_Produksi_dan_Pengemasan_Kerajinan_Limbah_Bangun_Datar]] | `Potensi Limbah Berdasarkan Geografi Wilayah` | `wikilink` |
@@ -19,7 +47,6 @@
 | [[Perencanaan_Usaha_Kerajinan_Limbah_Bangun_Datar]] | `Bukti Transaksi dan Laporan Keuangan Usaha` | `wikilink` |
 | [[Perencanaan_Usaha_Kerajinan_Limbah_Bangun_Datar]] | `Penetapan Harga Jual dan Biaya Total Produksi` | `wikilink` |
 | [[Perencanaan_Usaha_Kerajinan_Limbah_Bangun_Datar]] | `Bauran Promosi Usaha Kerajinan` | `wikilink` |
-| [[Single_Secret_Sharing_CRT_Shamir_XOR]] | `00_Inbox/s11277-023-10315-5` | `wikilink` |
 | [[Model_Context_Protocol_Architecture]] | `JSON-RPC 2.0` | `wikilink` |
 | [[Model_Context_Protocol_Architecture]] | `JSON_RPC_2_0` | `wikilink` |
 | [[Single_Board_Computers_Architecture_and_Use_Cases]] | `Virtual_Private_Server_Architecture_and_Mechanics` | `wikilink` |
@@ -29,23 +56,14 @@
 | [[Gaya_Berat]] | `Gaya Normal` | `wikilink` |
 | [[Gaya_Berat]] | `Hukum Newton` | `wikilink` |
 | [[Model_Context_Protocol]] | `JSON-RPC 2.0` | `wikilink` |
-| [[s11277-023-10315-5]] | `14, 25, 32, 33, 42, 43, 52` | `wikilink` |
-| [[s11277-023-10315-5]] | `15` | `wikilink` |
-| [[s11277-023-10315-5]] | `25, 32, 33, 42, 52` | `wikilink` |
-| [[s11277-023-10315-5]] | `14, 15, 43` | `wikilink` |
-| [[s11277-023-10315-5]] | `15, 25, 52` | `wikilink` |
-| [[Gaya Normal - Pengertian, Rumus, dan Contoh Soal]] | `isaac_newton_meme_zenius_education.webp` | `wikilink` |
-| [[Gaya Normal - Pengertian, Rumus, dan Contoh Soal]] | `gaya_normal_kotak_zenius_education.webp` | `wikilink` |
-| [[Gaya Normal - Pengertian, Rumus, dan Contoh Soal]] | `gaya_normal_pada_benda_diam_zenius_education.webp` | `wikilink` |
-| [[Gaya Normal - Pengertian, Rumus, dan Contoh Soal]] | `gaya_normal_bidang_vertikal_zenius_education.webp` | `wikilink` |
-| [[Gaya Normal - Pengertian, Rumus, dan Contoh Soal]] | `gaya_normal_sumbu_x_zenius_education.webp` | `wikilink` |
-| [[Gaya Normal - Pengertian, Rumus, dan Contoh Soal]] | `gaya_normal_bidang_miring_zenius_education.webp` | `wikilink` |
-| [[Gaya Normal - Pengertian, Rumus, dan Contoh Soal]] | `FISIKA-1.webp` | `wikilink` |
 
 ## 🕳️ Orphan Pages (Disconnected Nodes)
 These files have no incoming or outgoing links:
-- [[Belajar Online Interaktif Terbaik di Indonesia]] (`00_Inbox/Belajar Online Interaktif Terbaik di Indonesia.md`)
-- [[Normal Force  Physics  Research Starters]] (`00_Inbox/Normal Force  Physics  Research Starters.md`)
+- [[LKPD_dan_Soal_Kaidah_Pencacahan_dan_Kombinatorika]] (`10_Spaces/12_Teaching/40_Practice/Mathematics/LKPD_dan_Soal_Kaidah_Pencacahan_dan_Kombinatorika.md`)
+- [[LKPD_dan_Soal_Teori_Peluang_dan_Kejadian_Majemuk]] (`10_Spaces/12_Teaching/40_Practice/Mathematics/LKPD_dan_Soal_Teori_Peluang_dan_Kejadian_Majemuk.md`)
+- [[Materi_Logika_Permutasi_dan_Kombinasi]] (`10_Spaces/12_Teaching/30_Sources/Mathematics/Materi_Logika_Permutasi_dan_Kombinasi.md`)
+- [[Materi_Teori_Peluang_dan_Kejadian_Majemuk]] (`10_Spaces/12_Teaching/30_Sources/Mathematics/Materi_Teori_Peluang_dan_Kejadian_Majemuk.md`)
+- [[Materi_Kaidah_Pencacahan_dan_Kombinatorika]] (`10_Spaces/12_Teaching/30_Sources/Mathematics/Materi_Kaidah_Pencacahan_dan_Kombinatorika.md`)
 
 ## 📄 Missing/Invalid Frontmatter Properties
 | File | Missing/Invalid Fields |
