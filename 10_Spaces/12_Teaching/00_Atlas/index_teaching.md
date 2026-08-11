@@ -20,13 +20,13 @@ Selamat datang di Teaching Resources Hub! Halaman ini mengorganisir materi ajar,
   - [[Materi_Pola_Bilangan]] — Pola Bilangan & Barisan Aritmetika/Geometri
   - [[Materi_Suku_Banyak_Polinomial]] — Polinomial & Metode Horner
   - [[Materi_Matriks]] — Matriks, Transpose, Determinan & Invers
-* **Fisika (Dinamika Gerak & Gaya):**
-  - [[Materi_Dinamika_Gerak]] — Modul Terpadu Dinamika Gerak Partikel (Hukum Newton I, II, III)
-  - [[Materi_Gaya_Normal]] — Konsep Mikroskopis & Formulasi Gaya Normal di Berbagai Bidang
-  - [[Materi_Gaya_Berat]] — Asal-usul Gravitasi, Variasi $g$, Medan Magnet & Weightlessness
-  - [[Materi_Gaya_Gesek]] — Gesekan Statis/Kinetis, Asperities, Air Drag & Kecepatan Terminal
-  - [[Materi_Gaya_Sentripetal]] — Dinamika Melingkar, Banked Curves, Ayunan Konis & Roller Coaster
-  - [[Materi_Gaya_Tegangan_Tali_dan_Katrol]] — Multi-Body Systems, Mesin Atwood & Katrol Bergerak
+* **Fisika (Topik: Dinamika Gerak):**
+  - 🏠 [[Materi_Dinamika_Gerak]] — Master Dashboard Dinamika Gerak Partikel (Hukum Newton I, II, III)
+    - 📄 [[Materi_Gaya_Berat]] — Modul 1: Asal-usul Gravitasi, Variasi $g$, & Weightlessness
+    - 📄 [[Materi_Gaya_Normal]] — Modul 2: Konsep Mikroskopis & Formulasi Gaya Normal
+    - 📄 [[Materi_Gaya_Gesek]] — Modul 3: Gesekan Statis/Kinetis, Asperities & Air Drag
+    - 📄 [[Materi_Gaya_Tegangan_Tali_dan_Katrol]] — Modul 4: Multi-Body Systems & Mesin Atwood
+    - 📄 [[Materi_Gaya_Sentripetal]] — Modul 5: Dinamika Melingkar, Banked Curves & Roller Coaster
 
 ### 📝 Lembar Kerja (Practice)
 * **Matematika:**

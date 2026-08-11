@@ -21,6 +21,9 @@ tags:
 
 # BAB 1: Dinamika Gerak Partikel — Mengapa Benda Bergerak, Diam, atau Berputar? 🚀🍎
 
+> 📍 **Navigasi Modul Dinamika Gerak:**  
+> **[🏠 Master Dashboard]** | [[Materi_Gaya_Berat|1. Gaya Berat]] | [[Materi_Gaya_Normal|2. Gaya Normal]] | [[Materi_Gaya_Gesek|3. Gaya Gesek]] | [[Materi_Gaya_Tegangan_Tali_dan_Katrol|4. Tegangan Tali & Katrol]] | [[Materi_Gaya_Sentripetal|5. Gaya Sentripetal]] | 📝 [[LKPD_dan_Soal_Dinamika_Gerak|LKPD Terpadu]]
+
 Pernah kepikiran nggak, kenapa waktu bus yang kamu tumpangi mendadak mengerem, tubuh kamu otomatis terdorong ke depan? Atau kenapa HP yang kamu taruh di atas meja nggak jatuh tembus ke lantai padahal ada gravitasi? 
 
 Kalau di materi **Kinematika** kita cuma sibuk menghitung "seberapa cepat" atau "seberapa jauh" benda bergerak tanpa peduli penyebabnya, di materi **Dinamika Gerak** ini kita bakal membongkar *si dalang utama* di balik setiap gerakan di alam semesta, yaitu **GAYA ($\vec{F}$)**!

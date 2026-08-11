@@ -8,14 +8,14 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-08-11T11:08:22Z"
+    "generated_at": "2026-08-11T11:18:13Z"
   },
   "stats": {
-    "total_notes": 161,
-    "total_edges": 595,
+    "total_notes": 162,
+    "total_edges": 671,
     "broken_links": 110,
-    "untyped_notes": 62,
-    "health_score": 50.1
+    "untyped_notes": 63,
+    "health_score": 51.1
   },
   "inbox": [
     "15 Contoh Narrative Text Bahasa Inggris Beserta Strukturnya",
@@ -48,6 +48,7 @@
         "LKPD_dan_Soal_Gaya_Gesek",
         "LKPD_dan_Soal_Gaya_Sentripetal",
         "LKPD_dan_Soal_Gaya_Normal",
+        "Soal_Latihan_Ulangan_Dinamika_Gerak",
         "LKPD_dan_Soal_Gaya_Berat",
         "LKPD_dan_Soal_Dinamika_Gerak",
         "Materi_Gaya_Gesek",
@@ -282,6 +283,10 @@
         "path": "10_Spaces/12_Teaching/40_Practice/Physics/LKPD_dan_Soal_Gaya_Normal.md"
       },
       {
+        "title": "Soal_Latihan_Ulangan_Dinamika_Gerak",
+        "path": "10_Spaces/12_Teaching/40_Practice/Physics/Soal_Latihan_Ulangan_Dinamika_Gerak.md"
+      },
+      {
         "title": "LKPD_dan_Soal_Gaya_Berat",
         "path": "10_Spaces/12_Teaching/40_Practice/Physics/LKPD_dan_Soal_Gaya_Berat.md"
       },
@@ -316,10 +321,6 @@
       {
         "title": "Soal_Latihan_Ulangan_Pola_Bilangan_Paket_B",
         "path": "10_Spaces/12_Teaching/40_Practice/Mathematics/Soal_Latihan_Ulangan_Pola_Bilangan_Paket_B.md"
-      },
-      {
-        "title": "LKPD_dan_Soal_Pola_Bilangan",
-        "path": "10_Spaces/12_Teaching/40_Practice/Mathematics/LKPD_dan_Soal_Pola_Bilangan.md"
       }
     ]
   }

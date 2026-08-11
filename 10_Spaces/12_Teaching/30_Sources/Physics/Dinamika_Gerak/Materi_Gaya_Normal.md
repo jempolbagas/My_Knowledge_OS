@@ -10,6 +10,9 @@ tags: [materi-ajar, fisika, sma, dinamika-gerak, gaya-normal]
 
 # Modul Bahan Ajar: Gaya Normal (Normal Force) — Santai Tapi Paham Sampai Akar!
 
+> 📍 **Navigasi Modul Dinamika Gerak:**  
+> [[Materi_Dinamika_Gerak|🏠 Master Dashboard]] | [[Materi_Gaya_Berat|1. Gaya Berat]] | **[2. Gaya Normal]** | [[Materi_Gaya_Gesek|3. Gaya Gesek]] | [[Materi_Gaya_Tegangan_Tali_dan_Katrol|4. Tegangan Tali & Katrol]] | [[Materi_Gaya_Sentripetal|5. Gaya Sentripetal]] | 📝 [[LKPD_dan_Soal_Dinamika_Gerak|LKPD Terpadu]]
+
 ## I. Identitas Modul
 * **Mata Pelajaran:** Fisika
 * **Kelas / Fase:** X / XI (Fase E / F)
@@ -209,3 +212,17 @@ $$f_{s,\max} = \mu_s \cdot N \quad \text{dan} \quad f_k = \mu_k \cdot N$$
    - Lift naik (+a): $N = m(g+a)$
    - Lift turun (-a): $N = m(g-a)$
 5. **Gaya Normal adalah penentu utama besar gaya gesek** ($f = \mu N$).
+
+---
+
+## 📝 Navigasi Modul & Lembar Kerja Terkait
+* **Navigasi Topic Dinamika Gerak:**
+  - 🏠 [[Materi_Dinamika_Gerak|Master Dashboard Dinamika Gerak]]
+  - 📄 [[Materi_Gaya_Berat|Modul 1: Gaya Berat]]
+  - 📄 [[Materi_Gaya_Gesek|Modul 3: Gaya Gesek]]
+  - 📄 [[Materi_Gaya_Tegangan_Tali_dan_Katrol|Modul 4: Gaya Tegangan Tali & Katrol]]
+  - 📄 [[Materi_Gaya_Sentripetal|Modul 5: Gaya Sentripetal]]
+* **Lembar Kerja & Soal Evaluasi:**
+  - 📝 [[LKPD_dan_Soal_Gaya_Normal]]
+  - 📝 [[LKPD_dan_Soal_Dinamika_Gerak]] (LKPD Terpadu)
+  - 🍎 [[index_teaching|Teaching Resources Hub]]

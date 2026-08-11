@@ -37,6 +37,27 @@
 | [[index_teaching]] | `Peran Lembaga Sosial` | `wikilink` |
 | [[index_teaching]] | `[ESL] Present Continuous Tense` | `wikilink` |
 | [[Materi_Narrative_Text]] | `infographic_languages_narrative_text_structure.webp` | `wikilink` |
+| [[Materi_Gaya_Gesek]] | `diagram_physics_gaya_gesek_fbd.webp` | `wikilink` |
+| [[Materi_Gaya_Gesek]] | `illustration_physics_gaya_gesek_asperities.webp` | `wikilink` |
+| [[Materi_Gaya_Gesek]] | `chart_physics_gaya_gesek_f_vs_f.webp` | `wikilink` |
+| [[Materi_Gaya_Gesek]] | `diagram_physics_gaya_gesek_drag_force.webp` | `wikilink` |
+| [[Materi_Gaya_Gesek]] | `illustration_physics_gaya_gesek_sliding_vs_rolling.webp` | `wikilink` |
+| [[Materi_Dinamika_Gerak]] | `diagram_physics_dinamika_gerak_fbd.webp` | `wikilink` |
+| [[Materi_Dinamika_Gerak]] | `mindmap_physics_dinamika_gerak_5_gaya.webp` | `wikilink` |
+| [[Materi_Dinamika_Gerak]] | `infographic_physics_hukum_newton.webp` | `wikilink` |
+| [[Materi_Gaya_Berat]] | `infographic_physics_gaya_berat_com_vs_cog.webp` | `wikilink` |
+| [[Materi_Gaya_Berat]] | `diagram_physics_gaya_berat_lift_fbd.webp` | `wikilink` |
+| [[Materi_Gaya_Tegangan_Tali_dan_Katrol]] | `diagram_physics_tegangan_tali_internal.webp` | `wikilink` |
+| [[Materi_Gaya_Tegangan_Tali_dan_Katrol]] | `diagram_physics_tegangan_tali_benda_berdampingan.webp` | `wikilink` |
+| [[Materi_Gaya_Tegangan_Tali_dan_Katrol]] | `diagram_physics_tegangan_tali_mesin_atwood.webp` | `wikilink` |
+| [[Materi_Gaya_Tegangan_Tali_dan_Katrol]] | `diagram_physics_tegangan_tali_meja_katrol.webp` | `wikilink` |
+| [[Materi_Gaya_Tegangan_Tali_dan_Katrol]] | `diagram_physics_tegangan_tali_bidang_miring_katrol.webp` | `wikilink` |
+| [[Materi_Gaya_Tegangan_Tali_dan_Katrol]] | `diagram_physics_tegangan_tali_katrol_bergerak.webp` | `wikilink` |
+| [[Materi_Gaya_Tegangan_Tali_dan_Katrol]] | `diagram_physics_tegangan_tali_4step_flowchart.webp` | `wikilink` |
+| [[Materi_Gaya_Sentripetal]] | `mindmap_physics_gaya_sentripetal_job.webp` | `wikilink` |
+| [[Materi_Gaya_Sentripetal]] | `diagram_physics_gaya_sentripetal_flat_curve.webp` | `wikilink` |
+| [[Materi_Gaya_Sentripetal]] | `diagram_physics_gaya_sentripetal_banked_curve.webp` | `wikilink` |
+| [[Materi_Gaya_Normal]] | `diagram_physics_gaya_normal_fbd.webp` | `wikilink` |
 | [[Materi_Pertambangan_dan_Barang_Tambang_Indonesia]] | `infographic_social_studies_mining_classification.webp` | `wikilink` |
 | [[Materi_Pertambangan_dan_Barang_Tambang_Indonesia]] | `mindmap_social_studies_indonesia_mining_map.webp` | `wikilink` |
 | [[Materi_Pertambangan_dan_Barang_Tambang_Indonesia]] | `diagram_social_studies_mining_stages_flow.webp` | `wikilink` |

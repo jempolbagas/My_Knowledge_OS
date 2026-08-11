@@ -15,6 +15,9 @@ tags:
 
 # Lembar Kerja Peserta Didik (LKPD) & Paket Evaluasi
 
+> 📍 **Navigasi Modul Dinamika Gerak:**  
+> [[Materi_Dinamika_Gerak|🏠 Master Dashboard]] | [[Materi_Gaya_Berat|1. Gaya Berat]] | [[Materi_Gaya_Normal|2. Gaya Normal]] | [[Materi_Gaya_Gesek|3. Gaya Gesek]] | [[Materi_Gaya_Tegangan_Tali_dan_Katrol|4. Tegangan Tali & Katrol]] | [[Materi_Gaya_Sentripetal|5. Gaya Sentripetal]] | **[📝 LKPD Terpadu]**
+
 ---
 
 ## BUKU PANDUAN SISWA & GURU

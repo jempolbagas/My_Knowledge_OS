@@ -17,6 +17,9 @@ tags:
 
 # BAB 1: Gaya Tegangan Tali & Katrol — Rahasia Kerja Ringan Beban Berat! 🏗️🪢
 
+> 📍 **Navigasi Modul Dinamika Gerak:**  
+> [[Materi_Dinamika_Gerak|🏠 Master Dashboard]] | [[Materi_Gaya_Berat|1. Gaya Berat]] | [[Materi_Gaya_Normal|2. Gaya Normal]] | [[Materi_Gaya_Gesek|3. Gaya Gesek]] | **[4. Tegangan Tali & Katrol]** | [[Materi_Gaya_Sentripetal|5. Gaya Sentripetal]] | 📝 [[LKPD_dan_Soal_Dinamika_Gerak|LKPD Terpadu]]
+
 Pernah ngeliat derek konstruksi ngangkat beban beton ber-ton-ton dengan santai? Atau pernah nimba air di sumur pakai katrol? Gimana caranya tali tipis dan roda katrol bisa bikin beban berat berasa ringan?
 
 Yuk, kita bongkar rahasia fisika di balik **gaya tegangan tali** dan **sistem katrol** yang bikin pekerjaan berat di dunia teknik jadi jauh lebih mudah!
@@ -273,6 +276,14 @@ $$\text{Hubungan Percepatan:} \quad a_{\text{kuasa}} = n \cdot a_{\text{beban}}$
 
 ---
 
-## 📝 Lembar Kerja & Soal Evaluasi Terkait
-- [[LKPD_dan_Soal_Gaya_Tegangan_Tali_dan_Katrol]]
-- [[index_teaching|🍎 Teaching Resources Hub]]
+## 📝 Navigasi Modul & Lembar Kerja Terkait
+* **Navigasi Topic Dinamika Gerak:**
+  - 🏠 [[Materi_Dinamika_Gerak|Master Dashboard Dinamika Gerak]]
+  - 📄 [[Materi_Gaya_Berat|Modul 1: Gaya Berat]]
+  - 📄 [[Materi_Gaya_Normal|Modul 2: Gaya Normal]]
+  - 📄 [[Materi_Gaya_Gesek|Modul 3: Gaya Gesek]]
+  - 📄 [[Materi_Gaya_Sentripetal|Modul 5: Gaya Sentripetal]]
+* **Lembar Kerja & Soal Evaluasi:**
+  - 📝 [[LKPD_dan_Soal_Gaya_Tegangan_Tali_dan_Katrol]]
+  - 📝 [[LKPD_dan_Soal_Dinamika_Gerak]] (LKPD Terpadu)
+  - 🍎 [[index_teaching|Teaching Resources Hub]]

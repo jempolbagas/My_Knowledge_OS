@@ -14,6 +14,9 @@ tags:
 
 # Gaya Sentripetal — Rahasia Selamat di Tikungan & Roller Coaster! 🎢🔄
 
+> 📍 **Navigasi Modul Dinamika Gerak:**  
+> [[Materi_Dinamika_Gerak|🏠 Master Dashboard]] | [[Materi_Gaya_Berat|1. Gaya Berat]] | [[Materi_Gaya_Normal|2. Gaya Normal]] | [[Materi_Gaya_Gesek|3. Gaya Gesek]] | [[Materi_Gaya_Tegangan_Tali_dan_Katrol|4. Tegangan Tali & Katrol]] | **[5. Gaya Sentripetal]** | 📝 [[LKPD_dan_Soal_Dinamika_Gerak|LKPD Terpadu]]
+
 Pernahkah kamu naik roller coaster yang berputar terbalik 360 derajat di udara, tetapi anehnya kamu tidak jatuh ke bawah? Atau pernahkah kamu memperhatikan saat naik mobil melintasi tikungan tajam, tubuhmu seolah-olah terdorong ke arah luar? 
 
 Semua fenomena menarik ini diatur oleh satu prinsip penting dalam ilmu fisika: **Gaya Sentripetal**. 
@@ -243,6 +246,14 @@ Tanda minus menandakan bahwa vektor percepatan ini senantiasa **mengarah ke pusa
 
 ---
 
-## 📝 Lembar Kerja & Latihan Soal Terkait
-- [[LKPD_dan_Soal_Gaya_Sentripetal]]
-- [[index_teaching|🍎 Teaching Resources Hub]]
+## 📝 Navigasi Modul & Lembar Kerja Terkait
+* **Navigasi Topic Dinamika Gerak:**
+  - 🏠 [[Materi_Dinamika_Gerak|Master Dashboard Dinamika Gerak]]
+  - 📄 [[Materi_Gaya_Berat|Modul 1: Gaya Berat]]
+  - 📄 [[Materi_Gaya_Normal|Modul 2: Gaya Normal]]
+  - 📄 [[Materi_Gaya_Gesek|Modul 3: Gaya Gesek]]
+  - 📄 [[Materi_Gaya_Tegangan_Tali_dan_Katrol|Modul 4: Tegangan Tali & Katrol]]
+* **Lembar Kerja & Soal Evaluasi:**
+  - 📝 [[LKPD_dan_Soal_Gaya_Sentripetal]]
+  - 📝 [[LKPD_dan_Soal_Dinamika_Gerak]] (LKPD Terpadu)
+  - 🍎 [[index_teaching|Teaching Resources Hub]]

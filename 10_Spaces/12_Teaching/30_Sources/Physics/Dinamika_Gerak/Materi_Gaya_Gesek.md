@@ -15,6 +15,9 @@ tags:
 
 # Gaya Gesek — Si Rem Alami yang Bikin Dunia Nggak Licin! 🛹🔥
 
+> 📍 **Navigasi Modul Dinamika Gerak:**  
+> [[Materi_Dinamika_Gerak|🏠 Master Dashboard]] | [[Materi_Gaya_Berat|1. Gaya Berat]] | [[Materi_Gaya_Normal|2. Gaya Normal]] | **[3. Gaya Gesek]** | [[Materi_Gaya_Tegangan_Tali_dan_Katrol|4. Tegangan Tali & Katrol]] | [[Materi_Gaya_Sentripetal|5. Gaya Sentripetal]] | 📝 [[LKPD_dan_Soal_Dinamika_Gerak|LKPD Terpadu]]
+
 Pernah bayangin nggak kalau di dunia ini nggak ada gaya gesek sama sekali? Kita nggak bakal bisa jalan (bakal terpeleset terus di tempat), mobil bakal nge-drift tanpa henti tanpa bisa direm, bahkan tali sepatu kamu nggak bakal bisa diikat karena simpulnya bakal lepas sendiri! Serem tapi kocak banget, kan?
 
 Nah, untungnya alam semesta menyediakan gaya super penting yang dinamakan **Gaya Gesek (Frictional Force)**. Di materi kali ini, yuk kita bedah tuntas si "rem alami" ini—mulai dari rahasia mikroskopisnya, rumus-rumus kecenya, sampai aksinya di dunia nyata seperti rem ABS mobil balap!
@@ -240,6 +243,14 @@ Dalam dinamika benda tegar (seperti roda atau bola), ada perbedaan mendasar anta
 
 ---
 
-## 📝 Lembar Kerja & Soal Evaluasi Terkait
-- [[LKPD_dan_Soal_Gaya_Gesek]]
-- [[index_teaching|🍎 Teaching Resources Hub]]
+## 📝 Navigasi Modul & Lembar Kerja Terkait
+* **Navigasi Topic Dinamika Gerak:**
+  - 🏠 [[Materi_Dinamika_Gerak|Master Dashboard Dinamika Gerak]]
+  - 📄 [[Materi_Gaya_Berat|Modul 1: Gaya Berat]]
+  - 📄 [[Materi_Gaya_Normal|Modul 2: Gaya Normal]]
+  - 📄 [[Materi_Gaya_Tegangan_Tali_dan_Katrol|Modul 4: Gaya Tegangan Tali & Katrol]]
+  - 📄 [[Materi_Gaya_Sentripetal|Modul 5: Gaya Sentripetal]]
+* **Lembar Kerja & Soal Evaluasi:**
+  - 📝 [[LKPD_dan_Soal_Gaya_Gesek]]
+  - 📝 [[LKPD_dan_Soal_Dinamika_Gerak]] (LKPD Terpadu)
+  - 🍎 [[index_teaching|Teaching Resources Hub]]

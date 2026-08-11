@@ -15,6 +15,9 @@ tags:
 
 # BAB 1: Gaya Berat & Gravitasi — Tarikan Bumi yang Bikin Kita Tetap Membumi! 🌍✨
 
+> 📍 **Navigasi Modul Dinamika Gerak:**  
+> [[Materi_Dinamika_Gerak|🏠 Master Dashboard]] | **[1. Gaya Berat]** | [[Materi_Gaya_Normal|2. Gaya Normal]] | [[Materi_Gaya_Gesek|3. Gaya Gesek]] | [[Materi_Gaya_Tegangan_Tali_dan_Katrol|4. Tegangan Tali & Katrol]] | [[Materi_Gaya_Sentripetal|5. Gaya Sentripetal]] | 📝 [[LKPD_dan_Soal_Dinamika_Gerak|LKPD Terpadu]]
+
 Pernah kepikiran nggak, kenapa kalau kita melompat setinggi apa pun, kita bakal selalu balik jatuh ke bawah? Atau kenapa timbangan badan kamu mendadak bikin "senang" saat lift mendadak turun, tapi bikin "sedih" saat lift melaju cepat ke atas? Terus, kenapa astronaut di Stasiun Luar Angkasa Internasional (ISS) bisa melayang-layang ceria seolah tanpa beban? Apakah gravitasi di sana beneran hilang nol sama sekali?
 
 Yuk, kita bedah bareng-bareng misteri tarikan *invisible* alam semesta ini dengan santai dan menyenangkan, biar fisika nggak lagi berasa menakutkan! 🚀
@@ -177,6 +180,14 @@ Yuk, kita bersihkan beberapa salah kaprah fisika yang sering muncul:
 
 ---
 
-## 📝 Lembar Kerja & Soal Evaluasi Terkait
-- [[LKPD_dan_Soal_Gaya_Berat]]
-- [[index_teaching|🍎 Teaching Resources Hub]]
+## 📝 Navigasi Modul & Lembar Kerja Terkait
+* **Navigasi Topic Dinamika Gerak:**
+  - 🏠 [[Materi_Dinamika_Gerak|Master Dashboard Dinamika Gerak]]
+  - 📄 [[Materi_Gaya_Normal|Modul 2: Gaya Normal]]
+  - 📄 [[Materi_Gaya_Gesek|Modul 3: Gaya Gesek]]
+  - 📄 [[Materi_Gaya_Tegangan_Tali_dan_Katrol|Modul 4: Gaya Tegangan Tali & Katrol]]
+  - 📄 [[Materi_Gaya_Sentripetal|Modul 5: Gaya Sentripetal]]
+* **Lembar Kerja & Soal Evaluasi:**
+  - 📝 [[LKPD_dan_Soal_Gaya_Berat]]
+  - 📝 [[LKPD_dan_Soal_Dinamika_Gerak]] (LKPD Terpadu)
+  - 🍎 [[index_teaching|Teaching Resources Hub]]
