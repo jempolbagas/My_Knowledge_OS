@@ -38,13 +38,7 @@ Gaya itu **besaran vektor**, artinya dia punya **nilai (besarnya)** dan **arah**
 ### Kunci Utama: Diagram Bebas Benda (Free-Body Diagram / FBD) 🔍
 Sebelum menghitung rumus fisika, senjata paling ampuh yang wajib kamu kuasai adalah **FBD**. FBD itu seperti "foto rontgen gaya" yang memperlihatkan semua gaya luar yang sedang bekerja tepat pada satu benda yang kita tinjau.
 
-```
-                    ▲ N (Gaya Normal)
-                    │
-       f_s / f_k ◄──┼──► F (Gaya Tarik Luar)
-  (Gaya Gesek)      │
-                    ▼ W = mg (Gaya Berat)
-```
+![[diagram_physics_dinamika_gerak_fbd.webp]]
 
 > [!TIP]
 > **Aturan Emas FBD:** Selalu gambar panah gaya mulai dari titik tangkap benda, dan pastikan arah panahnya sesuai sifat fisis masing-masing gaya!
@@ -55,25 +49,7 @@ Sebelum menghitung rumus fisika, senjata paling ampuh yang wajib kamu kuasai ada
 
 Dinamika gerak di SMA berporos pada interaksi 5 jenis gaya khusus. Masing-masing gaya ini punya modul *deep-dive* sendiri buat kamu pelajari sampai ke akar-akarnya. Coba cek peta integrasinya berikut:
 
-```
-┌────────────────────────────────────────────────────────────────────────┐
-│                        DINAMIKA GERAK PARTIKEL                         │
-│                    (Penyebab Gerak & Hukum Newton)                     │
-└──────────────────────────────────┬─────────────────────────────────────┘
-                                   │
-      ┌────────────────────────────┼────────────────────────────┐
-      ▼                            ▼                            ▼
-┌──────────────┐             ┌──────────────┐             ┌──────────────┐
-│  GAYA MEDAN  │             │ GAYA KONTAK  │             │ GAYA RESULTAN│
-└──────┬───────┘             └──────┬───────┘             └──────┬───────┘
-       │                            │                            │
-       ├─► [[Materi_Gaya_Berat]]    ├─► [[Materi_Gaya_Normal]]   └─► [[Materi_Gaya_Sentripetal]]
-       │   (Gravitasi Bumi)         │   (Tolakan Bidang)             (Peran Gerak Melingkar)
-       │                            ├─► [[Materi_Gaya_Gesek]]
-       │                            │   (Hambatan Kontak)
-       │                            └─► [[Materi_Gaya_Tegangan_Tali_dan_Katrol]]
-       │                                (Transmisi Tarikan)
-```
+![[mindmap_physics_dinamika_gerak_5_gaya.webp]]
 
 ### Ringkasan & Hubungan Antar 5 Gaya Utama:
 
@@ -108,21 +84,7 @@ Dinamika gerak di SMA berporos pada interaksi 5 jenis gaya khusus. Masing-masing
 
 Semua interaksi kelima gaya di atas diatur oleh 3 aturan utama Sir Isaac Newton:
 
-```
-+-------------------------------------------------------------------------+
-|                           HUKUM-HUKUM NEWTON                            |
-+-----------------------------+-----------------------------+-------------+
-|        Hukum I Newton       |       Hukum II Newton       | Hukum III N |
-|     (Hukum Kelembaman)      |    (Hubungan F, m, dan a)   | (Aksi-Reak) |
-+-----------------------------+-----------------------------+-------------+
-|    "Benda cenderung         | "Percepatan sebanding dg    | "F_aksi =   |
-|     mempertahankan kondisi  |  resultan gaya dan ber-     |  -F_reaksi" |
-|     geraknya (diam/GLB)"    |  banding terbalik massa"    |             |
-|                             |                             | Bekerja pd  |
-|      \sum \vec{F} = 0       |     \sum \vec{F} = m \vec{a}| dua benda   |
-|   => a = 0 (diam/GLB)       |                             | berbeda.    |
-+-----------------------------+-----------------------------+-------------+
-```
+![[infographic_physics_hukum_newton.webp]]
 
 ### 3.1 Hukum I Newton (Inersia / Kelembaman)
 > *"Kalau resultan gaya yang bekerja pada benda sama dengan nol ($\sum \vec{F} = 0$), benda yang diam akan tetap diam, dan benda yang sedang bergerak akan tetap bergerak lurus beraturan (GLB)."*

@@ -8,14 +8,14 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-08-10T14:14:43Z"
+    "generated_at": "2026-08-11T11:08:22Z"
   },
   "stats": {
-    "total_notes": 159,
-    "total_edges": 568,
-    "broken_links": 80,
-    "untyped_notes": 60,
-    "health_score": 53.5
+    "total_notes": 161,
+    "total_edges": 595,
+    "broken_links": 110,
+    "untyped_notes": 62,
+    "health_score": 50.1
   },
   "inbox": [
     "15 Contoh Narrative Text Bahasa Inggris Beserta Strukturnya",
@@ -59,10 +59,12 @@
       ],
       "Social Studies": [
         "LKPD_dan_Soal_Tenaga_Endogen_Vulkanisme",
+        "LKPD_dan_Soal_Pertambangan_dan_Barang_Tambang_Indonesia",
         "LKPD_dan_Soal_Litosfer_Tenaga_Endogen_dan_Eksogen",
         "LKPD_dan_Soal_Tenaga_Eksogen",
         "LKPD_dan_Soal_Keanekaragaman_Hayati_Indonesia",
         "Materi_Tenaga_Endogen_Vulkanisme",
+        "Materi_Pertambangan_dan_Barang_Tambang_Indonesia",
         "Materi_Tenaga_Eksogen",
         "Materi_Keanekaragaman_Hayati_dan_Jenis_Hutan_Indonesia",
         "Materi_Litosfer_Tenaga_Endogen_dan_Eksogen"
@@ -292,6 +294,10 @@
         "path": "10_Spaces/12_Teaching/40_Practice/Social_Studies/LKPD_dan_Soal_Tenaga_Endogen_Vulkanisme.md"
       },
       {
+        "title": "LKPD_dan_Soal_Pertambangan_dan_Barang_Tambang_Indonesia",
+        "path": "10_Spaces/12_Teaching/40_Practice/Social_Studies/LKPD_dan_Soal_Pertambangan_dan_Barang_Tambang_Indonesia.md"
+      },
+      {
         "title": "LKPD_dan_Soal_Litosfer_Tenaga_Endogen_dan_Eksogen",
         "path": "10_Spaces/12_Teaching/40_Practice/Social_Studies/LKPD_dan_Soal_Litosfer_Tenaga_Endogen_dan_Eksogen.md"
       },
@@ -314,10 +320,6 @@
       {
         "title": "LKPD_dan_Soal_Pola_Bilangan",
         "path": "10_Spaces/12_Teaching/40_Practice/Mathematics/LKPD_dan_Soal_Pola_Bilangan.md"
-      },
-      {
-        "title": "LKPD_dan_Soal_Suku_Banyak_Polinomial",
-        "path": "10_Spaces/12_Teaching/40_Practice/Mathematics/LKPD_dan_Soal_Suku_Banyak_Polinomial.md"
       }
     ]
   }

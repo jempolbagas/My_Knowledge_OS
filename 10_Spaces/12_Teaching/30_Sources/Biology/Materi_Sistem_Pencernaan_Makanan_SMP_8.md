@@ -1,6 +1,6 @@
 ---
-title: "Materi Ajar: Sistem Pencernaan Makanan Manusia"
-target_audience: "SMP Kelas VIII"
+title: "Materi Ajar SMP: Sistem Pencernaan Makanan Manusia"
+target_audience: SMP Kelas VIII
 created: 2026-08-10
 tags:
   - biologi
@@ -67,13 +67,14 @@ Tubuh membutuhkan nutrisi sebagai sumber energi, bahan pembangun sel, serta peng
 
 Untuk mengetahui kandungan zat gizi dalam makanan, dilakukan uji kualitatif menggunakan reagen kimia khusus:
 
-| Nutrisi Target | Reagen Uji | Reaksi / Perubahan Warna Positif | Keterangan & Prosedur |
-| :--- | :--- | :--- | :--- |
-| **Amilum (Pati)** | **Lugol / Iodin** | **Biru Tua hingga Hitam** | Ekstrak makanan ditetesi 2-3 tetes Lugol. Tanpa pemanasan. |
-| **Glukosa (Gula Reduksi)** | **Benedict / Fehling A+B** | **Merah Bata / Oranye** | Ditambahkan reagen Benedict lalu **dipanaskan** dalam penangas air mendidih. |
-| **Protein** | **Biuret** ( $\text{NaOH} + \text{CuSO}_4$ ) | **Ungu / Merah Muda** | Ditambahi tetesan Biuret kocok perlahan. Tanpa pemanasan. |
-| **Lemak** | **Kertas Buram / Transparan** | **Bercak Transparan** | Bahan disapukan pada kertas buram, dikeringkan di bawah cahaya. |
+| Nutrisi Target             | Reagen Uji                                   | Reaksi / Perubahan Warna Positif | Keterangan & Prosedur                                                        |
+| :------------------------- | :------------------------------------------- | :------------------------------- | :--------------------------------------------------------------------------- |
+| **Amilum (Pati)**          | **Lugol / Iodin**                            | **Biru Tua hingga Hitam**        | Ekstrak makanan ditetesi 2-3 tetes Lugol. Tanpa pemanasan.                   |
+| **Glukosa (Gula Reduksi)** | **Benedict / Fehling A+B**                   | **Merah Bata / Oranye**          | Ditambahkan reagen Benedict lalu **dipanaskan** dalam penangas air mendidih. |
+| **Protein**                | **Biuret** ( $\text{NaOH} + \text{CuSO}_4$ ) | **Ungu / Merah Muda**            | Ditambahi tetesan Biuret kocok perlahan. Tanpa pemanasan.                    |
+| **Lemak**                  | **Kertas Buram / Transparan**                | **Bercak Transparan**            | Bahan disapukan pada kertas buram, dikeringkan di bawah cahaya.              |
 
+![[infographic_biology_food_testing_reagents.webp]]
 ---
 
 ### C. Kebutuhan Kalori Harian & Basal Metabolic Rate (BMR)

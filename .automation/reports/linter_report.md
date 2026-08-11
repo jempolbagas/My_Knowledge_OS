@@ -5,6 +5,11 @@
 | --- | --- | --- |
 | [[KTI_Context]] | `KTI_Knowledge_Map.canvas` | `wikilink` |
 | [[[ESL] Worksheet - Simple Present vs Present Continuous]] | `[ESL] Present Continuous Tense` | `wikilink` |
+| [[LKPD_dan_Soal_Pertambangan_dan_Barang_Tambang_Indonesia]] | `infographic_social_studies_mining_classification.webp` | `wikilink` |
+| [[LKPD_dan_Soal_Pertambangan_dan_Barang_Tambang_Indonesia]] | `mindmap_social_studies_indonesia_mining_map.webp` | `wikilink` |
+| [[LKPD_dan_Soal_Pertambangan_dan_Barang_Tambang_Indonesia]] | `infographic_social_studies_mining_classification.webp` | `wikilink` |
+| [[LKPD_dan_Soal_Pertambangan_dan_Barang_Tambang_Indonesia]] | `mindmap_social_studies_indonesia_mining_map.webp` | `wikilink` |
+| [[LKPD_dan_Soal_Pertambangan_dan_Barang_Tambang_Indonesia]] | `diagram_social_studies_mining_stages_flow.webp` | `wikilink` |
 | [[LKPD_dan_Soal_Pola_Bilangan]] | `diagram_mathematics_number_patterns_matchstick_squares.webp` | `wikilink` |
 | [[LKPD_dan_Soal_Pola_Bilangan]] | `infographic_mathematics_number_patterns_pascal_triangle.webp` | `wikilink` |
 | [[LKPD_dan_Soal_Pola_Bilangan]] | `illustration_mathematics_number_patterns_theater_seating.webp` | `wikilink` |
@@ -32,11 +37,15 @@
 | [[index_teaching]] | `Peran Lembaga Sosial` | `wikilink` |
 | [[index_teaching]] | `[ESL] Present Continuous Tense` | `wikilink` |
 | [[Materi_Narrative_Text]] | `infographic_languages_narrative_text_structure.webp` | `wikilink` |
+| [[Materi_Pertambangan_dan_Barang_Tambang_Indonesia]] | `infographic_social_studies_mining_classification.webp` | `wikilink` |
+| [[Materi_Pertambangan_dan_Barang_Tambang_Indonesia]] | `mindmap_social_studies_indonesia_mining_map.webp` | `wikilink` |
+| [[Materi_Pertambangan_dan_Barang_Tambang_Indonesia]] | `diagram_social_studies_mining_stages_flow.webp` | `wikilink` |
 | [[Materi_Pola_Bilangan]] | `diagram_mathematics_number_patterns_multilevel_scheme.webp` | `wikilink` |
 | [[Materi_Sistem_Pencernaan_Makanan]] | `diagram_biology_digestive_process_flow.webp` | `wikilink` |
 | [[Materi_Sistem_Pencernaan_Makanan]] | `mindmap_biology_nutrient_classification.webp` | `wikilink` |
 | [[Materi_Sistem_Pencernaan_Makanan]] | `infographic_biology_digestive_system_smp8.webp` | `wikilink` |
 | [[Materi_Sistem_Pencernaan_Makanan_SMP_8]] | `infographic_biology_digestive_system_smp8.webp` | `wikilink` |
+| [[Materi_Sistem_Pencernaan_Makanan_SMP_8]] | `infographic_biology_food_testing_reagents.webp` | `wikilink` |
 | [[Materi_Sistem_Pencernaan_Makanan_SMP_8]] | `infographic_biology_nutrition_facts_boba.webp` | `wikilink` |
 | [[Materi_Sistem_Pencernaan_Makanan_SMP_8]] | `infographic_biology_digestive_system_smp8.webp` | `wikilink` |
 | [[Materi_Distribusi_Pendapatan]] | `chart_economics_national_income_lorenz_curve.webp` | `wikilink` |

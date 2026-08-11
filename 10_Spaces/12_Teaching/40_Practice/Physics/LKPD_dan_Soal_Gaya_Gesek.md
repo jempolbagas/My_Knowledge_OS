@@ -20,7 +20,7 @@ tags:
 # BAGIAN I: LEMBAR KERJA PESERTA DIDIK (LKPD)
 
 ## Aktivitas 1: Eksperimen Menentukan Koefisien Gesek Statis ($\mu_s$) Lewat Bidang Miring 📐
-
+	
 Yuk, kita buktikan sendiri gimana cara mengukur "tingkat kelengketan" permukaan ($\mu_s$) cuma bermodalkan sudut kemiringan papan!
 
 ### Identitas Tim Detektif Fisika:

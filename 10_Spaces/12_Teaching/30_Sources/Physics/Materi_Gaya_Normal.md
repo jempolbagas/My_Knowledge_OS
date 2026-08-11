@@ -99,15 +99,7 @@ Karena $N$ dan $w$ sama-sama bekerja pada **benda yang sama**, mereka BUKAN pasa
 
 Nah, sekarang kita masuk ke bagian berhitungnya. Kuncinya simpel: selalu gunakan **Diagram Gaya Bebas (*Free Body Diagram* / FBD)** dan atur sumbu tegak lurus bidang kontak!
 
-```
-                   ▲ N (Gaya Normal)
-                   │
-           ┌───────┴───────┐
-           │     Benda     │
- ──────────┴───────┬───────┴────────── (Lantai)
-                   │
-                   ▼ w = mg (Gaya Berat)
-```
+![[diagram_physics_gaya_normal_fbd.webp]]
 
 ---
 

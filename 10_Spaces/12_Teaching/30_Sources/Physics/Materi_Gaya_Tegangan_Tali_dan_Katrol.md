@@ -51,9 +51,7 @@ Kalau diintip pakai mikroskop super canggih, tegangan tali ini sebenarnya berasa
 > 💡 **Analogy Time!**  
 > Bayangkan molekul-molekul tali seperti **rantai manusia yang saling bergandengan tangan erat-erat**. Ketika kedua ujung tali ditarik ke luar, jarak antarmolekul merenggang sedikit dari posisi santainya. Molekul-molekul ini pun langsung mengeluarkan gaya pemulih buat menarik teman di sebelahnya agar bergandengan erat kembali!
 
-```
-       [Benda A] <=== T1 ════ ( Tali ) ════ T2 ===> [Benda B]
-```
+![[diagram_physics_tegangan_tali_internal.webp]]
 
 > [!IMPORTANT]
 > **Aturan Emas Vektor Tegangan Tali:**  
@@ -77,12 +75,7 @@ Dalam penyelesaian soal fisika, kita sering memakai model **Tali Ideal** supaya 
 
 Sebelum masuk ke katrol, yuk kita kepoin dulu sistem *multi-body* paling simpel: balok-balok yang saling nempel di atas lantai lalu didorong gaya horizontal $F$.
 
-```
-                 ┌──────┐┌──────┐┌──────┐
-        F ────► │  m1  ││  m2  ││  m3  │
-                 └──────┘└──────┘└──────┘
-      ─────────────────────────────────────────── (Lantai)
-```
+![[diagram_physics_tegangan_tali_benda_berdampingan.webp]]
 
 ### A. Penurunan Kasus Lantai Licin
 Misalkan ada tiga balok bermassa $m_1$, $m_2$, dan $m_3$ berjejer di lantai licin, lalu balok $m_1$ didorong gaya $F$ ke kanan.
@@ -119,18 +112,7 @@ Kalau lantainya kasar dengan koefisien gesek kinetis $\mu_k$:
 
 Mesin Atwood (*Atwood Machine*) diciptakan oleh fisikawan Inggris George Atwood pada tahun 1784. Dulu, alat ini dibuat buat "memperlambat" gerak jatuh bebas akibat gravitasi supaya hukum-hukum gerak Newton bisa diukur dengan teliti di laboratorium!
 
-```
-                     ┌───────┐
-                     │ ( O ) │ Katrol Tetap
-                     └─┬───┬─┘
-                       │   │
-                       │   │
-                     ┌─┴─┐ │
-                     │m1 │ │
-                     └───┘ ┌─┴─┐
-                           │m2 │  (Misalkan m2 > m1)
-                           └───┘
-```
+![[diagram_physics_tegangan_tali_mesin_atwood.webp]]
 
 ### A. Asumsi Sistem Mesin Atwood Ideal
 1. Katrol tetap licin tanpa gesekan dan massanya diabaikan ($I_{\text{katrol}} = 0$).
@@ -179,15 +161,7 @@ Yuk, kita gambar FBD untuk masing-masing beban:
 
 Sistem banyak benda sering menggabungkan balok yang meluncur di meja/bidang miring dengan beban yang menggantung vertikal.
 
-```
-       ┌──────┐
-       │  m1  │ ═══════════ ( O ) Katrol Tetap
-       └──────┘              │
-  ─────────────────────────  │
-           (Bidang Datar)  ┌─┴─┐
-                           │m2 │
-                           └───┘
-```
+![[diagram_physics_tegangan_tali_meja_katrol.webp]]
 
 ### Kasus A: Bidang Datar & Beban Menggantung
 
@@ -209,16 +183,7 @@ Sistem banyak benda sering menggabungkan balok yang meluncur di meja/bidang miri
 
 ### Kasus B: Bidang Miring Bersudut $\theta$ & Beban Menggantung
 
-```
-                 ( O ) Katrol Tetap
-                ╱  │
-         ┌────┐╱   │
-         │ m1 │    │
-        ╱└────┘    ┌─┴─┐
-       ╱           │m2 │
-      ╱ θ          └───┘
-  ───┴─────────────────────────
-```
+![[diagram_physics_tegangan_tali_bidang_miring_katrol.webp]]
 
 Pada bidang miring dengan sudut elevasi $\theta$:
 * Urai gaya berat $m_1$: komponen sejajar bidang $w_{1x} = m_1 g \sin \theta$, komponen tegak lurus bidang $w_{1y} = m_1 g \cos \theta \implies N_1 = m_1 g \cos \theta$.
@@ -243,19 +208,7 @@ Pada bidang miring dengan sudut elevasi $\theta$:
 ### A. Kinematika Terikat (*Constrained Motion*) Katrol Bergerak
 Katrol bergerak (*movable pulley*) adalah katrol yang ikut berpindah tempat sewaktu beban diangkat. Coba deh perhatikan strukturnya:
 
-```
-          /////// Atap //─────┐
-             │                │
-             │                │ (Tali 1)
-             │              ┌─┴─┐
-             │              │ O │ Katrol Bergerak (Benda 2)
-             │              └─┬─┘
-             └────────────────┼────────┐
-                              │        │
-                            ┌─┴─┐    ┌─┴─┐ (Kuasa / Tarikan F)
-                            │m2 │    │ F │ atau Benda 1 (m1)
-                            └───┘    └───┘
-```
+![[diagram_physics_tegangan_tali_katrol_bergerak.webp]]
 
 Panjang tali $L$ yang mengikat sistem memenuhi:
 $$L = x_1 + 2 x_2 + \text{konstanta}$$
@@ -306,26 +259,7 @@ $$\text{Hubungan Percepatan:} \quad a_{\text{kuasa}} = n \cdot a_{\text{beban}}$
 
 ### B. 4 Langkah Emas Menyelesaikan Soal Dinamika Multi-Body
 
-```
-   ┌─────────────────────────────────────────────────────────────┐
-   │ LANGKAH 1: Gambar FBD Lengkap Terpisah Untuk Setiap Benda   │
-   └──────────────────────────────┬──────────────────────────────┘
-                                  │
-                                  ▼
-   ┌─────────────────────────────────────────────────────────────┐
-   │ LANGKAH 2: Tentukan Arah Sumbu Positif Sesuai Lintasan Gerak│
-   └──────────────────────────────┬──────────────────────────────┘
-                                  │
-                                  ▼
-   ┌─────────────────────────────────────────────────────────────┐
-   │ LANGKAH 3: Tuliskan ΣF = m.a Per Benda (Hukum II Newton)   │
-   └──────────────────────────────┬──────────────────────────────┘
-                                  │
-                                  ▼
-   ┌─────────────────────────────────────────────────────────────┐
-   │ LANGKAH 4: Eliminasi / Substitusi Persamaan Aljabar Linear  │
-   └──────────────────────────────┬──────────────────────────────┘
-```
+![[diagram_physics_tegangan_tali_4step_flowchart.webp]]
 
 1. **Langkah 1 (FBD Spasial):** Gambar Diagram Gaya Bebas (*Free Body Diagram*) terpisah untuk tiap massa. Cantumkan semua gaya kontak ($N, T, f, P$) dan gaya berat ($w = mg$).
 2. **Langkah 2 (Orientasi Arah):** Tentukan arah "positif" yang konsisten mengikuti alur gerak sistem. (Gaya yang searah gerak diberi tanda positif +).

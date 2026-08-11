@@ -30,17 +30,7 @@ Kalau mengacu pada **Hukum I Newton**, sebuah benda harusnya bakal terus bergera
 > **Definisi Kece:**  
 > **Gaya Gesek** ($\vec{f}$) adalah gaya kontak yang muncul akibat interaksi langsung antara dua permukaan yang bersentuhan. Arah gaya gesek ini **selalu berlawanan** dengan arah gerak relatif (atau kecenderungan arah gerak) si benda terhadap permukaan landasannya.
 
-```
-          Arah Gerak / Kecenderungan Gerak (v atau F_tarik)
-                        =======>
-        +---------------------------------------+
-        |                                       |
-        |               BENDA (m)               |
-        |                                       |
-        +---------------------------------------+
-     <------- (f_gesek)    ///////////////////////
-                           PERMUKAAN LANDASAN
-```
+![[diagram_physics_gaya_gesek_fbd.webp]]
 
 ### Sifat-Sifat Utama Gaya Gesek yang Wajib Kamu Tahu:
 1. **Gaya Tangensial (Sejajar Permukaan):**  
@@ -58,13 +48,7 @@ Kalau kamu lihat meja kayu yang halus atau kaca lantai yang kinclong, secara mak
 
 Ternyata, permukaan paling mulus sekalipun itu penuh dengan puncak bukit dan lembah mikroskopis yang bergerigi. Puncak-puncak kekasaran mikroskopis ini disebut **asperities**.
 
-```
-   [ Permukaan Benda Atas ]
-   /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\  <-- Asperities Atas
-   ========================================  <-- Titik Contacts Nyata (Micro-welds)
-   \/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/  <-- Asperities Bawah
-   [ Permukaan Landasan Bawah ]
-```
+![[illustration_physics_gaya_gesek_asperities.webp]]
 
 ### Gimana Asperities Bikin Benda Macet? (Analoginya Mirip Velcro!)
 
@@ -155,22 +139,7 @@ $$\mu_s > \mu_k \implies f_{s,\max} > f_k$$
 
 Yuk visualisasikan perjalanan gaya gesek dari diam sampai meluncur dalam grafik keren berikut:
 
-```
- Gaya Gesek (f)
-       ^
-       |                  Titik Puncak (Tepat Akan Bergerak)
-f_s,max|                      /\  (f_s,max = \mu_s * N)
-       |                     /  \  
-  f_k  | - - - - - - - - - -/- - \======= DAERAH KINETIS (f_k = \mu_k * N)
-       |                   /      
-       |                  /  
-       |                 /   
-       |                /    DAERAH STATIS (f_s = F)
-       |               /     (Garis Linier Gradien = 1)
-       |              /      
-       +-------------------------------------------------------------> Gaya Luar (F)
-       0             F_1        F_2 (sama dgn f_s,max)
-```
+![[chart_physics_gaya_gesek_f_vs_f.webp]]
 
 ### Bedah 3 Area Utama Grafik:
 
@@ -226,21 +195,7 @@ $$F_D = \frac{1}{2} C \rho A v^2$$
   * $A$ = Luas penampang depan benda ($\text{m}^2$)
   * $v$ = Kecepatan gerak benda ($\text{m/s}$)
 
-```
-             +----+
-             | m  |  Benda Jatuh
-             +----+
-               |
-               v  v (kecepatan bertambah)
-
-   Gaya Drag (F_D = 1/2 * C * \rho * A * v^2)   ^
-                                                |
-                                             +------+
-                                             |  m   |
-                                             +------+
-                                                |
-                                                v   Gaya Berat (W = m*g)
-```
+![[diagram_physics_gaya_gesek_drag_force.webp]]
 
 ### B. Fenomena Kecepatan Terminal ($v_T$)
 Bayangkan seorang penerjun payung melompat dari pesawat:
@@ -263,17 +218,7 @@ v_T &= \sqrt{\frac{2 m g}{C \rho A}}
 
 Dalam dinamika benda tegar (seperti roda atau bola), ada perbedaan mendasar antara ban yang meluncur terseret vs roda yang menggelinding mulus!
 
-```
-GERAK MELUNCUR (SLIDING):              GERAK MENGGELINDING TANPA SLIP:
-        v_pusat > 0                            v_pusat = \omega * R
-        ----->                                      ----->
-       /       \                                   /  --->  \
-      |    m    |                             \   |    m    |   /
-       \       /                               \   \       /   /
-        -------                                     -------
-        ======> v_kontak > 0                        . v_kontak = 0 (Diam Seketika!)
-    (Terjadi f_k disipatif)                   (Terjadi f_s konservatif energi)
-```
+![[illustration_physics_gaya_gesek_sliding_vs_rolling.webp]]
 
 ### Tabel Perbandingan Keren:
 

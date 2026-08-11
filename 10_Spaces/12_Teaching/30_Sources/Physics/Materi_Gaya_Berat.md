@@ -91,16 +91,7 @@ Mari kita bandingkan dengan gravitasi Bumi ($g_E$):
 
 Dalam soal-soal fisika sederhana, dua istilah ini sering dianggap persis sama. Tapi buat kamu yang mau berpikir tingkat tinggi (HOTS), ada perbedaan mendasar di antara keduanya:
 
-```
-                  Titik Pusat Massa (CoM)                  Titik Berat (CoG)
-            ┌─────────────────────────────────┐      ┌─────────────────────────────────┐
-            │ Vektor posisi dirumuskan oleh   │      │ Vektor posisi dirumuskan oleh   │
-            │ distribusi massa m_i:           │      │ torsi gravitasi nol:            │
-            │          ∑ (m_i * r_i)          │      │          ∑ (m_i * g_i * r_i)    │
-            │  r_cm = ───────────────         │      │  r_cg = ────────────────────    │
-            │              M_tot              │      │              ∑ (m_i * g_i)    │
-            └─────────────────────────────────┘      └─────────────────────────────────┘
-```
+![[infographic_physics_gaya_berat_com_vs_cog.webp]]
 
 1. **Titik Pusat Massa ($\vec{r}_{cm}$ / Center of Mass):**
    * Merupakan titik rata-rata tertimbang dari seluruh distribusi massa benda.
@@ -128,17 +119,7 @@ Tahu nggak, sensasi "berat" yang dirasakan oleh telapak kaki kamu saat berdiri�
 ### A. Sensasi Naik-Turun Lift (Analisis Berat Semu) 🛗
 Bayangkan kamu berdiri di atas timbangan digital di dalam lift. Mari kita terapkan Hukum II Newton pada sumbu vertikal ($\sum F_y = m a_y$, arah ke atas positif):
 
-```
-       [ Lift ]
-         │ +y (Ke atas)
-         ▲
-         │    ┌───────┐
-         ├───►│  m    │  (Kamu)
-         │    └───────┘
-         │        ▲ N (Gaya Normal dari Timbangan)
-         │        │
-         │        ▼ W = mg (Gaya Berat Gravitasi)
-```
+![[diagram_physics_gaya_berat_lift_fbd.webp]]
 
 Persamaan umumnya sederhana:
 $$N - W = m a_y \implies N = m(g + a_y)$$
