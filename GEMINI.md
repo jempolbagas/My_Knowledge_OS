@@ -13,8 +13,6 @@
 ### 1. Space Selection
 - **`10_Spaces/`**: Deadline-bound (College, Teaching, Competitions).
 - **`20_Brain_Atlas/`**: Timeless, self-study, no deadlines. Never archive.
-- **`30_Assets/`**: Centralized storage for ALL active media and image assets across the vault. Do not create sub-space asset folders.
-- **`90_Archive/Archived_Assets/`**: Archive location for assets used exclusively by archived notes.
 
 ### 2. Note Classification (`20_Brain_Atlas/`)
 - **`10_Library/`**: Has an external `source_url`. Template: `Library_Source_Note`.
@@ -25,11 +23,6 @@
 ### 3. File Formatting
 - **Links:** Always use Wikilinks (`[[Note Name]]`). No path names or raw file names. Plain URLs for external links only.
 - **Metadata:** Keep in YAML frontmatter, not `#tags`.
-- **Visuals & Diagrams:** Prefer rich image assets (stored in `30_Assets/`, generated via `generate_image` or fetched via web search) over Mermaid code blocks or ASCII art diagrams. Embed using Obsidian wikilink syntax (`![[filename.ext]]`).
-  - **Design Style:** Clean Light / Academic Mode (white or soft cream background, sharp high-contrast dark typography, vibrant accent highlights).
-  - **Layout Aesthetic:** Structured rounded vector infographic cards with subtle shadows, clean connecting arrows, and strong visual hierarchy.
-  - **Aspect Ratio Policy:** Adaptive ratio — 16:9 landscape for wide process/mindmap trees; 3:4 portrait for tall vertical step-by-step flows.
-  - **File Naming in `30_Assets/`:** Use `<type>_<subject>_<topic>_<descriptor>.ext` (lowercase `snake_case`), where `<type>` specifies the asset kind (`diagram_` for flowcharts, `chart_` for plots/curves, `mindmap_` for concept trees, `infographic_` for visual summaries, `illustration_` for concept graphics; e.g., `mindmap_economics_national_income_dashboard.jpg`).
 - **Quality Standard:** Always follow `99_Configs/Depth_Standard.md` for agent-created notes.
 
 ## Operational Workflows
