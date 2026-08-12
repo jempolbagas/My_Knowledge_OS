@@ -471,6 +471,7 @@ Sebagian besar sel bersifat transparan dan tidak berwarna. Dengan menambahkan za
 ---
 
 ## 📝 Lembar Kerja & Soal Evaluasi Terkait
-- [[LKPD_Pengenalan_Sel_SMP]]
+- [[LKPD_Pengenalan_Sel_SMP|📝 LKPD Terpadu]]
+- [[Soal_Pengenalan_Sel_SMP|🎯 Paket Soal Ulangan Harian]]
 - [[index_teaching|🍎 Teaching Resources Hub]]
 

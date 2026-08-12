@@ -8,17 +8,18 @@ created: "2026-05-01"
 
 # 🍎 Teaching Resources Hub
 
-Selamat datang di Teaching Resources Hub! Halaman ini mengorganisir seluruh materi ajar (sources) dan lembar kerja siswa (practice) yang terbagi dengan rapi berdasarkan jenjang pendidikan [[index_teaching#🏫 SMP (Junior High School)|SMP]] dan [[index_teaching#🎓 SMA (Senior High School)|SMA]].
+Selamat datang di Teaching Resources Hub! Halaman ini mengorganisir seluruh materi ajar (sources) dan lembar kerja siswa (practice) yang terbagi dengan rapi berdasarkan jenjang pendidikan **SMP** dan **SMA**.
 
 ---
 
-# 🏫 SMP (Junior High School)	
+# 🏫 SMP (Junior High School)
 
----
 ## 🧬 Biology & Science (IPA)
+
 ### 📚 Materi Ajar (Sources)
 - [[Pengenalan_Sel_SMP]] — Pengenalan Sel — Unit Terkecil Kehidupan
-- [[Sistem_Pencernaan_Makanan_SMP]] — Sistem Pencernaan Makanan pada Manusia
+- [[Sistem_Pencernaan_Makanan_SMP]] — Materi Ajar SMP: Sistem Pencernaan Makanan Manusia
+
 ### 📝 Lembar Kerja (Practice)
 - [[LKPD_Pengenalan_Sel_SMP]]
 - [[LKPD_Sistem_Pencernaan_Makanan_SMP]]
@@ -75,11 +76,13 @@ Selamat datang di Teaching Resources Hub! Halaman ini mengorganisir seluruh mate
 
 # 🎓 SMA (Senior High School)
 
----
-
 ## 📐 Mathematics
 
 ### 📚 Materi Ajar (Sources)
+- 🏠 [[Fungsi_Invers_SMA]] — Fungsi Invers — Pusat Kontrol & Navigasi Modul
+  - 📄 [[Invers_Fungsi_Komposisi_dan_Aplikasi_SMA]] — Invers Fungsi Komposisi & Aplikasi Kontekstual HOTS
+  - 📄 [[Konsep_Dasar_dan_Syarat_Invers_SMA]] — Konsep Dasar & Syarat Keberadaan Fungsi Invers
+  - 📄 [[Teknik_Invers_Fungsi_Aljabar_SMA]] — Teknik Menentukan Fungsi Invers Aljabar
 - [[Kaidah_Pencacahan_dan_Kombinatorika_SMA]] — Menaklukkan Kaidah Pencacahan & Kombinatorika (Permutasi, Kombinasi, Binomial Newton)
 - [[Logika_Permutasi_dan_Kombinasi_SMA]] — Membedah Logika & Intuisi Matematika di Balik Permutasi dan Kombinasi
 - [[Matriks_SMA]] — Menaklukkan Matriks Tanpa Pusing
@@ -87,10 +90,12 @@ Selamat datang di Teaching Resources Hub! Halaman ini mengorganisir seluruh mate
 - [[Teori_Peluang_dan_Kejadian_Majemuk_SMA]] — Menaklukkan Teori Peluang & Kejadian Majemuk tanpa Pusing
 
 ### 📝 Lembar Kerja (Practice)
+- [[LKPD_Fungsi_Invers_SMA]]
 - [[LKPD_Kaidah_Pencacahan_dan_Kombinatorika_SMA]]
 - [[LKPD_Matriks_SMA]]
 - [[LKPD_Suku_Banyak_Polinomial_SMA]]
 - [[LKPD_Teori_Peluang_dan_Kejadian_Majemuk_SMA]]
+- [[Soal_Fungsi_Invers_SMA]]
 
 ---
 
