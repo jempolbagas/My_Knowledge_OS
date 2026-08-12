@@ -57,15 +57,15 @@ Aturan Utama:
 Berikut adalah teorema dan sifat dasar yang sering muncul dalam pembuktian dan latihan soal:
 
 1. **Sifat Invers Ganda:**
-   \[ (f^{-1})^{-1}(x) = f(x) \]
+   $$ (f^{-1})^{-1}(x) = f(x) $$
 2. **Sifat Fungsi Identitas:**
-   \[ (f \circ f^{-1})(x) = (f^{-1} \circ f)(x) = I(x) = x \]
+   $$ (f \circ f^{-1})(x) = (f^{-1} \circ f)(x) = I(x) = x $$
 3. **Invers Tiga Komposisi Fungsi:**
-   \[ (f \circ g \circ h)^{-1}(x) = (h^{-1} \circ g^{-1} \circ f^{-1})(x) \]
+   $$ (f \circ g \circ h)^{-1}(x) = (h^{-1} \circ g^{-1} \circ f^{-1})(x) $$
 4. **Mencari Salah Satu Fungsi Komposisi:**
    - Jika \( (f \circ g)(x) = h(x) \), maka:
-     \[ f(x) = (h \circ g^{-1})(x) \]
-     \[ g(x) = (f^{-1} \circ h)(x) \]
+     $$ f(x) = (h \circ g^{-1})(x) $$
+     $$ g(x) = (f^{-1} \circ h)(x) $$
 
 ---
 
@@ -106,9 +106,9 @@ Ingat bahwa \((f \circ g)^{-1}(1) = (g^{-1} \circ f^{-1})(1) = g^{-1}(f^{-1}(1))
 ### 🏬 Kasus 1: Perhitungan Diskon Bertingkat & Pembatalannya
 Sebuah pusat perbelanjaan memberikan penawaran **Diskon Ganda Promo Kemerdekaan**:
 - **Promo 1 (Fungsi \(g\)):** Diskon sebesar \(20\%\) dari harga awal \(x\).
-  \[ g(x) = 0{,}8x \]
+  $$ g(x) = 0{,}8x $$
 - **Promo 2 (Fungsi \(f\)):** Potongan harga tambahan dari kupon member sebesar Rp \(50.000\).
-  \[ f(x) = x - 50.000 \]
+  $$ f(x) = x - 50.000 $$
 
 #### Permasalahan:
 1. Tentukan fungsi total harga yang harus dibayar konsumen \( (f \circ g)(x) \)!
@@ -116,7 +116,7 @@ Sebuah pusat perbelanjaan memberikan penawaran **Diskon Ganda Promo Kemerdekaan*
 
 #### Pembahasan:
 1. **Fungsi Total Harga \( (f \circ g)(x) \):**  
-   \[ (f \circ g)(x) = f(g(x)) = f(0{,}8x) = 0{,}8x - 50.000 \]
+   $$ (f \circ g)(x) = f(g(x)) = f(0{,}8x) = 0{,}8x - 50.000 $$
 
 2. **Mencari Harga Asli Barang via Invers \( (f \circ g)^{-1}(y) \):**  
    Misalkan \(y = 0{,}8x - 50.000\)  
@@ -124,10 +124,10 @@ Sebuah pusat perbelanjaan memberikan penawaran **Diskon Ganda Promo Kemerdekaan*
    \(x = \frac{y + 50.000}{0{,}8} = 1{,}25(y + 50.000)\)  
 
    Maka rumus inversnya:  
-   \[ (f \circ g)^{-1}(y) = 1{,}25y + 62.500 \]
+   $$ (f \circ g)^{-1}(y) = 1{,}25y + 62.500 $$
 
    Untuk pembeli yang membayar \(y = 350.000\):  
-   \[ x = 1{,}25(350.000) + 62.500 = 437.500 + 62.500 = 500.000 \]
+   $$ x = 1{,}25(350.000) + 62.500 = 437.500 + 62.500 = 500.000 $$
 
    > **Hasil:** Harga asli barang sebelum seluruh diskon adalah **Rp \(500.000\)**.
 
@@ -142,7 +142,7 @@ Tentukan fungsi invers \((g \circ f)^{-1}(z)\) yang menghitung berapa Rupiah yan
 
 #### Pembahasan:
 1. **Fungsi Komposisi IDR ke EUR:**  
-   \[ (g \circ f)(x) = g(f(x)) = g\left(\frac{x}{15.000}\right) = 0{,}9 \times \frac{x}{15.000} = \frac{0{,}9x}{15.000} = \frac{3x}{50.000} \]
+   $$ (g \circ f)(x) = g(f(x)) = g\left(\frac{x}{15.000}\right) = 0{,}9 \times \frac{x}{15.000} = \frac{0{,}9x}{15.000} = \frac{3x}{50.000} $$
 
 2. **Invers Fungsi (EUR ke IDR):**  
    Misalkan \(z = \frac{3x}{50.000}\)  

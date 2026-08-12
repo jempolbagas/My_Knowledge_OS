@@ -267,7 +267,7 @@ E. \(\frac{9}{5}(T + 273) + 32\)
 * **Total Skor Maksimal = 100 Poin**
 
 ### 2. Pedoman Nilai Akhir
-\[ \text{Nilai Akhir} = \frac{\text{Skor PG} + \text{Skor Uraian}}{\text{Skor Maksimal (100)}} \times 100 \]
+$$ \text{Nilai Akhir} = \frac{\text{Skor PG} + \text{Skor Uraian}}{\text{Skor Maksimal (100)}} \times 100 $$
 * **Kriteria Ketuntasan Minimal (KKM):** \(75\)
 * **Kategori Kinerja:**
   * \(90 - 100\): Sangat Baik (Sangat Menguasai Invers Komposisi & HOTS)

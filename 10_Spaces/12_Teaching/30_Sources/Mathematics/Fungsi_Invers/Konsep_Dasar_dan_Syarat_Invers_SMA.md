@@ -44,14 +44,14 @@ Bayangkan sebuah fungsi matematika \(f\) sebagai **Mesin Pemproses Data**:
 ## 2. Definisi Formal Fungsi Invers
 
 Secara matematis, jika fungsi \(f\) memetakan himpunan \(A\) ke himpunan \(B\) yang dituliskan sebagai:
-\[ f : A \rightarrow B \quad \text{dengan} \quad y = f(x) \]
+$$ f : A \rightarrow B \quad \text{dengan} \quad y = f(x) $$
 
 Maka **invers dari fungsi \(f\)** (ditulis \(f^{-1}\)) adalah relasi yang memetakan himpunan \(B\) kembali ke himpunan \(A\):
-\[ f^{-1} : B \rightarrow A \quad \text{dengan} \quad x = f^{-1}(y) \]
+$$ f^{-1} : B \rightarrow A \quad \text{dengan} \quad x = f^{-1}(y) $$
 
 ### Hubungan Utama Domain dan Range:
 Setiap kali suatu fungsi memiliki invers, berlaku hubungan simetris yang sangat indah antara Domain (daerah asal) dan Range (daerah hasil):
-\[ D_{f^{-1}} = R_f \quad \text{dan} \quad R_{f^{-1}} = D_f \]
+$$ D_{f^{-1}} = R_f \quad \text{dan} \quad R_{f^{-1}} = D_f $$
 * **Domain dari \(f^{-1}\)** adalah **Range dari \(f\)**.
 * **Range dari \(f^{-1}\)** adalah **Domain dari \(f\)**.
 

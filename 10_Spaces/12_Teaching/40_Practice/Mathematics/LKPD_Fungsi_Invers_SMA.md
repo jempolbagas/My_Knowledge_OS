@@ -99,7 +99,7 @@ Diberikan fungsi pecahan rasional \(f(x) = \frac{2x + 5}{3x - 4}\) dengan \(x \n
 Kerjakan prosedur aljabar 4 langkah untuk membuktikan rumus inversnya secara mandiri bersama kelompokmu:
 
 1. **Langkah 1 (Misalkan \(y = f(x)\)):**  
-   \[ y = \frac{2x + 5}{3x - 4} \]
+   $$ y = \frac{2x + 5}{3x - 4} $$
 
 2. **Langkah 2 (Kalikan silang & isolasi variabel \(x\)):**  
    `........................................................................................................................`  
@@ -108,7 +108,7 @@ Kerjakan prosedur aljabar 4 langkah untuk membuktikan rumus inversnya secara man
    `........................................................................................................................`
 
 3. **Langkah 3 & 4 (Tuliskan rumus \(f^{-1}(x)\)):**  
-   \[ f^{-1}(x) = \dots\dots\dots\dots\dots\dots\dots\dots\dots\dots \]
+   $$ f^{-1}(x) = \dots\dots\dots\dots\dots\dots\dots\dots\dots\dots $$
 
 4. **Uji Trik Cepat:** Bandingkan hasil aljabarmu dengan rumus cepat \(f(x) = \frac{ax+b}{cx+d} \Rightarrow f^{-1}(x) = \frac{-dx+b}{cx-a}\). Apakah hasilnya cocok?  
    > **Catatan:** `[ Cocok / Tidak Cocok ]`
@@ -130,12 +130,12 @@ Sebuah minimarket mengadakan promo belanja dalam dua tahap otomatis di mesin kas
 
 #### Masalah yang Harus Dipecahkan:
 1. Tentukan rumus fungsi komposisi total harga yang harus dibayar konsumen: \((f \circ g)(x)\)!  
-   \[ (f \circ g)(x) = \dots\dots\dots\dots\dots\dots\dots\dots\dots\dots \]
+   $$ (f \circ g)(x) = \dots\dots\dots\dots\dots\dots\dots\dots\dots\dots $$
 
 2. Tentukan rumus **fungsi invers** \((f \circ g)^{-1}(z)\) yang digunakan untuk menghitung harga asli awal barang jika diketahui total harga akhir yang dibayar di struk kasir adalah \(z\)!  
    `........................................................................................................................`  
    `........................................................................................................................`  
-   \[ (f \circ g)^{-1}(z) = \dots\dots\dots\dots\dots\dots\dots\dots\dots\dots \]
+   $$ (f \circ g)^{-1}(z) = \dots\dots\dots\dots\dots\dots\dots\dots\dots\dots $$
 
 3. **Tantangan Detektif HOTS:**  
    Budi membayar total **Rp \(205.000\)** di kasir setelah kedua promo diterapkan. Berapakah label harga asli barang tersebut sebelum dipotong diskon apapun?  

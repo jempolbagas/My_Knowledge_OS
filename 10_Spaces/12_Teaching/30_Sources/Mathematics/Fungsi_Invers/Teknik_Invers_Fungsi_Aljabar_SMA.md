@@ -57,7 +57,7 @@ Fungsi linier memiliki bentuk umum \(f(x) = ax + b\) dengan \(a \neq 0\).
 3. Bagi kedua ruas dengan \(a\):  
    \(x = \frac{y - b}{a}\)
 4. Maka diperoleh rumus invers:
-   \[ f^{-1}(x) = \frac{x - b}{a} \]
+   $$ f^{-1}(x) = \frac{x - b}{a} $$
 
 #### Contoh Soal 1 (Linier):
 Tentukan invers dari fungsi \(f(x) = \frac{3x - 5}{2}\)!
@@ -75,7 +75,7 @@ Maka, \(f^{-1}(x) = \frac{2x + 5}{3}\).
 ## 2. Invers Fungsi Pecahan Rasional
 
 Fungsi pecahan rasional memiliki bentuk umum:
-\[ f(x) = \frac{ax + b}{cx + d}, \quad x \neq -\frac{d}{c} \]
+$$ f(x) = \frac{ax + b}{cx + d}, \quad x \neq -\frac{d}{c} $$
 
 ### Penurunan Rumus Aljabar (Lengkap):
 1. Misalkan \(y = \frac{ax + b}{cx + d}\)
@@ -89,7 +89,7 @@ Fungsi pecahan rasional memiliki bentuk umum:
 5. Isolasi \(x\):  
    \(x = \frac{-dy + b}{cy - a}\)
 6. Ubah variabel \(y\) menjadi \(x\):
-   \[ f^{-1}(x) = \frac{-dx + b}{cx - a}, \quad x \neq \frac{a}{c} \]
+   $$ f^{-1}(x) = \frac{-dx + b}{cx - a}, \quad x \neq \frac{a}{c} $$
 
 > 💡 **Trik Rumus Cepat (Super Quick Trick):**  
 > Untuk bentuk \(f(x) = \frac{ax + b}{cx + d}\), cukup **tukar posisi elemen diagonal utama \(a\) dan \(d\)**, lalu **ubah tandanya (kalikan \(-1\))**!  
@@ -109,7 +109,7 @@ Tukar \(a = 4\) dan \(d = -5\) serta balik tandanya:
 - \(-a = -(4) = -4\)
 
 Maka diperoleh:
-\[ g^{-1}(x) = \frac{5x + 3}{2x - 4}, \quad x \neq 2 \]
+$$ g^{-1}(x) = \frac{5x + 3}{2x - 4}, \quad x \neq 2 $$
 
 ---
 
@@ -119,7 +119,7 @@ Bentuk umum fungsi kuadrat adalah \(f(x) = ax^2 + bx + c\). Karena grafik fungsi
 
 ### Metode Melengkapkan Kuadrat Sempurna:
 Ubah bentuk kuadrat umum menjadi bentuk puncak:
-\[ f(x) = a(x - h)^2 + k \]
+$$ f(x) = a(x - h)^2 + k $$
 
 #### Penurunan Rumus Invers:
 1. Misalkan \(y = a(x - h)^2 + k\)
@@ -130,7 +130,7 @@ Ubah bentuk kuadrat umum menjadi bentuk puncak:
 5. \(x = h \pm \sqrt{\frac{y - k}{a}}\)
 
 Maka rumus inversnya adalah:
-\[ f^{-1}(x) = h + \sqrt{\frac{x - k}{a}} \quad \text{(diambil tanda positif jika domain awal } x \geq h \text{)} \]
+$$ f^{-1}(x) = h + \sqrt{\frac{x - k}{a}} \quad \text{(diambil tanda positif jika domain awal } x \geq h \text{)} $$
 
 #### Contoh Soal 3 (Fungsi Kuadrat):
 Tentukan invers dari fungsi \(f(x) = x^2 - 6x + 5\) untuk domain \(x \geq 3\)!
@@ -147,7 +147,7 @@ Tentukan invers dari fungsi \(f(x) = x^2 - 6x + 5\) untuk domain \(x \geq 3\)!
    \(x = 3 + \sqrt{y + 4}\)
 
 3. Maka diperoleh:
-   \[ f^{-1}(x) = 3 + \sqrt{x + 4}, \quad x \geq -4 \]
+   $$ f^{-1}(x) = 3 + \sqrt{x + 4}, \quad x \geq -4 $$
 
 ---
 
@@ -156,8 +156,8 @@ Tentukan invers dari fungsi \(f(x) = x^2 - 6x + 5\) untuk domain \(x \geq 3\)!
 Fungsi eksponen dan fungsi logaritma merupakan dua fungsi yang saling berinvers secara alami!
 
 ### Hubungan Utama:
-\[ f(x) = a^x \quad \Longleftrightarrow \quad f^{-1}(x) = {}^a\log x, \quad x > 0 \]
-\[ g(x) = {}^a\log(x + b) \quad \Longleftrightarrow \quad g^{-1}(x) = a^x - b \]
+$$ f(x) = a^x \quad \Longleftrightarrow \quad f^{-1}(x) = {}^a\log x, \quad x > 0 $$
+$$ g(x) = {}^a\log(x + b) \quad \Longleftrightarrow \quad g^{-1}(x) = a^x - b $$
 
 #### Contoh Soal 4 (Eksponen & Logaritma):
 Tentukan invers dari fungsi logaritma \(h(x) = {}^3\log(2x - 1)\)!
@@ -171,7 +171,7 @@ Tentukan invers dari fungsi logaritma \(h(x) = {}^3\log(2x - 1)\)!
    \(x = \frac{3^y + 1}{2}\)
 
 4. Maka diperoleh:
-   \[ h^{-1}(x) = \frac{3^x + 1}{2} \]
+   $$ h^{-1}(x) = \frac{3^x + 1}{2} $$
 
 ---
 

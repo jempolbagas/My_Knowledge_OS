@@ -52,20 +52,20 @@ Gunakan tabel navigasi di bawah ini untuk mengakses setiap sub-modul materi, lem
 Gunakan *cheatsheet* ringkas ini sebagai panduan cepat saat menyelesaikan soal-soal latihan:
 
 ### 1. Fungsi Linier
-\[ f(x) = ax + b \quad \Longrightarrow \quad f^{-1}(x) = \frac{x - b}{a} \]
+$$ f(x) = ax + b \quad \Longrightarrow \quad f^{-1}(x) = \frac{x - b}{a} $$
 
 ### 2. Fungsi Pecahan Rasional (Bentuk Khusus)
-\[ f(x) = \frac{ax + b}{cx + d}, \quad x \neq -\frac{d}{c} \quad \Longrightarrow \quad f^{-1}(x) = \frac{-dx + b}{cx - a}, \quad x \neq \frac{a}{c} \]
+$$ f(x) = \frac{ax + b}{cx + d}, \quad x \neq -\frac{d}{c} \quad \Longrightarrow \quad f^{-1}(x) = \frac{-dx + b}{cx - a}, \quad x \neq \frac{a}{c} $$
 > *Tips Singkat:* Tukar posisi \(a\) dan \(d\), lalu kalikan dengan \(-1\) (ubah tanda)!
 
 ### 3. Fungsi Kuadrat (Dengan Pembatasan Domain)
-\[ f(x) = a(x - h)^2 + k \quad \Longrightarrow \quad f^{-1}(x) = h + \sqrt{\frac{x - k}{a}} \]
+$$ f(x) = a(x - h)^2 + k \quad \Longrightarrow \quad f^{-1}(x) = h + \sqrt{\frac{x - k}{a}} $$
 
 ### 4. Sifat Utama Invers Komposisi
-\[ (f \circ g)^{-1}(x) = (g^{-1} \circ f^{-1})(x) \]
-\[ (g \circ f)^{-1}(x) = (f^{-1} \circ g^{-1})(x) \]
-\[ (f^{-1})^{-1}(x) = f(x) \]
-\[ (f \circ f^{-1})(x) = (f^{-1} \circ f)(x) = x \quad \text{(Fungsi Identitas)} \]
+$$ (f \circ g)^{-1}(x) = (g^{-1} \circ f^{-1})(x) $$
+$$ (g \circ f)^{-1}(x) = (f^{-1} \circ g^{-1})(x) $$
+$$ (f^{-1})^{-1}(x) = f(x) $$
+$$ (f \circ f^{-1})(x) = (f^{-1} \circ f)(x) = x \quad \text{(Fungsi Identitas)} $$
 
 ---
 
