@@ -8,104 +8,130 @@ created: "2026-05-01"
 
 # 🍎 Teaching Resources Hub
 
-Selamat datang di Teaching Resources Hub! Halaman ini mengorganisir materi ajar, lembar kerja siswa (LKPD), dan rangkuman kartu konsep per subjek.
+Selamat datang di Teaching Resources Hub! Halaman ini mengorganisir seluruh materi ajar (sources) dan lembar kerja siswa (practice) yang terbagi dengan rapi berdasarkan jenjang pendidikan [[index_teaching#🏫 SMP (Junior High School)|SMP]] dan [[index_teaching#🎓 SMA (Senior High School)|SMA]].
 
 ---
 
-## 📐 Mathematics & STEM
+# 🏫 SMP (Junior High School)	
+
+---
+## 🧬 Biology & Science (IPA)
+### 📚 Materi Ajar (Sources)
+- [[Pengenalan_Sel_SMP]] — Pengenalan Sel — Unit Terkecil Kehidupan
+- [[Sistem_Pencernaan_Makanan_SMP]] — Sistem Pencernaan Makanan pada Manusia
+### 📝 Lembar Kerja (Practice)
+- [[LKPD_Pengenalan_Sel_SMP]]
+- [[LKPD_Sistem_Pencernaan_Makanan_SMP]]
+
+---
+
+## 📐 Mathematics
 
 ### 📚 Materi Ajar (Sources)
-* **Matematika:**
-  - [[Materi_Persamaan_Kuadrat]] — Persamaan Kuadrat & Rumus ABC
-  - [[Materi_Pola_Bilangan]] — Pola Bilangan & Barisan Aritmetika/Geometri
-  - [[Materi_Suku_Banyak_Polinomial]] — Polinomial & Metode Horner
-  - [[Materi_Matriks]] — Matriks, Transpose, Determinan & Invers
-* **Fisika (Topik: Dinamika Gerak):**
-  - 🏠 [[Materi_Dinamika_Gerak]] — Master Dashboard Dinamika Gerak Partikel (Hukum Newton I, II, III)
-    - 📄 [[Materi_Gaya_Berat]] — Modul 1: Asal-usul Gravitasi, Variasi $g$, & Weightlessness
-    - 📄 [[Materi_Gaya_Normal]] — Modul 2: Konsep Mikroskopis & Formulasi Gaya Normal
-    - 📄 [[Materi_Gaya_Gesek]] — Modul 3: Gesekan Statis/Kinetis, Asperities & Air Drag
-    - 📄 [[Materi_Gaya_Tegangan_Tali_dan_Katrol]] — Modul 4: Multi-Body Systems & Mesin Atwood
-    - 📄 [[Materi_Gaya_Sentripetal]] — Modul 5: Dinamika Melingkar, Banked Curves & Roller Coaster
+- [[Persamaan_Kuadrat_SMP]] — Menaklukkan Persamaan Kuadrat Tanpa Pusing
+- [[Pola_Bilangan_SMP]] — Pola Bilangan dan Barisan Matematika — Rahasia Angka Ajaib!
 
 ### 📝 Lembar Kerja (Practice)
-* **Matematika:**
-  - [[LKPD_dan_Soal_Persamaan_Kuadrat]]
-  - [[LKPD_dan_Soal_Pola_Bilangan]]
-  - [[LKPD_dan_Soal_Suku_Banyak_Polinomial]]
-  - [[LKPD_dan_Soal_Matriks]]
-* **Fisika (Dinamika Gerak & Gaya):**
-  - [[LKPD_dan_Soal_Dinamika_Gerak]]
-  - [[LKPD_dan_Soal_Gaya_Normal]]
-  - [[LKPD_dan_Soal_Gaya_Berat]]
-  - [[LKPD_dan_Soal_Gaya_Gesek]]
-  - [[LKPD_dan_Soal_Gaya_Sentripetal]]
-  - [[LKPD_dan_Soal_Gaya_Tegangan_Tali_dan_Katrol]]
-
-### 🎴 STEM Concept Cards
-- [[[Chem] Reaksi Redoks - Rangkuman]]
-- [[[Chem] Tata Nama dan Biloks - Rangkuman]]
-- [[[Chem] Konsep Mol - Rangkuman]]
-- [[[Math] Kisi-Kisi ASAT - Master Summary]]
-- [[Gerak Lurus]] & [[Gerak Lurus Berubah Beraturan (GLBB)]]
-- [[Energi Panas (Kalor)]] & [[Energi Listrik]]
-- [[Gaya dan Hukum Newton]]
-- [[Tata Surya dan Bumi]]
-- [[Ekosistem dan Keanekaragaman Hayati]] & [[Rantai Makanan dan Jaring-Jaring Makanan]]
-
----
-
-## 🧬 Biology
-
-### 📚 Materi Ajar
-- [[Materi_Pengenalan_Sel]] — Teori Sel, Organel, dan Transport Membran
-- [[Materi_Sistem_Pencernaan_Makanan]] — Nutrisi, Organ Pencernaan & Enzim
-
-### 📝 Lembar Kerja
-- [[LKPD_dan_Soal_Pengenalan_Sel]]
-- [[LKPD_dan_Soal_Sistem_Pencernaan_Makanan]]
-
----
-
-## 🌍 Social Studies & History
-
-### 📚 Materi Ajar
-- [[Materi_Tenaga_Endogen_Vulkanisme]] — Vulkanisme & Bentuk Lahan
-- [[Materi_Tenaga_Eksogen]] — Pelapukan, Erosi & Sedimentasi
-- [[Materi_Litosfer_Tenaga_Endogen_dan_Eksogen]] — Litosfer & Dinamika Geologi
-- [[Materi_Keanekaragaman_Hayati_dan_Jenis_Hutan_Indonesia]] — Persebaran Fauna & Hutan Indonesia
-
-### 📝 Lembar Kerja
-- [[LKPD_dan_Soal_Tenaga_Endogen_Vulkanisme]]
-- [[LKPD_dan_Soal_Tenaga_Eksogen]]
-- [[LKPD_dan_Soal_Litosfer_Tenaga_Endogen_dan_Eksogen]]
-- [[LKPD_dan_Soal_Keanekaragaman_Hayati_Indonesia]]
-
-### 🎴 Social Studies Cards
-- [[Konsep Dasar Ilmu Sejarah]]
-- [[Jalur Rempah Nusantara]]
-- [[Masa Praaksara dan Asal-usul Nenek Moyang Bangsa Indonesia]]
-- [[Masa Kerajaan Hindu-Budha di Indonesia]]
-- [[Masa Kerajaan Islam di Indonesia]]
-- [[Peran Lembaga Sosial]]
+- [[LKPD_Persamaan_Kuadrat_SMP]]
+- [[LKPD_Pola_Bilangan_SMP]]
+- [[Soal_Pola_Bilangan_Paket_B_SMP]]
 
 ---
 
 ## 🗣️ Languages (English / ESL)
 
-### 📚 Materi Ajar
-- [[Materi_Simple_Past_Tense]] — Regular/Irregular Verbs & Past Events
-- [[Materi_Descriptive_Text]] — Structure, Identification & Description
-- [[Materi_Parts_of_Speech]] — Noun, Verb, Adjective, Adverb & Pronoun
-- [[Materi_Functional_Texts]] — Announcement, Notice, Caution & Invitation
+### 📚 Materi Ajar (Sources)
+- [[Descriptive_Text_SMP]] — Materi Ajar Bahasa Inggris SMP - Descriptive Text
+- [[Functional_Texts_SMP]] — Materi Ajar Bahasa Inggris SMP - Short Functional Texts
+- [[Narrative_Text_SMP]] — Materi Ajar Bahasa Inggris: Narrative Text
+- [[Parts_of_Speech_SMP]] — Materi Parts of Speech Bahasa Inggris
+- [[Simple_Past_Tense_SMP]] — Simple Past Tense (Santai & Bilingual)
 
-### 📝 Lembar Kerja
-- [[LKPD_dan_Soal_Simple_Past_Tense]]
-- [[LKPD_dan_Soal_Descriptive_Text]]
-- [[LKPD_dan_Soal_Parts_of_Speech]]
-- [[LKPD_dan_Soal_Functional_Texts]]
-- [[[ESL] Worksheet - Simple Present vs Present Continuous]]
+### 📝 Lembar Kerja (Practice)
+- [[LKPD_Descriptive_Text_SMP]]
+- [[LKPD_Functional_Texts_SMP]]
+- [[LKPD_Narrative_Text_SMP]]
+- [[LKPD_Parts_of_Speech_SMP]]
+- [[LKPD_Simple_Past_Tense_SMP]]
+- [[LKPD_Simple_Present_vs_Present_Continuous_SMP]]
 
-### 🎴 Language Concept Cards
-- [[[ESL] Present Continuous Tense]]
+---
 
+## 🌍 Social Studies (IPS / Geografi)
+
+### 📚 Materi Ajar (Sources)
+- [[Keanekaragaman_Hayati_dan_Jenis_Hutan_Indonesia_SMP]] — Materi Ajar Lengkap: Keanekaragaman Hayati dan Jenis-Jenis Hutan di Indonesia
+- [[Pertambangan_dan_Barang_Tambang_Indonesia_SMP]] — Materi Ajar Lengkap: Pertambangan dan Potensi Barang Tambang di Indonesia
+- [[Tenaga_Eksogen_SMP]] — Tenaga Eksogen dan Perubahan Bentuk Muka Bumi
+- [[Tenaga_Endogen_Vulkanisme_SMP]] — Tenaga Endogen Vulkanisme
+
+### 📝 Lembar Kerja (Practice)
+- [[LKPD_Keanekaragaman_Hayati_Indonesia_SMP]]
+- [[LKPD_Pertambangan_dan_Barang_Tambang_Indonesia_SMP]]
+- [[LKPD_Tenaga_Eksogen_SMP]]
+- [[LKPD_Tenaga_Endogen_Vulkanisme_SMP]]
+
+---
+
+# 🎓 SMA (Senior High School)
+
+---
+
+## 📐 Mathematics
+
+### 📚 Materi Ajar (Sources)
+- [[Kaidah_Pencacahan_dan_Kombinatorika_SMA]] — Menaklukkan Kaidah Pencacahan & Kombinatorika (Permutasi, Kombinasi, Binomial Newton)
+- [[Logika_Permutasi_dan_Kombinasi_SMA]] — Membedah Logika & Intuisi Matematika di Balik Permutasi dan Kombinasi
+- [[Matriks_SMA]] — Menaklukkan Matriks Tanpa Pusing
+- [[Suku_Banyak_Polinomial_SMA]] — Menaklukkan Suku Banyak (Polinomial) & Metode Horner
+- [[Teori_Peluang_dan_Kejadian_Majemuk_SMA]] — Menaklukkan Teori Peluang & Kejadian Majemuk tanpa Pusing
+
+### 📝 Lembar Kerja (Practice)
+- [[LKPD_Kaidah_Pencacahan_dan_Kombinatorika_SMA]]
+- [[LKPD_Matriks_SMA]]
+- [[LKPD_Suku_Banyak_Polinomial_SMA]]
+- [[LKPD_Teori_Peluang_dan_Kejadian_Majemuk_SMA]]
+
+---
+
+## ⚛️ Physics
+
+### 📚 Materi Ajar (Sources)
+- 🏠 [[Dinamika_Gerak_SMA]] — Dinamika Gerak Partikel (Hukum Newton & Integrasi Gaya)
+  - 📄 [[Gaya_Berat_SMA]] — Materi Ajar Fisika: Gaya Berat dan Gravitasi — Tarikan Bumi yang Bikin Kita Tetap Membumi!
+  - 📄 [[Gaya_Gesek_SMA]] — Materi Ajar Fisika: Gaya Gesek (Frictional Forces)
+  - 📄 [[Gaya_Normal_SMA]] — Gaya Normal dan Aplikasinya dalam Dinamika Gerak
+  - 📄 [[Gaya_Sentripetal_SMA]] — Gaya Sentripetal — Rahasia Selamat di Tikungan & Roller Coaster!
+  - 📄 [[Gaya_Tegangan_Tali_dan_Katrol_SMA]] — Gaya Tegangan Tali & Sistem Katrol — Rahasia Kerja Ringan Beban Berat!
+
+### 📝 Lembar Kerja (Practice)
+- [[LKPD_Dinamika_Gerak_SMA]]
+- [[LKPD_Gaya_Berat_SMA]]
+- [[LKPD_Gaya_Gesek_SMA]]
+- [[LKPD_Gaya_Normal_SMA]]
+- [[LKPD_Gaya_Sentripetal_SMA]]
+- [[LKPD_Gaya_Tegangan_Tali_dan_Katrol_SMA]]
+- [[Soal_Dinamika_Gerak_SMA]]
+
+---
+
+## 📈 Economics
+
+### 📚 Materi Ajar (Sources)
+- 🏠 [[Pendapatan_Nasional_SMA]] — Materi Ajar Master Dashboard: Pendapatan Nasional
+  - 📄 [[Distribusi_Pendapatan_SMA]] — Distribusi Pendapatan & Ketimpangan Ekonomi
+  - 📄 [[Konsep_Pendapatan_Nasional_SMA]] — Konsep & Metode Perhitungan Pendapatan Nasional
+  - 📄 [[Pendapatan_Per_Kapita_SMA]] — PDB Riil & Pendapatan Per Kapita
+
+### 📝 Lembar Kerja (Practice)
+- [[LKPD_Pendapatan_Nasional_SMA]]
+
+---
+
+## 🌍 Social Studies (IPS / Geografi)
+
+### 📚 Materi Ajar (Sources)
+- [[Litosfer_Tenaga_Endogen_dan_Eksogen_SMA]] — Materi Ajar Lengkap: Litosfer - Tenaga Endogen dan Tenaga Eksogen
+
+### 📝 Lembar Kerja (Practice)
+- [[LKPD_Litosfer_Tenaga_Endogen_dan_Eksogen_SMA]]

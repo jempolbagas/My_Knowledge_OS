@@ -4,79 +4,61 @@
 | File | Broken Link Target | Context |
 | --- | --- | --- |
 | [[KTI_Context]] | `KTI_Knowledge_Map.canvas` | `wikilink` |
-| [[[ESL] Worksheet - Simple Present vs Present Continuous]] | `[ESL] Present Continuous Tense` | `wikilink` |
-| [[LKPD_dan_Soal_Pertambangan_dan_Barang_Tambang_Indonesia]] | `infographic_social_studies_mining_classification.webp` | `wikilink` |
-| [[LKPD_dan_Soal_Pertambangan_dan_Barang_Tambang_Indonesia]] | `mindmap_social_studies_indonesia_mining_map.webp` | `wikilink` |
-| [[LKPD_dan_Soal_Pertambangan_dan_Barang_Tambang_Indonesia]] | `infographic_social_studies_mining_classification.webp` | `wikilink` |
-| [[LKPD_dan_Soal_Pertambangan_dan_Barang_Tambang_Indonesia]] | `mindmap_social_studies_indonesia_mining_map.webp` | `wikilink` |
-| [[LKPD_dan_Soal_Pertambangan_dan_Barang_Tambang_Indonesia]] | `diagram_social_studies_mining_stages_flow.webp` | `wikilink` |
-| [[LKPD_dan_Soal_Pola_Bilangan]] | `diagram_mathematics_number_patterns_matchstick_squares.webp` | `wikilink` |
-| [[LKPD_dan_Soal_Pola_Bilangan]] | `infographic_mathematics_number_patterns_pascal_triangle.webp` | `wikilink` |
-| [[LKPD_dan_Soal_Pola_Bilangan]] | `illustration_mathematics_number_patterns_theater_seating.webp` | `wikilink` |
-| [[LKPD_dan_Soal_Pola_Bilangan]] | `diagram_mathematics_number_patterns_multilevel_scheme.webp` | `wikilink` |
-| [[LKPD_dan_Soal_Sistem_Pencernaan_Makanan_SMP_8]] | `infographic_biology_food_testing_reagents.webp` | `wikilink` |
-| [[LKPD_dan_Soal_Sistem_Pencernaan_Makanan_SMP_8]] | `infographic_biology_nutrition_facts_boba.webp` | `wikilink` |
-| [[LKPD_dan_Soal_Sistem_Pencernaan_Makanan]] | `mindmap_biology_nutrient_classification.webp` | `wikilink` |
-| [[index_teaching]] | `[Chem] Reaksi Redoks - Rangkuman` | `wikilink` |
-| [[index_teaching]] | `[Chem] Tata Nama dan Biloks - Rangkuman` | `wikilink` |
-| [[index_teaching]] | `[Chem] Konsep Mol - Rangkuman` | `wikilink` |
-| [[index_teaching]] | `[Math] Kisi-Kisi ASAT - Master Summary` | `wikilink` |
-| [[index_teaching]] | `Gerak Lurus` | `wikilink` |
-| [[index_teaching]] | `Gerak Lurus Berubah Beraturan (GLBB)` | `wikilink` |
-| [[index_teaching]] | `Energi Panas (Kalor)` | `wikilink` |
-| [[index_teaching]] | `Energi Listrik` | `wikilink` |
-| [[index_teaching]] | `Gaya dan Hukum Newton` | `wikilink` |
-| [[index_teaching]] | `Tata Surya dan Bumi` | `wikilink` |
-| [[index_teaching]] | `Ekosistem dan Keanekaragaman Hayati` | `wikilink` |
-| [[index_teaching]] | `Rantai Makanan dan Jaring-Jaring Makanan` | `wikilink` |
-| [[index_teaching]] | `Konsep Dasar Ilmu Sejarah` | `wikilink` |
-| [[index_teaching]] | `Jalur Rempah Nusantara` | `wikilink` |
-| [[index_teaching]] | `Masa Praaksara dan Asal-usul Nenek Moyang Bangsa Indonesia` | `wikilink` |
-| [[index_teaching]] | `Masa Kerajaan Hindu-Budha di Indonesia` | `wikilink` |
-| [[index_teaching]] | `Masa Kerajaan Islam di Indonesia` | `wikilink` |
-| [[index_teaching]] | `Peran Lembaga Sosial` | `wikilink` |
-| [[index_teaching]] | `[ESL] Present Continuous Tense` | `wikilink` |
-| [[Materi_Narrative_Text]] | `infographic_languages_narrative_text_structure.webp` | `wikilink` |
-| [[Materi_Gaya_Gesek]] | `diagram_physics_gaya_gesek_fbd.webp` | `wikilink` |
-| [[Materi_Gaya_Gesek]] | `illustration_physics_gaya_gesek_asperities.webp` | `wikilink` |
-| [[Materi_Gaya_Gesek]] | `chart_physics_gaya_gesek_f_vs_f.webp` | `wikilink` |
-| [[Materi_Gaya_Gesek]] | `diagram_physics_gaya_gesek_drag_force.webp` | `wikilink` |
-| [[Materi_Gaya_Gesek]] | `illustration_physics_gaya_gesek_sliding_vs_rolling.webp` | `wikilink` |
-| [[Materi_Dinamika_Gerak]] | `diagram_physics_dinamika_gerak_fbd.webp` | `wikilink` |
-| [[Materi_Dinamika_Gerak]] | `mindmap_physics_dinamika_gerak_5_gaya.webp` | `wikilink` |
-| [[Materi_Dinamika_Gerak]] | `infographic_physics_hukum_newton.webp` | `wikilink` |
-| [[Materi_Gaya_Berat]] | `infographic_physics_gaya_berat_com_vs_cog.webp` | `wikilink` |
-| [[Materi_Gaya_Berat]] | `diagram_physics_gaya_berat_lift_fbd.webp` | `wikilink` |
-| [[Materi_Gaya_Tegangan_Tali_dan_Katrol]] | `diagram_physics_tegangan_tali_internal.webp` | `wikilink` |
-| [[Materi_Gaya_Tegangan_Tali_dan_Katrol]] | `diagram_physics_tegangan_tali_benda_berdampingan.webp` | `wikilink` |
-| [[Materi_Gaya_Tegangan_Tali_dan_Katrol]] | `diagram_physics_tegangan_tali_mesin_atwood.webp` | `wikilink` |
-| [[Materi_Gaya_Tegangan_Tali_dan_Katrol]] | `diagram_physics_tegangan_tali_meja_katrol.webp` | `wikilink` |
-| [[Materi_Gaya_Tegangan_Tali_dan_Katrol]] | `diagram_physics_tegangan_tali_bidang_miring_katrol.webp` | `wikilink` |
-| [[Materi_Gaya_Tegangan_Tali_dan_Katrol]] | `diagram_physics_tegangan_tali_katrol_bergerak.webp` | `wikilink` |
-| [[Materi_Gaya_Tegangan_Tali_dan_Katrol]] | `diagram_physics_tegangan_tali_4step_flowchart.webp` | `wikilink` |
-| [[Materi_Gaya_Sentripetal]] | `mindmap_physics_gaya_sentripetal_job.webp` | `wikilink` |
-| [[Materi_Gaya_Sentripetal]] | `diagram_physics_gaya_sentripetal_flat_curve.webp` | `wikilink` |
-| [[Materi_Gaya_Sentripetal]] | `diagram_physics_gaya_sentripetal_banked_curve.webp` | `wikilink` |
-| [[Materi_Gaya_Normal]] | `diagram_physics_gaya_normal_fbd.webp` | `wikilink` |
-| [[Materi_Pertambangan_dan_Barang_Tambang_Indonesia]] | `infographic_social_studies_mining_classification.webp` | `wikilink` |
-| [[Materi_Pertambangan_dan_Barang_Tambang_Indonesia]] | `mindmap_social_studies_indonesia_mining_map.webp` | `wikilink` |
-| [[Materi_Pertambangan_dan_Barang_Tambang_Indonesia]] | `diagram_social_studies_mining_stages_flow.webp` | `wikilink` |
-| [[Materi_Pola_Bilangan]] | `diagram_mathematics_number_patterns_multilevel_scheme.webp` | `wikilink` |
-| [[Materi_Sistem_Pencernaan_Makanan]] | `diagram_biology_digestive_process_flow.webp` | `wikilink` |
-| [[Materi_Sistem_Pencernaan_Makanan]] | `mindmap_biology_nutrient_classification.webp` | `wikilink` |
-| [[Materi_Sistem_Pencernaan_Makanan]] | `infographic_biology_digestive_system_smp8.webp` | `wikilink` |
-| [[Materi_Sistem_Pencernaan_Makanan_SMP_8]] | `infographic_biology_digestive_system_smp8.webp` | `wikilink` |
-| [[Materi_Sistem_Pencernaan_Makanan_SMP_8]] | `infographic_biology_food_testing_reagents.webp` | `wikilink` |
-| [[Materi_Sistem_Pencernaan_Makanan_SMP_8]] | `infographic_biology_nutrition_facts_boba.webp` | `wikilink` |
-| [[Materi_Sistem_Pencernaan_Makanan_SMP_8]] | `infographic_biology_digestive_system_smp8.webp` | `wikilink` |
-| [[Materi_Distribusi_Pendapatan]] | `chart_economics_national_income_lorenz_curve.webp` | `wikilink` |
-| [[Materi_Pendapatan_Nasional]] | `mindmap_economics_national_income_master_dashboard.webp` | `wikilink` |
-| [[Materi_Pendapatan_Nasional]] | `Materi_Konsep_Pendapatan_Nasional\` | `wikilink` |
-| [[Materi_Pendapatan_Nasional]] | `Materi_Pendapatan_Per_Kapita\` | `wikilink` |
-| [[Materi_Pendapatan_Nasional]] | `Materi_Distribusi_Pendapatan\` | `wikilink` |
-| [[Materi_Pendapatan_Nasional]] | `LKPD_dan_Soal_Pendapatan_Nasional\` | `wikilink` |
-| [[Materi_Konsep_Pendapatan_Nasional]] | `diagram_economics_national_income_concepts_flow.webp` | `wikilink` |
-| [[Materi_Konsep_Pendapatan_Nasional]] | `infographic_economics_national_income_calculation_methods.webp` | `wikilink` |
+| [[LKPD_Simple_Present_vs_Present_Continuous_SMP]] | `[ESL] Present Continuous Tense` | `wikilink` |
+| [[LKPD_Pertambangan_dan_Barang_Tambang_Indonesia_SMP]] | `infographic_social_studies_mining_classification.webp` | `wikilink` |
+| [[LKPD_Pertambangan_dan_Barang_Tambang_Indonesia_SMP]] | `mindmap_social_studies_indonesia_mining_map.webp` | `wikilink` |
+| [[LKPD_Pertambangan_dan_Barang_Tambang_Indonesia_SMP]] | `infographic_social_studies_mining_classification.webp` | `wikilink` |
+| [[LKPD_Pertambangan_dan_Barang_Tambang_Indonesia_SMP]] | `mindmap_social_studies_indonesia_mining_map.webp` | `wikilink` |
+| [[LKPD_Pertambangan_dan_Barang_Tambang_Indonesia_SMP]] | `diagram_social_studies_mining_stages_flow.webp` | `wikilink` |
+| [[LKPD_Pola_Bilangan_SMP]] | `diagram_mathematics_number_patterns_matchstick_squares.webp` | `wikilink` |
+| [[LKPD_Pola_Bilangan_SMP]] | `infographic_mathematics_number_patterns_pascal_triangle.webp` | `wikilink` |
+| [[LKPD_Pola_Bilangan_SMP]] | `illustration_mathematics_number_patterns_theater_seating.webp` | `wikilink` |
+| [[LKPD_Pola_Bilangan_SMP]] | `diagram_mathematics_number_patterns_multilevel_scheme.webp` | `wikilink` |
+| [[LKPD_Sistem_Pencernaan_Makanan_SMP]] | `infographic_biology_food_testing_reagents.webp` | `wikilink` |
+| [[LKPD_Sistem_Pencernaan_Makanan_SMP]] | `infographic_biology_nutrition_facts_boba.webp` | `wikilink` |
+| [[Narrative_Text_SMP]] | `infographic_languages_narrative_text_structure.webp` | `wikilink` |
+| [[Gaya_Berat_SMA]] | `infographic_physics_gaya_berat_com_vs_cog.webp` | `wikilink` |
+| [[Gaya_Berat_SMA]] | `diagram_physics_gaya_berat_lift_fbd.webp` | `wikilink` |
+| [[Gaya_Gesek_SMA]] | `diagram_physics_gaya_gesek_fbd.webp` | `wikilink` |
+| [[Gaya_Gesek_SMA]] | `illustration_physics_gaya_gesek_asperities.webp` | `wikilink` |
+| [[Gaya_Gesek_SMA]] | `chart_physics_gaya_gesek_f_vs_f.webp` | `wikilink` |
+| [[Gaya_Gesek_SMA]] | `diagram_physics_gaya_gesek_drag_force.webp` | `wikilink` |
+| [[Gaya_Gesek_SMA]] | `illustration_physics_gaya_gesek_sliding_vs_rolling.webp` | `wikilink` |
+| [[Dinamika_Gerak_SMA]] | `diagram_physics_dinamika_gerak_fbd.webp` | `wikilink` |
+| [[Dinamika_Gerak_SMA]] | `mindmap_physics_dinamika_gerak_5_gaya.webp` | `wikilink` |
+| [[Dinamika_Gerak_SMA]] | `infographic_physics_hukum_newton.webp` | `wikilink` |
+| [[Gaya_Sentripetal_SMA]] | `mindmap_physics_gaya_sentripetal_job.webp` | `wikilink` |
+| [[Gaya_Sentripetal_SMA]] | `diagram_physics_gaya_sentripetal_flat_curve.webp` | `wikilink` |
+| [[Gaya_Sentripetal_SMA]] | `diagram_physics_gaya_sentripetal_banked_curve.webp` | `wikilink` |
+| [[Gaya_Normal_SMA]] | `diagram_physics_gaya_normal_fbd.webp` | `wikilink` |
+| [[Gaya_Tegangan_Tali_dan_Katrol_SMA]] | `diagram_physics_tegangan_tali_internal.webp` | `wikilink` |
+| [[Gaya_Tegangan_Tali_dan_Katrol_SMA]] | `diagram_physics_tegangan_tali_benda_berdampingan.webp` | `wikilink` |
+| [[Gaya_Tegangan_Tali_dan_Katrol_SMA]] | `diagram_physics_tegangan_tali_mesin_atwood.webp` | `wikilink` |
+| [[Gaya_Tegangan_Tali_dan_Katrol_SMA]] | `diagram_physics_tegangan_tali_meja_katrol.webp` | `wikilink` |
+| [[Gaya_Tegangan_Tali_dan_Katrol_SMA]] | `diagram_physics_tegangan_tali_bidang_miring_katrol.webp` | `wikilink` |
+| [[Gaya_Tegangan_Tali_dan_Katrol_SMA]] | `diagram_physics_tegangan_tali_katrol_bergerak.webp` | `wikilink` |
+| [[Gaya_Tegangan_Tali_dan_Katrol_SMA]] | `diagram_physics_tegangan_tali_4step_flowchart.webp` | `wikilink` |
+| [[Pertambangan_dan_Barang_Tambang_Indonesia_SMP]] | `infographic_social_studies_mining_classification.webp` | `wikilink` |
+| [[Pertambangan_dan_Barang_Tambang_Indonesia_SMP]] | `mindmap_social_studies_indonesia_mining_map.webp` | `wikilink` |
+| [[Pertambangan_dan_Barang_Tambang_Indonesia_SMP]] | `diagram_social_studies_mining_stages_flow.webp` | `wikilink` |
+| [[Pola_Bilangan_SMP]] | `diagram_mathematics_number_patterns_multilevel_scheme.webp` | `wikilink` |
+| [[Fungsi_Invers_SMA]] | `Konsep_Dasar_dan_Syarat_Invers_SMA\` | `wikilink` |
+| [[Fungsi_Invers_SMA]] | `Teknik_Invers_Fungsi_Aljabar_SMA\` | `wikilink` |
+| [[Fungsi_Invers_SMA]] | `Invers_Fungsi_Komposisi_dan_Aplikasi_SMA\` | `wikilink` |
+| [[Fungsi_Invers_SMA]] | `LKPD_Fungsi_Invers_SMA\` | `wikilink` |
+| [[Fungsi_Invers_SMA]] | `Soal_Fungsi_Invers_SMA\` | `wikilink` |
+| [[Sistem_Pencernaan_Makanan_SMP]] | `infographic_biology_digestive_system_smp8.webp` | `wikilink` |
+| [[Sistem_Pencernaan_Makanan_SMP]] | `infographic_biology_food_testing_reagents.webp` | `wikilink` |
+| [[Sistem_Pencernaan_Makanan_SMP]] | `infographic_biology_nutrition_facts_boba.webp` | `wikilink` |
+| [[Sistem_Pencernaan_Makanan_SMP]] | `infographic_biology_digestive_system_smp8.webp` | `wikilink` |
+| [[Konsep_Pendapatan_Nasional_SMA]] | `diagram_economics_national_income_concepts_flow.webp` | `wikilink` |
+| [[Konsep_Pendapatan_Nasional_SMA]] | `infographic_economics_national_income_calculation_methods.webp` | `wikilink` |
+| [[Distribusi_Pendapatan_SMA]] | `chart_economics_national_income_lorenz_curve.webp` | `wikilink` |
+| [[Pendapatan_Nasional_SMA]] | `mindmap_economics_national_income_master_dashboard.webp` | `wikilink` |
+| [[Pendapatan_Nasional_SMA]] | `Materi_Konsep_Pendapatan_Nasional\` | `wikilink` |
+| [[Pendapatan_Nasional_SMA]] | `Materi_Pendapatan_Per_Kapita\` | `wikilink` |
+| [[Pendapatan_Nasional_SMA]] | `Materi_Distribusi_Pendapatan\` | `wikilink` |
+| [[Pendapatan_Nasional_SMA]] | `LKPD_dan_Soal_Pendapatan_Nasional\` | `wikilink` |
 | [[Sistem_Produksi_dan_Pengemasan_Kerajinan_Limbah_Bangun_Datar]] | `Aneka Produk Kerajinan Limbah Datar` | `wikilink` |
 | [[Sistem_Produksi_dan_Pengemasan_Kerajinan_Limbah_Bangun_Datar]] | `Kategori Manfaat Benda Pakai vs Benda Hias` | `wikilink` |
 | [[Sistem_Produksi_dan_Pengemasan_Kerajinan_Limbah_Bangun_Datar]] | `Potensi Limbah Berdasarkan Geografi Wilayah` | `wikilink` |
@@ -101,6 +83,16 @@
 | [[Gaya_Normal]] | `Hukum Newton` | `wikilink` |
 | [[Gaya_Berat]] | `Gaya Normal` | `wikilink` |
 | [[Gaya_Berat]] | `Hukum Newton` | `wikilink` |
+| [[Suku_Banyak_Polinomial]] | `Materi_Suku_Banyak_Polinomial` | `wikilink` |
+| [[Suku_Banyak_Polinomial]] | `LKPD_dan_Soal_Suku_Banyak_Polinomial` | `wikilink` |
+| [[Suku_Banyak_Polinomial]] | `Materi_Suku_Banyak_Polinomial` | `frontmatter_source` |
+| [[Matriks]] | `Materi_Matriks` | `wikilink` |
+| [[Matriks]] | `Materi_Matriks` | `wikilink` |
+| [[Matriks]] | `LKPD_dan_Soal_Matriks` | `wikilink` |
+| [[Matriks]] | `Materi_Matriks` | `frontmatter_source` |
+| [[Persamaan_Kuadrat]] | `Materi_Persamaan_Kuadrat` | `wikilink` |
+| [[Persamaan_Kuadrat]] | `LKPD_dan_Soal_Persamaan_Kuadrat` | `wikilink` |
+| [[Persamaan_Kuadrat]] | `Materi_Persamaan_Kuadrat` | `frontmatter_source` |
 | [[Model_Context_Protocol]] | `JSON-RPC 2.0` | `wikilink` |
 | [[s11277-023-10315-5]] | `illustration_cybersecurity_secret_sharing_scheme_flow.webp` | `wikilink` |
 | [[s11277-023-10315-5]] | `infographic_cybersecurity_secret_sharing_comparison_table.webp` | `wikilink` |
@@ -115,15 +107,7 @@
 | [[s11277-023-10315-5]] | `15, 25, 52` | `wikilink` |
 
 ## 🕳️ Orphan Pages (Disconnected Nodes)
-These files have no incoming or outgoing links:
-- [[LKPD_dan_Soal_Kaidah_Pencacahan_dan_Kombinatorika]] (`10_Spaces/12_Teaching/40_Practice/Mathematics/LKPD_dan_Soal_Kaidah_Pencacahan_dan_Kombinatorika.md`)
-- [[LKPD_dan_Soal_Teori_Peluang_dan_Kejadian_Majemuk]] (`10_Spaces/12_Teaching/40_Practice/Mathematics/LKPD_dan_Soal_Teori_Peluang_dan_Kejadian_Majemuk.md`)
-- [[Materi_Logika_Permutasi_dan_Kombinasi]] (`10_Spaces/12_Teaching/30_Sources/Mathematics/Materi_Logika_Permutasi_dan_Kombinasi.md`)
-- [[Materi_Teori_Peluang_dan_Kejadian_Majemuk]] (`10_Spaces/12_Teaching/30_Sources/Mathematics/Materi_Teori_Peluang_dan_Kejadian_Majemuk.md`)
-- [[Materi_Kaidah_Pencacahan_dan_Kombinatorika]] (`10_Spaces/12_Teaching/30_Sources/Mathematics/Materi_Kaidah_Pencacahan_dan_Kombinatorika.md`)
-- [[15 Contoh Narrative Text Bahasa Inggris Beserta Strukturnya]] (`00_Inbox/15 Contoh Narrative Text Bahasa Inggris Beserta Strukturnya.md`)
-- [[Pengertian Narrative Text, Struktur, Jenis & Contoh]] (`00_Inbox/Pengertian Narrative Text, Struktur, Jenis & Contoh.md`)
-- [[Kaidah Kebahasaan Narrative Text dan Contohnya  Bahasa Inggris Kelas 8]] (`00_Inbox/Kaidah Kebahasaan Narrative Text dan Contohnya  Bahasa Inggris Kelas 8.md`)
+No orphan pages found! 🎉
 
 ## 📄 Missing/Invalid Frontmatter Properties
 | File | Missing/Invalid Fields |
@@ -136,6 +120,7 @@ These files have no incoming or outgoing links:
 | [[Kongruensi_Modular]] | `date_created` |
 | [[Chinese_Remainder_Theorem]] | `title, date_created` |
 | [[Reverse_CRT]] | `title, date_created` |
+| [[Lagrange_Interpolation]] | `title, date_created` |
 | [[Coprime]] | `date_created` |
 | [[Invers_Modular]] | `title, date_created, source` |
 | [[Secret_Sharing_Scheme]] | `title, date_created` |

@@ -16,7 +16,7 @@ di mana konstanta $a_0 = S$ adalah data rahasia yang disembunyikan.
 
 ## Prinsip Kerja
 1. **Generasi Share:** Evaluasi fungsi $f(x)$ pada $n$ titik independen $x_1, x_2, \dots, x_n$. Setiap partisipan menerima pasangan titik $(x_i, f(x_i))$.
-2. **Rekonstruksi Rahasia:** Menggunakan interpolasi Lagrange dari minimal $t$ titik untuk menemukan kembali koefisien $a_0 = S$.
+2. **Rekonstruksi Rahasia:** Menggunakan [[Lagrange_Interpolation]] dari minimal $t$ titik untuk menemukan kembali koefisien $a_0 = S$.
 
 ## Keunggulan
 - **Information-Theoretic Security:** Kurang dari $t$ share tidak memberikan informasi sedikit pun tentang rahasia $S$.

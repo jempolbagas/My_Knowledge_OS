@@ -8,20 +8,16 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-08-11T11:18:13Z"
+    "generated_at": "2026-08-12T09:27:26Z"
   },
   "stats": {
-    "total_notes": 162,
-    "total_edges": 671,
-    "broken_links": 110,
-    "untyped_notes": 63,
-    "health_score": 51.1
+    "total_notes": 164,
+    "total_edges": 710,
+    "broken_links": 104,
+    "untyped_notes": 58,
+    "health_score": 55.2
   },
-  "inbox": [
-    "15 Contoh Narrative Text Bahasa Inggris Beserta Strukturnya",
-    "Pengertian Narrative Text, Struktur, Jenis & Contoh",
-    "Kaidah Kebahasaan Narrative Text dan Contohnya  Bahasa Inggris Kelas 8"
-  ],
+  "inbox": [],
   "spaces": {
     "College": {
       "General": [
@@ -31,75 +27,79 @@
     },
     "Teaching": {
       "Languages": [
-        "[ESL] Worksheet - Simple Present vs Present Continuous",
-        "LKPD_dan_Soal_Functional_Texts",
-        "LKPD_dan_Soal_Parts_of_Speech",
-        "LKPD_dan_Soal_Descriptive_Text",
-        "LKPD_dan_Soal_Narrative_Text",
-        "LKPD_dan_Soal_Simple_Past_Tense",
-        "Materi_Simple_Past_Tense",
-        "Materi_Descriptive_Text",
-        "Materi_Parts_of_Speech",
-        "Materi_Functional_Texts",
-        "Materi_Narrative_Text"
+        "LKPD_Narrative_Text_SMP",
+        "LKPD_Functional_Texts_SMP",
+        "LKPD_Simple_Past_Tense_SMP",
+        "LKPD_Descriptive_Text_SMP",
+        "LKPD_Simple_Present_vs_Present_Continuous_SMP",
+        "LKPD_Parts_of_Speech_SMP",
+        "Narrative_Text_SMP",
+        "Functional_Texts_SMP",
+        "Parts_of_Speech_SMP",
+        "Descriptive_Text_SMP",
+        "Simple_Past_Tense_SMP"
       ],
       "Physics": [
-        "LKPD_dan_Soal_Gaya_Tegangan_Tali_dan_Katrol",
-        "LKPD_dan_Soal_Gaya_Gesek",
-        "LKPD_dan_Soal_Gaya_Sentripetal",
-        "LKPD_dan_Soal_Gaya_Normal",
-        "Soal_Latihan_Ulangan_Dinamika_Gerak",
-        "LKPD_dan_Soal_Gaya_Berat",
-        "LKPD_dan_Soal_Dinamika_Gerak",
-        "Materi_Gaya_Gesek",
-        "Materi_Dinamika_Gerak",
-        "Materi_Gaya_Berat",
-        "Materi_Gaya_Tegangan_Tali_dan_Katrol",
-        "Materi_Gaya_Sentripetal",
-        "Materi_Gaya_Normal"
+        "LKPD_Dinamika_Gerak_SMA",
+        "LKPD_Gaya_Tegangan_Tali_dan_Katrol_SMA",
+        "LKPD_Gaya_Sentripetal_SMA",
+        "LKPD_Gaya_Normal_SMA",
+        "LKPD_Gaya_Gesek_SMA",
+        "Soal_Dinamika_Gerak_SMA",
+        "LKPD_Gaya_Berat_SMA",
+        "Gaya_Berat_SMA",
+        "Gaya_Gesek_SMA",
+        "Dinamika_Gerak_SMA",
+        "Gaya_Sentripetal_SMA",
+        "Gaya_Normal_SMA",
+        "Gaya_Tegangan_Tali_dan_Katrol_SMA"
       ],
       "Social Studies": [
-        "LKPD_dan_Soal_Tenaga_Endogen_Vulkanisme",
-        "LKPD_dan_Soal_Pertambangan_dan_Barang_Tambang_Indonesia",
-        "LKPD_dan_Soal_Litosfer_Tenaga_Endogen_dan_Eksogen",
-        "LKPD_dan_Soal_Tenaga_Eksogen",
-        "LKPD_dan_Soal_Keanekaragaman_Hayati_Indonesia",
-        "Materi_Tenaga_Endogen_Vulkanisme",
-        "Materi_Pertambangan_dan_Barang_Tambang_Indonesia",
-        "Materi_Tenaga_Eksogen",
-        "Materi_Keanekaragaman_Hayati_dan_Jenis_Hutan_Indonesia",
-        "Materi_Litosfer_Tenaga_Endogen_dan_Eksogen"
+        "LKPD_Pertambangan_dan_Barang_Tambang_Indonesia_SMP",
+        "LKPD_Tenaga_Eksogen_SMP",
+        "LKPD_Tenaga_Endogen_Vulkanisme_SMP",
+        "LKPD_Litosfer_Tenaga_Endogen_dan_Eksogen_SMA",
+        "LKPD_Keanekaragaman_Hayati_Indonesia_SMP",
+        "Tenaga_Eksogen_SMP",
+        "Tenaga_Endogen_Vulkanisme_SMP",
+        "Litosfer_Tenaga_Endogen_dan_Eksogen_SMA",
+        "Keanekaragaman_Hayati_dan_Jenis_Hutan_Indonesia_SMP",
+        "Pertambangan_dan_Barang_Tambang_Indonesia_SMP"
       ],
       "Mathematics": [
-        "LKPD_dan_Soal_Persamaan_Kuadrat",
-        "LKPD_dan_Soal_Matriks",
-        "Soal_Latihan_Ulangan_Pola_Bilangan_Paket_B",
-        "LKPD_dan_Soal_Pola_Bilangan",
-        "LKPD_dan_Soal_Suku_Banyak_Polinomial",
-        "LKPD_dan_Soal_Kaidah_Pencacahan_dan_Kombinatorika",
-        "LKPD_dan_Soal_Teori_Peluang_dan_Kejadian_Majemuk",
-        "Materi_Logika_Permutasi_dan_Kombinasi",
-        "Materi_Teori_Peluang_dan_Kejadian_Majemuk",
-        "Materi_Persamaan_Kuadrat",
-        "Materi_Pola_Bilangan",
-        "Materi_Suku_Banyak_Polinomial",
-        "Materi_Kaidah_Pencacahan_dan_Kombinatorika",
-        "Materi_Matriks"
+        "LKPD_Fungsi_Invers_SMA",
+        "LKPD_Suku_Banyak_Polinomial_SMA",
+        "LKPD_Matriks_SMA",
+        "LKPD_Pola_Bilangan_SMP",
+        "LKPD_Kaidah_Pencacahan_dan_Kombinatorika_SMA",
+        "LKPD_Persamaan_Kuadrat_SMP",
+        "LKPD_Teori_Peluang_dan_Kejadian_Majemuk_SMA",
+        "Soal_Fungsi_Invers_SMA",
+        "Soal_Pola_Bilangan_Paket_B_SMP",
+        "Teori_Peluang_dan_Kejadian_Majemuk_SMA",
+        "Logika_Permutasi_dan_Kombinasi_SMA",
+        "Persamaan_Kuadrat_SMP",
+        "Pola_Bilangan_SMP",
+        "Suku_Banyak_Polinomial_SMA",
+        "Matriks_SMA",
+        "Kaidah_Pencacahan_dan_Kombinatorika_SMA",
+        "Teknik_Invers_Fungsi_Aljabar_SMA",
+        "Invers_Fungsi_Komposisi_dan_Aplikasi_SMA",
+        "Konsep_Dasar_dan_Syarat_Invers_SMA",
+        "Fungsi_Invers_SMA"
       ],
       "Biology": [
-        "LKPD_dan_Soal_Sistem_Pencernaan_Makanan_SMP_8",
-        "LKPD_dan_Soal_Sistem_Pencernaan_Makanan",
-        "LKPD_dan_Soal_Pengenalan_Sel",
-        "Materi_Pengenalan_Sel",
-        "Materi_Sistem_Pencernaan_Makanan",
-        "Materi_Sistem_Pencernaan_Makanan_SMP_8"
+        "LKPD_Pengenalan_Sel_SMP",
+        "LKPD_Sistem_Pencernaan_Makanan_SMP",
+        "Sistem_Pencernaan_Makanan_SMP",
+        "Pengenalan_Sel_SMP"
       ],
       "Economics": [
-        "LKPD_dan_Soal_Pendapatan_Nasional",
-        "Materi_Distribusi_Pendapatan",
-        "Materi_Pendapatan_Per_Kapita",
-        "Materi_Pendapatan_Nasional",
-        "Materi_Konsep_Pendapatan_Nasional"
+        "LKPD_Pendapatan_Nasional_SMA",
+        "Konsep_Pendapatan_Nasional_SMA",
+        "Distribusi_Pendapatan_SMA",
+        "Pendapatan_Per_Kapita_SMA",
+        "Pendapatan_Nasional_SMA"
       ]
     }
   },
@@ -175,6 +175,7 @@
         "Suku_Banyak_Polinomial",
         "Reverse_CRT",
         "Matriks",
+        "Lagrange_Interpolation",
         "Persamaan_Kuadrat",
         "Coprime",
         "Invers_Modular"
@@ -231,96 +232,87 @@
     ]
   },
   "maintenance": {
-    "orphan_pages_sample": [
-      "LKPD_dan_Soal_Kaidah_Pencacahan_dan_Kombinatorika",
-      "LKPD_dan_Soal_Teori_Peluang_dan_Kejadian_Majemuk",
-      "Materi_Logika_Permutasi_dan_Kombinasi",
-      "Materi_Teori_Peluang_dan_Kejadian_Majemuk",
-      "Materi_Kaidah_Pencacahan_dan_Kombinatorika",
-      "15 Contoh Narrative Text Bahasa Inggris Beserta Strukturnya",
-      "Pengertian Narrative Text, Struktur, Jenis & Contoh",
-      "Kaidah Kebahasaan Narrative Text dan Contohnya  Bahasa Inggris Kelas 8"
-    ],
+    "orphan_pages_sample": [],
     "untyped_notes_sample": [
       {
         "title": "README",
         "path": "10_Spaces/13_Gemastik_KTI/README.md"
       },
       {
-        "title": "LKPD_dan_Soal_Functional_Texts",
-        "path": "10_Spaces/12_Teaching/40_Practice/Languages/LKPD_dan_Soal_Functional_Texts.md"
+        "title": "LKPD_Narrative_Text_SMP",
+        "path": "10_Spaces/12_Teaching/40_Practice/Languages/LKPD_Narrative_Text_SMP.md"
       },
       {
-        "title": "LKPD_dan_Soal_Parts_of_Speech",
-        "path": "10_Spaces/12_Teaching/40_Practice/Languages/LKPD_dan_Soal_Parts_of_Speech.md"
+        "title": "LKPD_Functional_Texts_SMP",
+        "path": "10_Spaces/12_Teaching/40_Practice/Languages/LKPD_Functional_Texts_SMP.md"
       },
       {
-        "title": "LKPD_dan_Soal_Descriptive_Text",
-        "path": "10_Spaces/12_Teaching/40_Practice/Languages/LKPD_dan_Soal_Descriptive_Text.md"
+        "title": "LKPD_Simple_Past_Tense_SMP",
+        "path": "10_Spaces/12_Teaching/40_Practice/Languages/LKPD_Simple_Past_Tense_SMP.md"
       },
       {
-        "title": "LKPD_dan_Soal_Narrative_Text",
-        "path": "10_Spaces/12_Teaching/40_Practice/Languages/LKPD_dan_Soal_Narrative_Text.md"
+        "title": "LKPD_Descriptive_Text_SMP",
+        "path": "10_Spaces/12_Teaching/40_Practice/Languages/LKPD_Descriptive_Text_SMP.md"
       },
       {
-        "title": "LKPD_dan_Soal_Simple_Past_Tense",
-        "path": "10_Spaces/12_Teaching/40_Practice/Languages/LKPD_dan_Soal_Simple_Past_Tense.md"
+        "title": "LKPD_Parts_of_Speech_SMP",
+        "path": "10_Spaces/12_Teaching/40_Practice/Languages/LKPD_Parts_of_Speech_SMP.md"
       },
       {
-        "title": "LKPD_dan_Soal_Gaya_Tegangan_Tali_dan_Katrol",
-        "path": "10_Spaces/12_Teaching/40_Practice/Physics/LKPD_dan_Soal_Gaya_Tegangan_Tali_dan_Katrol.md"
+        "title": "LKPD_Dinamika_Gerak_SMA",
+        "path": "10_Spaces/12_Teaching/40_Practice/Physics/LKPD_Dinamika_Gerak_SMA.md"
       },
       {
-        "title": "LKPD_dan_Soal_Gaya_Gesek",
-        "path": "10_Spaces/12_Teaching/40_Practice/Physics/LKPD_dan_Soal_Gaya_Gesek.md"
+        "title": "LKPD_Gaya_Tegangan_Tali_dan_Katrol_SMA",
+        "path": "10_Spaces/12_Teaching/40_Practice/Physics/LKPD_Gaya_Tegangan_Tali_dan_Katrol_SMA.md"
       },
       {
-        "title": "LKPD_dan_Soal_Gaya_Sentripetal",
-        "path": "10_Spaces/12_Teaching/40_Practice/Physics/LKPD_dan_Soal_Gaya_Sentripetal.md"
+        "title": "LKPD_Gaya_Sentripetal_SMA",
+        "path": "10_Spaces/12_Teaching/40_Practice/Physics/LKPD_Gaya_Sentripetal_SMA.md"
       },
       {
-        "title": "LKPD_dan_Soal_Gaya_Normal",
-        "path": "10_Spaces/12_Teaching/40_Practice/Physics/LKPD_dan_Soal_Gaya_Normal.md"
+        "title": "LKPD_Gaya_Normal_SMA",
+        "path": "10_Spaces/12_Teaching/40_Practice/Physics/LKPD_Gaya_Normal_SMA.md"
       },
       {
-        "title": "Soal_Latihan_Ulangan_Dinamika_Gerak",
-        "path": "10_Spaces/12_Teaching/40_Practice/Physics/Soal_Latihan_Ulangan_Dinamika_Gerak.md"
+        "title": "LKPD_Gaya_Gesek_SMA",
+        "path": "10_Spaces/12_Teaching/40_Practice/Physics/LKPD_Gaya_Gesek_SMA.md"
       },
       {
-        "title": "LKPD_dan_Soal_Gaya_Berat",
-        "path": "10_Spaces/12_Teaching/40_Practice/Physics/LKPD_dan_Soal_Gaya_Berat.md"
+        "title": "Soal_Dinamika_Gerak_SMA",
+        "path": "10_Spaces/12_Teaching/40_Practice/Physics/Soal_Dinamika_Gerak_SMA.md"
       },
       {
-        "title": "LKPD_dan_Soal_Dinamika_Gerak",
-        "path": "10_Spaces/12_Teaching/40_Practice/Physics/LKPD_dan_Soal_Dinamika_Gerak.md"
+        "title": "LKPD_Gaya_Berat_SMA",
+        "path": "10_Spaces/12_Teaching/40_Practice/Physics/LKPD_Gaya_Berat_SMA.md"
       },
       {
-        "title": "LKPD_dan_Soal_Tenaga_Endogen_Vulkanisme",
-        "path": "10_Spaces/12_Teaching/40_Practice/Social_Studies/LKPD_dan_Soal_Tenaga_Endogen_Vulkanisme.md"
+        "title": "LKPD_Pertambangan_dan_Barang_Tambang_Indonesia_SMP",
+        "path": "10_Spaces/12_Teaching/40_Practice/Social_Studies/LKPD_Pertambangan_dan_Barang_Tambang_Indonesia_SMP.md"
       },
       {
-        "title": "LKPD_dan_Soal_Pertambangan_dan_Barang_Tambang_Indonesia",
-        "path": "10_Spaces/12_Teaching/40_Practice/Social_Studies/LKPD_dan_Soal_Pertambangan_dan_Barang_Tambang_Indonesia.md"
+        "title": "LKPD_Tenaga_Eksogen_SMP",
+        "path": "10_Spaces/12_Teaching/40_Practice/Social_Studies/LKPD_Tenaga_Eksogen_SMP.md"
       },
       {
-        "title": "LKPD_dan_Soal_Litosfer_Tenaga_Endogen_dan_Eksogen",
-        "path": "10_Spaces/12_Teaching/40_Practice/Social_Studies/LKPD_dan_Soal_Litosfer_Tenaga_Endogen_dan_Eksogen.md"
+        "title": "LKPD_Tenaga_Endogen_Vulkanisme_SMP",
+        "path": "10_Spaces/12_Teaching/40_Practice/Social_Studies/LKPD_Tenaga_Endogen_Vulkanisme_SMP.md"
       },
       {
-        "title": "LKPD_dan_Soal_Tenaga_Eksogen",
-        "path": "10_Spaces/12_Teaching/40_Practice/Social_Studies/LKPD_dan_Soal_Tenaga_Eksogen.md"
+        "title": "LKPD_Litosfer_Tenaga_Endogen_dan_Eksogen_SMA",
+        "path": "10_Spaces/12_Teaching/40_Practice/Social_Studies/LKPD_Litosfer_Tenaga_Endogen_dan_Eksogen_SMA.md"
       },
       {
-        "title": "LKPD_dan_Soal_Keanekaragaman_Hayati_Indonesia",
-        "path": "10_Spaces/12_Teaching/40_Practice/Social_Studies/LKPD_dan_Soal_Keanekaragaman_Hayati_Indonesia.md"
+        "title": "LKPD_Keanekaragaman_Hayati_Indonesia_SMP",
+        "path": "10_Spaces/12_Teaching/40_Practice/Social_Studies/LKPD_Keanekaragaman_Hayati_Indonesia_SMP.md"
       },
       {
-        "title": "LKPD_dan_Soal_Persamaan_Kuadrat",
-        "path": "10_Spaces/12_Teaching/40_Practice/Mathematics/LKPD_dan_Soal_Persamaan_Kuadrat.md"
+        "title": "LKPD_Suku_Banyak_Polinomial_SMA",
+        "path": "10_Spaces/12_Teaching/40_Practice/Mathematics/LKPD_Suku_Banyak_Polinomial_SMA.md"
       },
       {
-        "title": "Soal_Latihan_Ulangan_Pola_Bilangan_Paket_B",
-        "path": "10_Spaces/12_Teaching/40_Practice/Mathematics/Soal_Latihan_Ulangan_Pola_Bilangan_Paket_B.md"
+        "title": "LKPD_Pola_Bilangan_SMP",
+        "path": "10_Spaces/12_Teaching/40_Practice/Mathematics/LKPD_Pola_Bilangan_SMP.md"
       }
     ]
   }

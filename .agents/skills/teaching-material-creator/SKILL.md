@@ -9,11 +9,16 @@ Skill ini digunakan saat pengguna meminta untuk membuat bahan ajar, modul ajar, 
 
 ## Aturan & Konvensi Penyusunan:
 
-### 1. Pemisahan Berkas Berdasarkan Subjek
-Selalu pisahkan antara Materi Ajar dan Lembar Aktivitas/Soal ke dalam subfolder subjek masing-masing (misalnya: `Social_Studies`, `Science`, `Biology`, dll.):
+### 1. Pemisahan Berkas Berdasarkan Subjek & Konvensi Penamaan
+
+Selalu pisahkan antara Materi Ajar dan Lembar Aktivitas/Soal ke dalam subfolder subjek masing-masing (misalnya: `Social_Studies`, `Science`, `Biology`, dll.) menggunakan format **`snake_case`** dengan akhiran jenjang pendidikan (**`_SMP`** atau **`_SMA`**):
 
 * **File Utama (Materi Ajar / Handout / Modul Ajar):**
-  * **Lokasi:** `10_Spaces/12_Teaching/30_Sources/<Subject>/Materi_<Judul_Materi>.md`
+  * **Lokasi & Penamaan:** `10_Spaces/12_Teaching/30_Sources/<Subject>/<Judul_Topik>_<Level>.md` *(tanpa imbuhan `Materi_`, wajib menyertakan akhiran `_SMP` atau `_SMA`)*.
+    - Contoh: `Pengenalan_Sel_SMP.md`, `Dinamika_Gerak_SMA.md`
+  * **Konvensi Judul:**
+    - **Frontmatter Title (`title:`):** Clean title tanpa awalan `"Materi Ajar:"` (contoh: `title: "Pengenalan Sel — Unit Terkecil Kehidupan"`).
+    - **H1 Header (`#`):** `# <Judul Topik> — <Subtitle Hook> <Emoji>` (contoh: `# Pengenalan Sel — Keliling Dunia Mikroskopis! 🦠✨`).
   * **Konten:** Diperluas secara mendalam dan terstruktur (definisi, konsep, tingkatan, klasifikasi, contoh real, analisis bab per bab, hingga aspek ekologis/aplikatif).
   * **Ketentuan Format:** 
     - **Jangan** menyertakan outline slide presentasi kecuali diminta secara eksplisit oleh pengguna.
@@ -24,9 +29,13 @@ Selalu pisahkan antara Materi Ajar dan Lembar Aktivitas/Soal ke dalam subfolder 
       - **Kebijakan Rasio Aspek (Aspect Ratio):** Rasio adaptif — 16:9 lanskap untuk alur proses/mindmap lebar; 3:4 potret untuk alur vertikal bertingkat yang tinggi.
       - **Konvensi Penamaan di `30_Assets/`:** Gunakan format `<type>_<subject>_<topic>_<descriptor>.ext` (huruf kecil `snake_case`), di mana `<type>` menentukan jenis aset (`diagram_` untuk flowchart, `chart_` untuk grafik/kurva, `mindmap_` untuk pohon konsep, `infographic_` untuk ringkasan visual, `illustration_` untuk grafik konsep; contoh: `mindmap_economics_national_income_dashboard.jpg`). Dilarang keras membuat folder `30_Assets` lokal di dalam sub-space.
 
-
 * **File Praktik (LKPD & Soal Evaluasi):**
-  * **Lokasi:** `10_Spaces/12_Teaching/40_Practice/<Subject>/LKPD_dan_Soal_<Judul_Materi>.md`
+  * **Lokasi & Penamaan:** 
+    - **LKPD / Worksheet:** `10_Spaces/12_Teaching/40_Practice/<Subject>/LKPD_<Judul_Topik>_<Level>.md` (contoh: `LKPD_Pengenalan_Sel_SMP.md`)
+    - **Paket Evaluasi / Soal Ulangan:** `10_Spaces/12_Teaching/40_Practice/<Subject>/Soal_<Judul_Topik>_<Level>.md` (contoh: `Soal_Dinamika_Gerak_SMA.md`)
+  * **Konvensi Judul:**
+    - **Frontmatter Title (`title:`):** `title: "LKPD: <Judul Topik>"` atau `title: "Soal Evaluasi: <Judul Topik>"`.
+    - **H1 Header (`#`):** `# Lembar Kerja Peserta Didik (LKPD): <Judul Topik>` atau `# Paket Soal Evaluasi: <Judul Topik>`.
   * **Konten:** 
     1. Lembar Kerja Peserta Didik (LKPD: Aktivitas Kelompok, Tabel Klasifikasi, Matriks Komparasi, Studi Kasus HOTS).
     2. Latihan Soal Mandiri (Pilihan Ganda HOTS & Soal Uraian Penalaran).
@@ -38,7 +47,7 @@ Selalu pisahkan antara Materi Ajar dan Lembar Aktivitas/Soal ke dalam subfolder 
 
 ### 3. Frontmatter & Metadata
 Gunakan frontmatter standar untuk setiap berkas yang dibuat:
-* `title`, `target_audience`, `created`, `sources` (menggunakan wikilinks `[[...]]` ke catatan sumber), dan `tags`.
+* `title`, `type` (`materi` | `master-dashboard` | `lkpd` | `soal-evaluasi`), `subject`, `level` (`smp` | `sma`), `target_audience`, `created`, `sources` (menggunakan wikilinks `[[...]]` ke catatan sumber), dan `tags`.
 
 ### 4. Workflow Modularisasi Topik Besar (Big Topic Modularization)
 Jika topik materi ajar mencakup cakupan luas (>200-300 baris atau memuat 3+ sub-bahasan utama), gunakan pendekatan **Modularisasi** dengan aturan berikut:
@@ -47,18 +56,18 @@ Jika topik materi ajar mencakup cakupan luas (>200-300 baris atau memuat 3+ sub-
    * Buat subfolder khusus nama topik di bawah folder subjek: `10_Spaces/12_Teaching/30_Sources/<Subject>/<Nama_Topik>/` (misal: `Social_Studies/Pendapatan_Nasional/`).
    * Seluruh berkas materi (Master Dashboard & Sub-Modul) disimpan di dalam subfolder terdedikasi ini.
 
-2. **Master Dashboard Note (`Materi_<Nama_Topik>.md`):**
-   * Berfungsi sebagai indeks navigasi dan pusat kontrol materi.
+2. **Master Dashboard Note (`<Nama_Topik>_<Level>.md`):**
+   * Berfungsi sebagai indeks navigasi dan pusat kontrol materi (misal: `Pendapatan_Nasional_SMA.md`).
    * **Struktur Wajib:** Overview Eksekutif, Peta Konsep Utama / Infografis Visual (Menggunakan Aset Gambar Visual di `30_Assets/` yang dibuat via `generate_image` sesuai standar visual `GEMINI.md`, disematkan dengan `![[<nama_aset>.ext]]`), Tabel Navigasi Modul dengan Wikilinks `[[...]]`, dan Cheatsheet Formula Gabungan.
 
 3. **Penamaan Sub-Modul Ringkas & Berfokus Judul:**
-   * Nama berkas sub-modul harus ringkas dan langsung berfokus pada judul topik/modulnya (contoh: `Materi_Konsep_Pendapatan_Nasional.md`, `Materi_Pendapatan_Per_Kapita.md`, `Materi_Distribusi_Pendapatan.md`). Hindari imbuhan nomor urut yang terlalu panjang.
+   * Nama berkas sub-modul harus ringkas dalam `snake_case` dengan akhiran level (contoh: `Konsep_Pendapatan_Nasional_SMA.md`, `Pendapatan_Per_Kapita_SMA.md`, `Distribusi_Pendapatan_SMA.md`).
 
 4. **Penempatan Berkas Praktik / LKPD (`40_Practice/`):**
-   * Berkas LKPD (`LKPD_dan_Soal_<Nama_Topik>.md`) **tetap berada di folder utama** `10_Spaces/12_Teaching/40_Practice/<Subject>/` (tanpa membuat subfolder) agar seragam dengan LKPD lain.
+   * Berkas LKPD (`LKPD_<Nama_Topik>_<Level>.md`) & Soal (`Soal_<Nama_Topik>_<Level>.md`) **tetap berada di folder utama** `10_Spaces/12_Teaching/40_Practice/<Subject>/` (tanpa membuat subfolder) agar seragam dengan LKPD lain.
    * Daftarkan Master Dashboard & seluruh Sub-Modul di bagian `sources:` pada frontmatter LKPD.
    * Tambahkan bilah navigasi Wikilinks interaktif di bagian paling atas dokumen LKPD.
 
 5. **Bilah Navigasi Antar-Modul (Cross-Module Navigation):**
-   * Di bagian atas dan bawah setiap sub-modul, sertakan bilah navigasi cepat (misal: `[[Master_Dashboard]] | Modul Ini | [[Modul_Berikutnya]] | [[LKPD]]`).
+   * Di bagian atas dan bawah setiap sub-modul, sertakan bilah navigasi cepat (misal: `[[<Nama_Topik>_<Level>|🏠 Master Dashboard]] | Modul Ini | [[<Submodul_Berikutnya>_<Level>]] | [[LKPD_<Nama_Topik>_<Level>]]`).
 

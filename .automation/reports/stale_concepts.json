@@ -18,33 +18,6 @@
     "status": "outdated"
   },
   {
-    "concept_file": "20_Brain_Atlas/20_Concepts/Mathematics/Suku_Banyak_Polinomial.md",
-    "concept_title": "Suku_Banyak_Polinomial",
-    "source_file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Materi_Suku_Banyak_Polinomial.md",
-    "source_title": "Materi_Suku_Banyak_Polinomial",
-    "stored_hash": "8fc3435a6aa003239e7dbf0fa74c32dd",
-    "current_hash": "7519f46e5963ed51946e00f4ba93ac4f",
-    "status": "outdated"
-  },
-  {
-    "concept_file": "20_Brain_Atlas/20_Concepts/Mathematics/Matriks.md",
-    "concept_title": "Matriks",
-    "source_file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Materi_Matriks.md",
-    "source_title": "Materi_Matriks",
-    "stored_hash": "8f2ad476d6c5550a3942702621047bb1",
-    "current_hash": "9576e5ca7ccc58c82fa76d663a83886b",
-    "status": "outdated"
-  },
-  {
-    "concept_file": "20_Brain_Atlas/20_Concepts/Mathematics/Persamaan_Kuadrat.md",
-    "concept_title": "Persamaan_Kuadrat",
-    "source_file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Materi_Persamaan_Kuadrat.md",
-    "source_title": "Materi_Persamaan_Kuadrat",
-    "stored_hash": "d07b403d242c847dcdbbc05268e62916",
-    "current_hash": "b9031a30fc18c274ce5f7261d79624e1",
-    "status": "outdated"
-  },
-  {
     "concept_file": "20_Brain_Atlas/20_Concepts/Mathematics/Coprime.md",
     "concept_title": "Coprime",
     "source_file": "20_Brain_Atlas/20_Concepts/Mathematics/Chinese_Remainder_Theorem.md",

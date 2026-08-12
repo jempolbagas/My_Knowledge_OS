@@ -4,7 +4,6 @@ subject: Mathematics
 source_hash: "a5494b3c28edc219b1379c83ee67b3d3"
 created: 2026-08-05
 ---
-
 # Invers Modular
 
 **Invers Modular** (*Modular Multiplicative Inverse*) dari sebuah bilangan bulat $A$ terhadap modulo $m$ adalah bilangan bulat $y$ sedemikian rupa sehingga hasil kali $A \cdot y$ jika dibagi $m$ menghasilkan sisa $1$:

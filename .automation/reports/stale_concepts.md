@@ -6,9 +6,6 @@ Detected when a source file has changed since the Concept wiki page was generate
 | --- | --- | --- | --- |
 | [[Kongruensi_Modular]] | [[Chinese_Remainder_Theorem]] | ❓ No Snapshot Hash | Run LLM review to update concept and update `source_hash: "37211e637f265b9b17c4dd3aa0bede54"` |
 | [[Chinese_Remainder_Theorem]] | [[Single_Secret_Sharing_CRT_Shamir_XOR]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "2a94364a85872818f78bbba8e512aaee"` |
-| [[Suku_Banyak_Polinomial]] | [[Materi_Suku_Banyak_Polinomial]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "7519f46e5963ed51946e00f4ba93ac4f"` |
-| [[Matriks]] | [[Materi_Matriks]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "9576e5ca7ccc58c82fa76d663a83886b"` |
-| [[Persamaan_Kuadrat]] | [[Materi_Persamaan_Kuadrat]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "b9031a30fc18c274ce5f7261d79624e1"` |
 | [[Coprime]] | [[Chinese_Remainder_Theorem]] | ❓ No Snapshot Hash | Run LLM review to update concept and update `source_hash: "37211e637f265b9b17c4dd3aa0bede54"` |
 | [[WebAssembly_vs_Docker]] | [[Wasm_vs_Docker]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "6342736a489aad3a23b7f22808838f4b"` |
 | [[WebAssembly_Sandboxing]] | [[WebAssembly_Sandbox_and_Security_Architecture]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "9376ba271aa1c61a3710e33a8220c7eb"` |

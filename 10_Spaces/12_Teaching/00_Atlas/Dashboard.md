@@ -13,7 +13,7 @@ created: "2026-05-01"
 
 ```dataview
 TABLE file.mtime AS "Last Modified"
-FROM "30_Teaching"
+FROM "10_Spaces/12_Teaching"
 SORT file.mtime desc
 LIMIT 5
 ```

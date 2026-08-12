@@ -11,6 +11,7 @@ echo "Vault Root: $VAULT_ROOT"
 # Run initial indexing and validation on startup
 echo "Running initial index and lint..."
 $VENV_PYTHON "$SCRIPTS_DIR/build_index.py"
+$VENV_PYTHON "$SCRIPTS_DIR/build_teaching_index.py"
 $VENV_PYTHON "$SCRIPTS_DIR/linter.py"
 $VENV_PYTHON "$SCRIPTS_DIR/staleness_checker.py"
 $VENV_PYTHON "$SCRIPTS_DIR/generate_summary.py"
@@ -34,6 +35,7 @@ while true; do
     # Quiet period of 5 seconds reached. Run the indexer and linter.
     echo "Change detected. Running automation scripts..."
     $VENV_PYTHON "$SCRIPTS_DIR/build_index.py"
+    $VENV_PYTHON "$SCRIPTS_DIR/build_teaching_index.py"
     $VENV_PYTHON "$SCRIPTS_DIR/linter.py"
     $VENV_PYTHON "$SCRIPTS_DIR/staleness_checker.py"
     $VENV_PYTHON "$SCRIPTS_DIR/generate_summary.py"
