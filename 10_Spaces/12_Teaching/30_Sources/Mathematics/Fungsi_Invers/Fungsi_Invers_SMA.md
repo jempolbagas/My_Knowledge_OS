@@ -39,9 +39,9 @@ Gunakan tabel navigasi di bawah ini untuk mengakses setiap sub-modul materi, lem
 
 | No | Modul / Berkas | Sub-Bahasan Utama | Target Hasil Belajar |
 | :---: | :--- | :--- | :--- |
-| **01** | [[Konsep_Dasar_dan_Syarat_Invers_SMA\|Modul 1: Konsep Dasar & Syarat Invers]] | Analogi Mesin Undo, Pemetaan Domain/Range, Syarat Fungsi Bijektif (Horizontal Line Test), Pencerminan Garis \(y = x\). | Memahami arti invers, membuktikan sifat bijektif, dan mengidentifikasi invers grafik. |
-| **02** | [[Teknik_Invers_Fungsi_Aljabar_SMA\|Modul 2: Teknik Invers Fungsi Aljabar]] | Prosedur 4 Langkah Aljabar, Fungsi Linier, Pecahan Rasional \(\frac{ax+b}{cx+d}\), Kuadrat & Akar, Eksponen & Logaritma. | Mahir menentukan rumus \(f^{-1}(x)\) untuk pelbagai jenis fungsi aljabar dengan presisi tinggi. |
-| **03** | [[Invers_Fungsi_Komposisi_dan_Aplikasi_SMA\|Modul 3: Invers Komposisi & Aplikasi HOTS]] | Formulasi \((f \circ g)^{-1}(x) = (g^{-1} \circ f^{-1})(x)\), Sifat Identitas \((f \circ f^{-1})(x) = x\), Konversi Valuta Asing, Diskon Bertingkat. | Menguasai invers dari gabungan fungsi dan memecahkan soal cerita kontekstual dunia nyata. |
+| **01** | [[Konsep_Dasar_dan_Syarat_Invers_SMA\|Modul 1: Konsep Dasar & Syarat Invers]] | Analogi Mesin Undo, Pemetaan Domain/Range, Syarat Fungsi Bijektif (Horizontal Line Test), Pencerminan Garis $y = x$. | Memahami arti invers, membuktikan sifat bijektif, dan mengidentifikasi invers grafik. |
+| **02** | [[Teknik_Invers_Fungsi_Aljabar_SMA\|Modul 2: Teknik Invers Fungsi Aljabar]] | Prosedur 4 Langkah Aljabar, Fungsi Linier, Pecahan Rasional $\frac{ax+b}{cx+d}$, Kuadrat & Akar, Eksponen & Logaritma. | Mahir menentukan rumus $f^{-1}(x)$ untuk pelbagai jenis fungsi aljabar dengan presisi tinggi. |
+| **03** | [[Invers_Fungsi_Komposisi_dan_Aplikasi_SMA\|Modul 3: Invers Komposisi & Aplikasi HOTS]] | Formulasi $(f \circ g)^{-1}(x) = (g^{-1} \circ f^{-1})(x)$, Sifat Identitas $(f \circ f^{-1})(x) = x$, Konversi Valuta Asing, Diskon Bertingkat. | Menguasai invers dari gabungan fungsi dan memecahkan soal cerita kontekstual dunia nyata. |
 | **📝** | [[LKPD_Fungsi_Invers_SMA\|Lembar Kerja Peserta Didik (LKPD)]] | Aktivitas Eksplorasi Mesin Fungsi, Matriks Pembuktian Rumus Cepat, Studi Kasus Detektif Diskon & Valas. | Mengasah keterampilan kolaborasi kelompok, investigasi matematis, dan pemecahan masalah. |
 | **🎯** | [[Soal_Fungsi_Invers_SMA\|Paket Soal Evaluasi & Pembahasan]] | 10 Soal Pilihan Ganda HOTS + 5 Soal Uraian Penalaran + Kunci Jawaban & Rubrik Penilaian Lengkap. | Menguji tingkat penguasaan individu dan kesiapan menghadapi Ujian / Asesmen Sumatif. |
 
@@ -52,20 +52,34 @@ Gunakan tabel navigasi di bawah ini untuk mengakses setiap sub-modul materi, lem
 Gunakan *cheatsheet* ringkas ini sebagai panduan cepat saat menyelesaikan soal-soal latihan:
 
 ### 1. Fungsi Linier
-$$ f(x) = ax + b \quad \Longrightarrow \quad f^{-1}(x) = \frac{x - b}{a} $$
+$$
+f(x) = ax + b \quad \Longrightarrow \quad f^{-1}(x) = \frac{x - b}{a}
+$$
 
 ### 2. Fungsi Pecahan Rasional (Bentuk Khusus)
-$$ f(x) = \frac{ax + b}{cx + d}, \quad x \neq -\frac{d}{c} \quad \Longrightarrow \quad f^{-1}(x) = \frac{-dx + b}{cx - a}, \quad x \neq \frac{a}{c} $$
-> *Tips Singkat:* Tukar posisi \(a\) dan \(d\), lalu kalikan dengan \(-1\) (ubah tanda)!
+$$
+f(x) = \frac{ax + b}{cx + d}, \quad x \neq -\frac{d}{c} \quad \Longrightarrow \quad f^{-1}(x) = \frac{-dx + b}{cx - a}, \quad x \neq \frac{a}{c}
+$$
+> *Tips Singkat:* Tukar posisi $a$ dan $d$, lalu kalikan dengan $-1$ (ubah tanda)!
 
 ### 3. Fungsi Kuadrat (Dengan Pembatasan Domain)
-$$ f(x) = a(x - h)^2 + k \quad \Longrightarrow \quad f^{-1}(x) = h + \sqrt{\frac{x - k}{a}} $$
+$$
+f(x) = a(x - h)^2 + k \quad \Longrightarrow \quad f^{-1}(x) = h + \sqrt{\frac{x - k}{a}}
+$$
 
 ### 4. Sifat Utama Invers Komposisi
-$$ (f \circ g)^{-1}(x) = (g^{-1} \circ f^{-1})(x) $$
-$$ (g \circ f)^{-1}(x) = (f^{-1} \circ g^{-1})(x) $$
-$$ (f^{-1})^{-1}(x) = f(x) $$
-$$ (f \circ f^{-1})(x) = (f^{-1} \circ f)(x) = x \quad \text{(Fungsi Identitas)} $$
+$$
+(f \circ g)^{-1}(x) = (g^{-1} \circ f^{-1})(x)
+$$
+$$
+(g \circ f)^{-1}(x) = (f^{-1} \circ g^{-1})(x)
+$$
+$$
+(f^{-1})^{-1}(x) = f(x)
+$$
+$$
+(f \circ f^{-1})(x) = (f^{-1} \circ f)(x) = x \quad \text{(Fungsi Identitas)}
+$$
 
 ---
 
