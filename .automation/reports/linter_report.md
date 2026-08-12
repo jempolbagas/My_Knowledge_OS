@@ -42,6 +42,8 @@
 | [[Pertambangan_dan_Barang_Tambang_Indonesia_SMP]] | `mindmap_social_studies_indonesia_mining_map.webp` | `wikilink` |
 | [[Pertambangan_dan_Barang_Tambang_Indonesia_SMP]] | `diagram_social_studies_mining_stages_flow.webp` | `wikilink` |
 | [[Pola_Bilangan_SMP]] | `diagram_mathematics_number_patterns_multilevel_scheme.webp` | `wikilink` |
+| [[Konsep_Dasar_dan_Syarat_Invers_SMA]] | `diagram_mathematics_inverse_function_machine.webp` | `wikilink` |
+| [[Fungsi_Invers_SMA]] | `infographic_mathematics_inverse_function_dashboard.webp` | `wikilink` |
 | [[Fungsi_Invers_SMA]] | `Konsep_Dasar_dan_Syarat_Invers_SMA\` | `wikilink` |
 | [[Fungsi_Invers_SMA]] | `Teknik_Invers_Fungsi_Aljabar_SMA\` | `wikilink` |
 | [[Fungsi_Invers_SMA]] | `Invers_Fungsi_Komposisi_dan_Aplikasi_SMA\` | `wikilink` |
