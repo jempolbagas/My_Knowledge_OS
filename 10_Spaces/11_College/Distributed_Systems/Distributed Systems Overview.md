@@ -1,17 +1,24 @@
 ---
 title: "[DS] Distributed Systems Overview"
-course: Distributed Systems
+course: Sistem Terdistribusi
+course_abbr: DS
+code: "12013120333"
+class_section: "B"
+sks: 3
+ects: 4.50
 semester: 5
 tags: ["college", "distributed-systems", "semester-5", "course-overview"]
-aliases: ["Distributed Systems Overview"]
+aliases: ["Distributed Systems Overview", "Sistem Terdistribusi Overview"]
 created: "2026-07-27"
 type: CourseOverview
 ---
 
-# 🌐 Distributed Systems (DS) — Semester 5
+# 🌐 Sistem Terdistribusi (Distributed Systems) — Semester 5
 
 > [!info] **Course Information**
+> - **Kode MK:** `12013120333` | **Kelas:** B | **Beban:** 3 SKS (4.50 ECTS)
 > - **Syllabus:** [[Distributed Systems Syllabus]]
+> - **Official KRS:** [[Official_KRS_Semester_5]]
 > - **Dashboard:** [[00_Semester_5_Dashboard|Semester 5 Dashboard]]
 
 ---

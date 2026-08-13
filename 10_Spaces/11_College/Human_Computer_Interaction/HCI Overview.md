@@ -1,17 +1,24 @@
 ---
-title: "[HCI] Human & Computer Interaction Overview"
-course: Human & Computer Interaction
+title: "[IMK] Interaksi Manusia & Komputer Overview"
+course: Interaksi Manusia & Komputer
+course_abbr: IMK
+code: "12013120231"
+class_section: "B"
+sks: 2
+ects: 3.00
 semester: 5
-tags: ["college", "hci", "ux-ui", "semester-5", "course-overview"]
-aliases: ["HCI Overview"]
+tags: ["college", "imk", "hci", "ux-ui", "semester-5", "course-overview"]
+aliases: ["HCI Overview", "Interaksi Manusia & Komputer Overview"]
 created: "2026-07-27"
 type: CourseOverview
 ---
 
-# 🖥️ Human & Computer Interaction (HCI) — Semester 5
+# 🖥️ Interaksi Manusia & Komputer (HCI) — Semester 5
 
 > [!info] **Course Information**
+> - **Kode MK:** `12013120231` | **Kelas:** B | **Beban:** 2 SKS (3.00 ECTS)
 > - **Syllabus:** [[Human Computer Interaction Syllabus]]
+> - **Official KRS:** [[Official_KRS_Semester_5]]
 > - **Dashboard:** [[00_Semester_5_Dashboard|Semester 5 Dashboard]]
 
 ---

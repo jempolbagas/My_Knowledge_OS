@@ -1,42 +1,45 @@
 ---
-title: "Semester 5 Dashboard (Fall 2026)"
+title: "Semester 5 Dashboard (Gasal 2026/2027)"
 type: Dashboard
 semester: 5
 academic_year: "2026/2027"
 tags: ["college", "semester-5", "dashboard"]
 created: "2026-07-27"
+updated: "2026-08-13"
 ---
 
-# 🎓 Semester 5 Hub & Operations (Fall 2026)
+# 🎓 Semester 5 Hub & Operations (Gasal 2026/2027)
 
-> [!info] **Semester Status:** Active Preparation / KRS & RPS Pending
-> Central command dashboard for all 8 planned courses in Semester 5 (including 2 retake courses from Semester 3).
+> [!success] **Semester Status:** Official KRS Approved & Active (22 SKS / 33.00 ECTS)
+> Central command dashboard for all 8 official courses in Semester 5 Gasal 2026/2027.
+> 📄 **Official KRS Record:** [[Official_KRS_Semester_5|Kartu Rencana Studi (KRS) Smt 5]]
 > 📋 **Preparation Guide:** [[Semester_5_Prep|Semester 5 Preparation Guide]]
 
 ---
 
 ## 🎯 Academic Goals & Milestones
 - **Target GPA / IPK:** 3.80+
-- **Focus Areas:** Systems, Security, Data Analysis & Grade Improvement (Retakes).
+- **Focus Areas:** Distributed Systems, Computer Vision, Digital Signal Processing, Biomedical Computing, & Technopreneurship.
 - **Key Calendar Dates:**
-  - **KRS & Registration:** Pending (Early-Mid August 2026)
+  - **KRS Approval:** ✅ Completed (`2026-08-13`) — 22 SKS Approved
   - **Midterm Exams (UTS):** October 2026
   - **Final Exams (UAS):** December 2026 / January 2027
 
 ---
 
-## 📚 Planned Course Directory (Semester 5)
+## 📚 Official KRS Course Directory (Semester 5)
 
-| Code / Abbr | Course Name                  | Status / Notes    | Course Hub                       | Syllabus (RPS)                          |
-| :---------- | :--------------------------- | :---------------- | :------------------------------- | :-------------------------------------- |
-| **DS**      | Distributed Systems          | Main (Smt 5)      | [[Distributed Systems Overview]] | [[Distributed Systems Syllabus]]        |
-| **IP**      | Image Processing             | Main (Smt 5)      | [[Image Processing Overview]]    | [[Image Processing Syllabus]]           |
-| **DM**      | Data Mining                  | Main (Smt 5)      | [[Data Mining Overview]]         | [[Data Mining Syllabus]]                |
-| **HCI**     | Human & Computer Interaction | Main (Smt 5)      | [[HCI Overview]]                 | [[Human Computer Interaction Syllabus]] |
-| **CRYPTO**  | Cryptography                 | Main (Smt 5)      | [[Cryptography Overview]]        | [[Cryptography Syllabus]]               |
-| **NETMGMT** | Network Management           | Main (Smt 5)      | [[Network Management Overview]]  | [[Network Management Syllabus]]         |
-| **NM**      | Numerical Methods            | ⚠️ Retake (Smt 3) | [[Numerical Methods Overview]]   | [[Numerical Methods Syllabus]]          |
-| **OS**      | Operating Systems            | ⚠️ Retake (Smt 3) | [[Operating Systems Overview]]   | [[Operating Systems Syllabus]]          |
+| MK Code | Abbr | Course Name | Sec | SKS | ECTS | Course Hub | Syllabus (RPS) |
+| :---: | :---: | :--- | :---: | :---: | :---: | :--- | :--- |
+| `12013130344` | **BIOMED** | Komputasi Biomedik | A | 3 | 4.50 | [[Biomedical Computing Overview]] | [[Biomedical Computing Syllabus]] |
+| `12013120332` | **PCD** | Pengolahan Citra Digital | B | 3 | 4.50 | [[Image Processing Overview]] | [[Image Processing Syllabus]] |
+| `12013120333` | **DS** | Sistem Terdistribusi | B | 3 | 4.50 | [[Distributed Systems Overview]] | [[Distributed Systems Syllabus]] |
+| `12013120231` | **IMK** | Interaksi Manusia & Komputer | B | 2 | 3.00 | [[HCI Overview]] | [[Human Computer Interaction Syllabus]] |
+| `12013140310` | **CV** | Computer Vision | A | 3 | 4.50 | [[Computer Vision Overview]] | [[Computer Vision Syllabus]] |
+| `12013140302` | **DSP** | Pengolahan Sinyal Digital | A | 3 | 4.50 | [[Digital Signal Processing Overview]] | [[Digital Signal Processing Syllabus]] |
+| `12013220330` | **DM** | Data Mining | C | 3 | 4.50 | [[Data Mining Overview]] | [[Data Mining Syllabus]] |
+| `12013120203` | **KWU** | Kewirausahaan | A2 | 2 | 3.00 | [[Entrepreneurship Overview]] | [[Entrepreneurship Syllabus]] |
+| **TOTAL** | | **8 Mata Kuliah** | | **22** | **33.00** | | |
 
 ---
 
@@ -71,6 +74,6 @@ WHERE semester = 5
 ---
 
 ## 🛠️ Quick Actions & Note Filing Rules
-1. **New Lecture Note:** Use the `College_Lecture_Note` template in `99_Configs/Templates/` and file under `10_Spaces/11_College/<Course_Folder>/`.
+1. **New Lecture Note:** Follow `college-study-pack` skill guidelines under `10_Spaces/11_College/<Course_Folder>/Week_<XX>_<Topic_Snake_Case>/`.
 2. **Uploading RPS / Syllabi:** Store in `10_Spaces/11_College/Syllabi/` using [Syllabus_Template.md](file:///mnt/data/life-hub/10_Knowledge_OS/10_Spaces/11_College/Syllabi/Syllabus_Template.md).
-3. **Concept Extraction:** Extract core algorithms or security principles into atomic Concept notes in `20_Brain_Atlas/20_Concepts/<Subject>/`.
+3. **Concept Extraction:** Extract core algorithms into atomic Concept notes in `20_Brain_Atlas/20_Concepts/<Subject>/`.

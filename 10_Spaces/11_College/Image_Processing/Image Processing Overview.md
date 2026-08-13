@@ -1,26 +1,33 @@
 ---
-title: "[IP] Image Processing Overview"
-course: Image Processing
+title: "[PCD] Image Processing Overview"
+course: Pengolahan Citra Digital
+course_abbr: PCD
+code: "12013120332"
+class_section: "B"
+sks: 3
+ects: 4.50
 semester: 5
-tags: ["college", "image-processing", "computer-vision", "semester-5", "course-overview"]
-aliases: ["Image Processing Overview"]
+tags: ["college", "image-processing", "pcd", "semester-5", "course-overview"]
+aliases: ["Image Processing Overview", "Pengolahan Citra Digital Overview"]
 created: "2026-07-27"
 type: CourseOverview
 ---
 
-# 🖼️ Image Processing (IP) — Semester 5
+# 🖼️ Pengolahan Citra Digital (Image Processing) — Semester 5
 
 > [!info] **Course Information**
+> - **Kode MK:** `12013120332` | **Kelas:** B | **Beban:** 3 SKS (4.50 ECTS)
 > - **Syllabus:** [[Image Processing Syllabus]]
+> - **Official KRS:** [[Official_KRS_Semester_5]]
 > - **Dashboard:** [[00_Semester_5_Dashboard|Semester 5 Dashboard]]
 
 ---
 
 ## 📌 Course Objectives & Scope
-- Digital image representation, color models (RGB, HSV, Grayscale), spatial resolution.
-- Image enhancement: Histogram equalization, spatial filtering (smoothing, sharpening).
-- Frequency domain filtering: Fourier Transform, high-pass and low-pass filters.
-- Edge detection, image segmentation, morphological operations, and feature extraction.
+- Digital image representation, color models (RGB, HSV, CMYK, Lab), and intensity transformations.
+- Spatial domain filtering: Smoothing (Gaussian, Median), Sharpening (Laplacian, Sobel, Prewitt).
+- Frequency domain processing: 2D Fourier Transform (DFT/FFT), Highpass/Lowpass Filtering.
+- Image restoration, morphological operations (erosion, dilation, opening, closing), and image segmentation.
 
 ---
 

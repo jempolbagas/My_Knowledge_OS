@@ -4,108 +4,108 @@ type: PrepGuide
 semester: 5
 tags: ["college", "semester-5", "prep-checklist"]
 created: "2026-07-31"
+updated: "2026-08-13"
 ---
 
-# 📚 Panduan Persiapan Semester 5 (Fall 2026)
+# 📚 Panduan Persiapan Semester 5 (Gasal 2026/2027)
 
-Panduan ini disusun untuk membantu kamu mempersiapkan **Semester 5 (Fall 2026)** secara optimal. Berdasarkan data dari [[00_Semester_5_Dashboard|Semester 5 Dashboard]], kamu akan mengambil **23 SKS** yang terdiri dari 6 mata kuliah utama semester 5 dan 2 mata kuliah perbaikan (retake) dari semester 3.
+Panduan ini disusun untuk membantu kamu mempersiapkan **Semester 5 (Gasal 2026/2027)** secara optimal. Berdasarkan data dari [[Official_KRS_Semester_5|KRS Resmi Smt 5]], kamu secara resmi mengambil **22 SKS** (33.00 ECTS) yang terdiri dari 8 mata kuliah.
 
 ---
 
-## 🎯 Ringkasan Beban Akademik (23 SKS)
+## 🎯 Ringkasan Beban Akademik Resmi (22 SKS / 33.00 ECTS)
 
-| Kode / Abbr | Nama Mata Kuliah | Bobot | Tipe | Hub Mata Kuliah | Silabus (RPS) |
+| Kode / Abbr | Nama Mata Kuliah | Kelas | Bobot | Course Hub | Silabus (RPS) |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| **DS** | Distributed Systems | 3 SKS | Utama (Smt 5) | [[Distributed Systems Overview]] | [[Distributed Systems Syllabus]] |
-| **CRYPTO** | Cryptography | 3 SKS | Utama (Smt 5) | [[Cryptography Overview]] | [[Cryptography Syllabus]] |
-| **IP** | Image Processing | 3 SKS | Utama (Smt 5) | [[Image Processing Overview]] | [[Image Processing Syllabus]] |
-| **DM** | Data Mining | 3 SKS | Utama (Smt 5) | [[Data Mining Overview]] | [[Data Mining Syllabus]] |
-| **HCI** | Human & Computer Interaction | 2 SKS | Utama (Smt 5) | [[HCI Overview]] | [[Human Computer Interaction Syllabus]] |
-| **NETMGMT** | Network Management | 3 SKS | Utama (Smt 5) | [[Network Management Overview]] | [[Network Management Syllabus]] |
-| **NM** | Numerical Methods | 3 SKS | ⚠️ Retake (Smt 3) | [[Numerical Methods Overview]] | [[Numerical Methods Syllabus]] |
-| **OS** | Operating Systems | 3 SKS | ⚠️ Retake (Smt 3) | [[Operating Systems Overview]] | [[Operating Systems Syllabus]] |
+| **BIOMED** | Komputasi Biomedik | A | 3 SKS | [[Biomedical Computing Overview]] | [[Biomedical Computing Syllabus]] |
+| **PCD** | Pengolahan Citra Digital | B | 3 SKS | [[Image Processing Overview]] | [[Image Processing Syllabus]] |
+| **DS** | Sistem Terdistribusi | B | 3 SKS | [[Distributed Systems Overview]] | [[Distributed Systems Syllabus]] |
+| **IMK** | Interaksi Manusia & Komputer | B | 2 SKS | [[HCI Overview]] | [[Human Computer Interaction Syllabus]] |
+| **CV** | Computer Vision | A | 3 SKS | [[Computer Vision Overview]] | [[Computer Vision Syllabus]] |
+| **DSP** | Pengolahan Sinyal Digital | A | 3 SKS | [[Digital Signal Processing Overview]] | [[Digital Signal Processing Syllabus]] |
+| **DM** | Data Mining | C | 3 SKS | [[Data Mining Overview]] | [[Data Mining Syllabus]] |
+| **KWU** | Kewirausahaan | A2 | 2 SKS | [[Entrepreneurship Overview]] | [[Entrepreneurship Syllabus]] |
 
 ---
 
 ## 📌 Checklist Persiapan Utama (To-Do List)
 
-> [!important]
-> Tugas-tugas di bawah ini akan otomatis terdeteksi di [[00_Semester_5_Dashboard|Semester 5 Dashboard]] kamu karena menggunakan format tugas Obsidian.
+> [!success]
+> Status KRS telah disetujui DPA Ery Permana Yudha, S.Kom., M.Kom. rincian berkas tersimpan di [[Official_KRS_Semester_5]].
 
 ### 1. Administrasi & KRS
-- [ ] **Konsultasi KRS:** Hubungi Dosen Pembimbing Akademik (DPA) untuk verifikasi persetujuan retake 2 matkul (Numerical Methods & Operating Systems) bersamaan dengan 5 matkul utama.
-- [ ] **KRS Online:** Lakukan pengisian KRS pada portal akademik UNS (estimasi Awal-Pertengahan Agustus 2026) dan pastikan bentrok jadwal diminimalisir.
-- [ ] **Persetujuan KRS:** Pastikan status KRS berubah menjadi disetujui/aktif oleh DPA.
+- [x] **Konsultasi KRS:** Verifikasi pengisian KRS dengan DPA (Ery Permana Yudha, S.Kom., M.Kom.).
+- [x] **KRS Online:** Pengisian KRS selesai disetujui portal UNS (22 SKS / 33.00 ECTS).
+- [x] **Dokumentasi Vault:** Arsip resmi KRS disimpan di [[Official_KRS_Semester_5]].
 
 ### 2. Pengadaan Buku & Literatur Utama
 *Daftar pustaka wajib yang digunakan oleh dosen pengampu semester ini:*
-- [ ] **Sistem Terdistribusi:** Dapatkan buku *Distributed Systems* (4th ed.) oleh M. van Steen & A.S. Tanenbaum.
-- [ ] **Kriptografi:** Dapatkan buku *Cryptography: Theory and Practice* oleh Douglas Stinson atau *Cryptography and Network Security* oleh William Stallings.
-- [ ] **Pengolahan Citra Digital (PCD):** Dapatkan buku *Digital Image Processing* oleh Gonzalez & Woods (2018/2021).
-- [ ] **Data Mining:** Dapatkan buku *Introduction to Data Mining* oleh Pang-Ning Tan atau *Data Mining: Concepts and Techniques* oleh Jiawei Han.
-- [ ] **Sistem Operasi (Retake):** Dapatkan buku *Operating System Concepts Essentials* oleh Abraham Silberschatz.
-- [ ] **Interaksi Manusia & Komputer (IMK):** Dapatkan buku *Interaction Design: Beyond Human-Computer Interaction* oleh Jennifer Preece dkk atau buku Jeff Johnson *Designing With The Mind In Mind*.
-- [ ] **Metode Numerik (Retake):** Dapatkan buku *Applied Numerical Methods with MATLAB* oleh S. C. Chapra.
-- [ ] **Manajemen Jaringan:** Dapatkan materi *Introduction to Networks v7* dan *Switching, Routing, and Wireless Essentials v7* dari Cisco Networking Academy.
+- [ ] **Komputasi Biomedik (BIOMED):** Dapatkan *Biomedical Signal and Image Processing* oleh Kayvan Najarian atau *Bioinformatics: Sequence and Genome Analysis* oleh David W. Mount.
+- [ ] **Pengolahan Citra Digital (PCD):** Dapatkan buku *Digital Image Processing* (4th ed.) oleh Rafael C. Gonzalez & Richard E. Woods.
+- [ ] **Sistem Terdistribusi (DS):** Dapatkan buku *Distributed Systems* (4th ed.) oleh Maarten van Steen & Andrew S. Tanenbaum.
+- [ ] **Interaksi Manusia & Komputer (IMK):** Dapatkan buku *Interaction Design: Beyond Human-Computer Interaction* oleh Preece, Rogers, Sharp atau Jeff Johnson *Designing With The Mind In Mind*.
+- [ ] **Computer Vision (CV):** Dapatkan buku *Computer Vision: Algorithms and Applications* (2nd ed.) oleh Richard Szeliski atau *Deep Learning for Computer Vision* oleh Adrian Rosebrock.
+- [ ] **Pengolahan Sinyal Digital (DSP):** Dapatkan buku *Digital Signal Processing: Principles, Algorithms, and Applications* oleh John G. Proakis & Dimitris G. Manolakis.
+- [ ] **Data Mining (DM):** Dapatkan buku *Introduction to Data Mining* oleh Pang-Ning Tan dkk atau *Data Mining: Concepts and Techniques* oleh Jiawei Han.
+- [ ] **Kewirausahaan (KWU):** Dapatkan buku *The Lean Startup* oleh Eric Ries & *Business Model Generation* oleh Alexander Osterwalder.
 
 ### 3. Review Materi Prasyarat (Hubungan dengan Vault)
-Sebelum kuliah dimulai, luangkan waktu 1-2 jam untuk membaca ulang catatan yang sudah ada di vault kamu:
-- [ ] **Matematika & Matriks (Untuk PCD & Metode Numerik):** Baca ulang [[Matriks]] untuk menyegarkan ingatan tentang perkalian matriks, transpose, determinan, dan invers.
-- [ ] **Pemrograman Jaringan (Untuk Sistem Terdistribusi):** Baca ulang [[(CN-12) Pemrograman Jaringan Lecture Notes]] terutama bagian implementasi Socket TCP/UDP di Python karena akan langsung diuji di awal minggu perkuliahan.
-- [ ] **Manajemen & Protokol Jaringan (Untuk Manajemen Jaringan):** Pelajari kembali [[(CN-7) IPv4 Lecture Notes]], [[(CN-8) IPv4 Subnetting Lecture Notes]], [[(CN-12) Pemrograman Jaringan Lecture Notes]], dan [[(CN-14) Keamanan Jaringan Lecture Notes]].
-- [ ] **Dasar Keamanan & Enkripsi (Untuk Kriptografi):** Tinjau ulang konsep [[Symmetric vs. Asymmetric Encryption]], [[CIA Triad]], dan [[Cybersecurity Roadmap]] untuk memahami posisi kriptografi dalam keamanan informasi.
-- [ ] **Konsep Dasar SO (Untuk Retake Operating Systems):** Pelajari konsep proses, threads, dan CPU scheduling di internet atau dari sisa catatan semester 3 untuk bersiap menghadapi *Team Based Project* (bobot 20% di SO).
+Sebelum kuliah dimulai, luangkan waktu untuk membaca ulang catatan yang sudah ada di vault kamu:
+- [ ] **Matematika & Matriks (Untuk PCD & CV):** Baca ulang [[Matriks]] untuk menyegarkan ingatan tentang perkalian matriks, transpose, determinan, dan invers.
+- [ ] **Pemrograman Jaringan (Untuk Sistem Terdistribusi):** Baca ulang [[(CN-12) Pemrograman Jaringan Lecture Notes]] terutama bagian Socket TCP/UDP di Python.
+- [ ] **Kalkulus & Respon Frekuensi (Untuk DSP):** Tinjau ulang konsep deret Fourier, transformasi sinyal, dan bilangan kompleks.
+- [ ] **PyTorch / NumPy (Untuk Computer Vision & Data Mining):** Tinjau ulang [[Vectorization in NumPy]] dan dasar-dasar pemrosesan array/tensor.
 
 ### 4. Setup Environment & Tools Praktikum
-- [ ] **Metode Numerik & PCD:** Pastikan MATLAB terinstall atau siapkan environment Python dengan library `numpy`, `scipy`, `matplotlib`, dan `opencv-python`.
-- [ ] **Data Mining:** Siapkan environment Python (Anaconda/Jupyter Notebook) dan install library analisis data (`pandas`, `numpy`, `scikit-learn`, `seaborn`).
-- [ ] **Sistem Terdistribusi:** Pastikan Docker Desktop terinstall di laptop untuk simulasi cluster/sandbox container terdistribusi.
-- [ ] **Manajemen Jaringan:** Pastikan Cisco Packet Tracer atau GNS3 serta Wireshark terinstall untuk simulasi jaringan dan analisis traffic.
+- [ ] **PCD & Computer Vision:** Siapkan Python Virtual Environment (`venv` / `conda`) dengan library `opencv-python`, `torch`, `torchvision`, `scikit-image`, `albumentations`.
+- [ ] **Pengolahan Sinyal Digital & Komputasi Biomedik:** Install library `scipy`, `librosa`, `wfdb` (Waveform Database untuk Biosinyal), `mne` (untuk EEG), dan `matplotlib`.
+- [ ] **Data Mining:** Siapkan Jupyter Notebook/Lab dengan `pandas`, `scikit-learn`, `seaborn`, `xgboost`.
+- [ ] **Sistem Terdistribusi:** Install Docker Desktop, gRPC tools (`grpcio`, `protobuf`), dan Go/Python environment.
+- [ ] **Kewirausahaan:** Siapkan template Figma/Canva untuk Business Model Canvas (BMC) & Pitch Deck presentation.
 
 ---
 
 ## 📊 Detail Komposisi Penilaian & Strategi Kuliah
 
-Berikut adalah bobot penilaian dari silabus masing-masing mata kuliah untuk menyusun strategi belajarmu:
-
 | Mata Kuliah | Tugas / Kuis | Case Method | Team Project | UTS | UAS | Strategi Kunci |
 | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
-| **Distributed Systems** | 10% / 0% | 25% | 25% | 20% | 20% | Fokus pada proyek tim dan tugas pemrograman socket. |
-| **Cryptography** | 10% / 0% | 10% | 0% | 40% (Teori 1&2) | 40% (UAS+Teori 3) | Ujian tertulis sangat mendominasi (80%). Kuasai matematika teori bilangan. |
-| **Image Processing** | Tugas (Ada) | - | - | UTS (Ada) | UAS (Ada) | Latihan membuat program transformasi citra dan deteksi tepi sejak dini. |
-| **Data Mining** | - | - | - | 50% | 50% | Ujian tertulis UTS/UAS 100% total bobot. Latihan soal-soal hitungan CRISP-DM dan algoritma klasifikasi/clustering. |
-| **HCI / IMK** | - | 10% | 50% | 20% | 20% | *Team Based Project* bernilai setengah dari total nilai. Pilih kelompok proyek yang solid sejak minggu ke-1. |
-| **Network Management** | 0% / 0% | 30% | 70% | 0% | 0% | Total nilai dari *Team Based Project* (70%) dan *Case Method* (30%). Kuasai VLAN, routing, IDS, dan simulasi. |
-| **Numerical Methods** | - | - | - | 45% | 55% | Ujian tertulis UTS/UAS 100% total bobot. Pahami galat (error), iterasi SPL, dan akar non-linear. |
-| **Operating Systems** | 5% | - | 35% | 30% | 30% | Proyek tim (35%) dan ujian tertulis sangat penting. Pahami manajemen memori dan sinkronisasi proses. |
+| **Komputasi Biomedik** | 15% | 30% | - | 25% | 30% | Kuasai ekstraksi fitur biosinyal & segmentasi citra MRI/CT. |
+| **Pengolahan Citra Digital** | Tugas (Ada) | - | - | UTS (Ada) | UAS (Ada) | Latihan pemrograman konvolusi spatial & Fourier Transform. |
+| **Sistem Terdistribusi** | 10% | 25% | 25% | 20% | 20% | Fokus pada tugas gRPC/Socket & konsensus Raft/Paxos. |
+| **Interaksi Manusia & Komputer** | - | 10% | 50% | 20% | 20% | Proyek kelompok UX/UI bernilai 50%. Buat prototype Figma yang presisi. |
+| **Computer Vision** | 15% | 35% | - | 25% | 25% | Pahami deteksi fitur lokal (SIFT/ORB) dan training model YOLO/CNN. |
+| **Pengolahan Sinyal Digital** | 20% | - | 20% | 30% | 30% | Kuasai perhitungan Z-Transform, FFT, & perancangan filter FIR/IIR. |
+| **Data Mining** | - | - | - | 50% | 50% | Latihan soal-soal hitungan manual & implementasi scikit-learn. |
+| **Kewirausahaan** | 20% | - | 40% | 20% | 20% | Susun BMC yang tervalidasi dan Pitch Deck produk technopreneur. |
 
 ---
 
 ## 📅 Rencana Kegiatan 3 Minggu Pertama Kuliah
 
-Berikut gambaran materi yang akan langsung kamu hadapi di awal semester:
-
-*   **Minggu 1:**
-    *   **DS:** Kontrak kuliah & *Overview of Distributed Systems*.
-    *   **CRYPTO:** Kriptografi Klasik & Modern (Operasi Bit, LFSR, Block Cipher) beserta Teori Bilangan pendukung.
-    *   **IP:** Kontrak Kuliah & Pengenalan Pengolahan Citra Digital.
-    *   **DM:** Latar belakang, peran utama, dan penerapan Data Mining.
-    *   **HCI:** Konsep dasar IMK, Usability, dan User Experience.
-    *   **NM:** Perhitungan galat (error) relatif dan rambatan galat.
-    *   **OS:** Pendahuluan SO, Sejarah, Struktur Kernel & Layanan SO.
-*   **Minggu 2:**
-    *   **DS:** *Architecture of Distributed Systems*.
-    *   **CRYPTO:** Teori Bilangan Lanjutan, Algoritma DES & AES.
-    *   **IP:** Akuisisi Citra, Sampling & Kuantisasi, Dasar Matematika Citra (Matriks & Vektor).
-    *   **DM:** Pengenalan Tools Data Mining & CRISP-DM Process.
-    *   **HCI:** Konsep Interaksi & Pengenalan Evaluasi Desain.
-    *   **NM:** Pengenalan Galat Numerik dan konversi sistem bilangan.
-    *   **OS:** Manajemen Proses & Diagram State Proses.
-*   **Minggu 3:**
-    *   **DS:** *Processes in Distributed Systems* (Virtualization, Clients, Servers, Code Migration).
-    *   **CRYPTO:** Kriptografi Kunci Publik (RSA, Diffie-Hellman, ElGamal) bagian 1.
-    *   **IP:** Transformasi Intensitas Citra (Citra Negatif, Log, Gamma, Contrast Stretching).
-    *   **DM:** Metrik Evaluasi Model Data Mining.
-    *   **HCI:** *Product Discovery* & Konseptualisasi Interaksi.
-    *   **NM:** Penyelesaian Sistem Persamaan Linear (SPL) secara Numerik (Metode Iteratif).
-    *   **OS:** *Process Control Block* (PCB), Pengalihan Proses, dan Penciptaan Proses.
+* **Minggu 1:**
+  * **BIOMED:** Kontrak kuliah & Karakteristik Data Biosinyal/Medis.
+  * **PCD:** Pengenalan Pengolahan Citra Digital & Matriks Citra.
+  * **DS:** Overview of Distributed Systems & Arsitektur Client-Server.
+  * **IMK:** Konsep dasar IMK, Usability, dan Human Factors.
+  * **CV:** Geometri Pembentukan Citra & Model Kamera Pinhole.
+  * **DSP:** Pengenalan Sinyal Diskrit & Operasi Sinyal Waktu Diskrit.
+  * **DM:** Latar belakang, peran utama, dan tahapan CRISP-DM.
+  * **KWU:** Mindset Technopreneurship & Identifikasi Masalah Pasar.
+* **Minggu 2:**
+  * **BIOMED:** Pra-pengolahan Biosinyal ECG/EEG (Filtering Noise).
+  * **PCD:** Akuisisi Citra, Sampling, Kuantisasi, & Model Warna.
+  * **DS:** Socket Programming & RPC/gRPC Fundamentals.
+  * **IMK:** User-Centered Design (UCD) & Evaluasi Heuristik.
+  * **CV:** Operasi Filter Spasial & Deteksi Tepi (Canny, Sobel).
+  * **DSP:** Sistem LTI Diskrit & Konvolusi Waktu Diskrit.
+  * **DM:** Pengenalan Data Preprocessing & Cleaning.
+  * **KWU:** Customer Discovery & Validasi Masalah Konsumen.
+* **Minggu 3:**
+  * **BIOMED:** Ekstraksi Fitur Sinyal Domain Waktu & Frekuensi.
+  * **PCD:** Transformasi Intensitas Citra (Histogram Equalization).
+  * **DS:** Waktu & Sinkronisasi (Lamport Timestamps, Vector Clocks).
+  * **IMK:** Information Architecture & Low-Fidelity Wireframing.
+  * **CV:** Ekstraksi Fitur Lokal (SIFT, SURF, ORB Feature Matching).
+  * **DSP:** Teorema Sampling Nyquist & Analisis Aliasing.
+  * **DM:** Metrik Evaluasi Model Klasifikasi & Clustering.
+  * **KWU:** Penyusunan Business Model Canvas (BMC) & Value Proposition.
