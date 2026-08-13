@@ -17,14 +17,14 @@ Panduan ini disusun untuk membantu kamu mempersiapkan **Semester 5 (Gasal 2026/2
 
 | Kode / Abbr | Nama Mata Kuliah | Kelas | Bobot | Course Hub | Silabus (RPS) |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| **BIOMED** | Komputasi Biomedik | A | 3 SKS | [[Biomedical Computing Overview]] | [[Biomedical Computing Syllabus]] |
-| **PCD** | Pengolahan Citra Digital | B | 3 SKS | [[Image Processing Overview]] | [[Image Processing Syllabus]] |
-| **DS** | Sistem Terdistribusi | B | 3 SKS | [[Distributed Systems Overview]] | [[Distributed Systems Syllabus]] |
-| **IMK** | Interaksi Manusia & Komputer | B | 2 SKS | [[HCI Overview]] | [[Human Computer Interaction Syllabus]] |
-| **CV** | Computer Vision | A | 3 SKS | [[Computer Vision Overview]] | [[Computer Vision Syllabus]] |
-| **DSP** | Pengolahan Sinyal Digital | A | 3 SKS | [[Digital Signal Processing Overview]] | [[Digital Signal Processing Syllabus]] |
-| **DM** | Data Mining | C | 3 SKS | [[Data Mining Overview]] | [[Data Mining Syllabus]] |
-| **KWU** | Kewirausahaan | A2 | 2 SKS | [[Entrepreneurship Overview]] | [[Entrepreneurship Syllabus]] |
+| **BIOCOMP** | Komputasi Biomedik | A | 3 SKS | [[Biomedical Computing Overview]] | [[BioComp Syllabus]] |
+| **IMPROC** | Pengolahan Citra Digital | B | 3 SKS | [[Image Processing Overview]] | [[Improc Syllabus]] |
+| **DISTSYS** | Sistem Terdistribusi | B | 3 SKS | [[Distributed Systems Overview]] | [[DistSys Syllabus]] |
+| **HCI** | Interaksi Manusia & Komputer | B | 2 SKS | [[HCI Overview]] | [[HCI Syllabus]] |
+| **COMVIS** | Computer Vision | A | 3 SKS | [[Computer Vision Overview]] | [[ComVis Syllabus]] |
+| **SIGPRO** | Pengolahan Sinyal Digital | A | 3 SKS | [[Digital Signal Processing Overview]] | [[SigPro Syllabus]] |
+| **DATMIN** | Data Mining | C | 3 SKS | [[Data Mining Overview]] | [[DatMin Syllabus]] |
+| **ENTRE** | Kewirausahaan | A2 | 2 SKS | [[Entrepreneurship Overview]] | [[Entre Syllabus]] |
 
 ---
 

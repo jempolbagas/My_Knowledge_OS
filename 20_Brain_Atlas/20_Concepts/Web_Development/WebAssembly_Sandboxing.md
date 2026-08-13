@@ -1,14 +1,14 @@
 ---
 type: concept
-title: "WebAssembly Sandboxing"
-subject: "Web Development"
+title: WebAssembly Sandboxing
+subject: Web Development
 date_created: 2026-07-28
 tags:
   - webassembly
   - security
   - sandboxing
-source: "[[WebAssembly_Sandbox_and_Security_Architecture]]"
-source_hash: 1a4113506b768e18a494556c8f826606
+source:
+source_hash:
 ---
 
 ## The idea (one clear statement)

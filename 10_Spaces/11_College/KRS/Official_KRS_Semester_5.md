@@ -33,14 +33,14 @@ created: "2026-08-13"
 
 | No | Kode MK | Mata Kuliah | Kelas | Perbaikan | SKS | ECTS | Course Hub | Silabus (RPS) |
 | :-: | :---: | :--- | :-: | :-: | :-: | :-: | :--- | :--- |
-| 1 | `12013130344` | Komputasi Biomedik | A | - | 3 | 4.50 | [[Biomedical Computing Overview]] | [[Biomedical Computing Syllabus]] |
-| 2 | `12013120332` | Pengolahan Citra Digital | B | - | 3 | 4.50 | [[Image Processing Overview]] | [[Image Processing Syllabus]] |
-| 3 | `12013120333` | Sistem Terdistribusi | B | - | 3 | 4.50 | [[Distributed Systems Overview]] | [[Distributed Systems Syllabus]] |
-| 4 | `12013120231` | Interaksi Manusia & Komputer | B | - | 2 | 3.00 | [[HCI Overview]] | [[Human Computer Interaction Syllabus]] |
-| 5 | `12013140310` | Computer Vision | A | - | 3 | 4.50 | [[Computer Vision Overview]] | [[Computer Vision Syllabus]] |
-| 6 | `12013140302` | Pengolahan Sinyal Digital | A | - | 3 | 4.50 | [[Digital Signal Processing Overview]] | [[Digital Signal Processing Syllabus]] |
-| 7 | `12013220330` | Data Mining | C | - | 3 | 4.50 | [[Data Mining Overview]] | [[Data Mining Syllabus]] |
-| 8 | `12013120203` | Kewirausahaan | A2 | - | 2 | 3.00 | [[Entrepreneurship Overview]] | [[Entrepreneurship Syllabus]] |
+| 1 | `12013130344` | Komputasi Biomedik | A | - | 3 | 4.50 | [[Biomedical Computing Overview]] | [[BioComp Syllabus]] |
+| 2 | `12013120332` | Pengolahan Citra Digital | B | - | 3 | 4.50 | [[Image Processing Overview]] | [[Improc Syllabus]] |
+| 3 | `12013120333` | Sistem Terdistribusi | B | - | 3 | 4.50 | [[Distributed Systems Overview]] | [[DistSys Syllabus]] |
+| 4 | `12013120231` | Interaksi Manusia & Komputer | B | - | 2 | 3.00 | [[HCI Overview]] | [[HCI Syllabus]] |
+| 5 | `12013140310` | Computer Vision | A | - | 3 | 4.50 | [[Computer Vision Overview]] | [[ComVis Syllabus]] |
+| 6 | `12013140302` | Pengolahan Sinyal Digital | A | - | 3 | 4.50 | [[Digital Signal Processing Overview]] | [[SigPro Syllabus]] |
+| 7 | `12013220330` | Data Mining | C | - | 3 | 4.50 | [[Data Mining Overview]] | [[DatMin Syllabus]] |
+| 8 | `12013120203` | Kewirausahaan | A2 | - | 2 | 3.00 | [[Entrepreneurship Overview]] | [[Entre Syllabus]] |
 | **TOTAL** | | | | | **22** | **33.00** | | |
 
 ---

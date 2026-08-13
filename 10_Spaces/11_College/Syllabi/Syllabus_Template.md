@@ -1,11 +1,18 @@
 ---
 title: "[COURSE] Syllabus - Course Title"
 course: "Course Title"
+course_abbr: "COURSE"
+code: ""
+class_section: ""
+sks: 3
+ects: 4.50
+semester: 5
+lecturer: ""
 tags: ["college", "syllabus", "rps", "semester-5"]
 aliases: ["[COURSE] Syllabus - Course Title"]
 created: "2026-07-27"
+updated: "2026-08-13"
 type: Syllabus
-semester: 5
 ---
 
 # 📑 RENCANA PEMBELAJARAN SEMESTER (RPS) — Course Title

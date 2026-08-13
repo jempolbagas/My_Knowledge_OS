@@ -1,14 +1,14 @@
 ---
 type: concept
-title: "WebAssembly vs Docker"
-subject: "Web Development"
+title: WebAssembly vs Docker
+subject: Web Development
 date_created: 2026-07-28
 tags:
   - webassembly
   - docker
   - containers
-source: "[[Wasm_vs_Docker]]"
-source_hash: 7421f8b8a9c26b827986428e3d01e7b0
+source:
+source_hash:
 ---
 
 ## The idea (one clear statement)

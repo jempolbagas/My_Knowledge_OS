@@ -31,14 +31,14 @@ updated: "2026-08-13"
 
 | MK Code | Abbr | Course Name | Sec | SKS | ECTS | Course Hub | Syllabus (RPS) |
 | :---: | :---: | :--- | :---: | :---: | :---: | :--- | :--- |
-| `12013130344` | **BIOMED** | Komputasi Biomedik | A | 3 | 4.50 | [[Biomedical Computing Overview]] | [[Biomedical Computing Syllabus]] |
-| `12013120332` | **PCD** | Pengolahan Citra Digital | B | 3 | 4.50 | [[Image Processing Overview]] | [[Image Processing Syllabus]] |
-| `12013120333` | **DS** | Sistem Terdistribusi | B | 3 | 4.50 | [[Distributed Systems Overview]] | [[Distributed Systems Syllabus]] |
-| `12013120231` | **IMK** | Interaksi Manusia & Komputer | B | 2 | 3.00 | [[HCI Overview]] | [[Human Computer Interaction Syllabus]] |
-| `12013140310` | **CV** | Computer Vision | A | 3 | 4.50 | [[Computer Vision Overview]] | [[Computer Vision Syllabus]] |
-| `12013140302` | **DSP** | Pengolahan Sinyal Digital | A | 3 | 4.50 | [[Digital Signal Processing Overview]] | [[Digital Signal Processing Syllabus]] |
-| `12013220330` | **DM** | Data Mining | C | 3 | 4.50 | [[Data Mining Overview]] | [[Data Mining Syllabus]] |
-| `12013120203` | **KWU** | Kewirausahaan | A2 | 2 | 3.00 | [[Entrepreneurship Overview]] | [[Entrepreneurship Syllabus]] |
+| `12013130344` | **BIOCOMP** | Komputasi Biomedik | A | 3 | 4.50 | [[Biomedical Computing Overview]] | [[BioComp Syllabus]] |
+| `12013120332` | **IMPROC** | Pengolahan Citra Digital | B | 3 | 4.50 | [[Image Processing Overview]] | [[Improc Syllabus]] |
+| `12013120333` | **DISTSYS** | Sistem Terdistribusi | B | 3 | 4.50 | [[Distributed Systems Overview]] | [[DistSys Syllabus]] |
+| `12013120231` | **HCI** | Interaksi Manusia & Komputer | B | 2 | 3.00 | [[HCI Overview]] | [[HCI Syllabus]] |
+| `12013140310` | **COMVIS** | Computer Vision | A | 3 | 4.50 | [[Computer Vision Overview]] | [[ComVis Syllabus]] |
+| `12013140302` | **SIGPRO** | Pengolahan Sinyal Digital | A | 3 | 4.50 | [[Digital Signal Processing Overview]] | [[SigPro Syllabus]] |
+| `12013220330` | **DATMIN** | Data Mining | C | 3 | 4.50 | [[Data Mining Overview]] | [[DatMin Syllabus]] |
+| `12013120203` | **ENTRE** | Kewirausahaan | A2 | 2 | 3.00 | [[Entrepreneurship Overview]] | [[Entre Syllabus]] |
 | **TOTAL** | | **8 Mata Kuliah** | | **22** | **33.00** | | |
 
 ---
