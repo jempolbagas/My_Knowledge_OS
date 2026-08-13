@@ -51,5 +51,5 @@ last_updated: 2026-08-05
 ## Sumber Utama (Library Links)
 
 - [[Single_Secret_Sharing_CRT_Shamir_XOR]]
-- [[Shamir_Secret_Sharing_and_Modified_Pande_Scheme]]
+- [[Shamir_vs_Pande_Modified_Secret_Sharing]]
 

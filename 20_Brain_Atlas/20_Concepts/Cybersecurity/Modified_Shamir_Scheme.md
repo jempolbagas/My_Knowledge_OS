@@ -1,8 +1,8 @@
 ---
 type: concept
 subject: Cybersecurity
-source_hash: "1380dde6540ae949ff00e2dfb902853d"
-source: "[[Shamir_Secret_Sharing_and_Modified_Pande_Scheme]]"
+source_hash: 1380dde6540ae949ff00e2dfb902853d
+source: "[[Shamir_vs_Pande_Modified_Secret_Sharing]]"
 created: 2026-08-10
 ---
 

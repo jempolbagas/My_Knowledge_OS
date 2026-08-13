@@ -1,8 +1,8 @@
 ---
 type: concept
 subject: Mathematics
-source_hash: "8df6084569ef92443bd518c41900696e"
-source: "[[Shamir_Secret_Sharing_and_Modified_Pande_Scheme]]"
+source_hash: 8df6084569ef92443bd518c41900696e
+source: "[[Shamir_vs_Pande_Modified_Secret_Sharing]]"
 created: 2026-08-12
 ---
 
