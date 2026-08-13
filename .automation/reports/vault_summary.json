@@ -8,13 +8,13 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-08-12T11:51:08Z"
+    "generated_at": "2026-08-13T16:26:58Z"
   },
   "stats": {
-    "total_notes": 164,
-    "total_edges": 710,
+    "total_notes": 166,
+    "total_edges": 721,
     "broken_links": 104,
-    "untyped_notes": 58,
+    "untyped_notes": 59,
     "health_score": 55.2
   },
   "inbox": [],
@@ -76,6 +76,7 @@
         "LKPD_Teori_Peluang_dan_Kejadian_Majemuk_SMA",
         "Soal_Fungsi_Invers_SMA",
         "Soal_Pola_Bilangan_Paket_B_SMP",
+        "Soal_Suku_Banyak_SMA",
         "Teori_Peluang_dan_Kejadian_Majemuk_SMA",
         "Logika_Permutasi_dan_Kombinasi_SMA",
         "Persamaan_Kuadrat_SMP",
@@ -90,6 +91,7 @@
       ],
       "Biology": [
         "LKPD_Pengenalan_Sel_SMP",
+        "Soal_Pengenalan_Sel_SMP",
         "LKPD_Sistem_Pencernaan_Makanan_SMP",
         "Sistem_Pencernaan_Makanan_SMP",
         "Pengenalan_Sel_SMP"

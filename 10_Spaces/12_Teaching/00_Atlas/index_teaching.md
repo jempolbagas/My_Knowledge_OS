@@ -23,6 +23,7 @@ Selamat datang di Teaching Resources Hub! Halaman ini mengorganisir seluruh mate
 ### 📝 Lembar Kerja (Practice)
 - [[LKPD_Pengenalan_Sel_SMP]]
 - [[LKPD_Sistem_Pencernaan_Makanan_SMP]]
+- [[Soal_Pengenalan_Sel_SMP]]
 
 ---
 
@@ -96,6 +97,7 @@ Selamat datang di Teaching Resources Hub! Halaman ini mengorganisir seluruh mate
 - [[LKPD_Suku_Banyak_Polinomial_SMA]]
 - [[LKPD_Teori_Peluang_dan_Kejadian_Majemuk_SMA]]
 - [[Soal_Fungsi_Invers_SMA]]
+- [[Soal_Suku_Banyak_SMA]]
 
 ---
 

@@ -254,7 +254,7 @@ Tumbuhan sering disebut sebagai organisme autotrof karena mampu menghasilkan mak
 Ketika mempersiapkan preparat basah (*wet mount*) sel epidermis bawang merah dan sel epitel pipi manusia:
 1. Mengapa irisan spesimen bawang merah harus disayat secara **sangat tipis dan transparan**? Apa yang terjadi jika spesimen terlalu tebal saat diletakkan di bawah mikroskop cahaya? Hubungkan dengan mekanisme jalannya cahaya mikroskop!
 2. Jelaskan fungsi dari pemberian tetesan larutan **Iodin/Lugol** pada sel bawang merah, serta larutan **Metilen Biru** pada sel epitel pipi! Organel apakah yang akan tampak paling mencolok setelah pewarnaan tersebut?
-
+%%
 ---
 
 # BAGIAN C: KUNCI JAWABAN, PEMBAHASAN, & RUBRIK PENILAIAN
@@ -400,3 +400,4 @@ Setiap nomor soal uraian memiliki bobot maksimum **10 Poin**.
 | **Tidak Ada Jawaban / Jawaban Salah Total:** Lembar jawaban kosong atau isi tulisan sama sekali tidak nyambung dengan pertanyaan soal. | 0 |
 
 * **Skor Maksimum Uraian = 50 Poin (5 Soal x 10 Poin)**
+%%
