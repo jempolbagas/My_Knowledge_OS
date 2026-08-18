@@ -27,24 +27,6 @@
     "status": "missing_hash"
   },
   {
-    "concept_file": "20_Brain_Atlas/20_Concepts/Web_Development/WebAssembly_vs_Docker.md",
-    "concept_title": "WebAssembly_vs_Docker",
-    "source_file": "20_Brain_Atlas/10_Library/Articles_Talks/Wasm_vs_Docker.md",
-    "source_title": "Wasm_vs_Docker",
-    "stored_hash": "7421f8b8a9c26b827986428e3d01e7b0",
-    "current_hash": "6342736a489aad3a23b7f22808838f4b",
-    "status": "outdated"
-  },
-  {
-    "concept_file": "20_Brain_Atlas/20_Concepts/Web_Development/WebAssembly_Sandboxing.md",
-    "concept_title": "WebAssembly_Sandboxing",
-    "source_file": "20_Brain_Atlas/10_Library/Articles_Talks/WebAssembly_Sandbox_and_Security_Architecture.md",
-    "source_title": "WebAssembly_Sandbox_and_Security_Architecture",
-    "stored_hash": "1a4113506b768e18a494556c8f826606",
-    "current_hash": "9376ba271aa1c61a3710e33a8220c7eb",
-    "status": "outdated"
-  },
-  {
     "concept_file": "20_Brain_Atlas/20_Concepts/Artificial_Intelligence/Model Parameters.md",
     "concept_title": "Model Parameters",
     "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Model_Parameters_Explained.md",
@@ -191,17 +173,8 @@
   {
     "concept_file": "20_Brain_Atlas/20_Concepts/Cybersecurity/Modified_Shamir_Scheme.md",
     "concept_title": "Modified_Shamir_Scheme",
-    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Cybersecurity/Shamir_Secret_Sharing_and_Modified_Pande_Scheme.md",
-    "source_title": "Shamir_Secret_Sharing_and_Modified_Pande_Scheme",
-    "stored_hash": "1380dde6540ae949ff00e2dfb902853d",
-    "current_hash": "8df6084569ef92443bd518c41900696e",
-    "status": "outdated"
-  },
-  {
-    "concept_file": "20_Brain_Atlas/20_Concepts/Cybersecurity/Shamir_Secret_Sharing.md",
-    "concept_title": "Shamir_Secret_Sharing",
-    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Cybersecurity/Shamir_Secret_Sharing_and_Modified_Pande_Scheme.md",
-    "source_title": "Shamir_Secret_Sharing_and_Modified_Pande_Scheme",
+    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Cybersecurity/Shamir_vs_Pande_Modified_Secret_Sharing.md",
+    "source_title": "Shamir_vs_Pande_Modified_Secret_Sharing",
     "stored_hash": "1380dde6540ae949ff00e2dfb902853d",
     "current_hash": "8df6084569ef92443bd518c41900696e",
     "status": "outdated"

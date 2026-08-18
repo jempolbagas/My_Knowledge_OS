@@ -75,8 +75,8 @@
 | [[Perencanaan_Usaha_Kerajinan_Limbah_Bangun_Datar]] | `Bukti Transaksi dan Laporan Keuangan Usaha` | `wikilink` |
 | [[Perencanaan_Usaha_Kerajinan_Limbah_Bangun_Datar]] | `Penetapan Harga Jual dan Biaya Total Produksi` | `wikilink` |
 | [[Perencanaan_Usaha_Kerajinan_Limbah_Bangun_Datar]] | `Bauran Promosi Usaha Kerajinan` | `wikilink` |
-| [[Shamir_Secret_Sharing_and_Modified_Pande_Scheme]] | `diagram_cybersecurity_shamir_polynomial_interpolation.webp` | `wikilink` |
-| [[Shamir_Secret_Sharing_and_Modified_Pande_Scheme]] | `diagram_cybersecurity_pande_modified_shamir_pipeline.webp` | `wikilink` |
+| [[Shamir_vs_Pande_Modified_Secret_Sharing]] | `diagram_cybersecurity_shamir_polynomial_interpolation.webp` | `wikilink` |
+| [[Shamir_vs_Pande_Modified_Secret_Sharing]] | `diagram_cybersecurity_pande_modified_shamir_pipeline.webp` | `wikilink` |
 | [[Model_Context_Protocol_Architecture]] | `JSON-RPC 2.0` | `wikilink` |
 | [[Model_Context_Protocol_Architecture]] | `JSON_RPC_2_0` | `wikilink` |
 | [[Single_Board_Computers_Architecture_and_Use_Cases]] | `Virtual_Private_Server_Architecture_and_Mechanics` | `wikilink` |
@@ -117,7 +117,8 @@ No orphan pages found! 🎉
 | [[Chinese_Remainder_Theorem_and_Reverse_CRT_Guide]] | `title, topic, requested_on, prompt, tags, promoted_to` |
 | [[Single_Secret_Sharing_CRT_Shamir_XOR]] | `title, topic, requested_on, prompt, tags, promoted_to` |
 | [[Post_Training_Quantization_End_to_End_Guide]] | `topic, prompt` |
-| [[Shamir_Secret_Sharing_and_Modified_Pande_Scheme]] | `title, topic, requested_on, prompt, tags` |
+| [[Shamir_Secret_Sharing_Comprehensive_Study_Guide]] | `title, topic, requested_on, prompt` |
+| [[Shamir_vs_Pande_Modified_Secret_Sharing]] | `title, topic, requested_on, prompt, tags` |
 | [[Model_Context_Protocol_Architecture]] | `title, topic, requested_on, prompt, promoted_to` |
 | [[Kongruensi_Modular]] | `date_created` |
 | [[Chinese_Remainder_Theorem]] | `title, date_created` |

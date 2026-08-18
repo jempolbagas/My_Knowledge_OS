@@ -361,12 +361,12 @@
       "context": "wikilink"
     },
     {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Cybersecurity/Shamir_Secret_Sharing_and_Modified_Pande_Scheme.md",
+      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Cybersecurity/Shamir_vs_Pande_Modified_Secret_Sharing.md",
       "broken_link": "diagram_cybersecurity_shamir_polynomial_interpolation.webp",
       "context": "wikilink"
     },
     {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Cybersecurity/Shamir_Secret_Sharing_and_Modified_Pande_Scheme.md",
+      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Cybersecurity/Shamir_vs_Pande_Modified_Secret_Sharing.md",
       "broken_link": "diagram_cybersecurity_pande_modified_shamir_pipeline.webp",
       "context": "wikilink"
     },
@@ -553,7 +553,16 @@
       ]
     },
     {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Cybersecurity/Shamir_Secret_Sharing_and_Modified_Pande_Scheme.md",
+      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Cybersecurity/Shamir_Secret_Sharing_Comprehensive_Study_Guide.md",
+      "missing_fields": [
+        "title",
+        "topic",
+        "requested_on",
+        "prompt"
+      ]
+    },
+    {
+      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Cybersecurity/Shamir_vs_Pande_Modified_Secret_Sharing.md",
       "missing_fields": [
         "title",
         "topic",

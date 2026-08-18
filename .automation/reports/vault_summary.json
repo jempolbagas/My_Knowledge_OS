@@ -8,14 +8,14 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-08-13T16:38:11Z"
+    "generated_at": "2026-08-18T00:33:35Z"
   },
   "stats": {
-    "total_notes": 171,
-    "total_edges": 751,
+    "total_notes": 164,
+    "total_edges": 748,
     "broken_links": 104,
     "untyped_notes": 59,
-    "health_score": 56.4
+    "health_score": 55.1
   },
   "inbox": [],
   "spaces": {
@@ -118,24 +118,7 @@
           "status": "done"
         }
       ],
-      "Articles_Talks": [
-        {
-          "title": "WebAssembly_Sandbox_and_Security_Architecture",
-          "status": "done"
-        },
-        {
-          "title": "Wasm_vs_Docker",
-          "status": "done"
-        },
-        {
-          "title": "Post_Training_Quantization_Explained",
-          "status": "done"
-        },
-        {
-          "title": "A_Simple_Introduction_to_Post_Training_Quantization",
-          "status": "done"
-        }
-      ],
+      "Articles_Talks": [],
       "Books": [],
       "Generated_Readings": {
         "General": [
@@ -157,8 +140,9 @@
           "Activation_Functions_Explained"
         ],
         "Cybersecurity": [
-          "Cybersecurity_Roadmap",
-          "Shamir_Secret_Sharing_and_Modified_Pande_Scheme"
+          "Shamir_Secret_Sharing_Comprehensive_Study_Guide",
+          "Shamir_vs_Pande_Modified_Secret_Sharing",
+          "Cybersecurity_Roadmap"
         ],
         "Computer_Science": [
           "Model_Context_Protocol_Architecture",
