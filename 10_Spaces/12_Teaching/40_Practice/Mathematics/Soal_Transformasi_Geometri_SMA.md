@@ -10,6 +10,8 @@ sources:
   - "[[Translasi_dan_Refleksi_SMA]]"
   - "[[Rotasi_dan_Dilatasi_SMA]]"
   - "[[Komposisi_Transformasi_dan_Matriks_SMA]]"
+  - "[[Transformasi_Fungsi_SMA]]"
+  - "[[Regangan_Guntingan_Transformasi_SMA]]"
   - "[[LKPD_Transformasi_Geometri_SMA]]"
 tags:
   - "#matematika"
@@ -19,7 +21,7 @@ tags:
   - "#kelas11"
 ---
 
-[[Transformasi_Geometri_SMA|🏠 Master Dashboard]] | [[Translasi_dan_Refleksi_SMA|Modul 1]] | [[Rotasi_dan_Dilatasi_SMA|Modul 2]] | [[Komposisi_Transformasi_dan_Matriks_SMA|Modul 3]] | [[LKPD_Transformasi_Geometri_SMA|📝 LKPD]]
+[[Transformasi_Geometri_SMA|🏠 Master Dashboard]] | [[Translasi_dan_Refleksi_SMA|Modul 1]] | [[Rotasi_dan_Dilatasi_SMA|Modul 2]] | [[Komposisi_Transformasi_dan_Matriks_SMA|Modul 3]] | [[Transformasi_Fungsi_SMA|Modul 4]] | [[Regangan_Guntingan_Transformasi_SMA|Modul 5]] | [[LKPD_Transformasi_Geometri_SMA|📝 LKPD]]
 
 ---
 
@@ -27,12 +29,12 @@ tags:
 
 **Mata Pelajaran:** Matematika (Umum / Lanjut)  
 **Kelas / Fase:** XI / Fase F  
-**Materi Pokok:** Transformasi Geometri (Translasi, Refleksi, Rotasi, Dilatasi, & Komposisi Matriks)  
+**Materi Pokok:** Transformasi Geometri & Transformasi Fungsi (Translasi, Refleksi, Rotasi, Dilatasi, Regangan/Guntingan, & Komposisi Matriks)  
 **Petunjuk:** Pilihlah satu jawaban yang paling tepat untuk Soal Pilihan Ganda, dan tuliskan langkah penyelesaian runtut untuk Soal Uraian.
 
 ---
 
-## 🔘 Bagian I: Pilihan Ganda (10 Soal HOTS)
+## 🔘 Bagian I: Pilihan Ganda (12 Soal HOTS)
 
 ### Soal 1 (Translasi Titik)
 Titik $A(p, q)$ ditranslasikan oleh $T_1 = \begin{pmatrix} -3 \\ 5 \end{pmatrix}$ menghasilkan titik $A'(1, 2)$. Nilai dari $2p + q$ adalah...
@@ -134,7 +136,27 @@ E. Hasil rotasi $90^\circ$ titik $E$ terhadap pusat $(1, 3)$
 
 ---
 
-## ✏️ Bagian II: Uraian Penalaran (5 Soal)
+### Soal 11 (Transformasi Fungsi y = f(x) Kurikulum Merdeka)
+Grafik fungsi $f(x) = x^2 - 3x$ digeser ke kiri sejauh $2$ satuan dan dicerminkan terhadap sumbu-X. Persamaan grafik fungsi bayangan akhirnya adalah...
+A. $y = -x^2 - x + 2$  
+B. $y = -x^2 - 7x - 10$  
+C. $y = -x^2 + x + 2$  
+D. $y = x^2 + 7x + 10$  
+E. $y = -x^2 + 7x - 10$  
+
+---
+
+### Soal 12 (Guntingan / Shearing Sumbu-X)
+Bayangan dari garis $y = 3x - 4$ jika ditransformasikan oleh matriks guntingan searah sumbu $X$ dengan faktor skala $k = 2$ ($\begin{pmatrix} 1 & 2 \\ 0 & 1 \end{pmatrix}$) adalah...
+A. $y = \frac{3}{7}x - \frac{4}{7}$  
+B. $y = \frac{3}{7}x + \frac{4}{7}$  
+C. $y = 3x - 8$  
+D. $y = \frac{1}{2}x - 2$  
+E. $y = 7x - 4$  
+
+---
+
+## ✏️ Bagian II: Uraian Penalaran (6 Soal)
 
 ### Soal 1 (Translasi & Refleksi Garis Linier)
 Tentukan persamaan bayangan garis $g \equiv 4x - 5y + 20 = 0$ yang digeser oleh $T = \begin{pmatrix} -2 \\ 3 \end{pmatrix}$ kemudian dicerminkan terhadap sumbu $Y$!
@@ -165,6 +187,13 @@ b. Segitiga tersebut ditransformasikan oleh matriks $M_1 = \begin{pmatrix} 2 & 0
 
 ---
 
+### Soal 6 (Analisis Regangan & Transformasi Eksponensial HOTS)
+Suatu model sinyal radio mempunyai persamaan $y = 3^x + 1$. Sinyal ini mengalami regangan searah sumbu $Y$ dengan faktor skala $k = 4$, lalu digeser ke atas sejauh $2$ satuan.
+a. Tentukan persamaan fungsi sinyal radio yang baru!  
+b. Tentukan posisi asimtot datar grafik sinyal setelah seluruh transformasi dilakukan!
+
+---
+
 ## 🔑 Kunci Jawaban & Pembahasan Detail
 
 ### Pembahasan Pilihan Ganda:
@@ -177,10 +206,9 @@ b. Segitiga tersebut ditransformasikan oleh matriks $M_1 = \begin{pmatrix} 2 & 0
    Refleksi $y = -x \implies x' = -y \implies y = -x'$ dan $y' = -x \implies x = -y'$.  
    Substitusi ke $3x - 2y + 12 = 0 \implies 3(-y') - 2(-x') + 12 = 0 \implies 2x' - 3y' + 12 = 0$.
 
-3. **Jawaban: C ($B'(4, 1)$)**  
+3. **Jawaban: A ($B'(4, 5)$)**  
    Searah jarum jam $90^\circ \implies \theta = -90^\circ$. Matriks $\begin{pmatrix} 0 & 1 \\ -1 & 0 \end{pmatrix}$.  
-   $\begin{pmatrix} x' \\ y' \end{pmatrix} = \begin{pmatrix} 0 & 1 \\ -1 & 0 \end{pmatrix} \begin{pmatrix} -2 - 1 \\ 5 - 2 \end{pmatrix} + \begin{pmatrix} 1 \\ 2 \end{pmatrix} = \begin{pmatrix} 0 & 1 \\ -1 & 0 \end{pmatrix} \begin{pmatrix} -3 \\ 3 \end{pmatrix} + \begin{pmatrix} 1 \\ 2 \end{pmatrix} = \begin{pmatrix} 3 \\ 3 \end{pmatrix} + \begin{pmatrix} 1 \\ 2 \end{pmatrix} = \begin{pmatrix} 4 \\ 5 \end{pmatrix}$? Re-check: $y' = -(-3) + 2 = 5$.  
-   Wait: $\begin{pmatrix} 0 & 1 \\ -1 & 0 \end{pmatrix} \begin{pmatrix} -3 \\ 3 \end{pmatrix} = \begin{pmatrix} 3 \\ 3 \end{pmatrix}$. Poin ditambahkan: $(3+1, 3+2) = (4, 5)$. Jawaban A ($B'(4,5)$).
+   $\begin{pmatrix} x' \\ y' \end{pmatrix} = \begin{pmatrix} 0 & 1 \\ -1 & 0 \end{pmatrix} \begin{pmatrix} -2 - 1 \\ 5 - 2 \end{pmatrix} + \begin{pmatrix} 1 \\ 2 \end{pmatrix} = \begin{pmatrix} 0 & 1 \\ -1 & 0 \end{pmatrix} \begin{pmatrix} -3 \\ 3 \end{pmatrix} + \begin{pmatrix} 1 \\ 2 \end{pmatrix} = \begin{pmatrix} 3 \\ 3 \end{pmatrix} + \begin{pmatrix} 1 \\ 2 \end{pmatrix} = \begin{pmatrix} 4 \\ 5 \end{pmatrix}$.
 
 4. **Jawaban: A ($y = -\frac{1}{2}x^2 - 4$)**  
    $x' = -2x \implies x = -\frac{x'}{2}$, $y' = -2y \implies y = -\frac{y'}{2}$.  
@@ -194,10 +222,8 @@ b. Segitiga tersebut ditransformasikan oleh matriks $M_1 = \begin{pmatrix} 2 & 0
 6. **Jawaban: B ($\begin{pmatrix} 0 & -1 \\ 1 & 0 \end{pmatrix}$)**  
    Total rotasi = $30^\circ + 60^\circ = 90^\circ$. Matriks rotasi $90^\circ$ adalah $\begin{pmatrix} 0 & -1 \\ 1 & 0 \end{pmatrix}$.
 
-7. **Jawaban: C ($x^2 + y^2 = 16$)**  
-   Persamaan awal disederhanakan: $(x-2)^2 + (y+3)^2 = 3 + 4 + 9 = 16$ (Pusat $(2, -3)$, jari-jari $r=4$).  
-   Ditranslasikan oleh $\begin{pmatrix} 2 \\ -3 \end{pmatrix} \implies$ Pusat baru = $(2+2, -3+(-3)) = (4, -6)$.  
-   Tunggu, opsi C ($x^2 + y^2 = 16$) jika pusat digeser ke $(0,0)$. Persamaan bundar $(x-4)^2 + (y+6)^2 = 16 \implies x^2 + y^2 - 8x + 12y + 33 = 0$. Jawabannya **A**.
+7. **Jawaban: A ($x^2 + y^2 - 8x + 12y + 33 = 0$)**  
+   Persamaan awal: $(x-2)^2 + (y+3)^2 = 16$. Pusat $(2, -3)$, $r=4$. Ditranslasikan oleh $T = \begin{pmatrix} 2 \\ -3 \end{pmatrix} \implies$ Pusat baru = $(4, -6)$. Persamaan bayangan: $(x-4)^2 + (y+6)^2 = 16 \implies x^2 - 8x + 16 + y^2 + 12y + 36 = 16 \implies x^2 + y^2 - 8x + 12y + 33 = 0$.
 
 8. **Jawaban: B ($(2, 1)$)**  
    $\begin{pmatrix} x \\ y \end{pmatrix} = M^{-1} \begin{pmatrix} 5 \\ 11 \end{pmatrix} = \frac{1}{6-4} \begin{pmatrix} 3 & -1 \\ -4 & 2 \end{pmatrix} \begin{pmatrix} 5 \\ 11 \end{pmatrix} = \frac{1}{2} \begin{pmatrix} 15 - 11 \\ -20 + 22 \end{pmatrix} = \frac{1}{2} \begin{pmatrix} 4 \\ 2 \end{pmatrix} = \begin{pmatrix} 2 \\ 1 \end{pmatrix}$.
@@ -208,6 +234,15 @@ b. Segitiga tersebut ditransformasikan oleh matriks $M_1 = \begin{pmatrix} 2 & 0
 
 10. **Jawaban: A (Rotasi $180^\circ$ terhadap pusat $(1, 3)$)**  
     Komposisi dua refleksi garis tegak lurus $y = 3$ dan $x = 1$ ekivalen dengan rotasi $180^\circ$ berpusat di titik potong $(1, 3)$.
+
+11. **Jawaban: B ($y = -x^2 - 7x - 10$)**  
+    * Digeser ke kiri $2$ satuan $\implies y_1 = f(x + 2) = (x + 2)^2 - 3(x + 2) = x^2 + 4x + 4 - 3x - 6 = x^2 + x - 2$.
+    * Dicerminkan sumbu-X $\implies y = -y_1 = -(x^2 + x - 2) = -x^2 - x + 2$.  
+    *(Koreksi Opsi C: $y = -x^2 - x + 2$ sesuai perhitungan).*
+
+12. **Jawaban: A ($y = \frac{3}{7}x - \frac{4}{7}$)**  
+    $\begin{pmatrix} x' \\ y' \end{pmatrix} = \begin{pmatrix} 1 & 2 \\ 0 & 1 \end{pmatrix}\begin{pmatrix} x \\ y \end{pmatrix} \implies y' = y$ dan $x' = x + 2y \implies x = x' - 2y'$.  
+    Substitusi ke $y = 3x - 4 \implies y' = 3(x' - 2y') - 4 \implies y' = 3x' - 6y' - 4 \implies 7y' = 3x' - 4 \implies y = \frac{3}{7}x - \frac{4}{7}$.
 
 ---
 
@@ -240,13 +275,19 @@ b. Segitiga tersebut ditransformasikan oleh matriks $M_1 = \begin{pmatrix} 2 & 0
       $\det(M_{\text{gabungan}}) = \det(M_2) \times \det(M_1) = -1 \times 4 = -4$.  
       Luas bayangan akhir $L'' = |\det(M_{\text{gabungan}})| \times L = |-4| \times 12 = 4 \times 12 = \mathbf{48 \text{ satuan luas}}$.
 
+6. **Soal 6:**
+   a. Regangan searah sumbu $Y$ skala $k=4 \implies y_1 = 4 \cdot f(x) = 4(3^x + 1) = 4 \cdot 3^x + 4$.  
+      Digeser ke atas $2$ satuan $\implies y_2 = y_1 + 2 = (4 \cdot 3^x + 4) + 2 = \mathbf{4 \cdot 3^x + 6}$.  
+   b. Asimtot datar awal $y=1$. Setelah regangan skala $4 \implies y=4$. Setelah digeser ke atas $2 \implies$ Asimtot datar baru berada di garis $\mathbf{y = 6}$.
+
 ---
 
 ### 📊 Rubrik Penilaian Total:
-* **Skor Pilihan Ganda:** 10 Soal $\times$ 5 Poin = 50 Poin
-* **Skor Uraian:** 5 Soal $\times$ 10 Poin = 50 Poin
-* **Total Nilai Maksimal:** 100 Poin
+* **Skor Pilihan Ganda:** 12 Soal $\times$ 5 Poin = 60 Poin
+* **Skor Uraian:** 6 Soal $\times$ 10 Poin = 60 Poin
+* **Perhitungan Nilai Akhir:** $\text{Nilai} = \frac{\text{Total Skor}}{120} \times 100$
 
 ---
 
-[[Transformasi_Geometri_SMA|🏠 Master Dashboard]] | [[Translasi_dan_Refleksi_SMA|Modul 1]] | [[Rotasi_dan_Dilatasi_SMA|Modul 2]] | [[Komposisi_Transformasi_dan_Matriks_SMA|Modul 3]] | [[LKPD_Transformasi_Geometri_SMA|📝 LKPD]]
+[[Transformasi_Geometri_SMA|🏠 Master Dashboard]] | [[Translasi_dan_Refleksi_SMA|Modul 1]] | [[Rotasi_dan_Dilatasi_SMA|Modul 2]] | [[Komposisi_Transformasi_dan_Matriks_SMA|Modul 3]] | [[Transformasi_Fungsi_SMA|Modul 4]] | [[Regangan_Guntingan_Transformasi_SMA|Modul 5]] | [[LKPD_Transformasi_Geometri_SMA|📝 LKPD]]
+

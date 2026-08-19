@@ -8,14 +8,14 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-08-19T00:40:09Z"
+    "generated_at": "2026-08-19T06:13:48Z"
   },
   "stats": {
-    "total_notes": 174,
-    "total_edges": 804,
-    "broken_links": 109,
-    "untyped_notes": 59,
-    "health_score": 57.1
+    "total_notes": 191,
+    "total_edges": 902,
+    "broken_links": 116,
+    "untyped_notes": 61,
+    "health_score": 59.3
   },
   "inbox": [],
   "spaces": {
@@ -23,6 +23,19 @@
       "General": [
         "Semester_5_Prep",
         "00_Semester_5_Dashboard"
+      ],
+      "Week 01 Introduction to DSP": [
+        "Week_01_Introduction_to_DSP_Cheatsheet",
+        "Week_01_Introduction_to_DSP_Drills",
+        "01_Konsep_Sinyal_dan_Frekuensi",
+        "02_Elemen_Dasar_Sistem_DSP",
+        "03_Bidang_Aplikasi_DSP",
+        "Week_01_Introduction_to_DSP_Notes"
+      ],
+      "Week 05 Laplace Transformation": [
+        "Week_05_Laplace_Transformation_Drills",
+        "Week_05_Laplace_Transformation_Notes",
+        "Week_05_Laplace_Transformation_Cheatsheet"
       ]
     },
     "Teaching": {
@@ -87,9 +100,11 @@
         "Matriks_SMA",
         "Kaidah_Pencacahan_dan_Kombinatorika_SMA",
         "Komposisi_Transformasi_dan_Matriks_SMA",
+        "Regangan_Guntingan_Transformasi_SMA",
         "Translasi_dan_Refleksi_SMA",
         "Rotasi_dan_Dilatasi_SMA",
         "Transformasi_Geometri_SMA",
+        "Transformasi_Fungsi_SMA",
         "Teknik_Invers_Fungsi_Aljabar_SMA",
         "Invers_Fungsi_Komposisi_dan_Aplikasi_SMA",
         "Konsep_Dasar_dan_Syarat_Invers_SMA",
@@ -128,11 +143,13 @@
       "Books": [],
       "Generated_Readings": {
         "General": [
+          "Transformasi_Laplace",
           "Sistem_Produksi_dan_Pengemasan_Kerajinan_Limbah_Bangun_Datar",
           "Perencanaan_Usaha_Kerajinan_Limbah_Bangun_Datar",
           "Single_Secret_Sharing_CRT_Shamir_XOR"
         ],
         "Mathematics": [
+          "Lagrange_Interpolation",
           "Chinese_Remainder_Theorem_and_Reverse_CRT_Guide"
         ],
         "Artificial_Intelligence": [
@@ -158,6 +175,8 @@
     },
     "concepts": {
       "General": [
+        "Bidang_S_Complex_Plane",
+        "Region_of_Convergence_ROC",
         "Gaya_Normal",
         "Gaya_Berat"
       ],
@@ -169,7 +188,9 @@
         "Matriks",
         "Lagrange_Interpolation",
         "Persamaan_Kuadrat",
+        "Interpolation",
         "Coprime",
+        "Runges_Phenomenon",
         "Invers_Modular"
       ],
       "Web_Development": [
@@ -229,6 +250,7 @@
   },
   "maintenance": {
     "orphan_pages_sample": [
+      "Lagrange_Interpolation",
       "Jakobs_Law",
       "Fitts_Law",
       "Hicks_Law",

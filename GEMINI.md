@@ -24,6 +24,7 @@
 - **Links:** Always use Wikilinks (`[[Note Name]]`). No path names or raw file names. Plain URLs for external links only.
 - **Metadata:** Keep in YAML frontmatter, not `#tags`.
 - **Quality Standard:** Always follow `99_Configs/Depth_Standard.md` for agent-created notes.
+- **Math/LaTeX:** Always use `$` for inline math and `$$` for block math to ensure compatibility with Obsidian. Never use `\(` or `\[` delimiters.
 
 ## Operational Workflows
 ### Automation & Optimization Rules

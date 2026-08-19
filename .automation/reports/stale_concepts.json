@@ -1,5 +1,23 @@
 [
   {
+    "concept_file": "20_Brain_Atlas/20_Concepts/Digital_Signal_Processing/Bidang_S_Complex_Plane.md",
+    "concept_title": "Bidang_S_Complex_Plane",
+    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Digital_Signal_Processing/Transformasi_Laplace.md",
+    "source_title": "Transformasi_Laplace",
+    "stored_hash": "d651b9654030aa28867238dff430f1c3",
+    "current_hash": "781252500293a61d38873e921f0d2730",
+    "status": "outdated"
+  },
+  {
+    "concept_file": "20_Brain_Atlas/20_Concepts/Digital_Signal_Processing/Region_of_Convergence_ROC.md",
+    "concept_title": "Region_of_Convergence_ROC",
+    "source_file": "20_Brain_Atlas/10_Library/Generated_Readings/Digital_Signal_Processing/Transformasi_Laplace.md",
+    "source_title": "Transformasi_Laplace",
+    "stored_hash": "d651b9654030aa28867238dff430f1c3",
+    "current_hash": "781252500293a61d38873e921f0d2730",
+    "status": "outdated"
+  },
+  {
     "concept_file": "20_Brain_Atlas/20_Concepts/Mathematics/Kongruensi_Modular.md",
     "concept_title": "Kongruensi_Modular",
     "source_file": "20_Brain_Atlas/20_Concepts/Mathematics/Chinese_Remainder_Theorem.md",

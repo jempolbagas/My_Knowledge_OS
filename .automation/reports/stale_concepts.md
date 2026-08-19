@@ -4,6 +4,8 @@ Detected when a source file has changed since the Concept wiki page was generate
 
 | Concept Note | Source Note | Status | Action Required |
 | --- | --- | --- | --- |
+| [[Bidang_S_Complex_Plane]] | [[Transformasi_Laplace]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "781252500293a61d38873e921f0d2730"` |
+| [[Region_of_Convergence_ROC]] | [[Transformasi_Laplace]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "781252500293a61d38873e921f0d2730"` |
 | [[Kongruensi_Modular]] | [[Chinese_Remainder_Theorem]] | ❓ No Snapshot Hash | Run LLM review to update concept and update `source_hash: "37211e637f265b9b17c4dd3aa0bede54"` |
 | [[Chinese_Remainder_Theorem]] | [[Single_Secret_Sharing_CRT_Shamir_XOR]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "2a94364a85872818f78bbba8e512aaee"` |
 | [[Coprime]] | [[Chinese_Remainder_Theorem]] | ❓ No Snapshot Hash | Run LLM review to update concept and update `source_hash: "37211e637f265b9b17c4dd3aa0bede54"` |

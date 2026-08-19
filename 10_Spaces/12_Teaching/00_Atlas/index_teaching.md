@@ -91,7 +91,9 @@ Selamat datang di Teaching Resources Hub! Halaman ini mengorganisir seluruh mate
 - [[Teori_Peluang_dan_Kejadian_Majemuk_SMA]] — Menaklukkan Teori Peluang & Kejadian Majemuk tanpa Pusing
 - 🏠 [[Transformasi_Geometri_SMA]] — Transformasi Geometri — Pusat Kontrol & Navigasi Modul
   - 📄 [[Komposisi_Transformasi_dan_Matriks_SMA]] — Komposisi Transformasi dan Matriks — Modul 3 Transformasi Geometri
+  - 📄 [[Regangan_Guntingan_Transformasi_SMA]] — Regangan, Guntingan, & Refleksi Garis Miring — Modul 5 Transformasi Geometri
   - 📄 [[Rotasi_dan_Dilatasi_SMA]] — Rotasi dan Dilatasi — Modul 2 Transformasi Geometri
+  - 📄 [[Transformasi_Fungsi_SMA]] — Transformasi Fungsi — Modul 4 Transformasi Geometri
   - 📄 [[Translasi_dan_Refleksi_SMA]] — Translasi dan Refleksi — Modul 1 Transformasi Geometri
 
 ### 📝 Lembar Kerja (Practice)

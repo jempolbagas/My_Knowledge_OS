@@ -1,5 +1,5 @@
 ---
-title: "LKPD: Transformasi Geometri — Eksplorasi Pergeseran, Pemutaran, & Matriks Ruang"
+title: "LKPD: Transformasi Geometri — Eksplorasi Pergeseran, Pemutaran, Matriks Ruang, & Transformasi Fungsi"
 type: "lkpd"
 subject: "Mathematics"
 level: "sma"
@@ -10,6 +10,8 @@ sources:
   - "[[Translasi_dan_Refleksi_SMA]]"
   - "[[Rotasi_dan_Dilatasi_SMA]]"
   - "[[Komposisi_Transformasi_dan_Matriks_SMA]]"
+  - "[[Transformasi_Fungsi_SMA]]"
+  - "[[Regangan_Guntingan_Transformasi_SMA]]"
 tags:
   - "#matematika"
   - "#lkpd"
@@ -18,7 +20,7 @@ tags:
   - "#aktivitas_kelompok"
 ---
 
-[[Transformasi_Geometri_SMA|🏠 Master Dashboard]] | [[Translasi_dan_Refleksi_SMA|Modul 1]] | [[Rotasi_dan_Dilatasi_SMA|Modul 2]] | [[Komposisi_Transformasi_dan_Matriks_SMA|Modul 3]] | [[Soal_Transformasi_Geometri_SMA|🎯 Soal Evaluasi]]
+[[Transformasi_Geometri_SMA|🏠 Master Dashboard]] | [[Translasi_dan_Refleksi_SMA|Modul 1]] | [[Rotasi_dan_Dilatasi_SMA|Modul 2]] | [[Komposisi_Transformasi_dan_Matriks_SMA|Modul 3]] | [[Transformasi_Fungsi_SMA|Modul 4]] | [[Regangan_Guntingan_Transformasi_SMA|Modul 5]] | [[Soal_Transformasi_Geometri_SMA|🎯 Soal Evaluasi]]
 
 ---
 
@@ -39,7 +41,7 @@ tags:
 
 ### Petunjuk Pengisian:
 1. Bacalah setiap petunjuk aktivitas dan studi kasus dengan cermat bersama anggota kelompokmu.
-2. Manfaatkan [[Transformasi_Geometri_SMA|Cheatsheet Master Dashboard]] serta Modul 1, 2, dan 3 sebagai bahan acuan referensi.
+2. Manfaatkan [[Transformasi_Geometri_SMA|Cheatsheet Master Dashboard]] serta Modul 1 sampai 5 sebagai bahan acuan referensi.
 3. Kerjakan setiap tantangan secara berdiskusi dan tuliskan langkah aljabar matriksmu secara rapi.
 
 ---
@@ -119,6 +121,38 @@ Seorang arsitek sedang merancang tata letak denah taman yang memiliki persamaan 
 
 ---
 
+## 📈 Aktivitas 4: Investigasi Grafis Transformasi Fungsi $y = f(x)$
+
+### Kasus Pemodelan Pertumbuhan Sinyal:
+Grafik fungsi eksponensial $g(x) = 2^x$ memodelkan daya sinyal antena pemancar. Teknisi melakukan penyesuaian sinyal dengan menggeser grafik ke kanan sejauh $2$ satuan dan menaikkan posisi sinyal ke atas sejauh $3$ satuan, lalu mencerminkannya terhadap sumbu-X.
+
+1. **Langkah 1 (Translasi Fungsi):** Tentukan persamaan fungsi $g_1(x)$ setelah digeser ke kanan $2$ satuan dan ke atas $3$ satuan!
+   $$g_1(x) = 2^{x - \dots} + \dots$$
+
+2. **Langkah 2 (Refleksi Fungsi Sumbu-X):** Tentukan persamaan bayangan akhir $g_2(x)$ setelah dicerminkan terhadap sumbu-X!
+   $$g_2(x) = -g_1(x) = -(2^{x - \dots} + \dots) = \dots$$
+
+---
+
+## 📐 Aktivitas 5: Tantangan Arsitektur Desain Miring (Guntingan / Shearing)
+
+### Kasus Struktur Jembatan Miring:
+Sebuah panel kaca persegi $ABCD$ dengan koordinat $A(0,0)$, $B(2,0)$, $C(2,2)$, dan $D(0,2)$ dimiringkan oleh arsitek menggunakan efek guntingan (*shearing*) searah sumbu $X$ dengan faktor skala $k = 1.5$.
+
+1. **Tentukan Matriks Guntingan ($M_{\text{shear}}$):**
+   $$M_{\text{shear}} = \begin{pmatrix} 1 & 1.5 \\ 0 & 1 \end{pmatrix}$$
+
+2. **Hitung Koordinat Bayangan Titik $A', B', C', D'$:**
+   * $A'(..., ...)$
+   * $B'(..., ...)$
+   * $C'(..., ...)$
+   * $D'(..., ...)$
+
+3. **Analisis Luas Panel Kaca:**
+   Hitung determinan matriks $M_{\text{shear}}$ dan luas bayangan panel kaca $A'B'C'D'$. Apakah luas panel kaca berubah setelah dimiringkan? Jelaskan!
+
+---
+
 ## 🔑 Kunci Jawaban Lengkap & Rubrik Penilaian LKPD
 
 ### Kunci Jawaban Singkat Aktivitas:
@@ -137,12 +171,24 @@ Seorang arsitek sedang merancang tata letak denah taman yang memiliki persamaan 
   2. Matriks $M$ ekivalen dengan **Refleksi terhadap Sumbu X**.
   3. $x' = x \implies x = x'$, $y' = -y \implies y = -y'$. Substitusi ke $y = x^2 - 2x + 1 \implies -y' = (x')^2 - 2x' + 1 \implies$ **$y = -x^2 + 2x - 1$**.
 
+* **Aktivitas 4:**
+  1. $g_1(x) = 2^{x - 2} + 3$.
+  2. $g_2(x) = -(2^{x - 2} + 3) = -2^{x - 2} - 3$.
+
+* **Aktivitas 5:**
+  1. $M_{\text{shear}} = \begin{pmatrix} 1 & 1.5 \\ 0 & 1 \end{pmatrix}$.
+  2. $A'(0,0)$, $B'(2,0)$, $C'(5,2)$, $D'(3,2)$.
+  3. $\det(M_{\text{shear}}) = (1)(1) - (1.5)(0) = 1$. Luas awal $L = 2 \times 2 = 4$. Luas bayangan berbentuk jajargenjang dengan alas $2$ dan tinggi $2 \implies L' = 4$. **Luas tidak berubah** karena guntingan mempertahankan nilai determinan $= 1$.
+
 ### Rubrik Penilaian LKPD:
 * **Skor Maksimal Total:** 100
-  * **Aktivitas 1 (Translasi & Refleksi):** 30 Poin
-  * **Aktivitas 2 (Rotasi, Dilatasi, & Luas):** 35 Poin
-  * **Aktivitas 3 (Komposisi Matriks HOTS):** 35 Poin
+  * **Aktivitas 1 (Translasi & Refleksi):** 20 Poin
+  * **Aktivitas 2 (Rotasi, Dilatasi, & Luas):** 20 Poin
+  * **Aktivitas 3 (Komposisi Matriks HOTS):** 20 Poin
+  * **Aktivitas 4 (Transformasi Fungsi):** 20 Poin
+  * **Aktivitas 5 (Guntingan & Invariansi Luas):** 20 Poin
 
 ---
 
-[[Transformasi_Geometri_SMA|🏠 Master Dashboard]] | [[Translasi_dan_Refleksi_SMA|Modul 1]] | [[Rotasi_dan_Dilatasi_SMA|Modul 2]] | [[Komposisi_Transformasi_dan_Matriks_SMA|Modul 3]] | [[Soal_Transformasi_Geometri_SMA|🎯 Soal Evaluasi]]
+[[Transformasi_Geometri_SMA|🏠 Master Dashboard]] | [[Translasi_dan_Refleksi_SMA|Modul 1]] | [[Rotasi_dan_Dilatasi_SMA|Modul 2]] | [[Komposisi_Transformasi_dan_Matriks_SMA|Modul 3]] | [[Transformasi_Fungsi_SMA|Modul 4]] | [[Regangan_Guntingan_Transformasi_SMA|Modul 5]] | [[Soal_Transformasi_Geometri_SMA|🎯 Soal Evaluasi]]
+

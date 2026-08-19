@@ -4,6 +4,9 @@
 | File | Broken Link Target | Context |
 | --- | --- | --- |
 | [[KTI_Context]] | `KTI_Knowledge_Map.canvas` | `wikilink` |
+| [[Week_01_Introduction_to_DSP_Notes]] | `Sinyal_Waktu_Diskrit` | `wikilink` |
+| [[Week_01_Introduction_to_DSP_Notes]] | `Konversi_Analog_ke_Digital_ADC` | `wikilink` |
+| [[Week_01_Introduction_to_DSP_Notes]] | `Aliasing_Sinyal` | `wikilink` |
 | [[LKPD_Simple_Present_vs_Present_Continuous_SMP]] | `[ESL] Present Continuous Tense` | `wikilink` |
 | [[LKPD_Pertambangan_dan_Barang_Tambang_Indonesia_SMP]] | `infographic_social_studies_mining_classification.webp` | `wikilink` |
 | [[LKPD_Pertambangan_dan_Barang_Tambang_Indonesia_SMP]] | `mindmap_social_studies_indonesia_mining_map.webp` | `wikilink` |
@@ -45,6 +48,8 @@
 | [[Transformasi_Geometri_SMA]] | `Translasi_dan_Refleksi_SMA\` | `wikilink` |
 | [[Transformasi_Geometri_SMA]] | `Rotasi_dan_Dilatasi_SMA\` | `wikilink` |
 | [[Transformasi_Geometri_SMA]] | `Komposisi_Transformasi_dan_Matriks_SMA\` | `wikilink` |
+| [[Transformasi_Geometri_SMA]] | `Transformasi_Fungsi_SMA\` | `wikilink` |
+| [[Transformasi_Geometri_SMA]] | `Regangan_Guntingan_Transformasi_SMA\` | `wikilink` |
 | [[Transformasi_Geometri_SMA]] | `LKPD_Transformasi_Geometri_SMA\` | `wikilink` |
 | [[Transformasi_Geometri_SMA]] | `Soal_Transformasi_Geometri_SMA\` | `wikilink` |
 | [[Konsep_Dasar_dan_Syarat_Invers_SMA]] | `diagram_mathematics_inverse_function_machine.webp` | `wikilink` |
@@ -115,6 +120,7 @@
 
 ## 🕳️ Orphan Pages (Disconnected Nodes)
 These files have no incoming or outgoing links:
+- [[Lagrange_Interpolation]] (`20_Brain_Atlas/10_Library/Generated_Readings/Mathematics/Lagrange_Interpolation.md`)
 - [[Jakobs_Law]] (`20_Brain_Atlas/20_Concepts/Computer_Science/Jakobs_Law.md`)
 - [[Fitts_Law]] (`20_Brain_Atlas/20_Concepts/Computer_Science/Fitts_Law.md`)
 - [[Hicks_Law]] (`20_Brain_Atlas/20_Concepts/Computer_Science/Hicks_Law.md`)
@@ -123,17 +129,22 @@ These files have no incoming or outgoing links:
 ## 📄 Missing/Invalid Frontmatter Properties
 | File | Missing/Invalid Fields |
 | --- | --- |
+| [[Transformasi_Laplace]] | `title, topic, requested_on, prompt, tags` |
 | [[Chinese_Remainder_Theorem_and_Reverse_CRT_Guide]] | `title, topic, requested_on, prompt, tags, promoted_to` |
 | [[Single_Secret_Sharing_CRT_Shamir_XOR]] | `title, topic, requested_on, prompt, tags, promoted_to` |
 | [[Post_Training_Quantization_End_to_End_Guide]] | `topic, prompt` |
 | [[Shamir_Secret_Sharing_Comprehensive_Study_Guide]] | `title, topic, requested_on, prompt` |
 | [[Shamir_vs_Pande_Modified_Secret_Sharing]] | `title, topic, requested_on, prompt, tags` |
 | [[Model_Context_Protocol_Architecture]] | `title, topic, requested_on, prompt, promoted_to` |
+| [[Bidang_S_Complex_Plane]] | `type (should be 'concept'), title, subject, date_created` |
+| [[Region_of_Convergence_ROC]] | `type (should be 'concept'), title, subject, date_created` |
 | [[Kongruensi_Modular]] | `date_created` |
 | [[Chinese_Remainder_Theorem]] | `title, date_created` |
 | [[Reverse_CRT]] | `title, date_created` |
 | [[Lagrange_Interpolation]] | `title, date_created` |
+| [[Interpolation]] | `title, date_created, source` |
 | [[Coprime]] | `date_created` |
+| [[Runges_Phenomenon]] | `title, date_created, source` |
 | [[Invers_Modular]] | `title, date_created, source` |
 | [[Secret_Sharing_Scheme]] | `title, date_created` |
 | [[Modified_Shamir_Scheme]] | `title, date_created` |
