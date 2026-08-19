@@ -8,14 +8,14 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-08-18T00:33:35Z"
+    "generated_at": "2026-08-19T00:40:09Z"
   },
   "stats": {
-    "total_notes": 164,
-    "total_edges": 748,
-    "broken_links": 104,
+    "total_notes": 174,
+    "total_edges": 804,
+    "broken_links": 109,
     "untyped_notes": 59,
-    "health_score": 55.1
+    "health_score": 57.1
   },
   "inbox": [],
   "spaces": {
@@ -71,11 +71,13 @@
         "LKPD_Suku_Banyak_Polinomial_SMA",
         "LKPD_Matriks_SMA",
         "LKPD_Pola_Bilangan_SMP",
+        "Soal_Transformasi_Geometri_SMA",
         "LKPD_Kaidah_Pencacahan_dan_Kombinatorika_SMA",
         "LKPD_Persamaan_Kuadrat_SMP",
         "LKPD_Teori_Peluang_dan_Kejadian_Majemuk_SMA",
         "Soal_Fungsi_Invers_SMA",
         "Soal_Pola_Bilangan_Paket_B_SMP",
+        "LKPD_Transformasi_Geometri_SMA",
         "Soal_Suku_Banyak_SMA",
         "Teori_Peluang_dan_Kejadian_Majemuk_SMA",
         "Logika_Permutasi_dan_Kombinasi_SMA",
@@ -84,6 +86,10 @@
         "Suku_Banyak_Polinomial_SMA",
         "Matriks_SMA",
         "Kaidah_Pencacahan_dan_Kombinatorika_SMA",
+        "Komposisi_Transformasi_dan_Matriks_SMA",
+        "Translasi_dan_Refleksi_SMA",
+        "Rotasi_dan_Dilatasi_SMA",
+        "Transformasi_Geometri_SMA",
         "Teknik_Invers_Fungsi_Aljabar_SMA",
         "Invers_Fungsi_Komposisi_dan_Aplikasi_SMA",
         "Konsep_Dasar_dan_Syarat_Invers_SMA",
@@ -197,10 +203,14 @@
         "CIA Triad"
       ],
       "Computer_Science": [
+        "Jakobs_Law",
         "Bottom-Up vs. Top-Down Learning",
         "Single Board Computer",
+        "Fitts_Law",
         "Model_Context_Protocol",
-        "Off-Chip DRAM"
+        "Hicks_Law",
+        "Off-Chip DRAM",
+        "Millers_Law"
       ]
     },
     "reference_lib": [
@@ -218,7 +228,12 @@
     ]
   },
   "maintenance": {
-    "orphan_pages_sample": [],
+    "orphan_pages_sample": [
+      "Jakobs_Law",
+      "Fitts_Law",
+      "Hicks_Law",
+      "Millers_Law"
+    ],
     "untyped_notes_sample": [
       {
         "title": "README",

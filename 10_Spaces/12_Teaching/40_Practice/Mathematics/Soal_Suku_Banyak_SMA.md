@@ -21,7 +21,6 @@ tags:
   - "#kunci_jawaban"
   - "#kelas11"
 ---
-
 [[Suku_Banyak_Polinomial_SMA|🏠 Master Dashboard]] | [[LKPD_Suku_Banyak_Polinomial_SMA|📝 LKPD Suku Banyak]]
 
 ---

@@ -196,6 +196,31 @@
       "context": "wikilink"
     },
     {
+      "file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Transformasi_Geometri/Transformasi_Geometri_SMA.md",
+      "broken_link": "Translasi_dan_Refleksi_SMA\\",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Transformasi_Geometri/Transformasi_Geometri_SMA.md",
+      "broken_link": "Rotasi_dan_Dilatasi_SMA\\",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Transformasi_Geometri/Transformasi_Geometri_SMA.md",
+      "broken_link": "Komposisi_Transformasi_dan_Matriks_SMA\\",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Transformasi_Geometri/Transformasi_Geometri_SMA.md",
+      "broken_link": "LKPD_Transformasi_Geometri_SMA\\",
+      "context": "wikilink"
+    },
+    {
+      "file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Transformasi_Geometri/Transformasi_Geometri_SMA.md",
+      "broken_link": "Soal_Transformasi_Geometri_SMA\\",
+      "context": "wikilink"
+    },
+    {
       "file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Fungsi_Invers/Konsep_Dasar_dan_Syarat_Invers_SMA.md",
       "broken_link": "diagram_mathematics_inverse_function_machine.webp",
       "context": "wikilink"
@@ -521,7 +546,24 @@
       "context": "wikilink"
     }
   ],
-  "orphans": [],
+  "orphans": [
+    {
+      "file": "20_Brain_Atlas/20_Concepts/Computer_Science/Jakobs_Law.md",
+      "title": "Jakobs_Law"
+    },
+    {
+      "file": "20_Brain_Atlas/20_Concepts/Computer_Science/Fitts_Law.md",
+      "title": "Fitts_Law"
+    },
+    {
+      "file": "20_Brain_Atlas/20_Concepts/Computer_Science/Hicks_Law.md",
+      "title": "Hicks_Law"
+    },
+    {
+      "file": "20_Brain_Atlas/20_Concepts/Computer_Science/Millers_Law.md",
+      "title": "Millers_Law"
+    }
+  ],
   "missing_frontmatter": [
     {
       "file": "20_Brain_Atlas/10_Library/Generated_Readings/Mathematics/Chinese_Remainder_Theorem_and_Reverse_CRT_Guide.md",
@@ -644,7 +686,31 @@
       ]
     },
     {
+      "file": "20_Brain_Atlas/20_Concepts/Computer_Science/Jakobs_Law.md",
+      "missing_fields": [
+        "title"
+      ]
+    },
+    {
+      "file": "20_Brain_Atlas/20_Concepts/Computer_Science/Fitts_Law.md",
+      "missing_fields": [
+        "title"
+      ]
+    },
+    {
       "file": "20_Brain_Atlas/20_Concepts/Computer_Science/Model_Context_Protocol.md",
+      "missing_fields": [
+        "title"
+      ]
+    },
+    {
+      "file": "20_Brain_Atlas/20_Concepts/Computer_Science/Hicks_Law.md",
+      "missing_fields": [
+        "title"
+      ]
+    },
+    {
+      "file": "20_Brain_Atlas/20_Concepts/Computer_Science/Millers_Law.md",
       "missing_fields": [
         "title"
       ]

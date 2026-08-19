@@ -42,6 +42,11 @@
 | [[Pertambangan_dan_Barang_Tambang_Indonesia_SMP]] | `mindmap_social_studies_indonesia_mining_map.webp` | `wikilink` |
 | [[Pertambangan_dan_Barang_Tambang_Indonesia_SMP]] | `diagram_social_studies_mining_stages_flow.webp` | `wikilink` |
 | [[Pola_Bilangan_SMP]] | `diagram_mathematics_number_patterns_multilevel_scheme.webp` | `wikilink` |
+| [[Transformasi_Geometri_SMA]] | `Translasi_dan_Refleksi_SMA\` | `wikilink` |
+| [[Transformasi_Geometri_SMA]] | `Rotasi_dan_Dilatasi_SMA\` | `wikilink` |
+| [[Transformasi_Geometri_SMA]] | `Komposisi_Transformasi_dan_Matriks_SMA\` | `wikilink` |
+| [[Transformasi_Geometri_SMA]] | `LKPD_Transformasi_Geometri_SMA\` | `wikilink` |
+| [[Transformasi_Geometri_SMA]] | `Soal_Transformasi_Geometri_SMA\` | `wikilink` |
 | [[Konsep_Dasar_dan_Syarat_Invers_SMA]] | `diagram_mathematics_inverse_function_machine.webp` | `wikilink` |
 | [[Fungsi_Invers_SMA]] | `infographic_mathematics_inverse_function_dashboard.webp` | `wikilink` |
 | [[Fungsi_Invers_SMA]] | `Konsep_Dasar_dan_Syarat_Invers_SMA\` | `wikilink` |
@@ -109,7 +114,11 @@
 | [[s11277-023-10315-5]] | `15, 25, 52` | `wikilink` |
 
 ## 🕳️ Orphan Pages (Disconnected Nodes)
-No orphan pages found! 🎉
+These files have no incoming or outgoing links:
+- [[Jakobs_Law]] (`20_Brain_Atlas/20_Concepts/Computer_Science/Jakobs_Law.md`)
+- [[Fitts_Law]] (`20_Brain_Atlas/20_Concepts/Computer_Science/Fitts_Law.md`)
+- [[Hicks_Law]] (`20_Brain_Atlas/20_Concepts/Computer_Science/Hicks_Law.md`)
+- [[Millers_Law]] (`20_Brain_Atlas/20_Concepts/Computer_Science/Millers_Law.md`)
 
 ## 📄 Missing/Invalid Frontmatter Properties
 | File | Missing/Invalid Fields |
@@ -129,4 +138,8 @@ No orphan pages found! 🎉
 | [[Secret_Sharing_Scheme]] | `title, date_created` |
 | [[Modified_Shamir_Scheme]] | `title, date_created` |
 | [[Shamir_Secret_Sharing]] | `title, date_created` |
+| [[Jakobs_Law]] | `title` |
+| [[Fitts_Law]] | `title` |
 | [[Model_Context_Protocol]] | `title` |
+| [[Hicks_Law]] | `title` |
+| [[Millers_Law]] | `title` |

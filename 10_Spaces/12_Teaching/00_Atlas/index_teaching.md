@@ -89,6 +89,10 @@ Selamat datang di Teaching Resources Hub! Halaman ini mengorganisir seluruh mate
 - [[Matriks_SMA]] — Menaklukkan Matriks Tanpa Pusing
 - [[Suku_Banyak_Polinomial_SMA]] — Menaklukkan Suku Banyak (Polinomial) & Metode Horner
 - [[Teori_Peluang_dan_Kejadian_Majemuk_SMA]] — Menaklukkan Teori Peluang & Kejadian Majemuk tanpa Pusing
+- 🏠 [[Transformasi_Geometri_SMA]] — Transformasi Geometri — Pusat Kontrol & Navigasi Modul
+  - 📄 [[Komposisi_Transformasi_dan_Matriks_SMA]] — Komposisi Transformasi dan Matriks — Modul 3 Transformasi Geometri
+  - 📄 [[Rotasi_dan_Dilatasi_SMA]] — Rotasi dan Dilatasi — Modul 2 Transformasi Geometri
+  - 📄 [[Translasi_dan_Refleksi_SMA]] — Translasi dan Refleksi — Modul 1 Transformasi Geometri
 
 ### 📝 Lembar Kerja (Practice)
 - [[LKPD_Fungsi_Invers_SMA]]
@@ -96,8 +100,10 @@ Selamat datang di Teaching Resources Hub! Halaman ini mengorganisir seluruh mate
 - [[LKPD_Matriks_SMA]]
 - [[LKPD_Suku_Banyak_Polinomial_SMA]]
 - [[LKPD_Teori_Peluang_dan_Kejadian_Majemuk_SMA]]
+- [[LKPD_Transformasi_Geometri_SMA]]
 - [[Soal_Fungsi_Invers_SMA]]
 - [[Soal_Suku_Banyak_SMA]]
+- [[Soal_Transformasi_Geometri_SMA]]
 
 ---
 

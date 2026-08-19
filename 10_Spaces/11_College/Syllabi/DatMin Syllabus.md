@@ -29,7 +29,7 @@ type: Syllabus
 **UNIVERSITAS SEBELAS MARET**
 
 ---
-
+ 
 ## I. IDENTITAS MATA KULIAH
 
 | Item | Keterangan | Identitas dan Validasi | Nama / Tanda Tangan |
