@@ -90,8 +90,8 @@ def scan_vault():
     md_files = {}
     title_to_path = {}
     
-    # We scan 10_Spaces, 20_Brain_Atlas, and 00_Inbox
-    for dir_name in ['10_Spaces', '20_Brain_Atlas', '00_Inbox']:
+    # We scan 10 Spaces, 20 Brain Atlas, 00 Inbox, and 30 Assets
+    for dir_name in ['10 Spaces', '20 Brain Atlas', '00 Inbox', '30 Assets']:
         dir_path = os.path.join(VAULT_ROOT, dir_name)
         if not os.path.exists(dir_path):
             continue
@@ -99,11 +99,15 @@ def scan_vault():
             # Skip hidden dirs
             dirs[:] = [d for d in dirs if not d.startswith('.')]
             for file in files:
+                abs_path = os.path.join(root, file)
+                rel_path = get_relative_path(abs_path)
+                title = os.path.splitext(file)[0]
                 if file.endswith('.md'):
-                    abs_path = os.path.join(root, file)
-                    rel_path = get_relative_path(abs_path)
-                    title = os.path.splitext(file)[0]
                     md_files[rel_path] = abs_path
+                    title_to_path[title] = rel_path
+                else:
+                    # Also map full filename for assets/canvas (e.g. image.webp)
+                    title_to_path[file] = rel_path
                     title_to_path[title] = rel_path
                     
     return md_files, title_to_path

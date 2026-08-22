@@ -33,7 +33,7 @@ def check_staleness():
     cursor.execute('''
         SELECT path, title, source_hash 
         FROM nodes 
-        WHERE type = 'concept' OR path LIKE '%20_Concepts%'
+        WHERE type = 'concept' OR path LIKE '%20 Concepts%'
     ''')
     concepts = cursor.fetchall()
     

@@ -4,10 +4,10 @@ import re
 from pathlib import Path
 
 VAULT_ROOT = Path(__file__).resolve().parent.parent.parent
-TEACHING_DIR = VAULT_ROOT / "10_Spaces" / "12_Teaching"
-SOURCES_DIR = TEACHING_DIR / "30_Sources"
-PRACTICE_DIR = TEACHING_DIR / "40_Practice"
-INDEX_FILE = TEACHING_DIR / "00_Atlas" / "index_teaching.md"
+TEACHING_DIR = VAULT_ROOT / "10 Spaces" / "12 Teaching"
+SOURCES_DIR = TEACHING_DIR / "30 Sources"
+PRACTICE_DIR = TEACHING_DIR / "40 Practice"
+INDEX_FILE = TEACHING_DIR / "00 Atlas" / "index_teaching.md"
 
 LEVELS = ["SMP", "SMA"]
 

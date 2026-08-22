@@ -1,35 +1,36 @@
 ---
 name: college-study-pack
-description: Specialized workflow for university-level coursework, lecture digests, exam prep cheatsheets, and practice drills in 10_Spaces/11_College/.
+description: Specialized workflow for university-level coursework in 10 Spaces/11 College/ and permanent self-study packs in 20 Brain Atlas/40 Self Study Packs/.
 ---
 
 # College Study Pack Skill
 
-Skill ini digunakan ketika pengguna meminta untuk merangkum materi kuliah (PPT/PDF/RPS), menyusun paket belajar mingguan, membuat *cheatsheet* persiapan UTS/UAS, atau membuat *problem set & active recall drills* untuk mata kuliah di `10_Spaces/11_College/`.
+Skill ini digunakan ketika pengguna meminta untuk merangkum materi kuliah, menyusun paket belajar, membuat *cheatsheet*, atau membuat *problem set & active recall drills* untuk mata kuliah di `10 Spaces/11 College/` ataupun proyek *self-study* fundamental di `20 Brain Atlas/40 Self Study Packs/`.
 
 ---
 
 ## 📐 Aturan Struktur & Penamaan Berkas
 
 ### 1. Pengelompokan Berkas per Minggu / Topik (Sub-folder per Topik)
-Seluruh materi per topik mingguan disimpan di dalam subfolder terdedikasi di bawah direktori mata kuliah yang bersangkutan:
-- **Lokasi Direktori:** `10_Spaces/11_College/<Course_Folder>/Week_<XX>_<Topic_Snake_Case>/`
-  - Contoh: `10_Spaces/11_College/Computer_Vision/Week_03_CNN_Inverse_Halftoning/`
-  - Contoh: `10_Spaces/11_College/Distributed_Systems/Week_04_Raft_Consensus/`
+Seluruh materi per topik mingguan/sprint disimpan di dalam subfolder terdedikasi:
+- **Lokasi Direktori Kuliah:** `10 Spaces/11 College/<Course_Folder>/Week_<XX>_<Topic_Snake_Case>/`
+- **Lokasi Direktori Self-Study:** `20 Brain Atlas/40 Self Study Packs/<Topic_Folder>/`
+  - Contoh: `10 Spaces/11 College/Computer_Vision/Week_03_CNN_Inverse_Halftoning/`
+  - Contoh: `20 Brain Atlas/40 Self Study Packs/System_Design_Fundamentals/`
 
 ### 2. Paket Berkas Utama per Minggu (Weekly File Suite)
 Di dalam folder topik tersebut, buat berkas-berkas berikut sesuai kebutuhan pengguna:
 1. **Master Lecture Note:** `Week_<XX>_<Topic_Snake_Case>_Notes.md`
    - Berisi rangkuman mendalam, penjelasan teknis/matematis, dan pseudo-code.
 2. **Practice & Active Recall Drills:** `Week_<XX>_<Topic_Snake_Case>_Drills.md`
-   - Berisi latihan soal berstandar ujian universitas dengan jawaban tersembunyi (`<details><summary>Jawaban & Pembahasan</summary></details>`).
+   - Berisi latihan soal berstandar ujian universitas, dengan kunci jawaban diletakkan di bagian paling bawah dokumen (bukan *reveal mechanism*).
 3. **Formula & Key Algorithm Cheatsheet:** `Week_<XX>_<Topic_Snake_Case>_Cheatsheet.md`
    - Reference card ringkas berisi teorema, formula LaTeX, dan matriks kompleksitas time/space.
 
 ### 3. Paket Ujian Semester (UTS / UAS)
 Untuk ringkasan ujian tengah/akhir semester, simpan langsung di root folder mata kuliah:
-- `10_Spaces/11_College/<Course_Folder>/Exam_Prep_UTS_<Course>.md`
-- `10_Spaces/11_College/<Course_Folder>/Exam_Prep_UAS_<Course>.md`
+- `10 Spaces/11 College/<Course_Folder>/Exam_Prep_UTS_<Course>.md`
+- `10 Spaces/11 College/<Course_Folder>/Exam_Prep_UAS_<Course>.md`
 
 ---
 
@@ -39,17 +40,17 @@ Setiap catatan kuliah mingguan (`Week_<XX>_<Topic_Snake_Case>_Notes.md`) **wajib
 
 ```markdown
 ---
-title: "Week <XX>: <Judul Topik>"
-course: "<Nama Mata Kuliah>"
+title: "<Judul Topik>"
+course: "<Nama Mata Kuliah / Topik Self-Study>"
 course_abbr: "<Singkatan, misal: CV, DS, DM, DSP>"
-semester: 5
-week: <XX>
+semester: <XX / Kosongkan jika Self-Study>
+week: <XX / Kosongkan jika Self-Study>
 date: "<YYYY-MM-DD>"
-tags: ["college", "lecture-note", "<course-tag>", "semester-5"]
-type: LectureNote
+tags: ["lecture-note", "<course-tag>"]
+type: <LectureNote / SelfStudyNote>
 ---
 
-# 🎓 Week <XX>: <Judul Topik> — <Subtitle Hook>
+# 🎓 <Judul Topik> — <Subtitle Hook>
 
 > [!info] **Course Overview:** [[<Course_Overview_Note>]] | **Syllabus:** [[<Course_Syllabus_Note>]]
 > **Topics Covered:** <Sub-bahasan 1>, <Sub-bahasan 2>, <Sub-bahasan 3>
@@ -85,32 +86,34 @@ type: LectureNote
 ## 🧠 4. Active Recall & Practice Drills
 
 ### Q1: <Pertanyaan Derivasi / Konseptual HOTS>
-<details>
-<summary>💡 Lihat Jawaban & Step-by-Step Pembahasan</summary>
+*(Jawaban di bagian bawah file)*
 
-**Pembahasan:**
+---
+
+## 🔑 Kunci Jawaban & Pembahasan
+
+**Jawaban Q1:**
 1. Langkah 1: ...
 2. Langkah 2: ...
-</details>
 
 ---
 
 ## 🔗 Vault Linkage & Brain Atlas Promotion
 
-> [!tip] **Promotable Concepts for Permanent Vault (`20_Brain_Atlas/`)**
-> Catatan ini mereferensikan konsep-konsep fundamental yang layak dipromosikan ke `20_Brain_Atlas/20_Concepts/`:
+> [!tip] **Promotable Concepts for Permanent Vault (`20 Brain Atlas/`)**
+> Catatan ini mereferensikan konsep-konsep fundamental yang layak dipromosikan ke `20 Brain Atlas/20 Concepts/`:
 > - `[[<Nama_Konsep_1>]]`: <Alasan singkat mengapa konsep ini bersifat abadi/timeless>
 > - `[[<Nama_Konsep_2>]]`
 ```
 
 ---
 
-## 🎨 Kebijakan Visual & Diagram (`30_Assets/`)
+## 🎨 Kebijakan Visual & Diagram (`30 Assets/`)
 
 1. **AI Visual Asset Generation:**
    - Gunakan tool `generate_image` untuk membuat diagram arsitektur sistem, alur *pipeline*, atau peta konsep visual yang kompleks.
-   - Simpan gambar ke direktori vault terpusat `30_Assets/` dengan format penamaan:
-     `30_Assets/diagram_college_<course_abbr>_<topic_snake_case>.png`
+   - Simpan gambar ke direktori vault terpusat `30 Assets/` dengan format penamaan:
+     `30 Assets/diagram_college_<course_abbr>_<topic_snake_case>.png`
    - Sematkan dalam catatan menggunakan sintaks Obsidian: `![[diagram_college_<course_abbr>_<topic_snake_case>.png]]`.
 2. **Native Mermaid & LaTeX:**
    - Gunakan Mermaid code block (` ```mermaid `) untuk *flowchart* proses sederhana, *sequence diagram*, atau *state machine*.
@@ -121,4 +124,4 @@ type: LectureNote
 ## 🔄 Integrasi Dataview & Vault Architecture
 
 1. **Otomatisasi Dashboard:** Setiap dokumen yang dibuat dengan `type: LectureNote` dan `semester: 5` akan otomatis terdeteksi di [[00_Semester_5_Dashboard|Semester 5 Dashboard]].
-2. **Soft Linkage:** Tautkan istilah penting dengan `[[Wikilinks]]` ke catatan yang ada di `20_Brain_Atlas/`.
+2. **Soft Linkage:** Tautkan istilah penting dengan `[[Wikilinks]]` ke catatan yang ada di `20 Brain Atlas/`.

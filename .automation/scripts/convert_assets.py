@@ -13,7 +13,7 @@ EXCLUDE_DIRS = {'.git', '.obsidian', '.automation', '.trash', 'node_modules', 'A
 
 def parse_args():
     parser = argparse.ArgumentParser(description="Vault Asset Converter & Wikilink Refactor Tool")
-    parser.add_argument("--assets-dir", default="30_Assets", help="Relative or absolute path to assets directory")
+    parser.add_argument("--assets-dir", default="30 Assets", help="Relative or absolute path to assets directory")
     parser.add_argument("--from-ext", default="jpg,jpeg,png", help="Comma-separated extensions to convert")
     parser.add_argument("--to-ext", default="webp", help="Target extension")
     parser.add_argument("--quality", type=int, default=82, help="WebP compression quality (1-100)")

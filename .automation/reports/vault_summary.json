@@ -4,201 +4,148 @@
     "agent_protocol": [
       "1. Read vault_summary.json → identify which 1-3 notes are relevant.",
       "2. Open only those specific notes by their path.",
-      "3. Prefer 20_Brain_Atlas/20_Concepts/ notes for explanations (smallest, most distilled).",
+      "3. Prefer 20 Brain Atlas/20 Concepts/ notes for explanations (smallest, most distilled).",
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-08-19T06:13:48Z"
+    "generated_at": "2026-08-22T06:17:04Z"
   },
   "stats": {
-    "total_notes": 191,
-    "total_edges": 902,
-    "broken_links": 116,
-    "untyped_notes": 61,
-    "health_score": 59.3
+    "total_notes": 215,
+    "total_edges": 1006,
+    "broken_links": 83,
+    "untyped_notes": 67,
+    "health_score": 63.2
   },
   "inbox": [],
   "spaces": {
-    "College": {
-      "General": [
-        "Semester_5_Prep",
-        "00_Semester_5_Dashboard"
-      ],
-      "Week 01 Introduction to DSP": [
-        "Week_01_Introduction_to_DSP_Cheatsheet",
-        "Week_01_Introduction_to_DSP_Drills",
-        "01_Konsep_Sinyal_dan_Frekuensi",
-        "02_Elemen_Dasar_Sistem_DSP",
-        "03_Bidang_Aplikasi_DSP",
-        "Week_01_Introduction_to_DSP_Notes"
-      ],
-      "Week 05 Laplace Transformation": [
-        "Week_05_Laplace_Transformation_Drills",
-        "Week_05_Laplace_Transformation_Notes",
-        "Week_05_Laplace_Transformation_Cheatsheet"
-      ]
-    },
     "Teaching": {
       "Languages": [
-        "LKPD_Narrative_Text_SMP",
-        "LKPD_Functional_Texts_SMP",
-        "LKPD_Simple_Past_Tense_SMP",
-        "LKPD_Descriptive_Text_SMP",
-        "LKPD_Simple_Present_vs_Present_Continuous_SMP",
-        "LKPD_Parts_of_Speech_SMP",
-        "Narrative_Text_SMP",
-        "Functional_Texts_SMP",
-        "Parts_of_Speech_SMP",
-        "Descriptive_Text_SMP",
-        "Simple_Past_Tense_SMP"
+        "LKPD Parts of Speech SMP",
+        "LKPD Simple Past Tense SMP",
+        "LKPD Simple Present vs Present Continuous SMP",
+        "LKPD Narrative Text SMP",
+        "LKPD Functional Texts SMP",
+        "LKPD Descriptive Text SMP",
+        "Parts of Speech SMP",
+        "Simple Past Tense SMP",
+        "Functional Texts SMP",
+        "Narrative Text SMP",
+        "Descriptive Text SMP"
       ],
       "Physics": [
-        "LKPD_Dinamika_Gerak_SMA",
-        "LKPD_Gaya_Tegangan_Tali_dan_Katrol_SMA",
-        "LKPD_Gaya_Sentripetal_SMA",
-        "LKPD_Gaya_Normal_SMA",
-        "LKPD_Gaya_Gesek_SMA",
-        "Soal_Dinamika_Gerak_SMA",
-        "LKPD_Gaya_Berat_SMA",
-        "Gaya_Berat_SMA",
-        "Gaya_Gesek_SMA",
-        "Dinamika_Gerak_SMA",
-        "Gaya_Sentripetal_SMA",
-        "Gaya_Normal_SMA",
-        "Gaya_Tegangan_Tali_dan_Katrol_SMA"
-      ],
-      "Social Studies": [
-        "LKPD_Pertambangan_dan_Barang_Tambang_Indonesia_SMP",
-        "LKPD_Tenaga_Eksogen_SMP",
-        "LKPD_Tenaga_Endogen_Vulkanisme_SMP",
-        "LKPD_Litosfer_Tenaga_Endogen_dan_Eksogen_SMA",
-        "LKPD_Keanekaragaman_Hayati_Indonesia_SMP",
-        "Tenaga_Eksogen_SMP",
-        "Tenaga_Endogen_Vulkanisme_SMP",
-        "Litosfer_Tenaga_Endogen_dan_Eksogen_SMA",
-        "Keanekaragaman_Hayati_dan_Jenis_Hutan_Indonesia_SMP",
-        "Pertambangan_dan_Barang_Tambang_Indonesia_SMP"
+        "LKPD Dinamika Gerak SMA",
+        "LKPD Gaya Gesek SMA",
+        "LKPD Gaya Tegangan Tali dan Katrol SMA",
+        "LKPD Gaya Normal SMA",
+        "LKPD Gaya Berat SMA",
+        "LKPD Gaya Sentripetal SMA",
+        "Soal Dinamika Gerak SMA",
+        "Gaya Gesek SMA",
+        "Gaya Normal SMA",
+        "Gaya Sentripetal SMA",
+        "Dinamika Gerak SMA",
+        "Gaya Berat SMA",
+        "Gaya Tegangan Tali dan Katrol SMA"
       ],
       "Mathematics": [
-        "LKPD_Fungsi_Invers_SMA",
-        "LKPD_Suku_Banyak_Polinomial_SMA",
-        "LKPD_Matriks_SMA",
-        "LKPD_Pola_Bilangan_SMP",
-        "Soal_Transformasi_Geometri_SMA",
-        "LKPD_Kaidah_Pencacahan_dan_Kombinatorika_SMA",
-        "LKPD_Persamaan_Kuadrat_SMP",
-        "LKPD_Teori_Peluang_dan_Kejadian_Majemuk_SMA",
-        "Soal_Fungsi_Invers_SMA",
-        "Soal_Pola_Bilangan_Paket_B_SMP",
-        "LKPD_Transformasi_Geometri_SMA",
-        "Soal_Suku_Banyak_SMA",
-        "Teori_Peluang_dan_Kejadian_Majemuk_SMA",
-        "Logika_Permutasi_dan_Kombinasi_SMA",
-        "Persamaan_Kuadrat_SMP",
-        "Pola_Bilangan_SMP",
-        "Suku_Banyak_Polinomial_SMA",
-        "Matriks_SMA",
-        "Kaidah_Pencacahan_dan_Kombinatorika_SMA",
-        "Komposisi_Transformasi_dan_Matriks_SMA",
-        "Regangan_Guntingan_Transformasi_SMA",
-        "Translasi_dan_Refleksi_SMA",
-        "Rotasi_dan_Dilatasi_SMA",
-        "Transformasi_Geometri_SMA",
-        "Transformasi_Fungsi_SMA",
-        "Teknik_Invers_Fungsi_Aljabar_SMA",
-        "Invers_Fungsi_Komposisi_dan_Aplikasi_SMA",
-        "Konsep_Dasar_dan_Syarat_Invers_SMA",
-        "Fungsi_Invers_SMA"
+        "Soal Pola Bilangan Paket B SMP",
+        "LKPD Pola Bilangan SMP",
+        "LKPD Suku Banyak Polinomial SMA",
+        "Soal Suku Banyak SMA",
+        "LKPD Matriks SMA",
+        "LKPD Persamaan Kuadrat SMP",
+        "LKPD Kaidah Pencacahan dan Kombinatorika SMA",
+        "LKPD Teori Peluang dan Kejadian Majemuk SMA",
+        "Soal Transformasi Geometri SMA",
+        "LKPD Transformasi Geometri SMA",
+        "LKPD Fungsi Invers SMA",
+        "Soal Fungsi Invers SMA",
+        "Ringkasan_PSTS_Matematika_Kelas_8_SMP",
+        "Pola Bilangan SMP",
+        "Suku Banyak Polinomial SMA",
+        "Konsep_dan_Kesamaan_Polinomial_SMA",
+        "Teorema_Sisa_dan_Faktor_SMA",
+        "Metode_Horner_dan_Operasi_SMA",
+        "Pemfaktoran_dan_Akar_Rasional_SMA",
+        "Teorema_Vieta_Polinomial_SMA",
+        "Matriks SMA",
+        "Persamaan Kuadrat SMP",
+        "Logika Permutasi dan Kombinasi SMA",
+        "Teori Peluang dan Kejadian Majemuk SMA",
+        "Kaidah Pencacahan dan Kombinatorika SMA",
+        "Komposisi Transformasi dan Matriks SMA",
+        "Transformasi Geometri SMA",
+        "Transformasi Fungsi SMA",
+        "Translasi dan Refleksi SMA",
+        "Regangan Guntingan Transformasi SMA",
+        "Rotasi dan Dilatasi SMA",
+        "Invers Fungsi Komposisi dan Aplikasi SMA",
+        "Teknik Invers Fungsi Aljabar SMA",
+        "Konsep Dasar dan Syarat Invers SMA",
+        "Fungsi Invers SMA"
       ],
       "Biology": [
-        "LKPD_Pengenalan_Sel_SMP",
-        "Soal_Pengenalan_Sel_SMP",
-        "LKPD_Sistem_Pencernaan_Makanan_SMP",
-        "Sistem_Pencernaan_Makanan_SMP",
-        "Pengenalan_Sel_SMP"
+        "LKPD Pengenalan Sel SMP",
+        "Soal Pengenalan Sel SMP",
+        "Soal Sistem Pencernaan Makanan SMP",
+        "LKPD Sistem Pencernaan Makanan SMP",
+        "Pengenalan Sel SMP",
+        "Nutrisi dan Gizi Remaja SMP",
+        "Anatomi dan Enzim Pencernaan SMP",
+        "Sistem Pencernaan Makanan SMP"
+      ],
+      "Social Studies": [
+        "LKPD Keanekaragaman Hayati Indonesia SMP",
+        "LKPD Pertambangan dan Barang Tambang Indonesia SMP",
+        "LKPD Tenaga Eksogen SMP",
+        "LKPD Litosfer Tenaga Endogen dan Eksogen SMA",
+        "LKPD Tenaga Endogen Vulkanisme SMP",
+        "Keanekaragaman Hayati dan Jenis Hutan Indonesia SMP",
+        "Pertambangan dan Barang Tambang Indonesia SMP",
+        "Tenaga Endogen Vulkanisme SMP",
+        "Tenaga Eksogen SMP",
+        "Litosfer Tenaga Endogen dan Eksogen SMA"
       ],
       "Economics": [
-        "LKPD_Pendapatan_Nasional_SMA",
-        "Konsep_Pendapatan_Nasional_SMA",
-        "Distribusi_Pendapatan_SMA",
-        "Pendapatan_Per_Kapita_SMA",
-        "Pendapatan_Nasional_SMA"
+        "LKPD Pendapatan Nasional SMA",
+        "Pendapatan Per Kapita SMA",
+        "Distribusi Pendapatan SMA",
+        "Pendapatan Nasional SMA",
+        "Konsep Pendapatan Nasional SMA"
+      ]
+    },
+    "College": {
+      "General": [
+        "00 Semester 5 Dashboard",
+        "Semester 5 Prep"
+      ],
+      "Week 01 Introduction to DSP": [
+        "01 Konsep Sinyal dan Frekuensi",
+        "Week 01 Introduction to DSP Notes",
+        "02 Elemen Dasar Sistem DSP",
+        "Week 01 Introduction to DSP Drills",
+        "03 Bidang Aplikasi DSP",
+        "Week 01 Introduction to DSP Cheatsheet"
+      ],
+      "Week 05 Laplace Transformation": [
+        "Week 05 Laplace Transformation Notes",
+        "Week 05 Laplace Transformation Drills",
+        "Week 05 Laplace Transformation Cheatsheet"
       ]
     }
   },
   "brain_atlas": {
     "library": {
       "Papers": [],
-      "Repos": [
-        {
-          "title": "Graphify",
-          "status": "done"
-        },
-        {
-          "title": "Quartz",
-          "status": "done"
-        }
-      ],
-      "Articles_Talks": [],
+      "Repos": [],
+      "Articles Talks": [],
       "Books": [],
-      "Generated_Readings": {
-        "General": [
-          "Transformasi_Laplace",
-          "Sistem_Produksi_dan_Pengemasan_Kerajinan_Limbah_Bangun_Datar",
-          "Perencanaan_Usaha_Kerajinan_Limbah_Bangun_Datar",
-          "Single_Secret_Sharing_CRT_Shamir_XOR"
-        ],
-        "Mathematics": [
-          "Lagrange_Interpolation",
-          "Chinese_Remainder_Theorem_and_Reverse_CRT_Guide"
-        ],
-        "Artificial_Intelligence": [
-          "Post_Training_Quantization_End_to_End_Guide",
-          "Scale_Factor_and_Zero_Point_in_Quantization",
-          "Gradient_Flow_and_Activation_Slope",
-          "Comprehensive_Guide_to_Activation_Functions_and_Gradient_Flow",
-          "Model_Parameters_Explained",
-          "Quantization_Calibration_in_PTQ",
-          "Machine_Learning_Roadmap",
-          "Activation_Functions_Explained"
-        ],
-        "Cybersecurity": [
-          "Shamir_Secret_Sharing_Comprehensive_Study_Guide",
-          "Shamir_vs_Pande_Modified_Secret_Sharing",
-          "Cybersecurity_Roadmap"
-        ],
-        "Computer_Science": [
-          "Model_Context_Protocol_Architecture",
-          "Single_Board_Computers_Architecture_and_Use_Cases"
-        ]
-      }
+      "Generated Readings": {}
     },
     "concepts": {
       "General": [
-        "Bidang_S_Complex_Plane",
-        "Region_of_Convergence_ROC",
-        "Gaya_Normal",
-        "Gaya_Berat"
-      ],
-      "Mathematics": [
-        "Kongruensi_Modular",
-        "Chinese_Remainder_Theorem",
-        "Suku_Banyak_Polinomial",
-        "Reverse_CRT",
-        "Matriks",
-        "Lagrange_Interpolation",
-        "Persamaan_Kuadrat",
-        "Interpolation",
-        "Coprime",
-        "Runges_Phenomenon",
-        "Invers_Modular"
-      ],
-      "Web_Development": [
-        "WebAssembly_vs_Docker",
-        "WebAssembly_Sandboxing",
-        "Quartz"
-      ],
-      "Artificial_Intelligence": [
+        "Model Pruning",
         "Model Parameters",
         "Machine Learning Roadmap",
         "Quantization Calibration",
@@ -212,26 +159,47 @@
         "Tanh Function",
         "Per-Tensor vs Per-Channel Quantization",
         "Scale Factor and Zero-Point",
-        "Symmetric vs Asymmetric Quantization"
-      ],
-      "Cybersecurity": [
-        "Secret_Sharing_Scheme",
-        "Symmetric vs. Asymmetric Encryption",
-        "Modified_Shamir_Scheme",
-        "Shamir_Secret_Sharing",
-        "Blue Team vs. Red Team",
-        "Cybersecurity Roadmap",
-        "CIA Triad"
-      ],
-      "Computer_Science": [
-        "Jakobs_Law",
+        "Symmetric vs Asymmetric Quantization",
+        "Model Quantization",
+        "Gaya Berat",
+        "Gaya Normal",
+        "WebAssembly vs Docker",
+        "Quartz",
+        "WebAssembly Sandboxing",
+        "Bidang S Complex Plane",
+        "Region of Convergence ROC",
+        "Hicks Law",
+        "Biomedical Computing",
+        "Komputasi Biomedis",
         "Bottom-Up vs. Top-Down Learning",
         "Single Board Computer",
-        "Fitts_Law",
-        "Model_Context_Protocol",
-        "Hicks_Law",
+        "Millers Law",
+        "Jakobs Law",
+        "Model Context Protocol",
         "Off-Chip DRAM",
-        "Millers_Law"
+        "Fitts Law"
+      ],
+      "Mathematics": [
+        "Runges Phenomenon",
+        "Invers Modular",
+        "Chinese Remainder Theorem",
+        "Matriks",
+        "Suku Banyak Polinomial",
+        "Persamaan Kuadrat",
+        "Interpolation",
+        "Coprime",
+        "Reverse CRT",
+        "Lagrange Interpolation",
+        "Kongruensi Modular"
+      ],
+      "Cybersecurity": [
+        "Shamir Secret Sharing",
+        "Symmetric vs. Asymmetric Encryption",
+        "Blue Team vs. Red Team",
+        "Secret Sharing Scheme",
+        "Cybersecurity Roadmap",
+        "Modified Shamir Scheme",
+        "CIA Triad"
       ]
     },
     "reference_lib": [
@@ -250,92 +218,97 @@
   },
   "maintenance": {
     "orphan_pages_sample": [
-      "Lagrange_Interpolation",
-      "Jakobs_Law",
-      "Fitts_Law",
-      "Hicks_Law",
-      "Millers_Law"
+      "LKPD Kaidah Pencacahan dan Kombinatorika SMA",
+      "LKPD Teori Peluang dan Kejadian Majemuk SMA",
+      "Lagrange Interpolation",
+      "Hicks Law",
+      "Millers Law",
+      "Jakobs Law",
+      "Fitts Law",
+      "Aritmatika_Modulo_Cheatsheet",
+      "Drills",
+      "Cheatsheet"
     ],
     "untyped_notes_sample": [
       {
-        "title": "README",
-        "path": "10_Spaces/13_Gemastik_KTI/README.md"
+        "title": "LKPD Parts of Speech SMP",
+        "path": "10 Spaces/12 Teaching/40 Practice/Languages/02 Grammar/LKPD Parts of Speech SMP.md"
       },
       {
-        "title": "LKPD_Narrative_Text_SMP",
-        "path": "10_Spaces/12_Teaching/40_Practice/Languages/LKPD_Narrative_Text_SMP.md"
+        "title": "LKPD Simple Past Tense SMP",
+        "path": "10 Spaces/12 Teaching/40 Practice/Languages/02 Grammar/LKPD Simple Past Tense SMP.md"
       },
       {
-        "title": "LKPD_Functional_Texts_SMP",
-        "path": "10_Spaces/12_Teaching/40_Practice/Languages/LKPD_Functional_Texts_SMP.md"
+        "title": "LKPD Narrative Text SMP",
+        "path": "10 Spaces/12 Teaching/40 Practice/Languages/01 Text Types/LKPD Narrative Text SMP.md"
       },
       {
-        "title": "LKPD_Simple_Past_Tense_SMP",
-        "path": "10_Spaces/12_Teaching/40_Practice/Languages/LKPD_Simple_Past_Tense_SMP.md"
+        "title": "LKPD Functional Texts SMP",
+        "path": "10 Spaces/12 Teaching/40 Practice/Languages/01 Text Types/LKPD Functional Texts SMP.md"
       },
       {
-        "title": "LKPD_Descriptive_Text_SMP",
-        "path": "10_Spaces/12_Teaching/40_Practice/Languages/LKPD_Descriptive_Text_SMP.md"
+        "title": "LKPD Descriptive Text SMP",
+        "path": "10 Spaces/12 Teaching/40 Practice/Languages/01 Text Types/LKPD Descriptive Text SMP.md"
       },
       {
-        "title": "LKPD_Parts_of_Speech_SMP",
-        "path": "10_Spaces/12_Teaching/40_Practice/Languages/LKPD_Parts_of_Speech_SMP.md"
+        "title": "LKPD Dinamika Gerak SMA",
+        "path": "10 Spaces/12 Teaching/40 Practice/Physics/01 Dinamika Gerak/LKPD Dinamika Gerak SMA.md"
       },
       {
-        "title": "LKPD_Dinamika_Gerak_SMA",
-        "path": "10_Spaces/12_Teaching/40_Practice/Physics/LKPD_Dinamika_Gerak_SMA.md"
+        "title": "LKPD Gaya Gesek SMA",
+        "path": "10 Spaces/12 Teaching/40 Practice/Physics/01 Dinamika Gerak/LKPD Gaya Gesek SMA.md"
       },
       {
-        "title": "LKPD_Gaya_Tegangan_Tali_dan_Katrol_SMA",
-        "path": "10_Spaces/12_Teaching/40_Practice/Physics/LKPD_Gaya_Tegangan_Tali_dan_Katrol_SMA.md"
+        "title": "LKPD Gaya Tegangan Tali dan Katrol SMA",
+        "path": "10 Spaces/12 Teaching/40 Practice/Physics/01 Dinamika Gerak/LKPD Gaya Tegangan Tali dan Katrol SMA.md"
       },
       {
-        "title": "LKPD_Gaya_Sentripetal_SMA",
-        "path": "10_Spaces/12_Teaching/40_Practice/Physics/LKPD_Gaya_Sentripetal_SMA.md"
+        "title": "LKPD Gaya Normal SMA",
+        "path": "10 Spaces/12 Teaching/40 Practice/Physics/01 Dinamika Gerak/LKPD Gaya Normal SMA.md"
       },
       {
-        "title": "LKPD_Gaya_Normal_SMA",
-        "path": "10_Spaces/12_Teaching/40_Practice/Physics/LKPD_Gaya_Normal_SMA.md"
+        "title": "LKPD Gaya Berat SMA",
+        "path": "10 Spaces/12 Teaching/40 Practice/Physics/01 Dinamika Gerak/LKPD Gaya Berat SMA.md"
       },
       {
-        "title": "LKPD_Gaya_Gesek_SMA",
-        "path": "10_Spaces/12_Teaching/40_Practice/Physics/LKPD_Gaya_Gesek_SMA.md"
+        "title": "LKPD Gaya Sentripetal SMA",
+        "path": "10 Spaces/12 Teaching/40 Practice/Physics/01 Dinamika Gerak/LKPD Gaya Sentripetal SMA.md"
       },
       {
-        "title": "Soal_Dinamika_Gerak_SMA",
-        "path": "10_Spaces/12_Teaching/40_Practice/Physics/Soal_Dinamika_Gerak_SMA.md"
+        "title": "Soal Dinamika Gerak SMA",
+        "path": "10 Spaces/12 Teaching/40 Practice/Physics/01 Dinamika Gerak/Soal Dinamika Gerak SMA.md"
       },
       {
-        "title": "LKPD_Gaya_Berat_SMA",
-        "path": "10_Spaces/12_Teaching/40_Practice/Physics/LKPD_Gaya_Berat_SMA.md"
+        "title": "Soal Pola Bilangan Paket B SMP",
+        "path": "10 Spaces/12 Teaching/40 Practice/Mathematics/07 Pola Bilangan/Soal Pola Bilangan Paket B SMP.md"
       },
       {
-        "title": "LKPD_Pertambangan_dan_Barang_Tambang_Indonesia_SMP",
-        "path": "10_Spaces/12_Teaching/40_Practice/Social_Studies/LKPD_Pertambangan_dan_Barang_Tambang_Indonesia_SMP.md"
+        "title": "LKPD Pola Bilangan SMP",
+        "path": "10 Spaces/12 Teaching/40 Practice/Mathematics/07 Pola Bilangan/LKPD Pola Bilangan SMP.md"
       },
       {
-        "title": "LKPD_Tenaga_Eksogen_SMP",
-        "path": "10_Spaces/12_Teaching/40_Practice/Social_Studies/LKPD_Tenaga_Eksogen_SMP.md"
+        "title": "LKPD Suku Banyak Polinomial SMA",
+        "path": "10 Spaces/12 Teaching/40 Practice/Mathematics/04 Polinomial/LKPD Suku Banyak Polinomial SMA.md"
       },
       {
-        "title": "LKPD_Tenaga_Endogen_Vulkanisme_SMP",
-        "path": "10_Spaces/12_Teaching/40_Practice/Social_Studies/LKPD_Tenaga_Endogen_Vulkanisme_SMP.md"
+        "title": "LKPD Persamaan Kuadrat SMP",
+        "path": "10 Spaces/12 Teaching/40 Practice/Mathematics/06 Persamaan Kuadrat/LKPD Persamaan Kuadrat SMP.md"
       },
       {
-        "title": "LKPD_Litosfer_Tenaga_Endogen_dan_Eksogen_SMA",
-        "path": "10_Spaces/12_Teaching/40_Practice/Social_Studies/LKPD_Litosfer_Tenaga_Endogen_dan_Eksogen_SMA.md"
+        "title": "LKPD Kaidah Pencacahan dan Kombinatorika SMA",
+        "path": "10 Spaces/12 Teaching/40 Practice/Mathematics/03 Peluang dan Kombinatorika/LKPD Kaidah Pencacahan dan Kombinatorika SMA.md"
       },
       {
-        "title": "LKPD_Keanekaragaman_Hayati_Indonesia_SMP",
-        "path": "10_Spaces/12_Teaching/40_Practice/Social_Studies/LKPD_Keanekaragaman_Hayati_Indonesia_SMP.md"
+        "title": "LKPD Teori Peluang dan Kejadian Majemuk SMA",
+        "path": "10 Spaces/12 Teaching/40 Practice/Mathematics/03 Peluang dan Kombinatorika/LKPD Teori Peluang dan Kejadian Majemuk SMA.md"
       },
       {
-        "title": "LKPD_Suku_Banyak_Polinomial_SMA",
-        "path": "10_Spaces/12_Teaching/40_Practice/Mathematics/LKPD_Suku_Banyak_Polinomial_SMA.md"
+        "title": "LKPD Pengenalan Sel SMP",
+        "path": "10 Spaces/12 Teaching/40 Practice/Biology/01 Sel/LKPD Pengenalan Sel SMP.md"
       },
       {
-        "title": "LKPD_Pola_Bilangan_SMP",
-        "path": "10_Spaces/12_Teaching/40_Practice/Mathematics/LKPD_Pola_Bilangan_SMP.md"
+        "title": "Soal Pengenalan Sel SMP",
+        "path": "10 Spaces/12 Teaching/40 Practice/Biology/01 Sel/Soal Pengenalan Sel SMP.md"
       }
     ]
   }

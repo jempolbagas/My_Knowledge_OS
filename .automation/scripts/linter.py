@@ -72,13 +72,13 @@ def check_integrity():
             missing = []
             
             # Determine expectations based on file location
-            if '20_Concepts' in rel_path:
+            if '20 Concepts' in rel_path:
                 if meta.get('type') != 'concept':
                     missing.append("type (should be 'concept')")
                 for field in ['title', 'subject', 'date_created', 'source']:
                     if field not in meta:
                         missing.append(field)
-            elif '10_Library' in rel_path:
+            elif '10 Library' in rel_path:
                 t = meta.get('type')
                 if t == 'generated_reading':
                     for field in ['title', 'topic', 'requested_on', 'prompt', 'status', 'tags', 'promoted_to']:

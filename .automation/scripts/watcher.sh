@@ -18,9 +18,9 @@ $VENV_PYTHON "$SCRIPTS_DIR/generate_summary.py"
 echo "Initial validation completed."
 
 # Monitor loop using inotifywait
-# We monitor 20_Brain_Atlas, 10_Spaces, and 00_Inbox, excluding config/automation folders
+# We monitor 20 Brain Atlas, 10 Spaces, and 00 Inbox, excluding config/automation folders
 inotifywait -m -r -e modify,create,delete,move --exclude "\.automation|\.obsidian|\.git|\.trash" \
-  "$VAULT_ROOT/20_Brain_Atlas" "$VAULT_ROOT/10_Spaces" "$VAULT_ROOT/00_Inbox" 2>/dev/null | \
+  "$VAULT_ROOT/20 Brain Atlas" "$VAULT_ROOT/10 Spaces" "$VAULT_ROOT/00 Inbox" 2>/dev/null | \
 while true; do
     # Read the first event (blocks until a change occurs)
     read -r line || break

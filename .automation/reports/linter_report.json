@@ -1,611 +1,517 @@
 {
   "broken_links": [
     {
-      "file": "10_Spaces/13_Gemastik_KTI/KTI_Context.md",
-      "broken_link": "KTI_Knowledge_Map.canvas",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/SIGPRO/Week_01_Introduction_to_DSP/Week_01_Introduction_to_DSP_Notes.md",
-      "broken_link": "Sinyal_Waktu_Diskrit",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/SIGPRO/Week_01_Introduction_to_DSP/Week_01_Introduction_to_DSP_Notes.md",
-      "broken_link": "Konversi_Analog_ke_Digital_ADC",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/11_College/SIGPRO/Week_01_Introduction_to_DSP/Week_01_Introduction_to_DSP_Notes.md",
-      "broken_link": "Aliasing_Sinyal",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/40_Practice/Languages/LKPD_Simple_Present_vs_Present_Continuous_SMP.md",
+      "file": "10 Spaces/12 Teaching/40 Practice/Languages/02 Grammar/LKPD Simple Present vs Present Continuous SMP.md",
       "broken_link": "[ESL] Present Continuous Tense",
       "context": "wikilink"
     },
     {
-      "file": "10_Spaces/12_Teaching/40_Practice/Social_Studies/LKPD_Pertambangan_dan_Barang_Tambang_Indonesia_SMP.md",
-      "broken_link": "infographic_social_studies_mining_classification.webp",
+      "file": "10 Spaces/12 Teaching/30 Sources/Mathematics/04 Polinomial/Suku Banyak Polinomial SMA.md",
+      "broken_link": "Konsep_dan_Kesamaan_Polinomial_SMA\\",
       "context": "wikilink"
     },
     {
-      "file": "10_Spaces/12_Teaching/40_Practice/Social_Studies/LKPD_Pertambangan_dan_Barang_Tambang_Indonesia_SMP.md",
-      "broken_link": "mindmap_social_studies_indonesia_mining_map.webp",
+      "file": "10 Spaces/12 Teaching/30 Sources/Mathematics/04 Polinomial/Suku Banyak Polinomial SMA.md",
+      "broken_link": "Metode_Horner_dan_Operasi_SMA\\",
       "context": "wikilink"
     },
     {
-      "file": "10_Spaces/12_Teaching/40_Practice/Social_Studies/LKPD_Pertambangan_dan_Barang_Tambang_Indonesia_SMP.md",
-      "broken_link": "infographic_social_studies_mining_classification.webp",
+      "file": "10 Spaces/12 Teaching/30 Sources/Mathematics/04 Polinomial/Suku Banyak Polinomial SMA.md",
+      "broken_link": "Teorema_Sisa_dan_Faktor_SMA\\",
       "context": "wikilink"
     },
     {
-      "file": "10_Spaces/12_Teaching/40_Practice/Social_Studies/LKPD_Pertambangan_dan_Barang_Tambang_Indonesia_SMP.md",
-      "broken_link": "mindmap_social_studies_indonesia_mining_map.webp",
+      "file": "10 Spaces/12 Teaching/30 Sources/Mathematics/04 Polinomial/Suku Banyak Polinomial SMA.md",
+      "broken_link": "Pemfaktoran_dan_Akar_Rasional_SMA\\",
       "context": "wikilink"
     },
     {
-      "file": "10_Spaces/12_Teaching/40_Practice/Social_Studies/LKPD_Pertambangan_dan_Barang_Tambang_Indonesia_SMP.md",
-      "broken_link": "diagram_social_studies_mining_stages_flow.webp",
+      "file": "10 Spaces/12 Teaching/30 Sources/Mathematics/04 Polinomial/Suku Banyak Polinomial SMA.md",
+      "broken_link": "Teorema_Vieta_Polinomial_SMA\\",
       "context": "wikilink"
     },
     {
-      "file": "10_Spaces/12_Teaching/40_Practice/Mathematics/LKPD_Pola_Bilangan_SMP.md",
-      "broken_link": "diagram_mathematics_number_patterns_matchstick_squares.webp",
+      "file": "10 Spaces/12 Teaching/30 Sources/Mathematics/01 Transformasi Geometri/Transformasi Geometri SMA.md",
+      "broken_link": "Translasi dan Refleksi SMA\\",
       "context": "wikilink"
     },
     {
-      "file": "10_Spaces/12_Teaching/40_Practice/Mathematics/LKPD_Pola_Bilangan_SMP.md",
-      "broken_link": "infographic_mathematics_number_patterns_pascal_triangle.webp",
+      "file": "10 Spaces/12 Teaching/30 Sources/Mathematics/01 Transformasi Geometri/Transformasi Geometri SMA.md",
+      "broken_link": "Rotasi dan Dilatasi SMA\\",
       "context": "wikilink"
     },
     {
-      "file": "10_Spaces/12_Teaching/40_Practice/Mathematics/LKPD_Pola_Bilangan_SMP.md",
-      "broken_link": "illustration_mathematics_number_patterns_theater_seating.webp",
+      "file": "10 Spaces/12 Teaching/30 Sources/Mathematics/01 Transformasi Geometri/Transformasi Geometri SMA.md",
+      "broken_link": "Komposisi Transformasi dan Matriks SMA\\",
       "context": "wikilink"
     },
     {
-      "file": "10_Spaces/12_Teaching/40_Practice/Mathematics/LKPD_Pola_Bilangan_SMP.md",
-      "broken_link": "diagram_mathematics_number_patterns_multilevel_scheme.webp",
+      "file": "10 Spaces/12 Teaching/30 Sources/Mathematics/01 Transformasi Geometri/Transformasi Geometri SMA.md",
+      "broken_link": "Transformasi Fungsi SMA\\",
       "context": "wikilink"
     },
     {
-      "file": "10_Spaces/12_Teaching/40_Practice/Biology/LKPD_Sistem_Pencernaan_Makanan_SMP.md",
-      "broken_link": "infographic_biology_food_testing_reagents.webp",
+      "file": "10 Spaces/12 Teaching/30 Sources/Mathematics/01 Transformasi Geometri/Transformasi Geometri SMA.md",
+      "broken_link": "Regangan Guntingan Transformasi SMA\\",
       "context": "wikilink"
     },
     {
-      "file": "10_Spaces/12_Teaching/40_Practice/Biology/LKPD_Sistem_Pencernaan_Makanan_SMP.md",
-      "broken_link": "infographic_biology_nutrition_facts_boba.webp",
+      "file": "10 Spaces/12 Teaching/30 Sources/Mathematics/01 Transformasi Geometri/Transformasi Geometri SMA.md",
+      "broken_link": "LKPD Transformasi Geometri SMA\\",
       "context": "wikilink"
     },
     {
-      "file": "10_Spaces/12_Teaching/30_Sources/Languages/Narrative_Text_SMP.md",
-      "broken_link": "infographic_languages_narrative_text_structure.webp",
+      "file": "10 Spaces/12 Teaching/30 Sources/Mathematics/01 Transformasi Geometri/Transformasi Geometri SMA.md",
+      "broken_link": "Soal Transformasi Geometri SMA\\",
       "context": "wikilink"
     },
     {
-      "file": "10_Spaces/12_Teaching/30_Sources/Physics/Dinamika_Gerak/Gaya_Berat_SMA.md",
-      "broken_link": "infographic_physics_gaya_berat_com_vs_cog.webp",
+      "file": "10 Spaces/12 Teaching/30 Sources/Mathematics/02 Fungsi Invers/Fungsi Invers SMA.md",
+      "broken_link": "Konsep Dasar dan Syarat Invers SMA\\",
       "context": "wikilink"
     },
     {
-      "file": "10_Spaces/12_Teaching/30_Sources/Physics/Dinamika_Gerak/Gaya_Berat_SMA.md",
-      "broken_link": "diagram_physics_gaya_berat_lift_fbd.webp",
+      "file": "10 Spaces/12 Teaching/30 Sources/Mathematics/02 Fungsi Invers/Fungsi Invers SMA.md",
+      "broken_link": "Teknik Invers Fungsi Aljabar SMA\\",
       "context": "wikilink"
     },
     {
-      "file": "10_Spaces/12_Teaching/30_Sources/Physics/Dinamika_Gerak/Gaya_Gesek_SMA.md",
-      "broken_link": "diagram_physics_gaya_gesek_fbd.webp",
+      "file": "10 Spaces/12 Teaching/30 Sources/Mathematics/02 Fungsi Invers/Fungsi Invers SMA.md",
+      "broken_link": "Invers Fungsi Komposisi dan Aplikasi SMA\\",
       "context": "wikilink"
     },
     {
-      "file": "10_Spaces/12_Teaching/30_Sources/Physics/Dinamika_Gerak/Gaya_Gesek_SMA.md",
-      "broken_link": "illustration_physics_gaya_gesek_asperities.webp",
+      "file": "10 Spaces/12 Teaching/30 Sources/Mathematics/02 Fungsi Invers/Fungsi Invers SMA.md",
+      "broken_link": "LKPD Fungsi Invers SMA\\",
       "context": "wikilink"
     },
     {
-      "file": "10_Spaces/12_Teaching/30_Sources/Physics/Dinamika_Gerak/Gaya_Gesek_SMA.md",
-      "broken_link": "chart_physics_gaya_gesek_f_vs_f.webp",
+      "file": "10 Spaces/12 Teaching/30 Sources/Mathematics/02 Fungsi Invers/Fungsi Invers SMA.md",
+      "broken_link": "Soal Fungsi Invers SMA\\",
       "context": "wikilink"
     },
     {
-      "file": "10_Spaces/12_Teaching/30_Sources/Physics/Dinamika_Gerak/Gaya_Gesek_SMA.md",
-      "broken_link": "diagram_physics_gaya_gesek_drag_force.webp",
+      "file": "10 Spaces/12 Teaching/30 Sources/Economics/01 Pendapatan Nasional/Pendapatan Nasional SMA.md",
+      "broken_link": "Materi Konsep Pendapatan Nasional\\",
       "context": "wikilink"
     },
     {
-      "file": "10_Spaces/12_Teaching/30_Sources/Physics/Dinamika_Gerak/Gaya_Gesek_SMA.md",
-      "broken_link": "illustration_physics_gaya_gesek_sliding_vs_rolling.webp",
+      "file": "10 Spaces/12 Teaching/30 Sources/Economics/01 Pendapatan Nasional/Pendapatan Nasional SMA.md",
+      "broken_link": "Materi Pendapatan Per Kapita\\",
       "context": "wikilink"
     },
     {
-      "file": "10_Spaces/12_Teaching/30_Sources/Physics/Dinamika_Gerak/Dinamika_Gerak_SMA.md",
-      "broken_link": "diagram_physics_dinamika_gerak_fbd.webp",
+      "file": "10 Spaces/12 Teaching/30 Sources/Economics/01 Pendapatan Nasional/Pendapatan Nasional SMA.md",
+      "broken_link": "Materi Distribusi Pendapatan\\",
       "context": "wikilink"
     },
     {
-      "file": "10_Spaces/12_Teaching/30_Sources/Physics/Dinamika_Gerak/Dinamika_Gerak_SMA.md",
-      "broken_link": "mindmap_physics_dinamika_gerak_5_gaya.webp",
+      "file": "10 Spaces/12 Teaching/30 Sources/Economics/01 Pendapatan Nasional/Pendapatan Nasional SMA.md",
+      "broken_link": "LKPD dan Soal Pendapatan Nasional\\",
       "context": "wikilink"
     },
     {
-      "file": "10_Spaces/12_Teaching/30_Sources/Physics/Dinamika_Gerak/Dinamika_Gerak_SMA.md",
-      "broken_link": "infographic_physics_hukum_newton.webp",
+      "file": "10 Spaces/11 College/SIGPRO/Week 01 Introduction to DSP/Week 01 Introduction to DSP Notes.md",
+      "broken_link": "Sinyal Waktu Diskrit",
       "context": "wikilink"
     },
     {
-      "file": "10_Spaces/12_Teaching/30_Sources/Physics/Dinamika_Gerak/Gaya_Sentripetal_SMA.md",
-      "broken_link": "mindmap_physics_gaya_sentripetal_job.webp",
+      "file": "10 Spaces/11 College/SIGPRO/Week 01 Introduction to DSP/Week 01 Introduction to DSP Notes.md",
+      "broken_link": "Konversi Analog ke Digital ADC",
       "context": "wikilink"
     },
     {
-      "file": "10_Spaces/12_Teaching/30_Sources/Physics/Dinamika_Gerak/Gaya_Sentripetal_SMA.md",
-      "broken_link": "diagram_physics_gaya_sentripetal_flat_curve.webp",
+      "file": "10 Spaces/11 College/SIGPRO/Week 01 Introduction to DSP/Week 01 Introduction to DSP Notes.md",
+      "broken_link": "Aliasing Sinyal",
       "context": "wikilink"
     },
     {
-      "file": "10_Spaces/12_Teaching/30_Sources/Physics/Dinamika_Gerak/Gaya_Sentripetal_SMA.md",
-      "broken_link": "diagram_physics_gaya_sentripetal_banked_curve.webp",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/Physics/Dinamika_Gerak/Gaya_Normal_SMA.md",
-      "broken_link": "diagram_physics_gaya_normal_fbd.webp",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/Physics/Dinamika_Gerak/Gaya_Tegangan_Tali_dan_Katrol_SMA.md",
-      "broken_link": "diagram_physics_tegangan_tali_internal.webp",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/Physics/Dinamika_Gerak/Gaya_Tegangan_Tali_dan_Katrol_SMA.md",
-      "broken_link": "diagram_physics_tegangan_tali_benda_berdampingan.webp",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/Physics/Dinamika_Gerak/Gaya_Tegangan_Tali_dan_Katrol_SMA.md",
-      "broken_link": "diagram_physics_tegangan_tali_mesin_atwood.webp",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/Physics/Dinamika_Gerak/Gaya_Tegangan_Tali_dan_Katrol_SMA.md",
-      "broken_link": "diagram_physics_tegangan_tali_meja_katrol.webp",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/Physics/Dinamika_Gerak/Gaya_Tegangan_Tali_dan_Katrol_SMA.md",
-      "broken_link": "diagram_physics_tegangan_tali_bidang_miring_katrol.webp",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/Physics/Dinamika_Gerak/Gaya_Tegangan_Tali_dan_Katrol_SMA.md",
-      "broken_link": "diagram_physics_tegangan_tali_katrol_bergerak.webp",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/Physics/Dinamika_Gerak/Gaya_Tegangan_Tali_dan_Katrol_SMA.md",
-      "broken_link": "diagram_physics_tegangan_tali_4step_flowchart.webp",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/Social_Studies/Pertambangan_dan_Barang_Tambang_Indonesia_SMP.md",
-      "broken_link": "infographic_social_studies_mining_classification.webp",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/Social_Studies/Pertambangan_dan_Barang_Tambang_Indonesia_SMP.md",
-      "broken_link": "mindmap_social_studies_indonesia_mining_map.webp",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/Social_Studies/Pertambangan_dan_Barang_Tambang_Indonesia_SMP.md",
-      "broken_link": "diagram_social_studies_mining_stages_flow.webp",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Pola_Bilangan_SMP.md",
-      "broken_link": "diagram_mathematics_number_patterns_multilevel_scheme.webp",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Transformasi_Geometri/Transformasi_Geometri_SMA.md",
-      "broken_link": "Translasi_dan_Refleksi_SMA\\",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Transformasi_Geometri/Transformasi_Geometri_SMA.md",
-      "broken_link": "Rotasi_dan_Dilatasi_SMA\\",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Transformasi_Geometri/Transformasi_Geometri_SMA.md",
-      "broken_link": "Komposisi_Transformasi_dan_Matriks_SMA\\",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Transformasi_Geometri/Transformasi_Geometri_SMA.md",
-      "broken_link": "Transformasi_Fungsi_SMA\\",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Transformasi_Geometri/Transformasi_Geometri_SMA.md",
-      "broken_link": "Regangan_Guntingan_Transformasi_SMA\\",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Transformasi_Geometri/Transformasi_Geometri_SMA.md",
-      "broken_link": "LKPD_Transformasi_Geometri_SMA\\",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Transformasi_Geometri/Transformasi_Geometri_SMA.md",
-      "broken_link": "Soal_Transformasi_Geometri_SMA\\",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Fungsi_Invers/Konsep_Dasar_dan_Syarat_Invers_SMA.md",
-      "broken_link": "diagram_mathematics_inverse_function_machine.webp",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Fungsi_Invers/Fungsi_Invers_SMA.md",
-      "broken_link": "infographic_mathematics_inverse_function_dashboard.webp",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Fungsi_Invers/Fungsi_Invers_SMA.md",
-      "broken_link": "Konsep_Dasar_dan_Syarat_Invers_SMA\\",
-      "context": "wikilink"
+      "file": "20 Brain Atlas/10 Library/Artificial Intelligence/03 Quantization and Optimization/Low Rank Factorization and LoRA Mechanics.md",
+      "broken_link": "Low-Rank Adaptation",
+      "context": "frontmatter_promoted_to"
     },
     {
-      "file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Fungsi_Invers/Fungsi_Invers_SMA.md",
-      "broken_link": "Teknik_Invers_Fungsi_Aljabar_SMA\\",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Fungsi_Invers/Fungsi_Invers_SMA.md",
-      "broken_link": "Invers_Fungsi_Komposisi_dan_Aplikasi_SMA\\",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Fungsi_Invers/Fungsi_Invers_SMA.md",
-      "broken_link": "LKPD_Fungsi_Invers_SMA\\",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/Mathematics/Fungsi_Invers/Fungsi_Invers_SMA.md",
-      "broken_link": "Soal_Fungsi_Invers_SMA\\",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/Biology/Sistem_Pencernaan_Makanan_SMP.md",
-      "broken_link": "infographic_biology_digestive_system_smp8.webp",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/Biology/Sistem_Pencernaan_Makanan_SMP.md",
-      "broken_link": "infographic_biology_food_testing_reagents.webp",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/Biology/Sistem_Pencernaan_Makanan_SMP.md",
-      "broken_link": "infographic_biology_nutrition_facts_boba.webp",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/Biology/Sistem_Pencernaan_Makanan_SMP.md",
-      "broken_link": "infographic_biology_digestive_system_smp8.webp",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/Economics/Pendapatan_Nasional/Konsep_Pendapatan_Nasional_SMA.md",
-      "broken_link": "diagram_economics_national_income_concepts_flow.webp",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/Economics/Pendapatan_Nasional/Konsep_Pendapatan_Nasional_SMA.md",
-      "broken_link": "infographic_economics_national_income_calculation_methods.webp",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/Economics/Pendapatan_Nasional/Distribusi_Pendapatan_SMA.md",
-      "broken_link": "chart_economics_national_income_lorenz_curve.webp",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/Economics/Pendapatan_Nasional/Pendapatan_Nasional_SMA.md",
-      "broken_link": "mindmap_economics_national_income_master_dashboard.webp",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/Economics/Pendapatan_Nasional/Pendapatan_Nasional_SMA.md",
-      "broken_link": "Materi_Konsep_Pendapatan_Nasional\\",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/Economics/Pendapatan_Nasional/Pendapatan_Nasional_SMA.md",
-      "broken_link": "Materi_Pendapatan_Per_Kapita\\",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/Economics/Pendapatan_Nasional/Pendapatan_Nasional_SMA.md",
-      "broken_link": "Materi_Distribusi_Pendapatan\\",
-      "context": "wikilink"
-    },
-    {
-      "file": "10_Spaces/12_Teaching/30_Sources/Economics/Pendapatan_Nasional/Pendapatan_Nasional_SMA.md",
-      "broken_link": "LKPD_dan_Soal_Pendapatan_Nasional\\",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Entrepreneurship/Sistem_Produksi_dan_Pengemasan_Kerajinan_Limbah_Bangun_Datar.md",
-      "broken_link": "Aneka Produk Kerajinan Limbah Datar",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Entrepreneurship/Sistem_Produksi_dan_Pengemasan_Kerajinan_Limbah_Bangun_Datar.md",
-      "broken_link": "Kategori Manfaat Benda Pakai vs Benda Hias",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Entrepreneurship/Sistem_Produksi_dan_Pengemasan_Kerajinan_Limbah_Bangun_Datar.md",
-      "broken_link": "Potensi Limbah Berdasarkan Geografi Wilayah",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Entrepreneurship/Sistem_Produksi_dan_Pengemasan_Kerajinan_Limbah_Bangun_Datar.md",
-      "broken_link": "Proses 6 Tahap Pengolahan Bahan Limbah",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Entrepreneurship/Sistem_Produksi_dan_Pengemasan_Kerajinan_Limbah_Bangun_Datar.md",
-      "broken_link": "Prinsip Estetika dan Ergonomis Kerajinan",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Entrepreneurship/Sistem_Produksi_dan_Pengemasan_Kerajinan_Limbah_Bangun_Datar.md",
-      "broken_link": "Tutorial 10 Langkah Kerajinan Kulit Jagung",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Entrepreneurship/Sistem_Produksi_dan_Pengemasan_Kerajinan_Limbah_Bangun_Datar.md",
-      "broken_link": "Jenis Bahan Kemasan (Kertas, Kayu, Plastik-Akrilik)",
-      "context": "wikilink"
+      "file": "20 Brain Atlas/10 Library/Artificial Intelligence/03 Quantization and Optimization/Knowledge Distillation and Teacher Student Optimization.md",
+      "broken_link": "Knowledge Distillation",
+      "context": "frontmatter_promoted_to"
     },
     {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Entrepreneurship/Perencanaan_Usaha_Kerajinan_Limbah_Bangun_Datar.md",
+      "file": "20 Brain Atlas/10 Library/Entrepreneurship/01 Kerajinan Limbah/Perencanaan Usaha Kerajinan Limbah Bangun Datar.md",
       "broken_link": "Ide dan Peluang Usaha Limbah Bangun Datar",
       "context": "wikilink"
     },
     {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Entrepreneurship/Perencanaan_Usaha_Kerajinan_Limbah_Bangun_Datar.md",
+      "file": "20 Brain Atlas/10 Library/Entrepreneurship/01 Kerajinan Limbah/Perencanaan Usaha Kerajinan Limbah Bangun Datar.md",
       "broken_link": "Analisis SWOT Usaha Kerajinan",
       "context": "wikilink"
     },
     {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Entrepreneurship/Perencanaan_Usaha_Kerajinan_Limbah_Bangun_Datar.md",
+      "file": "20 Brain Atlas/10 Library/Entrepreneurship/01 Kerajinan Limbah/Perencanaan Usaha Kerajinan Limbah Bangun Datar.md",
       "broken_link": "Manajemen 6M dalam Wirausaha",
       "context": "wikilink"
     },
     {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Entrepreneurship/Perencanaan_Usaha_Kerajinan_Limbah_Bangun_Datar.md",
+      "file": "20 Brain Atlas/10 Library/Entrepreneurship/01 Kerajinan Limbah/Perencanaan Usaha Kerajinan Limbah Bangun Datar.md",
       "broken_link": "Perizinan Usaha Kerajinan (SITU, HO, SIUP)",
       "context": "wikilink"
     },
     {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Entrepreneurship/Perencanaan_Usaha_Kerajinan_Limbah_Bangun_Datar.md",
+      "file": "20 Brain Atlas/10 Library/Entrepreneurship/01 Kerajinan Limbah/Perencanaan Usaha Kerajinan Limbah Bangun Datar.md",
       "broken_link": "Bukti Transaksi dan Laporan Keuangan Usaha",
       "context": "wikilink"
     },
     {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Entrepreneurship/Perencanaan_Usaha_Kerajinan_Limbah_Bangun_Datar.md",
+      "file": "20 Brain Atlas/10 Library/Entrepreneurship/01 Kerajinan Limbah/Perencanaan Usaha Kerajinan Limbah Bangun Datar.md",
       "broken_link": "Penetapan Harga Jual dan Biaya Total Produksi",
       "context": "wikilink"
     },
     {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Entrepreneurship/Perencanaan_Usaha_Kerajinan_Limbah_Bangun_Datar.md",
+      "file": "20 Brain Atlas/10 Library/Entrepreneurship/01 Kerajinan Limbah/Perencanaan Usaha Kerajinan Limbah Bangun Datar.md",
       "broken_link": "Bauran Promosi Usaha Kerajinan",
       "context": "wikilink"
     },
     {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Cybersecurity/Shamir_vs_Pande_Modified_Secret_Sharing.md",
-      "broken_link": "diagram_cybersecurity_shamir_polynomial_interpolation.webp",
+      "file": "20 Brain Atlas/10 Library/Entrepreneurship/01 Kerajinan Limbah/Sistem Produksi dan Pengemasan Kerajinan Limbah Bangun Datar.md",
+      "broken_link": "Aneka Produk Kerajinan Limbah Datar",
       "context": "wikilink"
     },
     {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Cybersecurity/Shamir_vs_Pande_Modified_Secret_Sharing.md",
-      "broken_link": "diagram_cybersecurity_pande_modified_shamir_pipeline.webp",
+      "file": "20 Brain Atlas/10 Library/Entrepreneurship/01 Kerajinan Limbah/Sistem Produksi dan Pengemasan Kerajinan Limbah Bangun Datar.md",
+      "broken_link": "Kategori Manfaat Benda Pakai vs Benda Hias",
       "context": "wikilink"
     },
     {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Computer_Science/Model_Context_Protocol_Architecture.md",
+      "file": "20 Brain Atlas/10 Library/Entrepreneurship/01 Kerajinan Limbah/Sistem Produksi dan Pengemasan Kerajinan Limbah Bangun Datar.md",
+      "broken_link": "Potensi Limbah Berdasarkan Geografi Wilayah",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/10 Library/Entrepreneurship/01 Kerajinan Limbah/Sistem Produksi dan Pengemasan Kerajinan Limbah Bangun Datar.md",
+      "broken_link": "Proses 6 Tahap Pengolahan Bahan Limbah",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/10 Library/Entrepreneurship/01 Kerajinan Limbah/Sistem Produksi dan Pengemasan Kerajinan Limbah Bangun Datar.md",
+      "broken_link": "Prinsip Estetika dan Ergonomis Kerajinan",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/10 Library/Entrepreneurship/01 Kerajinan Limbah/Sistem Produksi dan Pengemasan Kerajinan Limbah Bangun Datar.md",
+      "broken_link": "Tutorial 10 Langkah Kerajinan Kulit Jagung",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/10 Library/Entrepreneurship/01 Kerajinan Limbah/Sistem Produksi dan Pengemasan Kerajinan Limbah Bangun Datar.md",
+      "broken_link": "Jenis Bahan Kemasan (Kertas, Kayu, Plastik-Akrilik)",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/10 Library/Biomedical Computing/Introduction to Biomedical Computing.md",
+      "broken_link": "Biomedical Signals",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/10 Library/Biomedical Computing/Introduction to Biomedical Computing.md",
+      "broken_link": "Biomedical Imaging",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/10 Library/Biomedical Computing/Introduction to Biomedical Computing.md",
+      "broken_link": "Bioinformatics",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/10 Library/Biomedical Computing/Introduction to Biomedical Computing.md",
+      "broken_link": "Physiological Modeling",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/10 Library/Biomedical Computing/Introduction to Biomedical Computing.md",
+      "broken_link": "Precision Medicine",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/10 Library/Computer Science/01 Architecture and Systems/Model Context Protocol Architecture.md",
       "broken_link": "JSON-RPC 2.0",
       "context": "wikilink"
     },
     {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Computer_Science/Model_Context_Protocol_Architecture.md",
-      "broken_link": "JSON_RPC_2_0",
+      "file": "20 Brain Atlas/10 Library/Computer Science/01 Architecture and Systems/Model Context Protocol Architecture.md",
+      "broken_link": "JSON RPC 2 0",
       "context": "wikilink"
     },
     {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Computer_Science/Single_Board_Computers_Architecture_and_Use_Cases.md",
-      "broken_link": "Virtual_Private_Server_Architecture_and_Mechanics",
+      "file": "20 Brain Atlas/10 Library/Computer Science/01 Architecture and Systems/Single Board Computers Architecture and Use Cases.md",
+      "broken_link": "Virtual Private Server Architecture and Mechanics",
       "context": "wikilink"
     },
     {
-      "file": "20_Brain_Atlas/20_Concepts/Physics/Gaya_Normal.md",
-      "broken_link": "Gaya Berat",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/20_Concepts/Physics/Gaya_Normal.md",
-      "broken_link": "Gaya Gesek",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/20_Concepts/Physics/Gaya_Normal.md",
-      "broken_link": "Hukum Newton",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/20_Concepts/Physics/Gaya_Berat.md",
-      "broken_link": "Gaya Normal",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/20_Concepts/Physics/Gaya_Berat.md",
-      "broken_link": "Hukum Newton",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Suku_Banyak_Polinomial.md",
-      "broken_link": "Materi_Suku_Banyak_Polinomial",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Suku_Banyak_Polinomial.md",
-      "broken_link": "LKPD_dan_Soal_Suku_Banyak_Polinomial",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Suku_Banyak_Polinomial.md",
-      "broken_link": "Materi_Suku_Banyak_Polinomial",
-      "context": "frontmatter_source"
-    },
-    {
-      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Matriks.md",
-      "broken_link": "Materi_Matriks",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Matriks.md",
-      "broken_link": "Materi_Matriks",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Matriks.md",
-      "broken_link": "LKPD_dan_Soal_Matriks",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Matriks.md",
-      "broken_link": "Materi_Matriks",
-      "context": "frontmatter_source"
-    },
-    {
-      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Persamaan_Kuadrat.md",
-      "broken_link": "Materi_Persamaan_Kuadrat",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Persamaan_Kuadrat.md",
-      "broken_link": "LKPD_dan_Soal_Persamaan_Kuadrat",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Persamaan_Kuadrat.md",
-      "broken_link": "Materi_Persamaan_Kuadrat",
-      "context": "frontmatter_source"
-    },
-    {
-      "file": "20_Brain_Atlas/20_Concepts/Computer_Science/Model_Context_Protocol.md",
-      "broken_link": "JSON-RPC 2.0",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/30_Reference_Lib/s11277-023-10315-5.md",
-      "broken_link": "illustration_cybersecurity_secret_sharing_scheme_flow.webp",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/30_Reference_Lib/s11277-023-10315-5.md",
-      "broken_link": "infographic_cybersecurity_secret_sharing_comparison_table.webp",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/30_Reference_Lib/s11277-023-10315-5.md",
-      "broken_link": "illustration_cybersecurity_secret_sharing_share_reconstruction.webp",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/30_Reference_Lib/s11277-023-10315-5.md",
-      "broken_link": "infographic_cybersecurity_secret_sharing_performance_metrics.webp",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/30_Reference_Lib/s11277-023-10315-5.md",
-      "broken_link": "chart_cybersecurity_secret_sharing_npcr_uaci_analysis.webp",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/30_Reference_Lib/s11277-023-10315-5.md",
-      "broken_link": "chart_cybersecurity_secret_sharing_noise_robustness_curve.webp",
-      "context": "wikilink"
-    },
-    {
-      "file": "20_Brain_Atlas/30_Reference_Lib/s11277-023-10315-5.md",
+      "file": "20 Brain Atlas/30 Reference Lib/s11277-023-10315-5.md",
       "broken_link": "14, 25, 32, 33, 42, 43, 52",
       "context": "wikilink"
     },
     {
-      "file": "20_Brain_Atlas/30_Reference_Lib/s11277-023-10315-5.md",
+      "file": "20 Brain Atlas/30 Reference Lib/s11277-023-10315-5.md",
       "broken_link": "15",
       "context": "wikilink"
     },
     {
-      "file": "20_Brain_Atlas/30_Reference_Lib/s11277-023-10315-5.md",
+      "file": "20 Brain Atlas/30 Reference Lib/s11277-023-10315-5.md",
       "broken_link": "25, 32, 33, 42, 52",
       "context": "wikilink"
     },
     {
-      "file": "20_Brain_Atlas/30_Reference_Lib/s11277-023-10315-5.md",
+      "file": "20 Brain Atlas/30 Reference Lib/s11277-023-10315-5.md",
       "broken_link": "14, 15, 43",
       "context": "wikilink"
     },
     {
-      "file": "20_Brain_Atlas/30_Reference_Lib/s11277-023-10315-5.md",
+      "file": "20 Brain Atlas/30 Reference Lib/s11277-023-10315-5.md",
       "broken_link": "15, 25, 52",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Physics/Gaya Berat.md",
+      "broken_link": "Hukum Newton",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Physics/Gaya Normal.md",
+      "broken_link": "Gaya Gesek",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Physics/Gaya Normal.md",
+      "broken_link": "Hukum Newton",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Mathematics/Matriks.md",
+      "broken_link": "Materi Matriks",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Mathematics/Matriks.md",
+      "broken_link": "Materi Matriks",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Mathematics/Matriks.md",
+      "broken_link": "LKPD dan Soal Matriks",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Mathematics/Matriks.md",
+      "broken_link": "Materi Matriks",
+      "context": "frontmatter_source"
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Mathematics/Suku Banyak Polinomial.md",
+      "broken_link": "Materi Suku Banyak Polinomial",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Mathematics/Suku Banyak Polinomial.md",
+      "broken_link": "LKPD dan Soal Suku Banyak Polinomial",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Mathematics/Suku Banyak Polinomial.md",
+      "broken_link": "Materi Suku Banyak Polinomial",
+      "context": "frontmatter_source"
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Mathematics/Persamaan Kuadrat.md",
+      "broken_link": "Materi Persamaan Kuadrat",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Mathematics/Persamaan Kuadrat.md",
+      "broken_link": "LKPD dan Soal Persamaan Kuadrat",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Mathematics/Persamaan Kuadrat.md",
+      "broken_link": "Materi Persamaan Kuadrat",
+      "context": "frontmatter_source"
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Computer Science/Biomedical Computing.md",
+      "broken_link": "Biomedical Signals",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Computer Science/Biomedical Computing.md",
+      "broken_link": "Biomedical Imaging",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Computer Science/Biomedical Computing.md",
+      "broken_link": "Bioinformatics",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Computer Science/Biomedical Computing.md",
+      "broken_link": "Physiological Modeling",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Computer Science/Biomedical Computing.md",
+      "broken_link": "Precision Medicine",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Computer Science/Komputasi Biomedis.md",
+      "broken_link": "Sinyal Biomedis",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Computer Science/Komputasi Biomedis.md",
+      "broken_link": "Pencitraan Biomedis",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Computer Science/Komputasi Biomedis.md",
+      "broken_link": "Bioinformatika",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Computer Science/Komputasi Biomedis.md",
+      "broken_link": "Pemodelan Fisiologis",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Computer Science/Komputasi Biomedis.md",
+      "broken_link": "Kedokteran Presisi",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Computer Science/Model Context Protocol.md",
+      "broken_link": "JSON-RPC 2.0",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/40 Self Study Packs/Aritmatika_Modulo/Aritmatika_Modulo_Notes.md",
+      "broken_link": "Self_Study_Math_Overview",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/40 Self Study Packs/Aritmatika_Modulo/Aritmatika_Modulo_Notes.md",
+      "broken_link": "Discrete_Math_Syllabus",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/40 Self Study Packs/00 Template Pack/Notes.md",
+      "broken_link": "<Course Overview Note>",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/40 Self Study Packs/00 Template Pack/Notes.md",
+      "broken_link": "<Course Syllabus Note>",
       "context": "wikilink"
     }
   ],
   "orphans": [
     {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Mathematics/Lagrange_Interpolation.md",
-      "title": "Lagrange_Interpolation"
+      "file": "10 Spaces/12 Teaching/40 Practice/Mathematics/03 Peluang dan Kombinatorika/LKPD Kaidah Pencacahan dan Kombinatorika SMA.md",
+      "title": "LKPD Kaidah Pencacahan dan Kombinatorika SMA"
     },
     {
-      "file": "20_Brain_Atlas/20_Concepts/Computer_Science/Jakobs_Law.md",
-      "title": "Jakobs_Law"
+      "file": "10 Spaces/12 Teaching/40 Practice/Mathematics/03 Peluang dan Kombinatorika/LKPD Teori Peluang dan Kejadian Majemuk SMA.md",
+      "title": "LKPD Teori Peluang dan Kejadian Majemuk SMA"
     },
     {
-      "file": "20_Brain_Atlas/20_Concepts/Computer_Science/Fitts_Law.md",
-      "title": "Fitts_Law"
+      "file": "20 Brain Atlas/10 Library/Mathematics/02 Numerical Methods/Lagrange Interpolation.md",
+      "title": "Lagrange Interpolation"
     },
     {
-      "file": "20_Brain_Atlas/20_Concepts/Computer_Science/Hicks_Law.md",
-      "title": "Hicks_Law"
+      "file": "20 Brain Atlas/20 Concepts/Computer Science/Hicks Law.md",
+      "title": "Hicks Law"
     },
     {
-      "file": "20_Brain_Atlas/20_Concepts/Computer_Science/Millers_Law.md",
-      "title": "Millers_Law"
+      "file": "20 Brain Atlas/20 Concepts/Computer Science/Millers Law.md",
+      "title": "Millers Law"
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Computer Science/Jakobs Law.md",
+      "title": "Jakobs Law"
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Computer Science/Fitts Law.md",
+      "title": "Fitts Law"
+    },
+    {
+      "file": "20 Brain Atlas/40 Self Study Packs/Aritmatika_Modulo/Aritmatika_Modulo_Cheatsheet.md",
+      "title": "Aritmatika_Modulo_Cheatsheet"
+    },
+    {
+      "file": "20 Brain Atlas/40 Self Study Packs/00 Template Pack/Drills.md",
+      "title": "Drills"
+    },
+    {
+      "file": "20 Brain Atlas/40 Self Study Packs/00 Template Pack/Cheatsheet.md",
+      "title": "Cheatsheet"
     }
   ],
   "missing_frontmatter": [
     {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Digital_Signal_Processing/Transformasi_Laplace.md",
+      "file": "20 Brain Atlas/10 Library/Artificial Intelligence/01 Basics and Roadmap/Fundamentals of Machine Learning Optimization and Compression.md",
       "missing_fields": [
-        "title",
-        "topic",
-        "requested_on",
         "prompt",
-        "tags"
+        "promoted_to"
       ]
     },
     {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Mathematics/Chinese_Remainder_Theorem_and_Reverse_CRT_Guide.md",
+      "file": "20 Brain Atlas/10 Library/Artificial Intelligence/03 Quantization and Optimization/Low Rank Factorization and LoRA Mechanics.md",
+      "missing_fields": [
+        "prompt"
+      ]
+    },
+    {
+      "file": "20 Brain Atlas/10 Library/Artificial Intelligence/03 Quantization and Optimization/Quantization Calibration in PTQ.md",
+      "missing_fields": [
+        "type (should be repo/paper/article/book/talk/generated_reading)"
+      ]
+    },
+    {
+      "file": "20 Brain Atlas/10 Library/Artificial Intelligence/03 Quantization and Optimization/Scale Factor and Zero Point in Quantization.md",
+      "missing_fields": [
+        "type (should be repo/paper/article/book/talk/generated_reading)"
+      ]
+    },
+    {
+      "file": "20 Brain Atlas/10 Library/Artificial Intelligence/03 Quantization and Optimization/Knowledge Distillation and Teacher Student Optimization.md",
+      "missing_fields": [
+        "prompt"
+      ]
+    },
+    {
+      "file": "20 Brain Atlas/10 Library/Artificial Intelligence/03 Quantization and Optimization/Post Training Quantization End to End Guide.md",
+      "missing_fields": [
+        "topic",
+        "prompt"
+      ]
+    },
+    {
+      "file": "20 Brain Atlas/10 Library/Artificial Intelligence/03 Quantization and Optimization/Network Pruning and Sparsity Analysis.md",
+      "missing_fields": [
+        "prompt"
+      ]
+    },
+    {
+      "file": "20 Brain Atlas/10 Library/Artificial Intelligence/02 Activation and Gradients/Activation Functions Explained.md",
+      "missing_fields": [
+        "type (should be repo/paper/article/book/talk/generated_reading)"
+      ]
+    },
+    {
+      "file": "20 Brain Atlas/10 Library/Artificial Intelligence/02 Activation and Gradients/Gradient Flow and Activation Slope.md",
+      "missing_fields": [
+        "type (should be repo/paper/article/book/talk/generated_reading)"
+      ]
+    },
+    {
+      "file": "20 Brain Atlas/10 Library/Mathematics/01 Number Theory/Chinese Remainder Theorem and Reverse CRT Guide.md",
       "missing_fields": [
         "title",
         "topic",
@@ -616,34 +522,19 @@
       ]
     },
     {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Cryptography/Single_Secret_Sharing_CRT_Shamir_XOR.md",
+      "file": "20 Brain Atlas/10 Library/Cryptography/01 Secret Sharing Schemes/Single Secret Sharing CRT Shamir XOR.md",
       "missing_fields": [
-        "title",
-        "topic",
-        "requested_on",
-        "prompt",
-        "tags",
-        "promoted_to"
+        "type (should be repo/paper/article/book/talk/generated_reading)"
       ]
     },
     {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Artificial_Intelligence/Post_Training_Quantization_End_to_End_Guide.md",
+      "file": "20 Brain Atlas/10 Library/Biomedical Computing/Pengantar Komputasi Biomedis.md",
       "missing_fields": [
-        "topic",
-        "prompt"
+        "type (should be repo/paper/article/book/talk/generated_reading)"
       ]
     },
     {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Cybersecurity/Shamir_Secret_Sharing_Comprehensive_Study_Guide.md",
-      "missing_fields": [
-        "title",
-        "topic",
-        "requested_on",
-        "prompt"
-      ]
-    },
-    {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Cybersecurity/Shamir_vs_Pande_Modified_Secret_Sharing.md",
+      "file": "20 Brain Atlas/10 Library/Digital Signal Processing/01 Transforms/Transformasi Laplace.md",
       "missing_fields": [
         "title",
         "topic",
@@ -653,7 +544,23 @@
       ]
     },
     {
-      "file": "20_Brain_Atlas/10_Library/Generated_Readings/Computer_Science/Model_Context_Protocol_Architecture.md",
+      "file": "20 Brain Atlas/10 Library/Cybersecurity/02 Secret Sharing Schemes/Shamir vs Pande Modified Secret Sharing.md",
+      "missing_fields": [
+        "title",
+        "topic",
+        "requested_on",
+        "prompt",
+        "tags"
+      ]
+    },
+    {
+      "file": "20 Brain Atlas/10 Library/Cybersecurity/02 Secret Sharing Schemes/Shamir Secret Sharing Comprehensive Study Guide.md",
+      "missing_fields": [
+        "type (should be repo/paper/article/book/talk/generated_reading)"
+      ]
+    },
+    {
+      "file": "20 Brain Atlas/10 Library/Computer Science/01 Architecture and Systems/Model Context Protocol Architecture.md",
       "missing_fields": [
         "title",
         "topic",
@@ -663,7 +570,84 @@
       ]
     },
     {
-      "file": "20_Brain_Atlas/20_Concepts/Digital_Signal_Processing/Bidang_S_Complex_Plane.md",
+      "file": "20 Brain Atlas/20 Concepts/Artificial Intelligence/Model Pruning.md",
+      "missing_fields": [
+        "type (should be 'concept')",
+        "title",
+        "subject",
+        "date_created",
+        "source"
+      ]
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Artificial Intelligence/Model Quantization.md",
+      "missing_fields": [
+        "type (should be 'concept')",
+        "title",
+        "subject",
+        "date_created",
+        "source"
+      ]
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Mathematics/Runges Phenomenon.md",
+      "missing_fields": [
+        "title",
+        "date_created",
+        "source"
+      ]
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Mathematics/Invers Modular.md",
+      "missing_fields": [
+        "title",
+        "date_created",
+        "source"
+      ]
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Mathematics/Chinese Remainder Theorem.md",
+      "missing_fields": [
+        "title",
+        "date_created"
+      ]
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Mathematics/Interpolation.md",
+      "missing_fields": [
+        "title",
+        "date_created",
+        "source"
+      ]
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Mathematics/Coprime.md",
+      "missing_fields": [
+        "date_created"
+      ]
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Mathematics/Reverse CRT.md",
+      "missing_fields": [
+        "title",
+        "date_created"
+      ]
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Mathematics/Lagrange Interpolation.md",
+      "missing_fields": [
+        "title",
+        "date_created"
+      ]
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Mathematics/Kongruensi Modular.md",
+      "missing_fields": [
+        "date_created"
+      ]
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Digital Signal Processing/Bidang S Complex Plane.md",
       "missing_fields": [
         "type (should be 'concept')",
         "title",
@@ -672,7 +656,7 @@
       ]
     },
     {
-      "file": "20_Brain_Atlas/20_Concepts/Digital_Signal_Processing/Region_of_Convergence_ROC.md",
+      "file": "20 Brain Atlas/20 Concepts/Digital Signal Processing/Region of Convergence ROC.md",
       "missing_fields": [
         "type (should be 'concept')",
         "title",
@@ -681,109 +665,52 @@
       ]
     },
     {
-      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Kongruensi_Modular.md",
-      "missing_fields": [
-        "date_created"
-      ]
-    },
-    {
-      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Chinese_Remainder_Theorem.md",
+      "file": "20 Brain Atlas/20 Concepts/Cybersecurity/Shamir Secret Sharing.md",
       "missing_fields": [
         "title",
         "date_created"
       ]
     },
     {
-      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Reverse_CRT.md",
+      "file": "20 Brain Atlas/20 Concepts/Cybersecurity/Secret Sharing Scheme.md",
       "missing_fields": [
         "title",
         "date_created"
       ]
     },
     {
-      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Lagrange_Interpolation.md",
+      "file": "20 Brain Atlas/20 Concepts/Cybersecurity/Modified Shamir Scheme.md",
       "missing_fields": [
         "title",
         "date_created"
       ]
     },
     {
-      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Interpolation.md",
-      "missing_fields": [
-        "title",
-        "date_created",
-        "source"
-      ]
-    },
-    {
-      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Coprime.md",
-      "missing_fields": [
-        "date_created"
-      ]
-    },
-    {
-      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Runges_Phenomenon.md",
-      "missing_fields": [
-        "title",
-        "date_created",
-        "source"
-      ]
-    },
-    {
-      "file": "20_Brain_Atlas/20_Concepts/Mathematics/Invers_Modular.md",
-      "missing_fields": [
-        "title",
-        "date_created",
-        "source"
-      ]
-    },
-    {
-      "file": "20_Brain_Atlas/20_Concepts/Cybersecurity/Secret_Sharing_Scheme.md",
-      "missing_fields": [
-        "title",
-        "date_created"
-      ]
-    },
-    {
-      "file": "20_Brain_Atlas/20_Concepts/Cybersecurity/Modified_Shamir_Scheme.md",
-      "missing_fields": [
-        "title",
-        "date_created"
-      ]
-    },
-    {
-      "file": "20_Brain_Atlas/20_Concepts/Cybersecurity/Shamir_Secret_Sharing.md",
-      "missing_fields": [
-        "title",
-        "date_created"
-      ]
-    },
-    {
-      "file": "20_Brain_Atlas/20_Concepts/Computer_Science/Jakobs_Law.md",
+      "file": "20 Brain Atlas/20 Concepts/Computer Science/Hicks Law.md",
       "missing_fields": [
         "title"
       ]
     },
     {
-      "file": "20_Brain_Atlas/20_Concepts/Computer_Science/Fitts_Law.md",
+      "file": "20 Brain Atlas/20 Concepts/Computer Science/Millers Law.md",
       "missing_fields": [
         "title"
       ]
     },
     {
-      "file": "20_Brain_Atlas/20_Concepts/Computer_Science/Model_Context_Protocol.md",
+      "file": "20 Brain Atlas/20 Concepts/Computer Science/Jakobs Law.md",
       "missing_fields": [
         "title"
       ]
     },
     {
-      "file": "20_Brain_Atlas/20_Concepts/Computer_Science/Hicks_Law.md",
+      "file": "20 Brain Atlas/20 Concepts/Computer Science/Model Context Protocol.md",
       "missing_fields": [
         "title"
       ]
     },
     {
-      "file": "20_Brain_Atlas/20_Concepts/Computer_Science/Millers_Law.md",
+      "file": "20 Brain Atlas/20 Concepts/Computer Science/Fitts Law.md",
       "missing_fields": [
         "title"
       ]

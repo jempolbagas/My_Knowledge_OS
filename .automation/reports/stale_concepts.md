@@ -4,32 +4,38 @@ Detected when a source file has changed since the Concept wiki page was generate
 
 | Concept Note | Source Note | Status | Action Required |
 | --- | --- | --- | --- |
-| [[Bidang_S_Complex_Plane]] | [[Transformasi_Laplace]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "781252500293a61d38873e921f0d2730"` |
-| [[Region_of_Convergence_ROC]] | [[Transformasi_Laplace]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "781252500293a61d38873e921f0d2730"` |
-| [[Kongruensi_Modular]] | [[Chinese_Remainder_Theorem]] | ❓ No Snapshot Hash | Run LLM review to update concept and update `source_hash: "37211e637f265b9b17c4dd3aa0bede54"` |
-| [[Chinese_Remainder_Theorem]] | [[Single_Secret_Sharing_CRT_Shamir_XOR]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "2a94364a85872818f78bbba8e512aaee"` |
-| [[Coprime]] | [[Chinese_Remainder_Theorem]] | ❓ No Snapshot Hash | Run LLM review to update concept and update `source_hash: "37211e637f265b9b17c4dd3aa0bede54"` |
-| [[Model Parameters]] | [[Model_Parameters_Explained]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "695af910ad5f6b21912abaa78e5ed862"` |
-| [[Machine Learning Roadmap]] | [[Machine_Learning_Roadmap]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "1463b3ccf174675a2eb3d7405747b620"` |
-| [[Quantization Calibration]] | [[Post_Training_Quantization_End_to_End_Guide]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "891e6e2d7f065ee79b568d93230cd450"` |
-| [[Vectorization in NumPy]] | [[Machine_Learning_Roadmap]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "1463b3ccf174675a2eb3d7405747b620"` |
-| [[Softmax Function]] | [[Activation_Functions_Explained]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "3cf9de84cbbb4b768122100c33ef1556"` |
-| [[ReLU Function]] | [[Activation_Functions_Explained]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "3cf9de84cbbb4b768122100c33ef1556"` |
-| [[Activation Functions]] | [[Activation_Functions_Explained]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "3cf9de84cbbb4b768122100c33ef1556"` |
-| [[Post-Training Quantization]] | [[Post_Training_Quantization_End_to_End_Guide]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "891e6e2d7f065ee79b568d93230cd450"` |
-| [[Leaky ReLU Function]] | [[Activation_Functions_Explained]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "3cf9de84cbbb4b768122100c33ef1556"` |
-| [[Sigmoid Function]] | [[Activation_Functions_Explained]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "3cf9de84cbbb4b768122100c33ef1556"` |
-| [[Tanh Function]] | [[Activation_Functions_Explained]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "3cf9de84cbbb4b768122100c33ef1556"` |
-| [[Per-Tensor vs Per-Channel Quantization]] | [[Post_Training_Quantization_End_to_End_Guide]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "891e6e2d7f065ee79b568d93230cd450"` |
-| [[Scale Factor and Zero-Point]] | [[Post_Training_Quantization_End_to_End_Guide]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "891e6e2d7f065ee79b568d93230cd450"` |
-| [[Symmetric vs Asymmetric Quantization]] | [[Post_Training_Quantization_End_to_End_Guide]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "891e6e2d7f065ee79b568d93230cd450"` |
-| [[Secret_Sharing_Scheme]] | [[Single_Secret_Sharing_CRT_Shamir_XOR]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "2a94364a85872818f78bbba8e512aaee"` |
-| [[Symmetric vs. Asymmetric Encryption]] | [[Cybersecurity_Roadmap]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "1b67d0d65283c870324bc3d3695e7690"` |
-| [[Modified_Shamir_Scheme]] | [[Shamir_vs_Pande_Modified_Secret_Sharing]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "8df6084569ef92443bd518c41900696e"` |
-| [[Blue Team vs. Red Team]] | [[Cybersecurity_Roadmap]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "1b67d0d65283c870324bc3d3695e7690"` |
-| [[Cybersecurity Roadmap]] | [[Cybersecurity_Roadmap]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "1b67d0d65283c870324bc3d3695e7690"` |
-| [[CIA Triad]] | [[Cybersecurity_Roadmap]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "1b67d0d65283c870324bc3d3695e7690"` |
-| [[Bottom-Up vs. Top-Down Learning]] | [[Machine_Learning_Roadmap]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "1463b3ccf174675a2eb3d7405747b620"` |
-| [[Single Board Computer]] | [[Single_Board_Computers_Architecture_and_Use_Cases]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "6130f379b07f28ada1648de5e25c5a8d"` |
-| [[Model_Context_Protocol]] | [[Model_Context_Protocol_Architecture]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "e19d6c6ebc740ba6a9460a89e436e052"` |
-| [[Off-Chip DRAM]] | [[Post_Training_Quantization_End_to_End_Guide]] | ❓ No Snapshot Hash | Run LLM review to update concept and update `source_hash: "891e6e2d7f065ee79b568d93230cd450"` |
+| [[Model Parameters]] | [[Model Parameters Explained]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "b1c4f5cdc6385478e9acebb0e41443ad"` |
+| [[Machine Learning Roadmap]] | [[Machine Learning Roadmap]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "2b7f71cc94a40f2e35375fb71f97b0f4"` |
+| [[Quantization Calibration]] | [[Post Training Quantization End to End Guide]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "891e6e2d7f065ee79b568d93230cd450"` |
+| [[Vectorization in NumPy]] | [[Machine Learning Roadmap]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "2b7f71cc94a40f2e35375fb71f97b0f4"` |
+| [[Softmax Function]] | [[Activation Functions Explained]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "1e3a4e2f044d67fdc893a8b52b6588f7"` |
+| [[ReLU Function]] | [[Activation Functions Explained]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "1e3a4e2f044d67fdc893a8b52b6588f7"` |
+| [[Activation Functions]] | [[Activation Functions Explained]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "1e3a4e2f044d67fdc893a8b52b6588f7"` |
+| [[Post-Training Quantization]] | [[Post Training Quantization End to End Guide]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "891e6e2d7f065ee79b568d93230cd450"` |
+| [[Leaky ReLU Function]] | [[Activation Functions Explained]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "1e3a4e2f044d67fdc893a8b52b6588f7"` |
+| [[Sigmoid Function]] | [[Activation Functions Explained]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "1e3a4e2f044d67fdc893a8b52b6588f7"` |
+| [[Tanh Function]] | [[Activation Functions Explained]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "1e3a4e2f044d67fdc893a8b52b6588f7"` |
+| [[Per-Tensor vs Per-Channel Quantization]] | [[Post Training Quantization End to End Guide]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "891e6e2d7f065ee79b568d93230cd450"` |
+| [[Scale Factor and Zero-Point]] | [[Post Training Quantization End to End Guide]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "891e6e2d7f065ee79b568d93230cd450"` |
+| [[Symmetric vs Asymmetric Quantization]] | [[Post Training Quantization End to End Guide]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "891e6e2d7f065ee79b568d93230cd450"` |
+| [[Chinese Remainder Theorem]] | [[Single Secret Sharing CRT Shamir XOR]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "4db6792a8d6ae3c2fe524447758f63ad"` |
+| [[Coprime]] | [[Chinese Remainder Theorem]] | ❓ No Snapshot Hash | Run LLM review to update concept and update `source_hash: "4d8d3f7a5c7b29ca97b5bf9a9d35876e"` |
+| [[Reverse CRT]] | [[Chinese Remainder Theorem and Reverse CRT Guide]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "083561c5c6e5d3427de2a937c7918cf0"` |
+| [[Lagrange Interpolation]] | [[Shamir vs Pande Modified Secret Sharing]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "13302141b250ef06f8dedb1512fc4673"` |
+| [[Kongruensi Modular]] | [[Chinese Remainder Theorem]] | ❓ No Snapshot Hash | Run LLM review to update concept and update `source_hash: "4d8d3f7a5c7b29ca97b5bf9a9d35876e"` |
+| [[Quartz]] | [[Quartz]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "af8801f4ec05cf50e953f7e967984940"` |
+| [[Bidang S Complex Plane]] | [[Transformasi Laplace]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "983b0f6a6df8d5bfbbb72f6fd754b2f3"` |
+| [[Region of Convergence ROC]] | [[Transformasi Laplace]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "983b0f6a6df8d5bfbbb72f6fd754b2f3"` |
+| [[Shamir Secret Sharing]] | [[Shamir Secret Sharing Comprehensive Study Guide]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "cdef95178b8cb8d54e91852e12f369f9"` |
+| [[Symmetric vs. Asymmetric Encryption]] | [[Cybersecurity Roadmap]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "55d6707676bed1a047ce630087db7ce2"` |
+| [[Blue Team vs. Red Team]] | [[Cybersecurity Roadmap]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "55d6707676bed1a047ce630087db7ce2"` |
+| [[Secret Sharing Scheme]] | [[Single Secret Sharing CRT Shamir XOR]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "4db6792a8d6ae3c2fe524447758f63ad"` |
+| [[Cybersecurity Roadmap]] | [[Cybersecurity Roadmap]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "55d6707676bed1a047ce630087db7ce2"` |
+| [[Modified Shamir Scheme]] | [[Shamir vs Pande Modified Secret Sharing]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "13302141b250ef06f8dedb1512fc4673"` |
+| [[CIA Triad]] | [[Cybersecurity Roadmap]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "55d6707676bed1a047ce630087db7ce2"` |
+| [[Biomedical Computing]] | [[Introduction to Biomedical Computing]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "b6af6943d8e962d2c03dd1cd13e96960"` |
+| [[Komputasi Biomedis]] | [[Pengantar Komputasi Biomedis]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "60862c68f2a8eb357c179feabebf5fb5"` |
+| [[Bottom-Up vs. Top-Down Learning]] | [[Machine Learning Roadmap]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "2b7f71cc94a40f2e35375fb71f97b0f4"` |
+| [[Single Board Computer]] | [[Single Board Computers Architecture and Use Cases]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "2c447940ce019d91450c32f96b8d527f"` |
+| [[Model Context Protocol]] | [[Model Context Protocol Architecture]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "207c01b0213e546772fa61f233adfda6"` |
+| [[Off-Chip DRAM]] | [[Post Training Quantization End to End Guide]] | ❓ No Snapshot Hash | Run LLM review to update concept and update `source_hash: "891e6e2d7f065ee79b568d93230cd450"` |
