@@ -82,6 +82,14 @@ Selamat datang di Teaching Resources Hub! Halaman ini mengorganisir seluruh mate
 
 ---
 
+## 🗣️ Languages (English / ESL)
+
+### 📝 Lembar Kerja (Practice)
+- [[LKPD_Perfect_Tenses_SMA]]
+- [[Soal_Perfect_Tenses_SMA]]
+
+---
+
 ## ⚛️ Physics
 
 ### 📚 Materi Ajar (Sources)

@@ -8,19 +8,21 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-08-22T06:17:04Z"
+    "generated_at": "2026-08-24T06:26:49Z"
   },
   "stats": {
-    "total_notes": 215,
-    "total_edges": 1006,
+    "total_notes": 230,
+    "total_edges": 1118,
     "broken_links": 83,
     "untyped_notes": 67,
-    "health_score": 63.2
+    "health_score": 65.6
   },
   "inbox": [],
   "spaces": {
     "Teaching": {
       "Languages": [
+        "Soal_Perfect_Tenses_SMA",
+        "LKPD_Perfect_Tenses_SMA",
         "LKPD Parts of Speech SMP",
         "LKPD Simple Past Tense SMP",
         "LKPD Simple Present vs Present Continuous SMP",
@@ -29,6 +31,12 @@
         "LKPD Descriptive Text SMP",
         "Parts of Speech SMP",
         "Simple Past Tense SMP",
+        "Future_Perfect_SMA",
+        "Past_Perfect_SMA",
+        "Present_Perfect_SMA",
+        "Perfect_Tenses_SMA",
+        "Perfect_Continuous_SMA",
+        "Comparative_Tenses_Matrix_SMA",
         "Functional Texts SMP",
         "Narrative Text SMP",
         "Descriptive Text SMP"
@@ -177,7 +185,8 @@
         "Jakobs Law",
         "Model Context Protocol",
         "Off-Chip DRAM",
-        "Fitts Law"
+        "Fitts Law",
+        "Konsep Dasar Ilmu Ekonomi"
       ],
       "Mathematics": [
         "Runges Phenomenon",

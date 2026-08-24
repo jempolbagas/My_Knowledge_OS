@@ -138,3 +138,4 @@ These files have no incoming or outgoing links:
 | [[Jakobs Law]] | `title` |
 | [[Model Context Protocol]] | `title` |
 | [[Fitts Law]] | `title` |
+| [[Konsep Dasar Ilmu Ekonomi]] | `source` |

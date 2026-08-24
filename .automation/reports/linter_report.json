@@ -714,6 +714,12 @@
       "missing_fields": [
         "title"
       ]
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Economics/Konsep Dasar Ilmu Ekonomi.md",
+      "missing_fields": [
+        "source"
+      ]
     }
   ]
 }
