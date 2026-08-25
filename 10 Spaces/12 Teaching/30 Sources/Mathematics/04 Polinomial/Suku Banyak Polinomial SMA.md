@@ -19,10 +19,6 @@ tags:
 
 Selamat datang di pusat komando materi **Polinomial (Suku Banyak)**! Topik ini seringkali menjadi momok karena melibatkan pangkat tinggi dan rumus yang tampak rumit. Namun dengan pengelompokan modul secara sistematis, kamu akan bisa membedah dan menyelesaikan soal-soal HOTS dengan sangat mudah.
 
-## 🗺️ Peta Konsep Utama
-
-![[mindmap_mathematics_polinomial_dashboard.jpg]]
-
 ---
 
 ## 📚 Navigasi Modul Ajar
@@ -39,11 +35,13 @@ Silakan pelajari sub-modul berikut secara berurutan untuk pemahaman yang maksima
 
 ---
 
-## 📝 Lembar Kerja & Evaluasi
+## 📝 Lembar Kerja & Evaluasi (Distingsi Level Kesulitan)
 
-Uji pemahamanmu dengan LKPD berkelompok dan paket soal evaluasi HOTS:
-* **Lembar Praktik:** [[LKPD Suku Banyak Polinomial SMA]]
-* **Ujian Mandiri:** [[Soal Suku Banyak SMA]]
+Uji pemahaman murid secara bertahap sesuai tingkat kemampuannya:
+* **Lembar Praktik Kelompok:** [[LKPD Suku Banyak Polinomial SMA]]
+* **🟢 Level 1 (Fondasi & Remidi):** [[Soal Suku Banyak SMA Level 1 Fondasi]] *(Fokus penguatan rumus, aljabar dasar, & LOTS-MOTS)*
+* **🔵 Level 2 (Standar & PSTS/PAS):** [[Soal Suku Banyak SMA Level 2 Standar HOTS]] *(Fokus analisis aljabar, Horner-Kino, & HOTS Medium)*
+* **📄 Paket Variasi Tambahan:** [[Soal Suku Banyak SMA Paket 1]] | [[Soal Suku Banyak SMA Paket 2]]
 
 ---
 

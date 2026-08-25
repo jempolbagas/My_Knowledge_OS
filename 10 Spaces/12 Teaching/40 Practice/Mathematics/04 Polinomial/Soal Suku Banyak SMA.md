@@ -26,7 +26,7 @@ tags:
   - "#kunci_jawaban"
   - "#kelas11"
 ---
-[[Suku Banyak Polinomial SMA|🏠 Master Dashboard]] | [[LKPD Suku Banyak Polinomial SMA|📝 LKPD Suku Banyak]]
+[[Suku Banyak Polinomial SMA|🏠 Master Dashboard]] | [[LKPD Suku Banyak Polinomial SMA|📝 LKPD Suku Banyak]] | [[Soal Suku Banyak SMA Paket 1|➡️ Paket 1]] | [[Soal Suku Banyak SMA Paket 2|➡️ Paket 2]]
 
 ---
 

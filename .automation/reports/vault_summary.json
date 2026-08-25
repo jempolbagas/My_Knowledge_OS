@@ -8,14 +8,14 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-08-24T06:26:49Z"
+    "generated_at": "2026-08-25T10:52:38Z"
   },
   "stats": {
-    "total_notes": 230,
-    "total_edges": 1118,
-    "broken_links": 83,
+    "total_notes": 234,
+    "total_edges": 1138,
+    "broken_links": 82,
     "untyped_notes": 67,
-    "health_score": 65.6
+    "health_score": 66.2
   },
   "inbox": [],
   "spaces": {
@@ -59,6 +59,10 @@
       "Mathematics": [
         "Soal Pola Bilangan Paket B SMP",
         "LKPD Pola Bilangan SMP",
+        "Soal Suku Banyak SMA Level 1 Fondasi",
+        "Soal Suku Banyak SMA Paket 2",
+        "Soal Suku Banyak SMA Paket 1",
+        "Soal Suku Banyak SMA Level 2 Standar HOTS",
         "LKPD Suku Banyak Polinomial SMA",
         "Soal Suku Banyak SMA",
         "LKPD Matriks SMA",
