@@ -65,7 +65,7 @@ Selamat datang di Teaching Resources Hub! Halaman ini mengorganisir seluruh mate
   - 📄 [[Transformasi Fungsi SMA]] — Transformasi Fungsi — Modul 4 Transformasi Geometri
   - 📄 [[Transformasi Geometri SMA]] — Transformasi Geometri — Pusat Kontrol & Navigasi Modul
   - 📄 [[Translasi dan Refleksi SMA]] — Translasi dan Refleksi — Modul 1 Transformasi Geometri
-- 🏠 [[Fungsi Invers SMA]] — Fungsi Invers — Pusat Kontrol & Navigasi Modul
+- 🏠 [[Fungsi Komposisi dan Invers SMA]] — Fungsi Invers — Pusat Kontrol & Navigasi Modul
   - 📄 [[Invers Fungsi Komposisi dan Aplikasi SMA]] — Invers Fungsi Komposisi & Aplikasi Kontekstual HOTS
   - 📄 [[Konsep Dasar dan Syarat Invers SMA]] — Konsep Dasar & Syarat Keberadaan Fungsi Invers
   - 📄 [[Teknik Invers Fungsi Aljabar SMA]] — Teknik Menentukan Fungsi Invers Aljabar

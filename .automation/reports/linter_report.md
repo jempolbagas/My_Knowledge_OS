@@ -4,6 +4,16 @@
 | File | Broken Link Target | Context |
 | --- | --- | --- |
 | [[LKPD Simple Present vs Present Continuous SMP]] | `[ESL] Present Continuous Tense` | `wikilink` |
+| [[Soal Fungsi Komposisi dan Invers SMA]] | `Fungsi Invers SMA` | `wikilink` |
+| [[Soal Fungsi Komposisi dan Invers SMA]] | `LKPD Fungsi Invers SMA` | `wikilink` |
+| [[LKPD Fungsi Komposisi dan Invers SMA]] | `Fungsi Invers SMA` | `wikilink` |
+| [[LKPD Fungsi Komposisi dan Invers SMA]] | `Soal Fungsi Invers SMA` | `wikilink` |
+| [[index teaching]] | `Fungsi Invers SMA` | `wikilink` |
+| [[Simple_Present_Tense_Master_SMA]] | `Fondasi_Verbal_dan_Nominal_SMA\` | `wikilink` |
+| [[Simple_Present_Tense_Master_SMA]] | `Suffix_Rules_dan_Adverbs_of_Frequency_SMA\` | `wikilink` |
+| [[Simple_Present_Tense_Master_SMA]] | `Advanced_Usage_dan_Nuansa_Khusus_SMA\` | `wikilink` |
+| [[Simple_Present_Tense_Master_SMA]] | `LKPD_Simple_Present_Tense_SMA\` | `wikilink` |
+| [[Simple_Present_Tense_Master_SMA]] | `Soal_Simple_Present_Tense_SMA\` | `wikilink` |
 | [[Suku Banyak Polinomial SMA]] | `Konsep_dan_Kesamaan_Polinomial_SMA\` | `wikilink` |
 | [[Suku Banyak Polinomial SMA]] | `Metode_Horner_dan_Operasi_SMA\` | `wikilink` |
 | [[Suku Banyak Polinomial SMA]] | `Teorema_Sisa_dan_Faktor_SMA\` | `wikilink` |
@@ -16,11 +26,26 @@
 | [[Transformasi Geometri SMA]] | `Regangan Guntingan Transformasi SMA\` | `wikilink` |
 | [[Transformasi Geometri SMA]] | `LKPD Transformasi Geometri SMA\` | `wikilink` |
 | [[Transformasi Geometri SMA]] | `Soal Transformasi Geometri SMA\` | `wikilink` |
-| [[Fungsi Invers SMA]] | `Konsep Dasar dan Syarat Invers SMA\` | `wikilink` |
-| [[Fungsi Invers SMA]] | `Teknik Invers Fungsi Aljabar SMA\` | `wikilink` |
-| [[Fungsi Invers SMA]] | `Invers Fungsi Komposisi dan Aplikasi SMA\` | `wikilink` |
-| [[Fungsi Invers SMA]] | `LKPD Fungsi Invers SMA\` | `wikilink` |
-| [[Fungsi Invers SMA]] | `Soal Fungsi Invers SMA\` | `wikilink` |
+| [[Invers Fungsi Komposisi dan Aplikasi SMA]] | `Fungsi Invers SMA` | `wikilink` |
+| [[Invers Fungsi Komposisi dan Aplikasi SMA]] | `LKPD Fungsi Invers SMA` | `wikilink` |
+| [[Invers Fungsi Komposisi dan Aplikasi SMA]] | `Soal Fungsi Invers SMA` | `wikilink` |
+| [[Invers Fungsi Komposisi dan Aplikasi SMA]] | `Fungsi Invers SMA` | `wikilink` |
+| [[Invers Fungsi Komposisi dan Aplikasi SMA]] | `LKPD Fungsi Invers SMA` | `wikilink` |
+| [[Invers Fungsi Komposisi dan Aplikasi SMA]] | `Soal Fungsi Invers SMA` | `wikilink` |
+| [[Teknik Invers Fungsi Aljabar SMA]] | `Fungsi Invers SMA` | `wikilink` |
+| [[Teknik Invers Fungsi Aljabar SMA]] | `LKPD Fungsi Invers SMA` | `wikilink` |
+| [[Teknik Invers Fungsi Aljabar SMA]] | `Fungsi Invers SMA` | `wikilink` |
+| [[Teknik Invers Fungsi Aljabar SMA]] | `LKPD Fungsi Invers SMA` | `wikilink` |
+| [[Konsep Dasar dan Syarat Invers SMA]] | `Fungsi Invers SMA` | `wikilink` |
+| [[Konsep Dasar dan Syarat Invers SMA]] | `LKPD Fungsi Invers SMA` | `wikilink` |
+| [[Konsep Dasar dan Syarat Invers SMA]] | `Fungsi Invers SMA` | `wikilink` |
+| [[Konsep Dasar dan Syarat Invers SMA]] | `LKPD Fungsi Invers SMA` | `wikilink` |
+| [[Fungsi Komposisi dan Invers SMA]] | `Konsep Dasar dan Syarat Invers SMA\` | `wikilink` |
+| [[Fungsi Komposisi dan Invers SMA]] | `Teknik Invers Fungsi Aljabar SMA\` | `wikilink` |
+| [[Fungsi Komposisi dan Invers SMA]] | `Invers Fungsi Komposisi dan Aplikasi SMA\` | `wikilink` |
+| [[Fungsi Komposisi dan Invers SMA]] | `LKPD Fungsi Invers SMA\` | `wikilink` |
+| [[Fungsi Komposisi dan Invers SMA]] | `Soal Fungsi Invers SMA\` | `wikilink` |
+| [[Fungsi Komposisi dan Invers SMA]] | `LKPD Fungsi Invers SMA` | `wikilink` |
 | [[Pendapatan Nasional SMA]] | `Materi Konsep Pendapatan Nasional\` | `wikilink` |
 | [[Pendapatan Nasional SMA]] | `Materi Pendapatan Per Kapita\` | `wikilink` |
 | [[Pendapatan Nasional SMA]] | `Materi Distribusi Pendapatan\` | `wikilink` |
@@ -28,6 +53,100 @@
 | [[Week 01 Introduction to DSP Notes]] | `Sinyal Waktu Diskrit` | `wikilink` |
 | [[Week 01 Introduction to DSP Notes]] | `Konversi Analog ke Digital ADC` | `wikilink` |
 | [[Week 01 Introduction to DSP Notes]] | `Aliasing Sinyal` | `wikilink` |
+| [[00_Week_02_Hub]] | `Komputasi Biomedik` | `wikilink` |
+| [[00_Week_02_Hub]] | `Complete Blood Count` | `wikilink` |
+| [[00_Week_02_Hub]] | `Electroencephalography` | `wikilink` |
+| [[00_Week_02_Hub]] | `Electromyography` | `wikilink` |
+| [[00_Week_02_Hub]] | `Swallow-Tail Sign` | `wikilink` |
+| [[00_Week_02_Hub]] | `Biomedical Expert System` | `wikilink` |
+| [[01_Lab_Diagnostics_Blood_Urine]] | `Komputasi Biomedik` | `wikilink` |
+| [[01_Lab_Diagnostics_Blood_Urine]] | `Complete Blood Count` | `wikilink` |
+| [[01_Lab_Diagnostics_Blood_Urine]] | `Urinalysis` | `wikilink` |
+| [[01_Lab_Diagnostics_Blood_Urine]] | `Kecerdasan Buatan` | `wikilink` |
+| [[01_Lab_Diagnostics_Blood_Urine]] | `Complete Blood Count` | `wikilink` |
+| [[01_Lab_Diagnostics_Blood_Urine]] | `Hemoglobin` | `wikilink` |
+| [[01_Lab_Diagnostics_Blood_Urine]] | `Leukosit` | `wikilink` |
+| [[01_Lab_Diagnostics_Blood_Urine]] | `Leukemia` | `wikilink` |
+| [[01_Lab_Diagnostics_Blood_Urine]] | `Leukemia` | `wikilink` |
+| [[01_Lab_Diagnostics_Blood_Urine]] | `Computer Vision` | `wikilink` |
+| [[01_Lab_Diagnostics_Blood_Urine]] | `Machine Learning` | `wikilink` |
+| [[01_Lab_Diagnostics_Blood_Urine]] | `Machine Learning` | `wikilink` |
+| [[01_Lab_Diagnostics_Blood_Urine]] | `Malaria` | `wikilink` |
+| [[01_Lab_Diagnostics_Blood_Urine]] | `Urinalysis` | `wikilink` |
+| [[01_Lab_Diagnostics_Blood_Urine]] | `Diabetes Mellitus` | `wikilink` |
+| [[01_Lab_Diagnostics_Blood_Urine]] | `Komputasi Biomedik` | `wikilink` |
+| [[01_Lab_Diagnostics_Blood_Urine]] | `Complete Blood Count` | `wikilink` |
+| [[01_Lab_Diagnostics_Blood_Urine]] | `Hemoglobin` | `wikilink` |
+| [[01_Lab_Diagnostics_Blood_Urine]] | `Leukemia` | `wikilink` |
+| [[01_Lab_Diagnostics_Blood_Urine]] | `Malaria` | `wikilink` |
+| [[01_Lab_Diagnostics_Blood_Urine]] | `Urinalysis` | `wikilink` |
+| [[01_Lab_Diagnostics_Blood_Urine]] | `Machine Learning` | `wikilink` |
+| [[01_Lab_Diagnostics_Blood_Urine]] | `Computer Vision` | `wikilink` |
+| [[01_Lab_Diagnostics_Blood_Urine]] | `Komputasi Biomedik` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `Foto Rontgen` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `CT Scan` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `Fluoroskopi` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `Ultrasonografi` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `MRI` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `Endoskopi` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `Foto Rontgen` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `Pneumonia` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `Tuberkulosis` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `Zat Kontras` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `COVID-19` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `Ultrasonografi` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `CT Scan` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `Stroke` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `MRI` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `Gadolinium` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `Penyakit Parkinson` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `Fluoroskopi` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `Endoskopi` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `Gastritis` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `Tukak Lambung` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `GERD` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `Disfagia` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `Kanker Lambung` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `Barium` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `Iodium` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `Iodium` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `Gadolinium` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `Iodium` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `Barium` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `Tuberkulosis` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `Pneumonia` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `Stroke` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `Penyakit Parkinson` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `Gastritis` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `Tukak Lambung` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `GERD` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `Disfagia` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `STEMI` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `Stroke Iskemik` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `Pendarahan Intrakranial` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `Penyakit Parkinson` | `wikilink` |
+| [[03_Medical_Imaging_Radiology]] | `COVID-19` | `wikilink` |
+| [[02_Bioelectric_Signals_ECG_EEG_EMG]] | `Fluoroskopi` | `wikilink` |
+| [[02_Bioelectric_Signals_ECG_EEG_EMG]] | `Sinyal dan Sistem Biomedis` | `wikilink` |
+| [[04_Biomedical_Expert_Systems]] | `Kecerdasan Buatan` | `wikilink` |
+| [[04_Biomedical_Expert_Systems]] | `Knowledge Base` | `wikilink` |
+| [[04_Biomedical_Expert_Systems]] | `Acute Lymphoblastic Leukemia` | `wikilink` |
+| [[04_Biomedical_Expert_Systems]] | `Elektrokardiogram` | `wikilink` |
+| [[04_Biomedical_Expert_Systems]] | `Kecerdasan Buatan` | `wikilink` |
+| [[04_Biomedical_Expert_Systems]] | `Pemeriksaan Darah` | `wikilink` |
+| [[04_Biomedical_Expert_Systems]] | `Pemeriksaan Urine` | `wikilink` |
+| [[04_Biomedical_Expert_Systems]] | `Elektrokardiogram` | `wikilink` |
+| [[04_Biomedical_Expert_Systems]] | `Elektroensefalografi` | `wikilink` |
+| [[04_Biomedical_Expert_Systems]] | `Elektromiografi` | `wikilink` |
+| [[04_Biomedical_Expert_Systems]] | `Magnetic Resonance Imaging` | `wikilink` |
+| [[04_Biomedical_Expert_Systems]] | `Leukemia` | `wikilink` |
+| [[04_Biomedical_Expert_Systems]] | `Inference Engine` | `wikilink` |
+| [[04_Biomedical_Expert_Systems]] | `Knowledge Base` | `wikilink` |
+| [[04_Biomedical_Expert_Systems]] | `Clinical Decision Support System` | `wikilink` |
+| [[04_Biomedical_Expert_Systems]] | `Elektrokardiogram` | `wikilink` |
+| [[04_Biomedical_Expert_Systems]] | `Magnetic Resonance Imaging` | `wikilink` |
+| [[04_Biomedical_Expert_Systems]] | `Pemeriksaan Darah` | `wikilink` |
+| [[04_Biomedical_Expert_Systems]] | `Pemeriksaan Urine` | `wikilink` |
 | [[Low Rank Factorization and LoRA Mechanics]] | `Low-Rank Adaptation` | `frontmatter_promoted_to` |
 | [[Knowledge Distillation and Teacher Student Optimization]] | `Knowledge Distillation` | `frontmatter_promoted_to` |
 | [[Perencanaan Usaha Kerajinan Limbah Bangun Datar]] | `Ide dan Peluang Usaha Limbah Bangun Datar` | `wikilink` |
@@ -88,6 +207,7 @@
 
 ## 🕳️ Orphan Pages (Disconnected Nodes)
 These files have no incoming or outgoing links:
+- [[Soal_Deret_Aritmatika_dan_Geometri_SMP]] (`10 Spaces/12 Teaching/40 Practice/Mathematics/07 Pola Bilangan/Soal_Deret_Aritmatika_dan_Geometri_SMP.md`)
 - [[LKPD Kaidah Pencacahan dan Kombinatorika SMA]] (`10 Spaces/12 Teaching/40 Practice/Mathematics/03 Peluang dan Kombinatorika/LKPD Kaidah Pencacahan dan Kombinatorika SMA.md`)
 - [[LKPD Teori Peluang dan Kejadian Majemuk SMA]] (`10 Spaces/12 Teaching/40 Practice/Mathematics/03 Peluang dan Kombinatorika/LKPD Teori Peluang dan Kejadian Majemuk SMA.md`)
 - [[Lagrange Interpolation]] (`20 Brain Atlas/10 Library/Mathematics/02 Numerical Methods/Lagrange Interpolation.md`)

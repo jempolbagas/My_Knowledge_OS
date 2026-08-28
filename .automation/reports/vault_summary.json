@@ -8,16 +8,18 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-08-25T10:52:38Z"
+    "generated_at": "2026-08-28T09:38:42Z"
   },
   "stats": {
-    "total_notes": 234,
-    "total_edges": 1138,
-    "broken_links": 82,
-    "untyped_notes": 67,
-    "health_score": 66.2
+    "total_notes": 247,
+    "total_edges": 1311,
+    "broken_links": 201,
+    "untyped_notes": 68,
+    "health_score": 61.4
   },
-  "inbox": [],
+  "inbox": [
+    "biocomp-pertemuan-2"
+  ],
   "spaces": {
     "Teaching": {
       "Languages": [
@@ -26,11 +28,17 @@
         "LKPD Parts of Speech SMP",
         "LKPD Simple Past Tense SMP",
         "LKPD Simple Present vs Present Continuous SMP",
+        "LKPD_Simple_Present_Tense_SMA",
+        "Soal_Simple_Present_Tense_SMA",
         "LKPD Narrative Text SMP",
         "LKPD Functional Texts SMP",
         "LKPD Descriptive Text SMP",
         "Parts of Speech SMP",
         "Simple Past Tense SMP",
+        "Simple_Present_Tense_Master_SMA",
+        "Fondasi_Verbal_dan_Nominal_SMA",
+        "Advanced_Usage_dan_Nuansa_Khusus_SMA",
+        "Suffix_Rules_dan_Adverbs_of_Frequency_SMA",
         "Future_Perfect_SMA",
         "Past_Perfect_SMA",
         "Present_Perfect_SMA",
@@ -57,6 +65,7 @@
         "Gaya Tegangan Tali dan Katrol SMA"
       ],
       "Mathematics": [
+        "Soal_Deret_Aritmatika_dan_Geometri_SMP",
         "Soal Pola Bilangan Paket B SMP",
         "LKPD Pola Bilangan SMP",
         "Soal Suku Banyak SMA Level 1 Fondasi",
@@ -71,8 +80,8 @@
         "LKPD Teori Peluang dan Kejadian Majemuk SMA",
         "Soal Transformasi Geometri SMA",
         "LKPD Transformasi Geometri SMA",
-        "LKPD Fungsi Invers SMA",
-        "Soal Fungsi Invers SMA",
+        "Soal Fungsi Komposisi dan Invers SMA",
+        "LKPD Fungsi Komposisi dan Invers SMA",
         "Ringkasan_PSTS_Matematika_Kelas_8_SMP",
         "Pola Bilangan SMP",
         "Suku Banyak Polinomial SMA",
@@ -95,7 +104,7 @@
         "Invers Fungsi Komposisi dan Aplikasi SMA",
         "Teknik Invers Fungsi Aljabar SMA",
         "Konsep Dasar dan Syarat Invers SMA",
-        "Fungsi Invers SMA"
+        "Fungsi Komposisi dan Invers SMA"
       ],
       "Biology": [
         "LKPD Pengenalan Sel SMP",
@@ -144,6 +153,13 @@
         "Week 05 Laplace Transformation Notes",
         "Week 05 Laplace Transformation Drills",
         "Week 05 Laplace Transformation Cheatsheet"
+      ],
+      "Week 02 Diagnostic Modalities Data Acquisition": [
+        "00_Week_02_Hub",
+        "01_Lab_Diagnostics_Blood_Urine",
+        "03_Medical_Imaging_Radiology",
+        "02_Bioelectric_Signals_ECG_EEG_EMG",
+        "04_Biomedical_Expert_Systems"
       ]
     }
   },
@@ -231,6 +247,7 @@
   },
   "maintenance": {
     "orphan_pages_sample": [
+      "Soal_Deret_Aritmatika_dan_Geometri_SMP",
       "LKPD Kaidah Pencacahan dan Kombinatorika SMA",
       "LKPD Teori Peluang dan Kejadian Majemuk SMA",
       "Lagrange Interpolation",
