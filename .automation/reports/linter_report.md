@@ -50,6 +50,10 @@
 | [[Pendapatan Nasional SMA]] | `Materi Pendapatan Per Kapita\` | `wikilink` |
 | [[Pendapatan Nasional SMA]] | `Materi Distribusi Pendapatan\` | `wikilink` |
 | [[Pendapatan Nasional SMA]] | `LKPD dan Soal Pendapatan Nasional\` | `wikilink` |
+| [[Konsep_Dasar_Ekonomi_SMA]] | `Kelangkaan_dan_Biaya_Peluang_SMA\` | `wikilink` |
+| [[Konsep_Dasar_Ekonomi_SMA]] | `Metodologi_dan_Prinsip_Ekonomi_SMA\` | `wikilink` |
+| [[Konsep_Dasar_Ekonomi_SMA]] | `Masalah_Pokok_dan_Sistem_Ekonomi_SMA\` | `wikilink` |
+| [[Konsep_Dasar_Ekonomi_SMA]] | `Soal_Konsep_Dasar_Ekonomi_SMA\` | `wikilink` |
 | [[Week 01 Introduction to DSP Notes]] | `Sinyal Waktu Diskrit` | `wikilink` |
 | [[Week 01 Introduction to DSP Notes]] | `Konversi Analog ke Digital ADC` | `wikilink` |
 | [[Week 01 Introduction to DSP Notes]] | `Aliasing Sinyal` | `wikilink` |

@@ -8,14 +8,14 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-08-28T09:38:42Z"
+    "generated_at": "2026-08-29T11:23:47Z"
   },
   "stats": {
-    "total_notes": 247,
-    "total_edges": 1311,
-    "broken_links": 201,
+    "total_notes": 252,
+    "total_edges": 1353,
+    "broken_links": 205,
     "untyped_notes": 68,
-    "health_score": 61.4
+    "health_score": 62.0
   },
   "inbox": [
     "biocomp-pertemuan-2"
@@ -129,11 +129,16 @@
         "Litosfer Tenaga Endogen dan Eksogen SMA"
       ],
       "Economics": [
+        "Soal_Konsep_Dasar_Ekonomi_SMA",
         "LKPD Pendapatan Nasional SMA",
         "Pendapatan Per Kapita SMA",
         "Distribusi Pendapatan SMA",
         "Pendapatan Nasional SMA",
-        "Konsep Pendapatan Nasional SMA"
+        "Konsep Pendapatan Nasional SMA",
+        "Konsep_Dasar_Ekonomi_SMA",
+        "Masalah_Pokok_dan_Sistem_Ekonomi_SMA",
+        "Kelangkaan_dan_Biaya_Peluang_SMA",
+        "Metodologi_dan_Prinsip_Ekonomi_SMA"
       ]
     },
     "College": {

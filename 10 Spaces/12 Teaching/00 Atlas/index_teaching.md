@@ -105,10 +105,17 @@ Selamat datang di Teaching Resources Hub! Halaman ini mengorganisir seluruh mate
 ## 📈 Economics
 
 ### 📚 Materi Ajar (Sources)
+- 🏠 [[Kelangkaan_dan_Biaya_Peluang_SMA]] — Kelangkaan, Pilihan, dan Biaya Peluang (Opportunity Cost)
+  - 📄 [[Konsep_Dasar_Ekonomi_SMA]] — Konsep Dasar Ilmu Ekonomi — Fondasi Pengambilan Keputusan & Sistem Alokasi
+  - 📄 [[Masalah_Pokok_dan_Sistem_Ekonomi_SMA]] — Masalah Pokok Ekonomi dan Sistem Perekonomian
+  - 📄 [[Metodologi_dan_Prinsip_Ekonomi_SMA]] — Metodologi, Cabang, dan Prinsip Berpikir Ekonomis
 - 🏠 [[Distribusi Pendapatan SMA]] — Distribusi Pendapatan & Ketimpangan Ekonomi
   - 📄 [[Konsep Pendapatan Nasional SMA]] — Konsep & Metode Perhitungan Pendapatan Nasional
   - 📄 [[Pendapatan Nasional SMA]] — Materi Ajar Master Dashboard: Pendapatan Nasional
   - 📄 [[Pendapatan Per Kapita SMA]] — PDB Riil & Pendapatan Per Kapita
+
+### 📝 Lembar Kerja (Practice)
+- [[Soal_Konsep_Dasar_Ekonomi_SMA]]
 
 ---
 
