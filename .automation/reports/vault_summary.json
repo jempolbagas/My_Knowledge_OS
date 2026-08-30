@@ -8,11 +8,11 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-08-29T11:23:47Z"
+    "generated_at": "2026-08-30T10:52:55Z"
   },
   "stats": {
     "total_notes": 252,
-    "total_edges": 1353,
+    "total_edges": 1355,
     "broken_links": 205,
     "untyped_notes": 68,
     "health_score": 62.0

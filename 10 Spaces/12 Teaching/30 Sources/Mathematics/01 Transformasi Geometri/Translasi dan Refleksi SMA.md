@@ -97,32 +97,15 @@ Refleksi memindahkan setiap titik pada bidang menggunakan sifat cermin datar:
 
 Berikut adalah 7 jenis pencerminan standar beserta matriks transformasinya:
 
-```
-┌──────────────────────────────────────┬───────────────────────────────┬──────────────────────────────────────────┐
-│ Jenis Pencerminan (Cermin)           │ Matriks Transformasi (M)      │ Hubungan Koordinat Bayangan              │
-├──────────────────────────────────────┼───────────────────────────────┼──────────────────────────────────────────┤
-│ Terhadap Sumbu X (y = 0)             │ ┌──  1   0 ──┐                │ x' = x                                   │
-│                                      │ └──  0  -1 ──┘                │ y' = -y                                  │
-├──────────────────────────────────────┼───────────────────────────────┼──────────────────────────────────────────┤
-│ Terhadap Sumbu Y (x = 0)             │ ┌── -1   0 ──┐                │ x' = -x                                  │
-│                                      │ └──  0   1 ──┘                │ y' = y                                   │
-├──────────────────────────────────────┼───────────────────────────────┼──────────────────────────────────────────┤
-│ Terhadap Garis y = x                 │ ┌──  0   1 ──┐                │ x' = y                                   │
-│                                      │ └──  1   0 ──┘                │ y' = x                                   │
-├──────────────────────────────────────┼───────────────────────────────┼──────────────────────────────────────────┤
-│ Terhadap Garis y = -x                │ ┌──  0  -1 ──┐                │ x' = -y                                  │
-│                                      │ └── -1   0 ──┘                │ y' = -x                                  │
-├──────────────────────────────────────┼───────────────────────────────┼──────────────────────────────────────────┤
-│ Terhadap Titik Asal O(0,0)           │ ┌── -1   0 ──┐                │ x' = -x                                  │
-│                                      │ └──  0  -1 ──┘                │ y' = -y                                  │
-├──────────────────────────────────────┼───────────────────────────────┼──────────────────────────────────────────┤
-│ Terhadap Garis x = h                 │ Non-Matriks Tunggal           │ x' = 2h - x                              │
-│                                      │                               │ y' = y                                   │
-├──────────────────────────────────────┼───────────────────────────────┼──────────────────────────────────────────┤
-│ Terhadap Garis y = k                 │ Non-Matriks Tunggal           │ x' = x                                   │
-│                                      │                               │ y' = 2k - y                              │
-└──────────────────────────────────────┴───────────────────────────────┴──────────────────────────────────────────┘
-```
+| Jenis Pencerminan (Cermin) | Matriks Transformasi ($M$) | Hubungan Koordinat Bayangan |
+| :--- | :---: | :--- |
+| **Terhadap Sumbu $X$ ($y = 0$)** | $\begin{pmatrix} 1 & 0 \\ 0 & -1 \end{pmatrix}$ | $x' = x, \quad y' = -y$ |
+| **Terhadap Sumbu $Y$ ($x = 0$)** | $\begin{pmatrix} -1 & 0 \\ 0 & 1 \end{pmatrix}$ | $x' = -x, \quad y' = y$ |
+| **Terhadap Garis $y = x$** | $\begin{pmatrix} 0 & 1 \\ 1 & 0 \end{pmatrix}$ | $x' = y, \quad y' = x$ |
+| **Terhadap Garis $y = -x$** | $\begin{pmatrix} 0 & -1 \\ -1 & 0 \end{pmatrix}$ | $x' = -y, \quad y' = -x$ |
+| **Terhadap Titik Asal $O(0,0)$** | $\begin{pmatrix} -1 & 0 \\ 0 & -1 \end{pmatrix}$ | $x' = -x, \quad y' = -y$ |
+| **Terhadap Garis $x = h$** | *Non-Matriks Tunggal* | $x' = 2h - x, \quad y' = y$ |
+| **Terhadap Garis $y = k$** | *Non-Matriks Tunggal* | $x' = x, \quad y' = 2k - y$ |
 
 > **Formulasi Umum Matriks Refleksi:**
 > $$\begin{pmatrix} x' \\ y' \end{pmatrix} = M \begin{pmatrix} x \\ y \end{pmatrix}$$

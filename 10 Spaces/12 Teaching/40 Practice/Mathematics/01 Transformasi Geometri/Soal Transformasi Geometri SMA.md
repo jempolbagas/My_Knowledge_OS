@@ -235,10 +235,9 @@ b. Tentukan posisi asimtot datar grafik sinyal setelah seluruh transformasi dila
 10. **Jawaban: A (Rotasi $180^\circ$ terhadap pusat $(1, 3)$)**  
     Komposisi dua refleksi garis tegak lurus $y = 3$ dan $x = 1$ ekivalen dengan rotasi $180^\circ$ berpusat di titik potong $(1, 3)$.
 
-11. **Jawaban: B ($y = -x^2 - 7x - 10$)**  
-    * Digeser ke kiri $2$ satuan $\implies y_1 = f(x + 2) = (x + 2)^2 - 3(x + 2) = x^2 + 4x + 4 - 3x - 6 = x^2 + x - 2$.
-    * Dicerminkan sumbu-X $\implies y = -y_1 = -(x^2 + x - 2) = -x^2 - x + 2$.  
-    *(Koreksi Opsi C: $y = -x^2 - x + 2$ sesuai perhitungan).*
+11. **Jawaban: A ($y = -x^2 - x + 2$)**  
+   * Digeser ke kiri $2$ satuan $\implies y_1 = f(x + 2) = (x + 2)^2 - 3(x + 2) = x^2 + 4x + 4 - 3x - 6 = x^2 + x - 2$.
+   * Dicerminkan sumbu-X $\implies y = -y_1 = -(x^2 + x - 2) = -x^2 - x + 2$.  
 
 12. **Jawaban: A ($y = \frac{3}{7}x - \frac{4}{7}$)**  
     $\begin{pmatrix} x' \\ y' \end{pmatrix} = \begin{pmatrix} 1 & 2 \\ 0 & 1 \end{pmatrix}\begin{pmatrix} x \\ y \end{pmatrix} \implies y' = y$ dan $x' = x + 2y \implies x = x' - 2y'$.  

@@ -53,15 +53,7 @@ Dalam sebuah game arena pertarungan online, seorang hero bernama **Zilong** bera
 1. Zilong menggunakan skill pergeseran instan (translasi) $T_1 = \begin{pmatrix} 6 \\ 2 \end{pmatrix}$.
 2. Setelah itu, musuh melontarkan mantra cermin bayangan yang mencerminkan posisi Zilong terhadap garis $y = x$.
 
-```
-    [Koordinat Awal Zilong: A(-4, 3)]
-                    │
-                    ▼  (Translasi T1 = [6, 2]^T)
-    [Koordinat Posisi Ke-2: A'(..., ...)]
-                    │
-                    ▼  (Refleksi terhadap garis y = x)
-    [Koordinat Akhir Bayangan: A''(..., ...)]
-```
+![[diagram_mathematics_transformasi_geometri_hero_pipeline.webp]]
 
 ### Pertanyaan & Tugas Diskusi:
 1. **Langkah 1 (Translasi):** Tentukan koordinat titik $A'$ setelah dikena translasi $T_1$!

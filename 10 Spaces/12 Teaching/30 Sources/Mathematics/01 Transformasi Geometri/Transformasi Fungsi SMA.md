@@ -39,16 +39,12 @@ Ketika persamaan fungsi diubah strukturnya—misalnya dari $f(x)$ menjadi $f(x -
 
 Translasi mengubah posisi grafik fungsi sejauh $a$ satuan secara horizontal dan $b$ satuan secara vertikal tanpa mengubah bentuk grafik dasarnya.
 
-```
-┌──────────────────────────────────────┬───────────────────────────────┬──────────────────────────────────────────┐
-│ Jenis Pergeseran                     │ Persamaan Fungsi Baru         │ Arah Pergeseran Grafik                   │
-├──────────────────────────────────────┼───────────────────────────────┼──────────────────────────────────────────┤
-│ Pergeseran Horizontal (Ke Kanan)     │ y = f(x - a)                  │ Bergeser sejauh a satuan ke kanan        │
-│ Pergeseran Horizontal (Ke Kiri)      │ y = f(x + a)                  │ Bergeser sejauh a satuan ke kiri         │
-│ Pergeseran Vertikal (Ke Atas)        │ y = f(x) + b                  │ Bergeser sejauh b satuan ke atas         │
-│ Pergeseran Vertikal (Ke Bawah)       │ y = f(x) - b                  │ Bergeser sejauh b satuan ke bawah        │
-└──────────────────────────────────────┴───────────────────────────────┴──────────────────────────────────────────┘
-```
+| Jenis Pergeseran | Persamaan Fungsi Baru | Arah Pergeseran Grafik |
+| :--- | :---: | :--- |
+| **Pergeseran Horizontal (Ke Kanan)** | $y = f(x - a)$ | Bergeser sejauh $a$ satuan ke kanan |
+| **Pergeseran Horizontal (Ke Kiri)** | $y = f(x + a)$ | Bergeser sejauh $a$ satuan ke kiri |
+| **Pergeseran Vertikal (Ke Atas)** | $y = f(x) + b$ | Bergeser sejauh $b$ satuan ke atas |
+| **Pergeseran Vertikal (Ke Bawah)** | $y = f(x) - b$ | Bergeser sejauh $b$ satuan ke bawah |
 
 > **Bentuk Gabungan Translasi Fungsi:**
 > Jika grafik $y = f(x)$ ditranslasikan oleh vektor $T = \begin{pmatrix} a \\ b \end{pmatrix}$, maka persamaan bayangan barunya adalah:

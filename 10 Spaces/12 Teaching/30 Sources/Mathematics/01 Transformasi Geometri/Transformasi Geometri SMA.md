@@ -29,7 +29,9 @@ tags:
 
 ## 🗺️ Peta Ringkasan Pembelajaran
 
-Secara umum, Transformasi Geometri dibagi menjadi lima jenis kelompok pembahasan utama:
+![[mindmap_mathematics_transformasi_geometri_overview.webp]]
+
+Secara umum, Transformasi Geometri dibagi menjadi beberapa kelompok pembahasan utama:
 
 1. **Translasi (Pergeseran):** Menggeser posisi titik/bangun sejauh vektor tertentu tanpa mengubah ukuran atau bentuk.
 2. **Refleksi (Pencerminan):** Memindahkan titik/bangun dengan sifat cermin datar terhadap garis/titik acuan.

@@ -38,17 +38,10 @@ Selain itu, modul ini juga membedah formulasi matriks untuk **pencerminan terhad
 
 Regangan adalah transformasi matriks yang "menarik" atau "menekan" objek hanya searah salah satu sumbu koordinat dengan faktor skala $k$, sementara koordinat sumbu lainnya tidak berubah.
 
-```
-┌──────────────────────────────────────┬───────────────────────────────┬──────────────────────────────────────────┐
-│ Arah Regangan                        │ Matriks Transformasi (M)      │ Hubungan Bayangan Koordinat              │
-├──────────────────────────────────────┼───────────────────────────────┼──────────────────────────────────────────┤
-│ Searah Sumbu X                       │ ┌──  k   0 ──┐                │ x' = k · x                               │
-│                                      │ └──  0   1 ──┘                │ y' = y                                   │
-├──────────────────────────────────────┼───────────────────────────────┼──────────────────────────────────────────┤
-│ Searah Sumbu Y                       │ ┌──  1   0 ──┐                │ x' = x                                   │
-│                                      │ └──  0   k ──┘                │ y' = k · y                               │
-└──────────────────────────────────────┴───────────────────────────────┴──────────────────────────────────────────┘
-```
+| Arah Regangan | Matriks Transformasi ($M$) | Hubungan Bayangan Koordinat |
+| :--- | :---: | :--- |
+| **Searah Sumbu $X$ (Skala $k$)** | $\begin{pmatrix} k & 0 \\ 0 & 1 \end{pmatrix}$ | $x' = k \cdot x, \quad y' = y$ |
+| **Searah Sumbu $Y$ (Skala $k$)** | $\begin{pmatrix} 1 & 0 \\ 0 & k \end{pmatrix}$ | $x' = x, \quad y' = k \cdot y$ |
 
 > **Perbedaannya dengan Dilatasi:**
 > Dilatasi mengubah koordinat $x$ dan $y$ secara bersamaan ($\begin{pmatrix} k & 0 \\ 0 & k \end{pmatrix}$), sedangkan Regangan hanya mengubah satu arah aksis saja.
@@ -76,17 +69,10 @@ Luas Bayangan $L' = 6 \times 3 = 18$ satuan luas (luas awal $L = 9$, $\det(M) = 
 
 Guntingan adalah transformasi yang menggeser titik-titik sejajar dengan suatu sumbu koordinat proporsional terhadap jarak titik tersebut ke sumbu aksisnya, seolah-olah bidang datar "dipotong dan dimiringkan".
 
-```
-┌──────────────────────────────────────┬───────────────────────────────┬──────────────────────────────────────────┐
-│ Arah Guntingan                       │ Matriks Transformasi (M)      │ Hubungan Bayangan Koordinat              │
-├──────────────────────────────────────┼───────────────────────────────┼──────────────────────────────────────────┤
-│ Searah Sumbu X (Faktor Scale k)      │ ┌──  1   k ──┐                │ x' = x + k · y                           │
-│                                      │ └──  0   1 ──┘                │ y' = y                                   │
-├──────────────────────────────────────┼───────────────────────────────┼──────────────────────────────────────────┤
-│ Searah Sumbu Y (Faktor Scale k)      │ ┌──  1   0 ──┐                │ x' = x                                   │
-│                                      │ └──  k   1 ──┘                │ y' = y + k · x                           │
-└──────────────────────────────────────┴───────────────────────────────┴──────────────────────────────────────────┘
-```
+| Arah Guntingan | Matriks Transformasi ($M$) | Hubungan Bayangan Koordinat |
+| :--- | :---: | :--- |
+| **Searah Sumbu $X$ (Faktor Skala $k$)** | $\begin{pmatrix} 1 & k \\ 0 & 1 \end{pmatrix}$ | $x' = x + k \cdot y, \quad y' = y$ |
+| **Searah Sumbu $Y$ (Faktor Skala $k$)** | $\begin{pmatrix} 1 & 0 \\ k & 1 \end{pmatrix}$ | $x' = x, \quad y' = y + k \cdot x$ |
 
 > **Sifat Unik Guntingan (Determinant = 1):**
 > Perhatikan bahwa $\det(M) = (1)(1) - (0)(k) = 1$. Artinya, **guntingan tidak mengubah luas bidang datar** ($L' = L$), melainkan hanya mengubah kemiringan/sudutnya!
