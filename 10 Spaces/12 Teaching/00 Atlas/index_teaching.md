@@ -40,7 +40,6 @@ Selamat datang di Teaching Resources Hub! Halaman ini mengorganisir seluruh mate
   - 📄 [[Functional Texts SMP]] — Materi Ajar Bahasa Inggris SMP - Short Functional Texts
   - 📄 [[Narrative Text SMP]] — Materi Ajar Bahasa Inggris: Narrative Text
 - 🏠 [[Parts of Speech SMP]] — Materi Parts of Speech Bahasa Inggris
-  - 📄 [[Simple Past Tense SMP]] — Simple Past Tense (Santai & Bilingual)
 
 ---
 

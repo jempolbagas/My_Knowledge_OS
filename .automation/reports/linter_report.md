@@ -3,17 +3,40 @@
 ## 🔗 Broken Links
 | File | Broken Link Target | Context |
 | --- | --- | --- |
+| [[Soal_Perfect_Tenses_SMA]] | `Perfect_Tenses_SMA` | `wikilink` |
+| [[Soal_Perfect_Tenses_SMA]] | `Present_Perfect_SMA` | `wikilink` |
+| [[Soal_Perfect_Tenses_SMA]] | `Past_Perfect_SMA` | `wikilink` |
+| [[Soal_Perfect_Tenses_SMA]] | `Future_Perfect_SMA` | `wikilink` |
+| [[Soal_Perfect_Tenses_SMA]] | `Perfect_Continuous_SMA` | `wikilink` |
+| [[Soal_Perfect_Tenses_SMA]] | `Comparative_Tenses_Matrix_SMA` | `wikilink` |
+| [[Soal_Perfect_Tenses_SMA]] | `Perfect_Tenses_SMA` | `wikilink` |
+| [[Soal_Perfect_Tenses_SMA]] | `Comparative_Tenses_Matrix_SMA` | `wikilink` |
+| [[LKPD_Perfect_Tenses_SMA]] | `Perfect_Tenses_SMA` | `wikilink` |
+| [[LKPD_Perfect_Tenses_SMA]] | `Present_Perfect_SMA` | `wikilink` |
+| [[LKPD_Perfect_Tenses_SMA]] | `Past_Perfect_SMA` | `wikilink` |
+| [[LKPD_Perfect_Tenses_SMA]] | `Future_Perfect_SMA` | `wikilink` |
+| [[LKPD_Perfect_Tenses_SMA]] | `Perfect_Continuous_SMA` | `wikilink` |
+| [[LKPD_Perfect_Tenses_SMA]] | `Comparative_Tenses_Matrix_SMA` | `wikilink` |
+| [[LKPD_Perfect_Tenses_SMA]] | `Perfect_Tenses_SMA` | `wikilink` |
+| [[LKPD_Perfect_Tenses_SMA]] | `Comparative_Tenses_Matrix_SMA` | `wikilink` |
+| [[LKPD Simple Present vs Present Continuous SMP]] | `Simple Past Tense SMP` | `wikilink` |
 | [[LKPD Simple Present vs Present Continuous SMP]] | `[ESL] Present Continuous Tense` | `wikilink` |
 | [[Soal Fungsi Komposisi dan Invers SMA]] | `Fungsi Invers SMA` | `wikilink` |
 | [[Soal Fungsi Komposisi dan Invers SMA]] | `LKPD Fungsi Invers SMA` | `wikilink` |
 | [[LKPD Fungsi Komposisi dan Invers SMA]] | `Fungsi Invers SMA` | `wikilink` |
 | [[LKPD Fungsi Komposisi dan Invers SMA]] | `Soal Fungsi Invers SMA` | `wikilink` |
+| [[index teaching]] | `Simple Past Tense SMP` | `wikilink` |
 | [[index teaching]] | `Fungsi Invers SMA` | `wikilink` |
 | [[Simple_Present_Tense_Master_SMA]] | `Fondasi_Verbal_dan_Nominal_SMA\` | `wikilink` |
 | [[Simple_Present_Tense_Master_SMA]] | `Suffix_Rules_dan_Adverbs_of_Frequency_SMA\` | `wikilink` |
 | [[Simple_Present_Tense_Master_SMA]] | `Advanced_Usage_dan_Nuansa_Khusus_SMA\` | `wikilink` |
 | [[Simple_Present_Tense_Master_SMA]] | `LKPD_Simple_Present_Tense_SMA\` | `wikilink` |
 | [[Simple_Present_Tense_Master_SMA]] | `Soal_Simple_Present_Tense_SMA\` | `wikilink` |
+| [[Simple_Past_Tense_Master_SMA]] | `Fondasi_Verbal_dan_Nominal_SMA\` | `wikilink` |
+| [[Simple_Past_Tense_Master_SMA]] | `Morfologi_Verb2_dan_Fonetik_Ed_SMA\` | `wikilink` |
+| [[Simple_Past_Tense_Master_SMA]] | `Advanced_Usage_dan_Nuansa_Khusus_SMA\` | `wikilink` |
+| [[Simple_Past_Tense_Master_SMA]] | `LKPD_Simple_Past_Tense_SMA\` | `wikilink` |
+| [[Simple_Past_Tense_Master_SMA]] | `Soal_Simple_Past_Tense_SMA\` | `wikilink` |
 | [[Suku Banyak Polinomial SMA]] | `Konsep_dan_Kesamaan_Polinomial_SMA\` | `wikilink` |
 | [[Suku Banyak Polinomial SMA]] | `Metode_Horner_dan_Operasi_SMA\` | `wikilink` |
 | [[Suku Banyak Polinomial SMA]] | `Teorema_Sisa_dan_Faktor_SMA\` | `wikilink` |
