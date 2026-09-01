@@ -1,5 +1,5 @@
 ---
-title: "Materi Ajar Fisika: Gaya Gesek (Frictional Forces)"
+title: "Gaya Gesek Statis & Kinetis"
 level: sma
 target_audience: "SMA Kelas XI"
 created: 2026-08-05
@@ -14,7 +14,7 @@ tags:
   - stem
 ---
 
-# Gaya Gesek — Si Rem Alami yang Bikin Dunia Nggak Licin! 🛹🔥
+# Gaya Gesek Statis & Kinetis — Penghambat Gerak yang Menyelamatkan Hidup! 🛑👟
 
 > 📍 **Navigasi Modul Dinamika Gerak:**  
 > [[Dinamika Gerak SMA|🏠 Master Dashboard]] | [[Gaya Berat SMA|1. Gaya Berat]] | [[Gaya Normal SMA|2. Gaya Normal]] | **[3. Gaya Gesek]** | [[Gaya Tegangan Tali dan Katrol SMA|4. Tegangan Tali & Katrol]] | [[Gaya Sentripetal SMA|5. Gaya Sentripetal]] | 📝 [[LKPD Dinamika Gerak SMA|LKPD Terpadu]]

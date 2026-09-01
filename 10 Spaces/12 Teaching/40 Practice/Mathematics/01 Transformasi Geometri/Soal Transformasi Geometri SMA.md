@@ -1,5 +1,5 @@
 ---
-title: "Soal Evaluasi: Transformasi Geometri — Paket Latihan HOTS & Pembahasan"
+title: "Soal Evaluasi: Transformasi Geometri"
 type: "soal-evaluasi"
 subject: "Mathematics"
 level: "sma"

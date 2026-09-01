@@ -1,5 +1,5 @@
 ---
-title: "LKPD dan Soal Evaluasi: Gaya Normal dan Dinamika Gerak"
+title: "LKPD: Gaya Normal"
 level: sma
 target_audience: "SMA Kelas X / XI (Fisika)"
 created: 2026-08-04
@@ -9,7 +9,7 @@ sources:
 tags: [lkpd, soal-evaluasi, hots, fisika, dinamika-gerak]
 ---
 
-# Lembar Kerja Peserta Didik (LKPD) & Soal Evaluasi: Gaya Normal (Chill & Fun Edition)
+# Lembar Kerja Peserta Didik (LKPD): Gaya Normal 📝
 
 ---
 

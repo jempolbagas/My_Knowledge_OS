@@ -1,5 +1,5 @@
 ---
-title: "Konsep Dasar Ilmu Ekonomi — Fondasi Pengambilan Keputusan & Sistem Alokasi"
+title: "Konsep Dasar Ilmu Ekonomi — Master Guide & Navigasi Modul"
 type: master-dashboard
 subject: Economics
 level: sma
@@ -18,7 +18,7 @@ tags:
   - "utbk-snbt"
 ---
 
-# Konsep Dasar Ilmu Ekonomi — Seni Mengelola Kelangkaan & Mengambil Keputusan Rasional 🧭📈
+# Konsep Dasar Ilmu Ekonomi — Fondasi Pengambilan Keputusan & Alokasi Sumber Daya! 📊💡
 
 > [!abstract] **Executive Overview (Ringkasan Eksekutif)**
 > Ilmu ekonomi pada hakikatnya bukan semata-mata tentang uang atau pasar modal, melainkan studi tentang **perilaku manusia dalam menghadapi kelangkaan (*scarcity*)**. Manusia memiliki kebutuhan dan keinginan yang tidak terbatas (*unlimited wants*), sementara sumber daya (*resources*) yang tersedia untuk memenuhinya bersifat terbatas. Kesenjangan fundamental inilah yang memaksa setiap individu, perusahaan, hingga negara untuk melakukan **pilihan (*choice*)** dan menanggung **biaya peluang (*opportunity cost*)**. Master Dashboard ini menjadi pusat navigasi terpadu untuk menguasai fondasi ekonomi mikro-makro, metodologi berpikir kritis ekonomis, hingga komparasi sistem perekonomian dunia dan Indonesia.

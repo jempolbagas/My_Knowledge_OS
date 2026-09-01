@@ -1,5 +1,5 @@
 ---
-title: "Pola Bilangan dan Barisan Matematika — Rahasia Angka Ajaib!"
+title: "Pola Bilangan & Barisan — Rahasia Angka Ajaib"
 level: smp
 target_audience: "SMP Kelas VIII"
 created: 2026-08-05
@@ -14,7 +14,7 @@ tags:
   - "smp-kelas-8"
 ---
 
-# BAB 1: Pola Bilangan — Rahasia Keteraturan Angka di Alam Semesta! 🔢✨
+# Pola Bilangan & Barisan Matematika — Rahasia Angka Ajaib! 🔢✨
 
 Pernah terpikir nggak, kenapa susunan biji bunga matahari, kelopak bunga daisy, cangkang kerang Nautilus, sampai formasi kursi di bioskop atau tumpukan gelas di kafe bisa terlihat begitu rapi dan estetis? 
 

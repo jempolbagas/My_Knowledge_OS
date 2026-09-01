@@ -1,5 +1,5 @@
 ---
-title: "LKPD dan Soal Evaluasi: Pendapatan Nasional"
+title: "LKPD: Pendapatan Nasional"
 level: sma
 target_audience: "SMA Kelas XI"
 created: 2026-08-10
@@ -20,8 +20,7 @@ tags:
   - "economics"
 ---
 
-# LEMBAR KERJA PESERTA DIDIK (LKPD) & SOAL EVALUASI
-## Topik: Pendapatan Nasional (National Income)
+# Lembar Kerja Peserta Didik (LKPD): Pendapatan Nasional 📝
 
 > 📌 **Navigasi Materi Ajar:**  
 > [[Pendapatan Nasional SMA|🏠 Master Dashboard]] | [[Konsep Pendapatan Nasional SMA|Konsep & Metode]] | [[Pendapatan Per Kapita SMA|Pendapatan Per Kapita]] | [[Distribusi Pendapatan SMA|Distribusi Pendapatan]]

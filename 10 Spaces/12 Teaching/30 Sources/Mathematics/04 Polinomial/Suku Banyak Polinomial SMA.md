@@ -1,5 +1,5 @@
 ---
-title: "Master Dashboard: Suku Banyak (Polinomial)"
+title: "Suku Banyak (Polinomial) — Master Guide & Navigasi Modul"
 type: master-dashboard
 subject: Mathematics
 level: sma
@@ -15,7 +15,7 @@ tags:
   - dashboard
 ---
 
-# Master Dashboard: Menaklukkan Suku Banyak (Polinomial) 🚀
+# Suku Banyak (Polinomial) — Peta Navigasi Aljabar Derajat Tinggi! 📐✨
 
 Selamat datang di pusat komando materi **Polinomial (Suku Banyak)**! Topik ini seringkali menjadi momok karena melibatkan pangkat tinggi dan rumus yang tampak rumit. Namun dengan pengelompokan modul secara sistematis, kamu akan bisa membedah dan menyelesaikan soal-soal HOTS dengan sangat mudah.
 

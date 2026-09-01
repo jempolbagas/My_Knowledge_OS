@@ -1,5 +1,5 @@
 ---
-title: "Anatomi Organ & Enzim Pencernaan"
+title: "Anatomi Organ & Enzim Pencernaan — Sistem Pencernaan Manusia"
 type: materi
 subject: Biology
 level: smp
@@ -19,7 +19,7 @@ tags:
 > 📍 **Navigasi Modul Sistem Pencernaan:**  
 > [[Sistem Pencernaan Makanan SMP|🏠 Master Dashboard]] | **[Modul 1: Anatomi & Enzim]** | [[Nutrisi dan Gizi Remaja SMP|Modul 2: Nutrisi & IMT]] | [[LKPD Sistem Pencernaan Makanan SMP|📝 LKPD Terkait]]
 
-# Anatomi Organ & Enzim Pencernaan 🧬🦷
+# Anatomi Organ & Enzim Pencernaan — Mesin Kimiawi Pemecah Makanan! 🧬🦷
 
 Makanan yang kita konsumsi tidak dapat langsung diserap oleh sel tubuh dalam bentuk utuhnya. Makanan harus dipecah melalui saluran pencernaan yang melibatkan proses mekanis dan aksi bahan kimia (enzim).
 

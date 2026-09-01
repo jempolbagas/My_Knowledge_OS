@@ -1,5 +1,5 @@
 ---
-title: "Paket Soal Evaluasi: Suku Banyak (Polinomial) - Level 1 (Fondasi & Konsep Dasar)"
+title: "Soal Evaluasi: Suku Banyak (Polinomial) - Level 1 Fondasi"
 type: "soal-evaluasi"
 subject: "Mathematics"
 level: "sma"
@@ -28,7 +28,7 @@ tags:
 
 ---
 
-# Paket Soal Evaluasi (Level 1 - Fondasi & Konsep Dasar): Suku Banyak 🎯🌱
+# Paket Soal Evaluasi: Suku Banyak (Polinomial) — Level 1 Fondasi 🎯
 
 **Mata Pelajaran:** Matematika (Fase F / Kurikulum Merdeka)  
 **Tingkat Kesulitan:** Level 1 (Fondasi, Operasi Dasar, & Uji Pemahaman Konsep / LOTS-MOTS)  

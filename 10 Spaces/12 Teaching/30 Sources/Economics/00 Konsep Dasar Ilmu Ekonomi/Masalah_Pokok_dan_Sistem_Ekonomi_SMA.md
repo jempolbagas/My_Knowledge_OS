@@ -1,5 +1,5 @@
 ---
-title: "Masalah Pokok Ekonomi dan Sistem Perekonomian"
+title: "Masalah Pokok Ekonomi & Sistem Perekonomian Dunia"
 type: materi
 subject: Economics
 level: sma
@@ -23,7 +23,7 @@ tags:
 
 ---
 
-# Masalah Pokok Ekonomi dan Sistem Perekonomian — Menata Tata Kelola Alokasi Bangsa 🏛️🌐
+# Masalah Pokok Ekonomi & Sistem Perekonomian — Menjawab What, How, & For Whom! 🌍⚙️
 
 > [!abstract] **Ringkasan Inti Modul (Core Summary)**
 > Setiap peradaban manusia menghadapi tantangan mendasar yang sama: bagaimana mengalokasikan sumber daya yang langka untuk memenuhi kebutuhan warganya. Modul ini menelaah evolusi **Masalah Pokok Ekonomi**, mulai dari pandangan Klasik (Produksi, Distribusi, Konsumsi) hingga perumusan Modern Paul Samuelson (**What, How, For Whom**). Untuk menjawab ketiga pertanyaan tersebut, berbagai negara mengadopsi **Sistem Perekonomian** yang berbeda—mulai dari Tradisional, Komando, Pasar Bebas, hingga Campuran. Modul ini secara khusus mengkaji **Sistem Ekonomi Pancasila / Demokrasi Ekonomi Indonesia** berdasarkan UUD 1945 Pasal 33 dan sinergi tiga pilar (BUMN, BUMS, Koperasi).

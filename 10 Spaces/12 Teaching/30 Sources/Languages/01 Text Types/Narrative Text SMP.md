@@ -1,5 +1,5 @@
 ---
-title: "Materi Ajar Bahasa Inggris: Narrative Text"
+title: "Narrative Text — Storytelling, Structure, & Language Features"
 level: smp
 target_audience: "SMP Kelas 8 / SMA"
 created: 2026-08-10
@@ -14,7 +14,7 @@ tags:
   - modul-ajar
 ---
 
-# 📖 Modul & Materi Ajar: Narrative Text (Teks Naratif)
+# Narrative Text — Storytelling & Language Features Unlocked! 📖✨
 
 > **Bilah Navigasi Materi:**  
 > **Modul Utama (Materi Ajar)** | [[LKPD Narrative Text SMP|LKPD & Soal Evaluasi ➔]]

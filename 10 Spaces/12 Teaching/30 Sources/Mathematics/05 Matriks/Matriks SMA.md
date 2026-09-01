@@ -1,5 +1,5 @@
 ---
-title: "Materi Ajar Santai: Menaklukkan Matriks Tanpa Pusing"
+title: "Matriks — Konsep, Operasi Aljabar, Determinan, & Invers"
 level: sma
 type: teaching-material
 subject: Mathematics
@@ -18,7 +18,7 @@ tags:
   - matriks
 ---
 
-# Menaklukkan Matriks: Dari Konsep Dasar Sampai Invers tanpa Pusing! 🚀
+# Matriks — Menaklukkan Aljabar Linear dari Dasar Sampai Invers! 🚀🧮
 
 Halo teman-teman! Kalau denger kata **Matriks**, apa yang langsung terlintas di pikiranmu? Film fiksi ilmiah *The Matrix* yang ikonik itu? Atau tabel berisi tumpukan angka yang bikin dahi berkerut? 😄
 

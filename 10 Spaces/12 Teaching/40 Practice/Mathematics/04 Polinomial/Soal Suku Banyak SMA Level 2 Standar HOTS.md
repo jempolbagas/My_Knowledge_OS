@@ -1,5 +1,5 @@
 ---
-title: "Paket Soal Evaluasi: Suku Banyak (Polinomial) - Level 2 (Standar Sekolah & HOTS Medium)"
+title: "Soal Evaluasi: Suku Banyak (Polinomial) - Level 2 Standar HOTS"
 type: "soal-evaluasi"
 subject: "Mathematics"
 level: "sma"
@@ -28,7 +28,7 @@ tags:
 
 ---
 
-# Paket Soal Evaluasi (Level 2 - Standar Sekolah & HOTS Medium): Suku Banyak 🎯🔥
+# Paket Soal Evaluasi: Suku Banyak (Polinomial) — Level 2 Standar HOTS 🎯
 
 **Mata Pelajaran:** Matematika (Fase F / Kurikulum Merdeka)  
 **Tingkat Kesulitan:** Level 2 (Standar Ujian Sekolah, Analisis Aljabar, & HOTS Medium / MOTS-HOTS)  

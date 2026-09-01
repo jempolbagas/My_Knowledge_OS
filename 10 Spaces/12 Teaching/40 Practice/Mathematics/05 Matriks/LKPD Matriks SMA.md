@@ -1,5 +1,5 @@
 ---
-title: "LKPD & Latihan Soal Evaluasi: Matriks"
+title: "LKPD: Matriks"
 level: sma
 type: practice-material
 subject: Mathematics
@@ -15,7 +15,7 @@ tags:
   - matriks
 ---
 
-# Lembar Kerja Peserta Didik (LKPD) & Latihan Soal: Matriks 📊
+# Lembar Kerja Peserta Didik (LKPD): Matriks 📝
 
 **Nama Kelompok / Peserta Didik:** .....................................................  
 **Kelas:** XI (Sebelas)  

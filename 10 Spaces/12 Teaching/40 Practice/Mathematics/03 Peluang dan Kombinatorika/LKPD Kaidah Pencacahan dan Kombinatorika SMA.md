@@ -1,5 +1,5 @@
 ---
-title: "LKPD & Soal Evaluasi: Kaidah Pencacahan & Kombinatorika"
+title: "LKPD: Kaidah Pencacahan & Kombinatorika"
 level: sma
 target_audience: "SMA Kelas 12"
 created: 2026-08-09
@@ -15,7 +15,7 @@ tags:
   - binomial-newton
 ---
 
-# Lembar Kerja Peserta Didik (LKPD) & Soal Evaluasi: Kaidah Pencacahan & Kombinatorika 🎯
+# Lembar Kerja Peserta Didik (LKPD): Kaidah Pencacahan & Kombinatorika 📝
 
 **Mata Pelajaran:** Matematika (Wajib)  
 **Kelas / Semester:** XII / Ganjil  

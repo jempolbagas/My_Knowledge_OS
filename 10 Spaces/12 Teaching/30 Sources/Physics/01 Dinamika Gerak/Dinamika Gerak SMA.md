@@ -1,5 +1,5 @@
 ---
-title: "Dinamika Gerak Partikel (Hukum Newton & Integrasi Gaya)"
+title: "Dinamika Gerak Partikel — Master Guide & Integrasi Gaya"
 level: sma
 target_audience: "SMA Kelas XI"
 created: 2026-08-05
@@ -20,7 +20,7 @@ tags:
   - modul-terpadu
 ---
 
-# BAB 1: Dinamika Gerak Partikel — Mengapa Benda Bergerak, Diam, atau Berputar? 🚀🍎
+# Dinamika Gerak Partikel — Mengapa Benda Bergerak, Diam, atau Berputar? 🚀🍎
 
 > 📍 **Navigasi Modul Dinamika Gerak:**  
 > **[🏠 Master Dashboard]** | [[Gaya Berat SMA|1. Gaya Berat]] | [[Gaya Normal SMA|2. Gaya Normal]] | [[Gaya Gesek SMA|3. Gaya Gesek]] | [[Gaya Tegangan Tali dan Katrol SMA|4. Tegangan Tali & Katrol]] | [[Gaya Sentripetal SMA|5. Gaya Sentripetal]] | 📝 [[LKPD Dinamika Gerak SMA|LKPD Terpadu]]

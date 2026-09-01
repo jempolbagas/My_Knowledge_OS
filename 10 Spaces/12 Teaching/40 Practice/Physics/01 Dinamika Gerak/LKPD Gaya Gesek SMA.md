@@ -1,5 +1,5 @@
 ---
-title: "LKPD dan Soal Evaluasi Fisika: Gaya Gesek (Frictional Forces)"
+title: "LKPD: Gaya Gesek"
 level: sma
 target_audience: "SMA Kelas XI"
 created: 2026-08-05
@@ -14,7 +14,7 @@ tags:
   - stem
 ---
 
-# LKPD & Soal Evaluasi: Gaya Gesek — Si Rem Alami yang Bikin Dunia Nggak Licin! 🛹🔥
+# Lembar Kerja Peserta Didik (LKPD): Gaya Gesek 📝
 
 ---
 

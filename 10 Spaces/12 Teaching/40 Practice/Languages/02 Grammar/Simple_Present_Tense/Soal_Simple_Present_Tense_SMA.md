@@ -1,5 +1,5 @@
 ---
-title: "Soal Evaluasi: Simple Present Tense (Level 1 Fondasi hingga Level 3 HOTS)"
+title: "Soal Evaluasi: Simple Present Tense"
 type: soal-evaluasi
 subject: languages
 level: sma
@@ -21,7 +21,7 @@ tags:
   - "hots"
 ---
 
-# Paket Soal Evaluasi: Simple Present Tense (25 Butir HOTS) 🎯🏆
+# Paket Soal Evaluasi: Simple Present Tense 🎯
 
 > [[Simple_Present_Tense_Master_SMA|🏠 Master Dashboard]] · [[Fondasi_Verbal_dan_Nominal_SMA|Modul 1: Fondasi]] · [[Suffix_Rules_dan_Adverbs_of_Frequency_SMA|Modul 2: Suffix & Adverbs]] · [[Advanced_Usage_dan_Nuansa_Khusus_SMA|Modul 3: Advanced]] · [[LKPD_Simple_Present_Tense_SMA|📝 LKPD Praktik]] · **🎯 Paket Soal Evaluasi**
 

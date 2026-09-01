@@ -1,5 +1,5 @@
 ---
-title: "Soal Evaluasi: Simple Past Tense (Level 1 Fondasi hingga Level 3 HOTS)"
+title: "Soal Evaluasi: Simple Past Tense"
 type: soal-evaluasi
 subject: languages
 level: sma
@@ -21,7 +21,7 @@ tags:
   - "hots"
 ---
 
-# Paket Soal Evaluasi: Simple Past Tense (25 Butir HOTS) 🎯🏆
+# Paket Soal Evaluasi: Simple Past Tense 🎯
 
 > [[Simple_Past_Tense_Master_SMA|🏠 Master Dashboard]] · [[Fondasi_Verbal_dan_Nominal_SMA|Modul 1: Fondasi]] · [[Morfologi_Verb2_dan_Fonetik_Ed_SMA|Modul 2: Morfologi & Fonetik]] · [[Advanced_Usage_dan_Nuansa_Khusus_SMA|Modul 3: Advanced]] · [[LKPD_Simple_Past_Tense_SMA|📝 LKPD Praktik]] · **🎯 Paket Soal Evaluasi**
 

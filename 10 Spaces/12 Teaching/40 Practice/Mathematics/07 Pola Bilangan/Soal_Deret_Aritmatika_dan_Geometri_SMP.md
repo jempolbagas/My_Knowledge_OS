@@ -1,5 +1,5 @@
 ---
-title: "Soal Evaluasi Khusus Deret Aritmatika & Geometri Hingga SMP"
+title: "Soal Evaluasi: Deret Aritmatika & Geometri"
 type: soal-evaluasi
 subject: Mathematics
 level: smp
@@ -12,7 +12,7 @@ tags:
   - lkpd-soal
 ---
 
-# Paket Soal Evaluasi Khusus Deret (Penjumlahan Suku Hingga) SMP Kelas 8
+# Paket Soal Evaluasi: Deret Aritmatika & Geometri 🎯
 
 > **Catatan Pembatasan Materi:**
 > Paket soal ini **berfokus murni pada DERET HINGGA ($S_n$ Aritmatika dan $S_n$ Geometri)**. Tidak mencakup materi deret geometri tak hingga ($S_\infty$).

@@ -1,5 +1,5 @@
 ---
-title: "Metodologi, Cabang, dan Prinsip Berpikir Ekonomis"
+title: "Metodologi, Cabang, & Prinsip Berpikir Ekonomis"
 type: materi
 subject: Economics
 level: sma
@@ -24,7 +24,7 @@ tags:
 
 ---
 
-# Metodologi, Cabang, dan Prinsip Berpikir Ekonomis — Membedah Cara Kerja Pikiran Ekonom 🧠🔍
+# Metodologi & Prinsip Ekonomi — Cara Berpikir Rasional Ala Ekonom! 🧠📈
 
 > [!abstract] **Ringkasan Inti Modul (Core Summary)**
 > Menjadi pembelajar ekonomi bukan hanya menghafal definisi, melainkan melatih cara berpikir analitis (*thinking like an economist*). Modul ini mengulas pembagian cabang keilmuan ekonomi (Deskriptif, Teori, dan Terapan), membedah dikotomi klasik antara **Ekonomi Mikro** (analisis perilaku individual dan mekanisme pasar) dan **Ekonomi Makro** (analisis kinerja perekonomian agregat nasional), serta membedakan secara tegas antara analisis fakta objektif (**Ekonomi Positif**) dan pertimbangan nilai/kebijakan (**Ekonomi Normatif**). Selain itu, modul ini membedah **10 Prinsip Dasar Ekonomi Mankiw** dengan penekanan khusus pada *Marginal Thinking* ($MB \ge MC$) dan respons rasional terhadap insentif.

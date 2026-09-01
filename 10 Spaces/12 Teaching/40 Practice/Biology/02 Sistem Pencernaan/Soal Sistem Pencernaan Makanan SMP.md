@@ -1,5 +1,5 @@
 ---
-title: "Soal Evaluasi: Sistem Pencernaan Makanan (Enzim & Keterkaitan Organ)"
+title: "Soal Evaluasi: Sistem Pencernaan Makanan"
 level: smp
 target_audience: "SMP Kelas VIII"
 phase: "Fase D (Kurikulum Merdeka)"
@@ -19,7 +19,7 @@ tags:
   - hots
 ---
 
-# Paket Soal Evaluasi: Sistem Pencernaan Makanan 🧪🥗
+# Paket Soal Evaluasi: Sistem Pencernaan Makanan 🎯
 
 > 📍 **Navigasi Modul Sistem Pencernaan:**  
 > [[Sistem Pencernaan Makanan SMP|🏠 Materi Ajar Utama]] | [[LKPD Sistem Pencernaan Makanan SMP|📝 LKPD & Praktikum]] | **[🎯 Paket Soal Evaluasi Enzim & Keterkaitan Organ]**

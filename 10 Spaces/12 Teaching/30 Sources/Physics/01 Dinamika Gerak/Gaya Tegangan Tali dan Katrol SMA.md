@@ -1,5 +1,5 @@
 ---
-title: "Gaya Tegangan Tali & Sistem Katrol — Rahasia Kerja Ringan Beban Berat!"
+title: "Gaya Tegangan Tali & Sistem Katrol"
 level: sma
 target_audience: "SMA Kelas XI"
 created: 2026-08-05
@@ -16,7 +16,7 @@ tags:
   - "multi-body-dynamics"
 ---
 
-# BAB 1: Gaya Tegangan Tali & Katrol — Rahasia Kerja Ringan Beban Berat! 🏗️🪢
+# Gaya Tegangan Tali & Katrol — Mekanika Pengangkat Beban & Sambungan Tali! 🪢⚙️
 
 > 📍 **Navigasi Modul Dinamika Gerak:**  
 > [[Dinamika Gerak SMA|🏠 Master Dashboard]] | [[Gaya Berat SMA|1. Gaya Berat]] | [[Gaya Normal SMA|2. Gaya Normal]] | [[Gaya Gesek SMA|3. Gaya Gesek]] | **[4. Tegangan Tali & Katrol]** | [[Gaya Sentripetal SMA|5. Gaya Sentripetal]] | 📝 [[LKPD Dinamika Gerak SMA|LKPD Terpadu]]

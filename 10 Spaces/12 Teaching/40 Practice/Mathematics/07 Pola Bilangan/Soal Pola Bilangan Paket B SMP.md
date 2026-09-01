@@ -1,5 +1,5 @@
 ---
-title: "Soal Latihan Ulangan Harian (Paket B): Pola Bilangan dan Barisan Matematika"
+title: "Soal Evaluasi: Pola Bilangan & Barisan (Paket B)"
 level: smp
 target_audience: "SMP Kelas VIII"
 created: 2026-08-10
@@ -14,8 +14,7 @@ tags:
   - "smp-kelas-8"
 ---
 
-# SOAL LATIHAN ULANGAN HARIAN MATEMATIKA (PAKET B) 📐
-## MATERI: POLA BILANGAN DAN BARISAN MATEMATIKA (KELAS VIII SMP / KURIKULUM MERDEKA)
+# Paket Soal Evaluasi: Pola Bilangan & Barisan — Paket B 🎯
 
 ---
 

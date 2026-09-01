@@ -1,5 +1,5 @@
 ---
-title: "LKPD dan Soal Evaluasi: Tenaga Endogen Vulkanisme"
+title: "LKPD: Tenaga Endogen Vulkanisme"
 level: smp
 target_audience: "SMA Kelas X / SMP Kelas VIII"
 created: 2026-07-23
@@ -15,8 +15,7 @@ tags:
   - "social-studies"
 ---
 
-# LEMBAR KERJA PESERTA DIDIK (LKPD) & SOAL EVALUASI
-## Topik: Tenaga Endogen — Vulkanisme (Intrusi, Ekstrusi, & Bentuk Gunung Api)
+# Lembar Kerja Peserta Didik (LKPD): Tenaga Endogen Vulkanisme 📝
 
 ---
 

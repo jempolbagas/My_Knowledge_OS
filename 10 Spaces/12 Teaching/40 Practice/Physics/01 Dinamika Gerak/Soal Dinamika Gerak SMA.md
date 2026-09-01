@@ -1,5 +1,5 @@
 ---
-title: "Paket Soal Latihan Ulangan Fisika: Dinamika Gerak & Hukum Newton"
+title: "Soal Evaluasi: Dinamika Gerak Partikel"
 level: sma
 target_audience: "SMA Kelas XI"
 created: 2026-08-11
@@ -16,7 +16,7 @@ tags:
   - hots
 ---
 
-# Paket Soal Latihan Ulangan Harian Fisika: Dinamika Gerak (Hukum Newton)
+# Paket Soal Evaluasi: Dinamika Gerak Partikel 🎯
 
 > 📍 **Navigasi Modul Dinamika Gerak:**  
 > [[Dinamika Gerak SMA|🏠 Master Dashboard]] | [[LKPD Dinamika Gerak SMA|📝 LKPD Terpadu]] | **[🎯 Paket Soal Ulangan Harian]**

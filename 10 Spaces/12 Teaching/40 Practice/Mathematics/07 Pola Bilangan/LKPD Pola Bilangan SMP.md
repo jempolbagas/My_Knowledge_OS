@@ -1,5 +1,5 @@
 ---
-title: "LKPD dan Soal Evaluasi: Pola Bilangan dan Barisan Matematika — Petualangan Angka!"
+title: "LKPD: Pola Bilangan & Barisan"
 level: smp
 target_audience: "SMP Kelas VIII"
 created: 2026-08-10
@@ -15,8 +15,7 @@ tags:
   - "smp-kelas-8"
 ---
 
-# LEMBAR KERJA PESERTA DIDIK (LKPD) & SOAL EVALUASI 🧩
-## MATERI: POLA BILANGAN DAN BARISAN MATEMATIKA (KELAS VIII SMP / KURIKULUM MERDEKA)
+# Lembar Kerja Peserta Didik (LKPD): Pola Bilangan & Barisan Matematika 📝
 
 ---
 

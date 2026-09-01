@@ -1,5 +1,5 @@
 ---
-title: "LKPD dan Soal Evaluasi Santai: Persamaan Kuadrat"
+title: "LKPD: Persamaan Kuadrat"
 level: smp
 target_audience: "SMP Kelas 9 / SMA Kelas 10"
 created: 2026-07-28
@@ -13,7 +13,7 @@ tags:
   - persamaan-kuadrat
 ---
 
-# LKPD & Latihan Soal Evaluasi: Persamaan Kuadrat 📝
+# Lembar Kerja Peserta Didik (LKPD): Persamaan Kuadrat 📝
 
 ---
 

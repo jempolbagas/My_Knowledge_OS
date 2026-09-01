@@ -1,5 +1,5 @@
 ---
-title: "LKPD & Soal Evaluasi: Teori Peluang & Kejadian Majemuk"
+title: "LKPD: Teori Peluang & Kejadian Majemuk"
 level: sma
 target_audience: "SMA Kelas 12"
 created: 2026-08-09
@@ -15,7 +15,7 @@ tags:
   - frekuensi-harapan
 ---
 
-# Lembar Kerja Peserta Didik (LKPD) & Soal Evaluasi: Teori Peluang & Kejadian Majemuk 🎯
+# Lembar Kerja Peserta Didik (LKPD): Teori Peluang & Kejadian Majemuk 📝
 
 **Mata Pelajaran:** Matematika (Wajib)  
 **Kelas / Semester:** XII / Ganjil  

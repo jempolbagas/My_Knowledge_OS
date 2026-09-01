@@ -14,9 +14,7 @@ tags:
   - cells
   - kelas-8
   - hots
----
-fo
-# Paket Soal Evaluasi: Pengenalan Sel 🧪🔬
+# Paket Soal Evaluasi: Pengenalan Sel 🎯
 
 > 📍 **Navigasi Modul Sel:**  
 > [[Pengenalan Sel SMP|🏠 Master Dashboard]] | [[LKPD Pengenalan Sel SMP|📝 LKPD Terpadu]] | **[🎯 Paket Soal Ulangan Harian]**

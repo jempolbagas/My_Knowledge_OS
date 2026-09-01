@@ -1,5 +1,5 @@
 ---
-title: "Materi Ajar Santai: Menaklukkan Kaidah Pencacahan & Kombinatorika (Permutasi, Kombinasi, Binomial Newton)"
+title: "Kaidah Pencacahan & Kombinatorika — Permutasi, Kombinasi, & Binomial Newton"
 level: sma
 target_audience: "SMA Kelas 12"
 created: 2026-08-09
@@ -18,7 +18,7 @@ tags:
   - binomial-newton
 ---
 
-# Menaklukkan Kaidah Pencacahan & Kombinatorika: Dari Filling Slots, 5 Jenis Permutasi, Kombinasi, hingga Binomial Newton HOTS! 🔢✨
+# Kaidah Pencacahan & Kombinatorika — Menghitung Segala Kemungkinan! 🎲🔢
 
 Halo temen-temen Kelas 12! Selamat ya, udah sampai di tingkat paling akhir di SMA. Dikit lagi kalian bakal melangkah ke jenjang yang lebih tinggi—mulai dari masuk Kampus Impian (SNBP/SNBT), dunia kerja, sampai perjalanan hidup baru. 
 

@@ -1,5 +1,5 @@
 ---
-title: "LKPD & Soal Evaluasi Sistem Pencernaan Makanan SMP Kelas 8"
+title: "LKPD: Sistem Pencernaan Makanan"
 level: smp
 target_audience: "SMP Kelas VIII"
 phase: "Fase D (Kurikulum Merdeka)"
@@ -15,7 +15,7 @@ tags:
   - hots
 ---
 
-# LKPD & Soal Evaluasi: Sistem Pencernaan Makanan (Fase D SMP Kelas VIII)
+# Lembar Kerja Peserta Didik (LKPD): Sistem Pencernaan Makanan 📝
 
 > [!info] Informasi Dokumen & Tautan Pembelajaran
 > **Materi Ajar Terkait:** [[Sistem Pencernaan Makanan SMP]] | **Paket Soal:** [[Soal Sistem Pencernaan Makanan SMP]]

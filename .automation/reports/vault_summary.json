@@ -8,14 +8,14 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-09-01T08:24:46Z"
+    "generated_at": "2026-09-01T10:56:56Z"
   },
   "stats": {
-    "total_notes": 247,
-    "total_edges": 1333,
-    "broken_links": 232,
-    "untyped_notes": 68,
-    "health_score": 59.9
+    "total_notes": 255,
+    "total_edges": 1421,
+    "broken_links": 237,
+    "untyped_notes": 67,
+    "health_score": 61.4
   },
   "inbox": [
     "biocomp-pertemuan-2"
@@ -72,6 +72,9 @@
         "Soal Suku Banyak SMA Level 2 Standar HOTS",
         "LKPD Suku Banyak Polinomial SMA",
         "Soal Suku Banyak SMA",
+        "LKPD_Trigonometri_SMA",
+        "Soal_Trigonometri_SMA_Level_1_Fondasi",
+        "Soal_Trigonometri_SMA_Level_2_Standar_HOTS",
         "LKPD Matriks SMA",
         "LKPD Persamaan Kuadrat SMP",
         "LKPD Kaidah Pencacahan dan Kombinatorika SMA",
@@ -88,6 +91,12 @@
         "Metode_Horner_dan_Operasi_SMA",
         "Pemfaktoran_dan_Akar_Rasional_SMA",
         "Teorema_Vieta_Polinomial_SMA",
+        "Aturan_Sinus_Cosinus_dan_Luas_Segitiga_SMA",
+        "Identitas_dan_Rumus_Jumlah_Selisih_Sudut_SMA",
+        "Grafik_Fungsi_dan_Persamaan_Trigonometri_SMA",
+        "Perbandingan_Trigonometri_dan_Sudut_Istimewa_SMA",
+        "Sudut_Berelasi_dan_Lingkaran_Satuan_SMA",
+        "Trigonometri_SMA",
         "Matriks SMA",
         "Persamaan Kuadrat SMP",
         "Logika Permutasi dan Kombinasi SMA",
@@ -106,7 +115,6 @@
       ],
       "Biology": [
         "LKPD Pengenalan Sel SMP",
-        "Soal Pengenalan Sel SMP",
         "Soal Sistem Pencernaan Makanan SMP",
         "LKPD Sistem Pencernaan Makanan SMP",
         "Pengenalan Sel SMP",
@@ -339,12 +347,12 @@
         "path": "10 Spaces/12 Teaching/40 Practice/Biology/01 Sel/LKPD Pengenalan Sel SMP.md"
       },
       {
-        "title": "Soal Pengenalan Sel SMP",
-        "path": "10 Spaces/12 Teaching/40 Practice/Biology/01 Sel/Soal Pengenalan Sel SMP.md"
-      },
-      {
         "title": "Soal Sistem Pencernaan Makanan SMP",
         "path": "10 Spaces/12 Teaching/40 Practice/Biology/02 Sistem Pencernaan/Soal Sistem Pencernaan Makanan SMP.md"
+      },
+      {
+        "title": "LKPD Sistem Pencernaan Makanan SMP",
+        "path": "10 Spaces/12 Teaching/40 Practice/Biology/02 Sistem Pencernaan/LKPD Sistem Pencernaan Makanan SMP.md"
       }
     ]
   }

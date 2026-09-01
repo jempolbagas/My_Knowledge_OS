@@ -1,5 +1,5 @@
 ---
-title: "Materi Parts of Speech Bahasa Inggris"
+title: "Parts of Speech — 8 Unsur Pembentuk Kalimat Bahasa Inggris"
 level: smp
 target_audience: "SMP / SMA / General English Learners"
 created: 2026-07-28
@@ -16,7 +16,7 @@ tags:
   - "parts-of-speech"
 ---
 
-# Master Class: Parts of Speech (Bedah Peran Kata Bahasa Inggris)
+# Parts of Speech — 8 Kategori Kata Pembentuk Kalimat! 🧩✨
 
 > *"Bahasa Inggris itu mirip main game MOBA atau RPG. Biar tim/kalimat kamu menang dan paham alurnya, kamu harus tahu role masing-masing karakter/kata. Nggak bisa semuanya maksa jadi Striker!"*
 

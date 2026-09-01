@@ -16,7 +16,7 @@ tags:
   - "economics"
 ---
 
-# KONSEP & METODE PERHITUNGAN PENDAPATAN NASIONAL
+# Konsep & Metode Perhitungan Pendapatan Nasional — Bedah PDB, PNB, NNI, hingga DI! 💰📊
 
 > 📌 **Navigasi Modul:**  
 > [[Pendapatan Nasional SMA|🏠 Master Dashboard]] | **Konsep & Metode** | [[Pendapatan Per Kapita SMA|▶️ Pendapatan Per Kapita]] | [[LKPD Pendapatan Nasional SMA|📝 LKPD & Soal]]

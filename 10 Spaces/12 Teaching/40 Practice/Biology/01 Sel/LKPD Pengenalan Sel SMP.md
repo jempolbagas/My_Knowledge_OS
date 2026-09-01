@@ -1,5 +1,5 @@
 ---
-title: "LKPD & Latihan Soal Evaluasi: Pengenalan Sel"
+title: "LKPD: Pengenalan Sel"
 level: smp
 target_audience: "SMP Kelas VIII"
 created: 2026-07-29
@@ -13,7 +13,7 @@ tags:
   - "cells"
 ---
 
-# Lembar Kerja Peserta Didik (LKPD) & Latihan Soal: Pengenalan Sel 🧪🔬
+# Lembar Kerja Peserta Didik (LKPD): Pengenalan Sel 📝
 
 **Nama Kelompok / Peserta Didik:** .....................................................  
 **Kelas:** VIII (Delapan)  

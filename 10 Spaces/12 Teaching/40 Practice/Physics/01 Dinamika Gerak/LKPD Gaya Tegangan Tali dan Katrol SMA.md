@@ -1,5 +1,5 @@
 ---
-title: "LKPD dan Soal Evaluasi: Gaya Tegangan Tali & Sistem Katrol — Siap Jadi Master Dinamika!"
+title: "LKPD: Gaya Tegangan Tali & Katrol"
 level: sma
 target_audience: "SMA Kelas XI"
 created: 2026-08-05
@@ -16,8 +16,7 @@ tags:
   - "multi-body-dynamics"
 ---
 
-# Lembar Kerja Peserta Didik (LKPD) & Soal Evaluasi 🚀
-## Topik: Gaya Tegangan Tali dan Sistem Katrol (Multi-Body Dynamics)
+# Lembar Kerja Peserta Didik (LKPD): Gaya Tegangan Tali & Katrol 📝
 
 Halo Guys! Siap buat menguji pemahaman kamu tentang gaya tegangan tali dan sistem katrol? 
 

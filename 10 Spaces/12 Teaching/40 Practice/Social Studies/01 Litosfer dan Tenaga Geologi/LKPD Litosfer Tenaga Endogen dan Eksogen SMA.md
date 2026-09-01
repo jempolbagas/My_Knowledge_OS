@@ -1,5 +1,5 @@
 ---
-title: "LKPD & Soal Evaluasi: Litosfer - Tenaga Endogen dan Eksogen"
+title: "LKPD: Litosfer (Tenaga Endogen & Eksogen)"
 level: sma
 target_audience: "SMA Kelas X (Fase E - Geografi Kurikulum Merdeka)"
 created: 2026-07-23
@@ -15,8 +15,7 @@ tags:
   - sma-kelas-10
 ---
 
-# LEMBAR KERJA PESERTA DIDIK (LKPD) & LATIHAN SOAL
-## Topik: Dinamika Litosfer — Tenaga Endogen dan Tenaga Eksogen
+# Lembar Kerja Peserta Didik (LKPD): Litosfer — Tenaga Endogen & Eksogen 📝
 
 ---
 

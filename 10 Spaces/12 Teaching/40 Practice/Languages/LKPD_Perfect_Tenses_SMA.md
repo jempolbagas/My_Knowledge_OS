@@ -1,5 +1,5 @@
 ---
-title: "LKPD: Perfect Tenses (UTBK / TOEFL Prep)"
+title: "LKPD: Perfect Tenses"
 type: lkpd
 level: sma
 subject: "Languages"
@@ -25,7 +25,7 @@ tags:
 
 ---
 
-# ✍️ Lembar Kerja Peserta Didik (LKPD): Perfect Tenses — Standardized Test Drills
+# Lembar Kerja Peserta Didik (LKPD): Perfect Tenses 📝
 
 **Identitas Peserta Didik / Kelompok:**
 - **Nama / Kelompok:** ............................................................

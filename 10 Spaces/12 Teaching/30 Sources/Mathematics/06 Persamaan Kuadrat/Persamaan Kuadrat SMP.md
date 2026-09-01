@@ -1,5 +1,5 @@
 ---
-title: "Materi Ajar Santai: Menaklukkan Persamaan Kuadrat Tanpa Pusing"
+title: "Persamaan Kuadrat — Bentuk Umum, Pemfaktoran, & Rumus ABC"
 level: smp
 target_audience: "SMP Kelas 9 / SMA Kelas 10"
 created: 2026-07-28
@@ -11,7 +11,7 @@ tags:
   - persamaan-kuadrat
 ---
 
-# Menaklukkan Persamaan Kuadrat: Dari Konsep Sampai Trik Cepat! 🚀
+# Persamaan Kuadrat — Menaklukkan Persamaan Kuadrat Tanpa Pusing! 🎯📐
 
 Halo teman-teman! Matematika sering kali kelihatan menakutkan karena penuh dengan simbol dan huruf yang misterius. Tapi tenang aja, di modul ini kita bakal bedah salah satu topik paling penting di matematika yaitu **Persamaan Kuadrat** dengan bahasa santai, kasual, dan langsung ke intinya!
 

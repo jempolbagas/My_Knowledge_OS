@@ -1,5 +1,5 @@
 ---
-title: "Kelangkaan, Pilihan, dan Biaya Peluang (Opportunity Cost)"
+title: "Kelangkaan & Biaya Peluang (Opportunity Cost)"
 type: materi
 subject: Economics
 level: sma
@@ -22,7 +22,7 @@ tags:
 
 ---
 
-# Kelangkaan, Pilihan, dan Biaya Peluang — Pondasi Pengambilan Keputusan Ekonomi ⚖️💎
+# Kelangkaan & Biaya Peluang — Pilihan Hidup & Trade-Off Pengorbanan! ⏳💡
 
 > [!abstract] **Ringkasan Inti Modul (Core Summary)**
 > Inti dari seluruh permasalahan ekonomi bermuara pada satu realitas tak terelakkan: **kelangkaan (*scarcity*)**. Kelangkaan terjadi ketika kebutuhan dan keinginan manusia yang tak terbatas berhadapan dengan ketersediaan sumber daya pemuas yang terbatas. Kondisi ini mewajibkan setiap pelaku ekonomi untuk menentukan **pilihan (*choice*)** dan menyusun skala prioritas. Konsekuensi langsung dari setiap pilihan adalah timbulnya **biaya peluang (*opportunity cost*)**, yakni nilai manfaat dari alternatif terbaik berikutnya yang harus dikorbankan. Memahami biaya peluang serta dinamika kurva *Production Possibility Frontier* (PPF) merupakan fondasi utama dalam menganalisis trade-off rasional baik pada level individu, korporasi, hingga kebijakan publik nasional.

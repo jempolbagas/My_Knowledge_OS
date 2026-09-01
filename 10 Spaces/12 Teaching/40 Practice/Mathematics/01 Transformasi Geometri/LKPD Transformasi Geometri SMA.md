@@ -1,5 +1,5 @@
 ---
-title: "LKPD: Transformasi Geometri — Eksplorasi Pergeseran, Pemutaran, Matriks Ruang, & Transformasi Fungsi"
+title: "LKPD: Transformasi Geometri"
 type: "lkpd"
 subject: "Mathematics"
 level: "sma"
@@ -24,7 +24,7 @@ tags:
 
 ---
 
-# Lembar Kerja Peserta Didik (LKPD): Transformasi Geometri 📝✨
+# Lembar Kerja Peserta Didik (LKPD): Transformasi Geometri 📝
 
 **Nama Kelompok:** ___________________________  
 **Anggota Kelompok:**  

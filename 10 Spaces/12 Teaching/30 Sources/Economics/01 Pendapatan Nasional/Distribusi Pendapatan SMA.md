@@ -16,7 +16,7 @@ tags:
   - "economics"
 ---
 
-# DISTRIBUSI PENDAPATAN & KETIMPANGAN EKONOMI
+# Distribusi Pendapatan — Kurva Lorenz, Rasio Gini, & Kriteria Bank Dunia! 📉⚖️
 
 > 📌 **Navigasi Modul:**  
 > [[Pendapatan Nasional SMA|🏠 Master Dashboard]] | [[Pendapatan Per Kapita SMA|◀️ Pendapatan Per Kapita]] | **Distribusi Pendapatan** | [[LKPD Pendapatan Nasional SMA|📝 LKPD & Soal]]

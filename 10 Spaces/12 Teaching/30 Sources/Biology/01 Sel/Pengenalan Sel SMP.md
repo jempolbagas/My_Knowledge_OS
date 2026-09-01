@@ -15,7 +15,7 @@ tags:
   - "specialization"
 ---
 
-# BAB 1: Pengenalan Sel — Keliling Dunia Mikroskopis! 🦠✨
+# Pengenalan Sel — Keliling Dunia Mikroskopis! 🦠✨
 
 Pernah terpikir nggak, apa sih yang menyusun tubuh kita, kucing kesayangan kita, atau bahkan pohon mangga di depan rumah? Kalau rumah dibangun dari susunan batu bata, makhluk hidup juga punya "batu bata" penyusunnya sendiri. Namanya adalah **SEL**. 
 

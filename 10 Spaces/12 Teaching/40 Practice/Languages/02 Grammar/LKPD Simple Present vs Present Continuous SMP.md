@@ -1,17 +1,17 @@
 ---
-title: "[ESL] Worksheet: Simple Present vs Present Continuous"
+title: "LKPD: Simple Present vs Present Continuous"
 level: smp
 course: English as a Second Language
 tags: ["esl", "grammar", "simple-present", "present-continuous", "worksheet"]
 aliases: ["[ESL] Worksheet: Simple Present vs Present Continuous"]
 created: "2026-05-07"
-type: Worksheet
+type: lkpd
 topic: "Grammar - Tenses Practice"
 grade: 7
 status: 🌿 incubating
 ---
 
-# [ESL] Worksheet: Simple Present vs Present Continuous
+# Lembar Kerja Peserta Didik (LKPD): Simple Present vs Present Continuous 📝
 
 ## Daftar Isi
 - #1. Pengantar: Memilih Mode Eksekusi yang Tepat

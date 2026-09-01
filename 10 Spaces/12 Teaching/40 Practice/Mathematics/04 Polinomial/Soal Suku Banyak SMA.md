@@ -1,5 +1,5 @@
 ---
-title: "Paket Soal Evaluasi & Pembahasan: Suku Banyak (Polinomial)"
+title: "Soal Evaluasi: Suku Banyak (Polinomial)"
 type: "soal-evaluasi"
 subject: "Mathematics"
 level: "sma"
@@ -30,7 +30,7 @@ tags:
 
 ---
 
-# Paket Soal Evaluasi: Suku Banyak (Polinomial) (Kelas 11 SMA) 🎯✍️
+# Paket Soal Evaluasi: Suku Banyak (Polinomial) 🎯
 
 **Mata Pelajaran:** Matematika (Fase F / Kurikulum Merdeka)  
 **Materi Utama:** Suku Banyak (Polinomial), Metode Horner, Teorema Sisa, Teorema Faktor, & Teorema Vieta  

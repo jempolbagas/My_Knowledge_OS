@@ -1,5 +1,5 @@
 ---
-title: Materi Ajar Bahasa Inggris SMP - Short Functional Texts
+title: "Short Functional Texts — Notice, Announcement, & Invitation"
 level: smp
 target_audience: SMP (Junior High School)
 created: 2026-07-30
@@ -13,7 +13,7 @@ tags:
   - functional-texts
 ---
 
-# Modul Belajar Santuy: Short Functional Texts (Bahasa Inggris SMP)
+# Short Functional Texts — Notice, Announcement & Invitation to the Point! 📢✉️
 
 ## 🚀 Intro: Apaan sih Short Functional Text?
 Hey guys! Sadar nggak sih, tiap hari kita tuh dikelilingi sama teks-teks pendek? Mulai dari chat WhatsApp dari emak, pengumuman ujian di mading sekolah, rambu-rambu dilarang parkir pas lagi nongkrong, sampe kartu undangan ulang tahun temen. 

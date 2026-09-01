@@ -1,5 +1,5 @@
 ---
-title: "LKPD: Simple Past Tense (Foundation to Advanced)"
+title: "LKPD: Simple Past Tense"
 type: lkpd
 subject: languages
 level: sma
@@ -20,7 +20,7 @@ tags:
   - "worksheet"
 ---
 
-# Lembar Kerja Peserta Didik (LKPD): Simple Past Tense 📝⏳
+# Lembar Kerja Peserta Didik (LKPD): Simple Past Tense 📝
 
 > [[Simple_Past_Tense_Master_SMA|🏠 Master Dashboard]] · [[Fondasi_Verbal_dan_Nominal_SMA|Modul 1: Fondasi]] · [[Morfologi_Verb2_dan_Fonetik_Ed_SMA|Modul 2: Morfologi & Fonetik]] · [[Advanced_Usage_dan_Nuansa_Khusus_SMA|Modul 3: Advanced]] · **📝 LKPD Praktik** · [[Soal_Simple_Past_Tense_SMA|🎯 Paket Soal Evaluasi]]
 

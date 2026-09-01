@@ -1,5 +1,5 @@
 ---
-title: "Tenaga Eksogen dan Perubahan Bentuk Muka Bumi"
+title: "Tenaga Eksogen & Perubahan Bentuk Muka Bumi"
 level: smp
 target_audience: "SMA Kelas X / SMP Kelas VIII"
 created: 2026-07-23
@@ -15,7 +15,7 @@ tags:
   - "sedimentasi"
 ---
 
-# BAB: TENAGA EKSOGEN DAN PERUBAHAN BENTUK MUKA BUMI
+# Tenaga Eksogen — Pengikisan, Pelapukan, & Sedimentasi Muka Bumi! 🌊🏜️
 
 ## 1. Pendahuluan & Konsep Dasar Tenaga Eksogen
 

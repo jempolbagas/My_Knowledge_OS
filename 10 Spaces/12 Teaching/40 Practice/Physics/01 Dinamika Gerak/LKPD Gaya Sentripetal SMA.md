@@ -1,5 +1,5 @@
 ---
-title: "LKPD & Latihan Soal Evaluasi: Dinamika Gerak Melingkar & Gaya Sentripetal"
+title: "LKPD: Gaya Sentripetal & Gerak Melingkar"
 level: sma
 target_audience: "SMA Kelas XI"
 created: 2026-08-05
@@ -16,7 +16,7 @@ tags:
   - stem
 ---
 
-# LKPD & Latihan Soal Evaluasi: Tantangan Seru Dinamika Gerak Melingkar & Gaya Sentripetal! 🎢🏎️
+# Lembar Kerja Peserta Didik (LKPD): Gaya Sentripetal & Gerak Melingkar 📝
 
 ---
 

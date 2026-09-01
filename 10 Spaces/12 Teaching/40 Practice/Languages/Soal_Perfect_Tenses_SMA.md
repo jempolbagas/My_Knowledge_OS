@@ -1,5 +1,5 @@
 ---
-title: "Soal Evaluasi: Perfect Tenses (UTBK / TOEFL Prep)"
+title: "Soal Evaluasi: Perfect Tenses"
 type: soal-evaluasi
 level: sma
 subject: "Languages"
@@ -25,7 +25,7 @@ tags:
 
 ---
 
-# 🎯 Paket Soal Evaluasi: Perfect Tenses — Standardized Test Package (UTBK & TOEFL)
+# Paket Soal Evaluasi: Perfect Tenses 🎯
 
 **Alokasi Waktu:** 45 Menit  
 **Jumlah Soal:** 15 Pilihan Ganda (HOTS/UTBK/TOEFL) + 5 Uraian Penalaran  

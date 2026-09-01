@@ -1,5 +1,5 @@
 ---
-title: LKPD dan Soal Evaluasi - Descriptive Text (Chill Edition)
+title: "LKPD: Descriptive Text"
 level: smp
 target_audience: SMP (Junior High School)
 created: 2026-07-30
@@ -15,7 +15,7 @@ tags:
   - descriptive-text
 ---
 
-# LKPD & Soal Evaluasi: Descriptive Text (Fun & Chill Practice)
+# Lembar Kerja Peserta Didik (LKPD): Descriptive Text 📝
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Materi Ajar Lengkap: Pertambangan dan Potensi Barang Tambang di Indonesia"
+title: "Pertambangan & Potensi Barang Tambang di Indonesia"
 level: smp
 target_audience: "SMP / Sederajat (Fase D - IPS / Geografi Kelas 8)"
 created: 2026-08-10
@@ -13,8 +13,7 @@ tags:
   - geografi
 ---
 
-# MATERI AJAR LENGKAP & MENDALAM
-## Pertambangan dan Potensi Barang Tambang di Indonesia (IPS Kelas 8)
+# Pertambangan & Barang Tambang Indonesia — Kekayaan Geologis Zamrud Khatulistiwa! ⛏️💎
 
 ---
 

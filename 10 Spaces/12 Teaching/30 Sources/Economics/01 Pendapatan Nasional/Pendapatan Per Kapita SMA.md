@@ -16,7 +16,7 @@ tags:
   - "economics"
 ---
 
-# PDB RIIL & PENDAPATAN PER KAPITA
+# PDB Riil & Pendapatan Per Kapita — Mengukur Kemakmuran Nyata Masyarakat! 💵📊
 
 > 📌 **Navigasi Modul:**  
 > [[Pendapatan Nasional SMA|🏠 Master Dashboard]] | [[Konsep Pendapatan Nasional SMA|◀️ Konsep & Metode]] | **Pendapatan Per Kapita** | [[Distribusi Pendapatan SMA|▶️ Distribusi Pendapatan]] | [[LKPD Pendapatan Nasional SMA|📝 LKPD & Soal]]

@@ -1,5 +1,5 @@
 ---
-title: "LKPD dan Soal Evaluasi: Tenaga Eksogen"
+title: "LKPD: Tenaga Eksogen"
 level: smp
 target_audience: "SMA Kelas X / SMP Kelas VIII"
 created: 2026-07-23
@@ -15,8 +15,7 @@ tags:
   - "social-studies"
 ---
 
-# LEMBAR KERJA PESERTA DIDIK (LKPD) & SOAL EVALUASI
-## Topik: Tenaga Eksogen (Pelapukan, Erosi, Transportasi, & Sedimentasi)
+# Lembar Kerja Peserta Didik (LKPD): Tenaga Eksogen 📝
 
 ---
 

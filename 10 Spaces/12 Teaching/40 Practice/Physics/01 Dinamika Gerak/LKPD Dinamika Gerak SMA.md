@@ -1,5 +1,5 @@
 ---
-title: "LKPD dan Soal Evaluasi: Dinamika Gerak Partikel (Hukum Newton)"
+title: "LKPD: Dinamika Gerak Partikel"
 level: sma
 target_audience: "SMA Kelas XI"
 created: 2026-08-03
@@ -14,7 +14,7 @@ tags:
   - kelas-11
 ---
 
-# Lembar Kerja Peserta Didik (LKPD) & Paket Evaluasi
+# Lembar Kerja Peserta Didik (LKPD): Dinamika Gerak Partikel 📝
 
 > 📍 **Navigasi Modul Dinamika Gerak:**  
 > [[Dinamika Gerak SMA|🏠 Master Dashboard]] | [[Gaya Berat SMA|1. Gaya Berat]] | [[Gaya Normal SMA|2. Gaya Normal]] | [[Gaya Gesek SMA|3. Gaya Gesek]] | [[Gaya Tegangan Tali dan Katrol SMA|4. Tegangan Tali & Katrol]] | [[Gaya Sentripetal SMA|5. Gaya Sentripetal]] | **[📝 LKPD Terpadu]**

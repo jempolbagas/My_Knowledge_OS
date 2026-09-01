@@ -1,5 +1,5 @@
 ---
-title: "LKPD dan Soal Evaluasi: Narrative Text"
+title: "LKPD: Narrative Text"
 level: smp
 target_audience: "SMP Kelas 8 / SMA"
 created: 2026-08-10
@@ -15,7 +15,7 @@ tags:
   - evaluasi
 ---
 
-# 📝 Lembar Kerja Peserta Didik (LKPD) & Soal Evaluasi: Narrative Text
+# Lembar Kerja Peserta Didik (LKPD): Narrative Text 📝
 
 > **Bilah Navigasi Materi:**  
 > [[Narrative Text SMP|◀ Modul Utama (Materi Ajar)]] | **LKPD & Soal Evaluasi**

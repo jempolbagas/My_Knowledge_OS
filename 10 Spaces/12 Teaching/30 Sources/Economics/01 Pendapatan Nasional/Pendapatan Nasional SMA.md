@@ -1,5 +1,5 @@
 ---
-title: "Materi Ajar Master Dashboard: Pendapatan Nasional"
+title: "Pendapatan Nasional — Master Guide & Navigasi Modul"
 level: sma
 target_audience: "SMA Kelas XI"
 created: 2026-08-10
@@ -15,7 +15,7 @@ tags:
   - "economics"
 ---
 
-# MASTER DASHBOARD: PENDAPATAN NASIONAL (NATIONAL INCOME)
+# Pendapatan Nasional — Denyut Nadi Perekonomian Makro Suatu Bangsa! 🇮🇩📈
 
 > **Ringkasan Utama (Overview):**  
 > Pendapatan nasional adalah tolok ukur utama untuk menilai kinerja perekonomian, tingkat kemakmuran masyarakat, serta laju pertumbuhan ekonomi suatu negara dalam kurun waktu satu tahun. Berkas master ini berfungsi sebagai **peta navigasi utama** yang menghubungkan seluruh modul pembelajaran tematik dan paket latihan LKPD.

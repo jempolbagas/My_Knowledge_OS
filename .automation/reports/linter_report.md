@@ -42,6 +42,11 @@
 | [[Suku Banyak Polinomial SMA]] | `Teorema_Sisa_dan_Faktor_SMA\` | `wikilink` |
 | [[Suku Banyak Polinomial SMA]] | `Pemfaktoran_dan_Akar_Rasional_SMA\` | `wikilink` |
 | [[Suku Banyak Polinomial SMA]] | `Teorema_Vieta_Polinomial_SMA\` | `wikilink` |
+| [[Trigonometri_SMA]] | `Perbandingan_Trigonometri_dan_Sudut_Istimewa_SMA\` | `wikilink` |
+| [[Trigonometri_SMA]] | `Sudut_Berelasi_dan_Lingkaran_Satuan_SMA\` | `wikilink` |
+| [[Trigonometri_SMA]] | `Identitas_dan_Rumus_Jumlah_Selisih_Sudut_SMA\` | `wikilink` |
+| [[Trigonometri_SMA]] | `Aturan_Sinus_Cosinus_dan_Luas_Segitiga_SMA\` | `wikilink` |
+| [[Trigonometri_SMA]] | `Grafik_Fungsi_dan_Persamaan_Trigonometri_SMA\` | `wikilink` |
 | [[Transformasi Geometri SMA]] | `Translasi dan Refleksi SMA\` | `wikilink` |
 | [[Transformasi Geometri SMA]] | `Rotasi dan Dilatasi SMA\` | `wikilink` |
 | [[Transformasi Geometri SMA]] | `Komposisi Transformasi dan Matriks SMA\` | `wikilink` |

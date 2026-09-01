@@ -1,5 +1,5 @@
 ---
-title: "LKPD dan Soal Evaluasi: Gaya Berat dan Gravitasi — Petualangan Menjelajah Tarikan Alam Semesta!"
+title: "LKPD: Gaya Berat & Gravitasi"
 level: sma
 target_audience: "SMA Kelas XI"
 created: 2026-08-05
@@ -14,7 +14,7 @@ tags:
   - stem
 ---
 
-# Lembar Kerja Peserta Didik (LKPD) & Soal Evaluasi: Gaya Berat dan Gravitasi 🌍🚀
+# Lembar Kerja Peserta Didik (LKPD): Gaya Berat & Gravitasi 📝
 
 ---
 

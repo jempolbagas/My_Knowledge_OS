@@ -1,5 +1,5 @@
 ---
-title: "Materi Ajar Lengkap: Litosfer - Tenaga Endogen dan Tenaga Eksogen"
+title: "Litosfer — Tenaga Endogen & Eksogen Pembentuk Muka Bumi"
 level: sma
 target_audience: "SMA Kelas X (Fase E - Geografi Kurikulum Merdeka)"
 created: 2026-07-23
@@ -14,8 +14,7 @@ tags:
   - sma-kelas-10
 ---
 
-# MATERI AJAR LENGKAP & MENDALAM
-## Litosfer: Dinamika Tenaga Endogen dan Tenaga Eksogen Pembentuk Muka Bumi
+# Litosfer — Dinamika Tenaga Endogen & Eksogen Pembentuk Muka Bumi! 🌋🌍
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "LKPD dan Soal Evaluasi Santai: Suku Banyak (Polinomial) & Metode Horner"
+title: "LKPD: Suku Banyak (Polinomial)"
 level: sma
 target_audience: "SMA Kelas 11"
 created: 2026-07-28
@@ -20,7 +20,7 @@ tags:
   - metode-horner
 ---
 
-# LKPD & Latihan Soal Evaluasi: Suku Banyak (Polinomial) & Metode Horner 📝
+# Lembar Kerja Peserta Didik (LKPD): Suku Banyak (Polinomial) 📝
 
 ---
 

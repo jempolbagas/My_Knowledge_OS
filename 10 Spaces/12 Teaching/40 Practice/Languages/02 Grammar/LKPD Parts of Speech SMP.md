@@ -1,5 +1,5 @@
 ---
-title: "LKPD dan Soal Evaluasi: Parts of Speech"
+title: "LKPD: Parts of Speech"
 level: smp
 target_audience: "SMP / SMA / General English Learners"
 created: 2026-07-28
@@ -13,7 +13,7 @@ tags:
   - "parts-of-speech"
 ---
 
-# Lembar Kerja & Latihan Soal: Parts of Speech (Mastering Word Roles)
+# Lembar Kerja Peserta Didik (LKPD): Parts of Speech 📝
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Gaya Sentripetal — Rahasia Selamat di Tikungan & Roller Coaster!"
+title: "Gaya Sentripetal & Dinamika Gerak Melingkar"
 level: sma
 target_audience: "SMA Kelas XI"
 created: 2026-08-05
@@ -13,7 +13,7 @@ tags:
   - stem
 ---
 
-# Gaya Sentripetal — Rahasia Selamat di Tikungan & Roller Coaster! 🎢🔄
+# Gaya Sentripetal — Rahasia Benda Membelok & Berputar Tanpa Terlempar! 🎡🔄
 
 > 📍 **Navigasi Modul Dinamika Gerak:**  
 > [[Dinamika Gerak SMA|🏠 Master Dashboard]] | [[Gaya Berat SMA|1. Gaya Berat]] | [[Gaya Normal SMA|2. Gaya Normal]] | [[Gaya Gesek SMA|3. Gaya Gesek]] | [[Gaya Tegangan Tali dan Katrol SMA|4. Tegangan Tali & Katrol]] | **[5. Gaya Sentripetal]** | 📝 [[LKPD Dinamika Gerak SMA|LKPD Terpadu]]

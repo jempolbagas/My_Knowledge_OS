@@ -1,5 +1,5 @@
 ---
-title: "LKPD: Fungsi Invers — Eksplorasi & Pemecahan Masalah"
+title: "LKPD: Fungsi Invers"
 type: "lkpd"
 subject: "Mathematics"
 level: "sma"
@@ -22,7 +22,7 @@ tags:
 
 ---
 
-# Lembar Kerja Peserta Didik (LKPD): Fungsi Invers 🧩👥
+# Lembar Kerja Peserta Didik (LKPD): Fungsi Invers 📝
 
 **Mata Pelajaran:** Matematika (Fase F - Kelas 11 SMA)  
 **Materi Pokok:** Konsep, Teknik Aljabar, dan Invers Fungsi Komposisi  

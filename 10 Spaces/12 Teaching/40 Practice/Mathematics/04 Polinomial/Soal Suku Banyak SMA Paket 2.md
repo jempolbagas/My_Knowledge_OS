@@ -1,5 +1,5 @@
 ---
-title: "Paket Soal Evaluasi & Pembahasan: Suku Banyak (Polinomial) - Paket 2"
+title: "Soal Evaluasi: Suku Banyak (Polinomial) - Paket 2"
 type: "soal-evaluasi"
 subject: "Mathematics"
 level: "sma"
@@ -27,7 +27,7 @@ tags:
 
 ---
 
-# Paket Soal Evaluasi (Paket 2): Suku Banyak (Polinomial) (Kelas 11 SMA) 🎯✍️
+# Paket Soal Evaluasi: Suku Banyak (Polinomial) — Paket 2 🎯
 
 **Mata Pelajaran:** Matematika (Fase F / Kurikulum Merdeka)  
 **Materi Utama:** Kesamaan Polinomial 3 Parameter, Pembagi Kuadrat Berulang, Suku Banyak Komposit, Teorema Vieta & Analisis Akar Kompleks/Real  

@@ -1,5 +1,5 @@
 ---
-title: "Paket Soal Evaluasi HOTS: Konsep Dasar Ilmu Ekonomi"
+title: "Soal Evaluasi: Konsep Dasar Ilmu Ekonomi"
 type: soal-evaluasi
 subject: Economics
 level: sma
@@ -23,7 +23,7 @@ tags:
 
 ---
 
-# Paket Soal Evaluasi HOTS: Konsep Dasar Ilmu Ekonomi (Standar UTBK-SNBT) 📝🎯
+# Paket Soal Evaluasi: Konsep Dasar Ilmu Ekonomi 🎯
 
 > [!abstract] **Petunjuk Pengerjaan:**
 > Paket latihan ini dirancang secara bertingkat (*scaffolded assessment*) untuk menguji penguasaan konsep, kemampuan kalkulasi biaya peluang, analisis grafis kurva kemungkinan produksi (PPF), hingga pemecahan masalah kebijakan publik riil di Indonesia. Terdiri dari **26 Soal Pilihan Ganda Bertingkat** dan **4 Soal Uraian Analitis HOTS** lengkap dengan kunci jawaban dan pembahasan mendalam.

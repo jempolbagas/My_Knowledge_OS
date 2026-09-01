@@ -1,5 +1,5 @@
 ---
-title: "Materi Ajar Santai: Menaklukkan Teori Peluang & Kejadian Majemuk tanpa Pusing"
+title: "Teori Peluang & Kejadian Majemuk — Peluang Bersyarat & Saling Lepas"
 level: sma
 target_audience: "SMA Kelas 12"
 created: 2026-08-09
@@ -16,7 +16,7 @@ tags:
   - frekuensi-harapan
 ---
 
-# Menaklukkan Teori Peluang & Kejadian Majemuk: Dari Ruang Sampel, Peluang Dasar, Kejadian Majemuk, hingga Peluang Bersyarat! 🎲✨
+# Teori Peluang & Kejadian Majemuk — Rahasia Angka Peluang & Kepastian! 🎯🎲
 
 Halo temen-temen Kelas 12! Di modul sebelumnya, kita sudah belajar cara menghitung banyaknya kemungkinan menggunakan Kaidah Pencacahan (Permutasi & Kombinasi). Sekarang, saatnya kita masuk ke inti dari **Teori Peluang dan Kejadian Majemuk**.
 

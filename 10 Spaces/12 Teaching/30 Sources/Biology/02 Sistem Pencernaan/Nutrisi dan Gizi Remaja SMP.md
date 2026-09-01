@@ -20,7 +20,7 @@ tags:
 > 📍 **Navigasi Modul Sistem Pencernaan:**  
 > [[Sistem Pencernaan Makanan SMP|🏠 Master Dashboard]] | **[Modul 2: Nutrisi & IMT]** | [[Anatomi dan Enzim Pencernaan SMP|Modul 1: Anatomi & Enzim]] | [[LKPD Sistem Pencernaan Makanan SMP|📝 LKPD Terkait]]
 
-# Nutrisi, Gizi Seimbang, dan Indeks Massa Tubuh (IMT) 🍎⚖️
+# Nutrisi & Gizi Seimbang — Fondasi Energi & Kesehatan Remaja! 🍎⚖️
 
 Tubuh manusia membutuhkan asupan nutrisi yang tepat sebagai sumber energi, bahan pembangun sel, serta pengatur berbagai reaksi metabolisme. Asupan yang tidak seimbang dapat memicu masalah kesehatan kronis seperti obesitas.
 

@@ -1,5 +1,5 @@
 ---
-title: "Tenaga Endogen Vulkanisme"
+title: "Tenaga Endogen Vulkanisme & Aktivitas Magma"
 level: smp
 target_audience: "SMA Kelas X / SMP Kelas VIII"
 created: 2026-07-23
@@ -13,7 +13,7 @@ tags:
   - "tenaga-endogen"
 ---
 
-# BAB: TENAGA ENDOGEN — VULKANISME (BAGIAN 1)
+# Tenaga Endogen Vulkanisme — Dahsyatnya Pergerakan Magma dari Perut Bumi! 🌋💥
 
 ## 1. Pendahuluan & Definisi Vulkanisme
 Tenaga endogen adalah tenaga pembentuk muka bumi yang berasal dari dalam perut bumi. Salah satu manifestasi utama dari tenaga endogen adalah **Vulkanisme**.

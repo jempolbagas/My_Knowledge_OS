@@ -1,5 +1,5 @@
 ---
-title: "Gaya Normal dan Aplikasinya dalam Dinamika Gerak"
+title: "Gaya Normal & Penyangga Permukaan"
 level: sma
 target_audience: "SMA Kelas X / XI (Fisika)"
 created: 2026-08-04
@@ -9,7 +9,7 @@ sources:
 tags: [materi-ajar, fisika, sma, dinamika-gerak, gaya-normal]
 ---
 
-# Modul Bahan Ajar: Gaya Normal (Normal Force) — Santai Tapi Paham Sampai Akar!
+# Gaya Normal — Penjaga Kokoh Benda dari Runtuhan Gravitasi! 📦📐
 
 > 📍 **Navigasi Modul Dinamika Gerak:**  
 > [[Dinamika Gerak SMA|🏠 Master Dashboard]] | [[Gaya Berat SMA|1. Gaya Berat]] | **[2. Gaya Normal]** | [[Gaya Gesek SMA|3. Gaya Gesek]] | [[Gaya Tegangan Tali dan Katrol SMA|4. Tegangan Tali & Katrol]] | [[Gaya Sentripetal SMA|5. Gaya Sentripetal]] | 📝 [[LKPD Dinamika Gerak SMA|LKPD Terpadu]]

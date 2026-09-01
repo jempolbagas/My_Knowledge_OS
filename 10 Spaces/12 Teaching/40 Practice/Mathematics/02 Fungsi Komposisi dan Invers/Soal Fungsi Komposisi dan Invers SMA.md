@@ -1,5 +1,5 @@
 ---
-title: "Paket Soal Evaluasi & Pembahasan: Fungsi Invers"
+title: "Soal Evaluasi: Fungsi Invers"
 type: "soal-evaluasi"
 subject: "Mathematics"
 level: "sma"
@@ -23,7 +23,7 @@ tags:
 
 ---
 
-# Paket Soal Evaluasi: Fungsi Invers (Kelas 11 SMA) 🎯✍️
+# Paket Soal Evaluasi: Fungsi Invers 🎯
 
 **Mata Pelajaran:** Matematika (Fase F)  
 **Materi:** Fungsi Invers & Invers Komposisi  

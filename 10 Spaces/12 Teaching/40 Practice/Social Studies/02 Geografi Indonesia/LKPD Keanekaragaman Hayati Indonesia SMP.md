@@ -1,5 +1,5 @@
 ---
-title: "LKPD & Soal Evaluasi: Keanekaragaman Hayati dan Jenis Hutan Indonesia"
+title: "LKPD: Keanekaragaman Hayati & Jenis Hutan"
 level: smp
 target_audience: SMP / Sederajat (Fase D - IPA & IPS/Geografi)
 created: 2026-07-20
@@ -13,8 +13,7 @@ tags:
   - smp
 ---
 
-# LEMBAR KERJA PESERTA DIDIK (LKPD) & LATIHAN SOAL
-## Topik: Keanekaragaman Hayati & Jenis-Jenis Hutan di Indonesia
+# Lembar Kerja Peserta Didik (LKPD): Keanekaragaman Hayati & Jenis Hutan Indonesia 📝
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Materi Ajar Fisika: Gaya Berat dan Gravitasi — Tarikan Bumi yang Bikin Kita Tetap Membumi!"
+title: "Gaya Berat & Medan Gravitasi"
 level: sma
 target_audience: "SMA Kelas XI"
 created: 2026-08-05
@@ -14,7 +14,7 @@ tags:
   - stem
 ---
 
-# BAB 1: Gaya Berat & Gravitasi — Tarikan Bumi yang Bikin Kita Tetap Membumi! 🌍✨
+# Gaya Berat & Medan Gravitasi — Tarikan Misterius Bumi & Semesta! 🌍⚖️
 
 > 📍 **Navigasi Modul Dinamika Gerak:**  
 > [[Dinamika Gerak SMA|🏠 Master Dashboard]] | **[1. Gaya Berat]** | [[Gaya Normal SMA|2. Gaya Normal]] | [[Gaya Gesek SMA|3. Gaya Gesek]] | [[Gaya Tegangan Tali dan Katrol SMA|4. Tegangan Tali & Katrol]] | [[Gaya Sentripetal SMA|5. Gaya Sentripetal]] | 📝 [[LKPD Dinamika Gerak SMA|LKPD Terpadu]]

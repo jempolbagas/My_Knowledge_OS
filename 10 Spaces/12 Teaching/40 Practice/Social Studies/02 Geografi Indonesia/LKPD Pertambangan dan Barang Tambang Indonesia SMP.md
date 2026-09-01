@@ -1,5 +1,5 @@
 ---
-title: "LKPD & Soal Evaluasi: Pertambangan dan Potensi Barang Tambang di Indonesia"
+title: "LKPD: Pertambangan & Barang Tambang"
 level: smp
 target_audience: "SMP / Sederajat (Fase D - IPS / Geografi Kelas 8)"
 created: 2026-08-10
@@ -13,8 +13,7 @@ tags:
   - ips-smp-8
 ---
 
-# LEMBAR KERJA PESERTA DIDIK (LKPD) & LATIHAN SOAL
-## Topik: Pertambangan & Potensi Barang Tambang di Indonesia (IPS Kelas 8)
+# Lembar Kerja Peserta Didik (LKPD): Pertambangan & Potensi Barang Tambang Indonesia 📝
 
 ---
 

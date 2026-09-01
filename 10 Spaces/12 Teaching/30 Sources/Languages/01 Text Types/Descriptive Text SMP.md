@@ -1,5 +1,5 @@
 ---
-title: Materi Ajar Bahasa Inggris SMP - Descriptive Text
+title: "Descriptive Text — Guide to Describing People, Places & Things"
 level: smp
 target_audience: SMP (Junior High School)
 created: 2026-07-30
@@ -13,7 +13,7 @@ tags:
   - descriptive-text
 ---
 
-# Modul Materi Ajar: Descriptive Text (Chill & Easy Guide)
+# Descriptive Text — Chill & Easy Guide to Describing Everything! 📝✨
 
 Hey there! Pernah nggak sih kamu lagi asyik cerita ke temen tentang kucing peliharaan kamu yang gemoy banget, nyeritain bias/idol K-Pop favorit kamu, atau mungkin spill tempat liburan yang estetik parah? Nah, secara nggak sadar, pas kamu lagi cerita detail-detailnya itu, kamu tuh sebenernya lagi bikin **Descriptive Text**.
 

@@ -1,5 +1,5 @@
 ---
-title: "Sistem Pencernaan Makanan — Perjalanan Ajaib di Dalam Tubuh!"
+title: "Sistem Pencernaan Makanan — Master Guide & Navigasi Modul"
 type: master-dashboard
 subject: Biology
 level: smp

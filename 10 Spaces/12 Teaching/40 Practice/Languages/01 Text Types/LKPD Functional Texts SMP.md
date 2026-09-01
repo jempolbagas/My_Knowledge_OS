@@ -1,5 +1,5 @@
 ---
-title: LKPD dan Soal Evaluasi - Short Functional Texts
+title: "LKPD: Short Functional Texts"
 level: smp
 target_audience: SMP (Junior High School)
 created: 2026-07-30
@@ -13,7 +13,7 @@ tags:
   - functional-texts
 ---
 
-# Lembar Kerja Peserta Didik (LKPD) & Soal Evaluasi: Short Functional Texts
+# Lembar Kerja Peserta Didik (LKPD): Short Functional Texts 📝
 
 ---
 

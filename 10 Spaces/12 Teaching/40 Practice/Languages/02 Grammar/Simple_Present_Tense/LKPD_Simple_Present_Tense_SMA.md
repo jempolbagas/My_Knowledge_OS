@@ -1,5 +1,5 @@
 ---
-title: "LKPD: Simple Present Tense (Foundation to Advanced)"
+title: "LKPD: Simple Present Tense"
 type: lkpd
 subject: languages
 level: sma
@@ -20,7 +20,7 @@ tags:
   - "worksheet"
 ---
 
-# Lembar Kerja Peserta Didik (LKPD): Simple Present Tense 📝✨
+# Lembar Kerja Peserta Didik (LKPD): Simple Present Tense 📝
 
 > [[Simple_Present_Tense_Master_SMA|🏠 Master Dashboard]] · [[Fondasi_Verbal_dan_Nominal_SMA|Modul 1: Fondasi]] · [[Suffix_Rules_dan_Adverbs_of_Frequency_SMA|Modul 2: Suffix & Adverbs]] · [[Advanced_Usage_dan_Nuansa_Khusus_SMA|Modul 3: Advanced]] · **📝 LKPD Praktik** · [[Soal_Simple_Present_Tense_SMA|🎯 Paket Soal Evaluasi]]
 
