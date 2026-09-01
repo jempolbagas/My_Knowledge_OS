@@ -8,14 +8,14 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-09-01T11:58:19Z"
+    "generated_at": "2026-09-01T12:46:30Z"
   },
   "stats": {
-    "total_notes": 255,
-    "total_edges": 1421,
+    "total_notes": 256,
+    "total_edges": 1423,
     "broken_links": 237,
-    "untyped_notes": 67,
-    "health_score": 61.4
+    "untyped_notes": 68,
+    "health_score": 61.2
   },
   "inbox": [
     "biocomp-pertemuan-2"
@@ -115,6 +115,7 @@
       ],
       "Biology": [
         "LKPD Pengenalan Sel SMP",
+        "Soal Pengenalan Sel SMP",
         "Soal Sistem Pencernaan Makanan SMP",
         "LKPD Sistem Pencernaan Makanan SMP",
         "Pengenalan Sel SMP",
@@ -347,12 +348,12 @@
         "path": "10 Spaces/12 Teaching/40 Practice/Biology/01 Sel/LKPD Pengenalan Sel SMP.md"
       },
       {
-        "title": "Soal Sistem Pencernaan Makanan SMP",
-        "path": "10 Spaces/12 Teaching/40 Practice/Biology/02 Sistem Pencernaan/Soal Sistem Pencernaan Makanan SMP.md"
+        "title": "Soal Pengenalan Sel SMP",
+        "path": "10 Spaces/12 Teaching/40 Practice/Biology/01 Sel/Soal Pengenalan Sel SMP.md"
       },
       {
-        "title": "LKPD Sistem Pencernaan Makanan SMP",
-        "path": "10 Spaces/12 Teaching/40 Practice/Biology/02 Sistem Pencernaan/LKPD Sistem Pencernaan Makanan SMP.md"
+        "title": "Soal Sistem Pencernaan Makanan SMP",
+        "path": "10 Spaces/12 Teaching/40 Practice/Biology/02 Sistem Pencernaan/Soal Sistem Pencernaan Makanan SMP.md"
       }
     ]
   }
