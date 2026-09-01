@@ -5,9 +5,12 @@ Detected when a source file has changed since the Concept wiki page was generate
 | Concept Note | Source Note | Status | Action Required |
 | --- | --- | --- | --- |
 | [[Model Parameters]] | [[Model Parameters Explained]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "b1c4f5cdc6385478e9acebb0e41443ad"` |
+| [[Dice Loss]] | [[Encoder Decoder Image Segmentation Deep Dive]] | ❓ No Snapshot Hash | Run LLM review to update concept and update `source_hash: "4178b713e336933a1f63289f058f624e"` |
+| [[Semantic Segmentation]] | [[Encoder Decoder Image Segmentation Deep Dive]] | ❓ No Snapshot Hash | Run LLM review to update concept and update `source_hash: "4178b713e336933a1f63289f058f624e"` |
 | [[Machine Learning Roadmap]] | [[Machine Learning Roadmap]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "2b7f71cc94a40f2e35375fb71f97b0f4"` |
 | [[Quantization Calibration]] | [[Post Training Quantization End to End Guide]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "891e6e2d7f065ee79b568d93230cd450"` |
 | [[Vectorization in NumPy]] | [[Machine Learning Roadmap]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "2b7f71cc94a40f2e35375fb71f97b0f4"` |
+| [[U-Net Architecture]] | [[Encoder Decoder Image Segmentation Deep Dive]] | ❓ No Snapshot Hash | Run LLM review to update concept and update `source_hash: "4178b713e336933a1f63289f058f624e"` |
 | [[Softmax Function]] | [[Activation Functions Explained]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "1e3a4e2f044d67fdc893a8b52b6588f7"` |
 | [[ReLU Function]] | [[Activation Functions Explained]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "1e3a4e2f044d67fdc893a8b52b6588f7"` |
 | [[Activation Functions]] | [[Activation Functions Explained]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "1e3a4e2f044d67fdc893a8b52b6588f7"` |

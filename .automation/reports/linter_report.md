@@ -174,6 +174,9 @@
 | [[04_Biomedical_Expert_Systems]] | `Magnetic Resonance Imaging` | `wikilink` |
 | [[04_Biomedical_Expert_Systems]] | `Pemeriksaan Darah` | `wikilink` |
 | [[04_Biomedical_Expert_Systems]] | `Pemeriksaan Urine` | `wikilink` |
+| [[Encoder Decoder Image Segmentation Deep Dive]] | `Encoder-Decoder Architecture` | `wikilink` |
+| [[Encoder Decoder Image Segmentation Deep Dive]] | `Skip Connections in Segmentation` | `wikilink` |
+| [[Encoder Decoder Image Segmentation Deep Dive]] | `Atrous Spatial Pyramid Pooling` | `wikilink` |
 | [[Low Rank Factorization and LoRA Mechanics]] | `Low-Rank Adaptation` | `frontmatter_promoted_to` |
 | [[Knowledge Distillation and Teacher Student Optimization]] | `Knowledge Distillation` | `frontmatter_promoted_to` |
 | [[Perencanaan Usaha Kerajinan Limbah Bangun Datar]] | `Ide dan Peluang Usaha Limbah Bangun Datar` | `wikilink` |
@@ -203,6 +206,7 @@
 | [[s11277-023-10315-5]] | `25, 32, 33, 42, 52` | `wikilink` |
 | [[s11277-023-10315-5]] | `14, 15, 43` | `wikilink` |
 | [[s11277-023-10315-5]] | `15, 25, 52` | `wikilink` |
+| [[Semantic Segmentation]] | `Encoder-Decoder Architecture` | `wikilink` |
 | [[Gaya Berat]] | `Hukum Newton` | `wikilink` |
 | [[Gaya Normal]] | `Gaya Gesek` | `wikilink` |
 | [[Gaya Normal]] | `Hukum Newton` | `wikilink` |
@@ -249,6 +253,7 @@ These files have no incoming or outgoing links:
 ## 📄 Missing/Invalid Frontmatter Properties
 | File | Missing/Invalid Fields |
 | --- | --- |
+| [[Encoder Decoder Image Segmentation Deep Dive]] | `topic, prompt` |
 | [[Fundamentals of Machine Learning Optimization and Compression]] | `prompt, promoted_to` |
 | [[Low Rank Factorization and LoRA Mechanics]] | `prompt` |
 | [[Quantization Calibration in PTQ]] | `type (should be repo/paper/article/book/talk/generated_reading)` |
@@ -266,6 +271,9 @@ These files have no incoming or outgoing links:
 | [[Shamir Secret Sharing Comprehensive Study Guide]] | `type (should be repo/paper/article/book/talk/generated_reading)` |
 | [[Model Context Protocol Architecture]] | `title, topic, requested_on, prompt, promoted_to` |
 | [[Model Pruning]] | `type (should be 'concept'), title, subject, date_created, source` |
+| [[Dice Loss]] | `type (should be 'concept'), title, subject, date_created` |
+| [[Semantic Segmentation]] | `type (should be 'concept'), title, subject, date_created` |
+| [[U-Net Architecture]] | `type (should be 'concept'), title, subject, date_created` |
 | [[Model Quantization]] | `type (should be 'concept'), title, subject, date_created, source` |
 | [[Runges Phenomenon]] | `title, date_created, source` |
 | [[Invers Modular]] | `title, date_created, source` |

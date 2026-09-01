@@ -856,6 +856,21 @@
       "context": "wikilink"
     },
     {
+      "file": "20 Brain Atlas/10 Library/Artificial Intelligence/04 Computer Vision/Encoder Decoder Image Segmentation Deep Dive.md",
+      "broken_link": "Encoder-Decoder Architecture",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/10 Library/Artificial Intelligence/04 Computer Vision/Encoder Decoder Image Segmentation Deep Dive.md",
+      "broken_link": "Skip Connections in Segmentation",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/10 Library/Artificial Intelligence/04 Computer Vision/Encoder Decoder Image Segmentation Deep Dive.md",
+      "broken_link": "Atrous Spatial Pyramid Pooling",
+      "context": "wikilink"
+    },
+    {
       "file": "20 Brain Atlas/10 Library/Artificial Intelligence/03 Quantization and Optimization/Low Rank Factorization and LoRA Mechanics.md",
       "broken_link": "Low-Rank Adaptation",
       "context": "frontmatter_promoted_to"
@@ -998,6 +1013,11 @@
     {
       "file": "20 Brain Atlas/30 Reference Lib/s11277-023-10315-5.md",
       "broken_link": "15, 25, 52",
+      "context": "wikilink"
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Artificial Intelligence/Semantic Segmentation.md",
+      "broken_link": "Encoder-Decoder Architecture",
       "context": "wikilink"
     },
     {
@@ -1189,6 +1209,13 @@
   ],
   "missing_frontmatter": [
     {
+      "file": "20 Brain Atlas/10 Library/Artificial Intelligence/04 Computer Vision/Encoder Decoder Image Segmentation Deep Dive.md",
+      "missing_fields": [
+        "topic",
+        "prompt"
+      ]
+    },
+    {
       "file": "20 Brain Atlas/10 Library/Artificial Intelligence/01 Basics and Roadmap/Fundamentals of Machine Learning Optimization and Compression.md",
       "missing_fields": [
         "prompt",
@@ -1311,6 +1338,33 @@
         "subject",
         "date_created",
         "source"
+      ]
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Artificial Intelligence/Dice Loss.md",
+      "missing_fields": [
+        "type (should be 'concept')",
+        "title",
+        "subject",
+        "date_created"
+      ]
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Artificial Intelligence/Semantic Segmentation.md",
+      "missing_fields": [
+        "type (should be 'concept')",
+        "title",
+        "subject",
+        "date_created"
+      ]
+    },
+    {
+      "file": "20 Brain Atlas/20 Concepts/Artificial Intelligence/U-Net Architecture.md",
+      "missing_fields": [
+        "type (should be 'concept')",
+        "title",
+        "subject",
+        "date_created"
       ]
     },
     {

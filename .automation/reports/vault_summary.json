@@ -8,14 +8,14 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-08-31T03:22:46Z"
+    "generated_at": "2026-09-01T08:24:46Z"
   },
   "stats": {
-    "total_notes": 250,
-    "total_edges": 1336,
-    "broken_links": 228,
-    "untyped_notes": 66,
-    "health_score": 61.0
+    "total_notes": 247,
+    "total_edges": 1333,
+    "broken_links": 232,
+    "untyped_notes": 68,
+    "health_score": 59.9
   },
   "inbox": [
     "biocomp-pertemuan-2"
@@ -178,9 +178,12 @@
       "General": [
         "Model Pruning",
         "Model Parameters",
+        "Dice Loss",
+        "Semantic Segmentation",
         "Machine Learning Roadmap",
         "Quantization Calibration",
         "Vectorization in NumPy",
+        "U-Net Architecture",
         "Softmax Function",
         "ReLU Function",
         "Activation Functions",

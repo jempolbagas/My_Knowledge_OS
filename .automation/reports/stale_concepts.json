@@ -9,6 +9,24 @@
     "status": "outdated"
   },
   {
+    "concept_file": "20 Brain Atlas/20 Concepts/Artificial Intelligence/Dice Loss.md",
+    "concept_title": "Dice Loss",
+    "source_file": "20 Brain Atlas/10 Library/Artificial Intelligence/04 Computer Vision/Encoder Decoder Image Segmentation Deep Dive.md",
+    "source_title": "Encoder Decoder Image Segmentation Deep Dive",
+    "stored_hash": "",
+    "current_hash": "4178b713e336933a1f63289f058f624e",
+    "status": "missing_hash"
+  },
+  {
+    "concept_file": "20 Brain Atlas/20 Concepts/Artificial Intelligence/Semantic Segmentation.md",
+    "concept_title": "Semantic Segmentation",
+    "source_file": "20 Brain Atlas/10 Library/Artificial Intelligence/04 Computer Vision/Encoder Decoder Image Segmentation Deep Dive.md",
+    "source_title": "Encoder Decoder Image Segmentation Deep Dive",
+    "stored_hash": "",
+    "current_hash": "4178b713e336933a1f63289f058f624e",
+    "status": "missing_hash"
+  },
+  {
     "concept_file": "20 Brain Atlas/20 Concepts/Artificial Intelligence/Machine Learning Roadmap.md",
     "concept_title": "Machine Learning Roadmap",
     "source_file": "20 Brain Atlas/10 Library/Artificial Intelligence/01 Basics and Roadmap/Machine Learning Roadmap.md",
@@ -34,6 +52,15 @@
     "stored_hash": "85d4704529774e4eba80f5ef64cdb79a",
     "current_hash": "2b7f71cc94a40f2e35375fb71f97b0f4",
     "status": "outdated"
+  },
+  {
+    "concept_file": "20 Brain Atlas/20 Concepts/Artificial Intelligence/U-Net Architecture.md",
+    "concept_title": "U-Net Architecture",
+    "source_file": "20 Brain Atlas/10 Library/Artificial Intelligence/04 Computer Vision/Encoder Decoder Image Segmentation Deep Dive.md",
+    "source_title": "Encoder Decoder Image Segmentation Deep Dive",
+    "stored_hash": "",
+    "current_hash": "4178b713e336933a1f63289f058f624e",
+    "status": "missing_hash"
   },
   {
     "concept_file": "20 Brain Atlas/20 Concepts/Artificial Intelligence/Softmax Function.md",

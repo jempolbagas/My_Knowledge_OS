@@ -11,7 +11,7 @@
 
 ## Vault Architecture & Filing System
 ### 1. Space Selection
-- **`10 Spaces/`**: Deadline-bound (College, Teaching, Competitions).
+- **`10 Spaces/`**: Deadline-bound (College, Teaching).
 - **`20 Brain Atlas/`**: Timeless, self-study, no deadlines. Never archive.
 
 ### 2. Note Classification (`20 Brain Atlas/`)
@@ -39,9 +39,6 @@
     - Read `vault_summary.json` → Pull Concepts/Library → Force active recall → Surface knowledge gaps.
 - **Freeform Mode** (Trigger: General exploration, no vault references):
     - Skip vault lookup → Answer directly from general knowledge → If insights emerge, switch to Grounded Mode _only_ for the final note-creation step.
-
-### Context Switching
-- **`10 Spaces/13 Gemastik KTI/KTI Context.md`**: Load _only_ when KTI/Gemastik/competitions are mentioned. Treat it as the single source of truth for that topic; update it at turn-end if facts change. Keep unneeded context unloaded.
 
 ## Automation System Spec (`.automation/`)
 ### 1. Service Architecture & Components
