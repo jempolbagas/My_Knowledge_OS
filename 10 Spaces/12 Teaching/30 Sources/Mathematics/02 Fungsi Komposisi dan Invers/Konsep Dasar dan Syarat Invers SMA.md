@@ -6,7 +6,7 @@ level: "sma"
 target_audience: "SMA Kelas 11 (Fase F)"
 created: 2026-08-12
 sources:
-  - "[[Fungsi Invers SMA]]"
+  - "[[Fungsi Komposisi dan Invers SMA]]"
 tags:
   - "#matematika"
   - "#fungsi_invers"
@@ -15,7 +15,7 @@ tags:
   - "#kelas11"
 ---
 
-[[Fungsi Invers SMA|🏠 Master Dashboard]] | **Modul 1: Konsep & Syarat Invers** | [[Teknik Invers Fungsi Aljabar SMA|Modul 2: Teknik Aljabar ➡️]] | [[LKPD Fungsi Invers SMA|📝 LKPD]]
+[[Fungsi Komposisi dan Invers SMA|🏠 Master Dashboard]] | **Modul 1: Konsep & Syarat Invers** | [[Teknik Invers Fungsi Aljabar SMA|Modul 2: Teknik Aljabar ➡️]] | [[LKPD Fungsi Komposisi dan Invers SMA|📝 LKPD]]
 
 ---
 
@@ -145,4 +145,4 @@ Tentukan Domain ($D_{f^{-1}}$) dan Range ($R_{f^{-1}}$) dari fungsi inversnya!
 
 ---
 
-[[Fungsi Invers SMA|🏠 Master Dashboard]] | **Modul 1: Konsep & Syarat Invers** | [[Teknik Invers Fungsi Aljabar SMA|Modul 2: Teknik Aljabar ➡️]] | [[LKPD Fungsi Invers SMA|📝 LKPD]]
+[[Fungsi Komposisi dan Invers SMA|🏠 Master Dashboard]] | **Modul 1: Konsep & Syarat Invers** | [[Teknik Invers Fungsi Aljabar SMA|Modul 2: Teknik Aljabar ➡️]] | [[LKPD Fungsi Komposisi dan Invers SMA|📝 LKPD]]

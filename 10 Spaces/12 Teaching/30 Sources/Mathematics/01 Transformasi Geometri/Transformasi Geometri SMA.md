@@ -1,7 +1,7 @@
 ---
 title: "Transformasi Geometri — Pusat Kontrol & Navigasi Modul"
 type: "master-dashboard"
-subject: "Mathematics"
+subject: "mathematics"
 level: "sma"
 target_audience: "SMA Kelas 11 (Fase F)"
 created: 2026-08-18
@@ -49,13 +49,13 @@ Gunakan tabel navigasi di bawah ini untuk mengakses setiap sub-modul materi, lem
 
 | No | Modul / Berkas | Sub-Bahasan Utama | Target Hasil Belajar |
 | :---: | :--- | :--- | :--- |
-| **01** | [[Translasi dan Refleksi SMA\|Modul 1: Translasi & Refleksi]] | Vektor Pergeseran $T = \begin{pmatrix} a \\ b \end{pmatrix}$, Pencerminan Sumbu $X, Y$, Garis $y=x$, $y=-x$, Garis $x=h$, $y=k$, dan Titik Asal. | Mahir menentukan koordinat bayangan translasi dan refleksi pada titik maupun persamaan garis. |
-| **02** | [[Rotasi dan Dilatasi SMA\|Modul 2: Rotasi & Dilatasi]] | Rotasi Pusat $O(0,0)$ & $P(a,b)$ Sejauh Sudut $\theta$, Dilatasi Pusat $O(0,0)$ & $P(a,b)$ dengan Skala $k$. | Menguasai pemutaran dan perkalian skala koordinat serta penerapannya pada bentuk parabola/lingkaran. |
-| **03** | [[Komposisi Transformasi dan Matriks SMA\|Modul 3: Komposisi & Matriks Transformasi]] | Perkalian Matriks Komposisi $M = M_2 \times M_1$, Refleksi Dua Garis Sejajar/Tegak Lurus, Transformasi Kurva $y = f(x)$, & Luas Bayangan $|\det(M)| \times L$. | Memecahkan soal kombinasi transformasi kompleks, invers kurva, dan perhitungan luas bidang datar. |
-| **04** | [[Transformasi Fungsi SMA\|Modul 4: Transformasi Fungsi y = f(x)]] | Pergeseran Horizontal $f(x-a)$ / Vertikal $f(x)+b$, Refleksi Sumbu $X/Y$, Dilatasi Vertikal $a \cdot f(x)$ / Horizontal $f(bx)$. | Menguasai perubahan kurva fungsi linear, kuadrat, eksponensial, dan absolut pada Kurikulum Merdeka. |
-| **05** | [[Regangan Guntingan Transformasi SMA\|Modul 5: Regangan, Guntingan, & Refleksi Miring]] | Matriks Regangan Sumbu X/Y $\begin{pmatrix} k & 0 \\ 0 & 1 \end{pmatrix}$, Matriks Guntingan $\begin{pmatrix} 1 & k \\ 0 & 1 \end{pmatrix}$, Refleksi Garis $y = mx$. | Menghitung transformasi matriks non-isometri, kemiringan bidang datar, dan refleksi garis miring HOTS. |
-| **📝** | [[LKPD Transformasi Geometri SMA\|Lembar Kerja Peserta Didik (LKPD)]] | Eksplorasi Gerak Hero Game, Bianglala & Zoom Foto, Detektif Arsitektur, Investigasi Grafik Fungsi & Shear. | Mengasah keterampilan kolaborasi kelompok, pemecahan masalah kontekstual HOTS, dan nalar intuitif. |
-| **🎯** | [[Soal Transformasi Geometri SMA\|Paket Soal Evaluasi & Pembahasan]] | 12 Soal Pilihan Ganda HOTS + 6 Soal Uraian Penalaran + Kunci Jawaban & Rubrik Penilaian Lengkap. | Menguji tingkat penguasaan individu dan kesiapan menghadapi Ujian Sekolah / Asesmen Sumatif / UTBK. |
+| **01** | [[Translasi dan Refleksi SMA|Modul 1: Translasi & Refleksi]] | Vektor Pergeseran $T = \begin{pmatrix} a \\ b \end{pmatrix}$, Pencerminan Sumbu $X, Y$, Garis $y=x$, $y=-x$, Garis $x=h$, $y=k$, dan Titik Asal. | Mahir menentukan koordinat bayangan translasi dan refleksi pada titik maupun persamaan garis. |
+| **02** | [[Rotasi dan Dilatasi SMA|Modul 2: Rotasi & Dilatasi]] | Rotasi Pusat $O(0,0)$ & $P(a,b)$ Sejauh Sudut $\theta$, Dilatasi Pusat $O(0,0)$ & $P(a,b)$ dengan Skala $k$. | Menguasai pemutaran dan perkalian skala koordinat serta penerapannya pada bentuk parabola/lingkaran. |
+| **03** | [[Komposisi Transformasi dan Matriks SMA|Modul 3: Komposisi & Matriks Transformasi]] | Perkalian Matriks Komposisi $M = M_2 \times M_1$, Refleksi Dua Garis Sejajar/Tegak Lurus, Transformasi Kurva $y = f(x)$, & Luas Bayangan $|\det(M)| \times L$. | Memecahkan soal kombinasi transformasi kompleks, invers kurva, dan perhitungan luas bidang datar. |
+| **04** | [[Transformasi Fungsi SMA|Modul 4: Transformasi Fungsi y = f(x)]] | Pergeseran Horizontal $f(x-a)$ / Vertikal $f(x)+b$, Refleksi Sumbu $X/Y$, Dilatasi Vertikal $a \cdot f(x)$ / Horizontal $f(bx)$. | Menguasai perubahan kurva fungsi linear, kuadrat, eksponensial, dan absolut pada Kurikulum Merdeka. |
+| **05** | [[Regangan Guntingan Transformasi SMA|Modul 5: Regangan, Guntingan, & Refleksi Miring]] | Matriks Regangan Sumbu X/Y $\begin{pmatrix} k & 0 \\ 0 & 1 \end{pmatrix}$, Matriks Guntingan $\begin{pmatrix} 1 & k \\ 0 & 1 \end{pmatrix}$, Refleksi Garis $y = mx$. | Menghitung transformasi matriks non-isometri, kemiringan bidang datar, dan refleksi garis miring HOTS. |
+| **📝** | [[LKPD Transformasi Geometri SMA|Lembar Kerja Peserta Didik (LKPD)]] | Eksplorasi Gerak Hero Game, Bianglala & Zoom Foto, Detektif Arsitektur, Investigasi Grafik Fungsi & Shear. | Mengasah keterampilan kolaborasi kelompok, pemecahan masalah kontekstual HOTS, dan nalar intuitif. |
+| **🎯** | [[Soal Transformasi Geometri SMA|Paket Soal Evaluasi & Pembahasan]] | 12 Soal Pilihan Ganda HOTS + 6 Soal Uraian Penalaran + Kunci Jawaban & Rubrik Penilaian Lengkap. | Menguji tingkat penguasaan individu dan kesiapan menghadapi Ujian Sekolah / Asesmen Sumatif / UTBK. |
 
 ---
 

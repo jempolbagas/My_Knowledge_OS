@@ -1,24 +1,35 @@
 ---
-title: "LKPD: Matriks"
+title: "LKPD: Matriks SMA"
+type: lkpd
+subject: mathematics
 level: sma
-type: practice-material
-subject: Mathematics
-target_audience: "SMA Kelas 11"
+target_audience: "SMA Kelas 11 (Fase F)"
 created: 2026-07-28
-updated: 2026-08-09
+updated: 2026-09-02
 sources:
   - "[[Matriks SMA]]"
+  - "[[Konsep_Dasar_dan_Klasifikasi_Matriks_SMA]]"
+  - "[[Operasi_Aljabar_dan_Sifat_Matriks_SMA]]"
+  - "[[Determinan_Matriks_dan_Sifatnya_SMA]]"
+  - "[[Minor_Kofaktor_dan_Invers_Matriks_SMA]]"
+  - "[[Persamaan_Matriks_dan_Sistem_Persamaan_Linear_SMA]]"
 tags:
   - lkpd
   - practice
-  - mathematics
-  - matriks
+  - teaching/mathematics
+  - level/sma
+  - topic/matrix-practice
+---
+
+> **Bilah Navigasi:**  
+> [[Matriks SMA|🏠 Master Dashboard]] | [[Konsep_Dasar_dan_Klasifikasi_Matriks_SMA|Modul 1]] | [[Operasi_Aljabar_dan_Sifat_Matriks_SMA|Modul 2]] | [[Determinan_Matriks_dan_Sifatnya_SMA|Modul 3]] | [[Minor_Kofaktor_dan_Invers_Matriks_SMA|Modul 4]] | [[Persamaan_Matriks_dan_Sistem_Persamaan_Linear_SMA|Modul 5]] | **📝 LKPD & Latihan**
+
 ---
 
 # Lembar Kerja Peserta Didik (LKPD): Matriks 📝
 
 **Nama Kelompok / Peserta Didik:** .....................................................  
-**Kelas:** XI (Sebelas)  
+**Kelas:** XI (Sebelas) — Fase F  
 **Mata Pelajaran:** Matematika  
 **Topik Utama:** Konsep Matriks, Operasi Aljabar, Determinan, Invers Matriks ($2 \times 2$ & $3 \times 3$), & Sistem Persamaan Linear  
 
@@ -99,8 +110,8 @@ Hasil enkripsi menghasilkan matriks kode terenkripsi $Y = \begin{pmatrix} 7 \\ 4
 **Instruksi Kerjakan Bersama Kelompok:**
 
 1. Hitung determinan matriks $K$ ($\det(K)$)!
-2. Tentukan **9 Nilai Kofaktor** ($C_{11}$ sampai $C_{33}$), lalu susun Matriks Kofaktor $\text{Cof}(K)$!
-3. Transpose matriks kofaktor tersebut untuk memperoleh Matriks Adjoin ($\text{Adj}(K)$), lalu hitung Matriks Invers $K^{-1}$!
+2. Tentukan **9 Nilai Kofaktor** ($C_{11}$ sampai $C_{33}$), lalu susun Matriks Kofaktor $\operatorname{Cof}(K)$!
+3. Transpose matriks kofaktor tersebut untuk memperoleh Matriks Adjoin ($\operatorname{Adj}(K)$), lalu hitung Matriks Invers $K^{-1}$!
 4. Dekripsi dan temukan nilai pesan asli $X$ dengan rumus $X = K^{-1} \cdot Y$!
 
 ---
@@ -144,7 +155,7 @@ C. $x = 6$ atau $x = -1$
 D. $x = -6$ atau $x = 1$  
 E. $x = 2$ atau $x = 3$  
 
-**6.** Matriks Adjoin ($\text{Adj}(A)$) dari matriks $A = \begin{pmatrix} 1 & 0 & 2 \\ 2 & 1 & 1 \\ 0 & 1 & 2 \end{pmatrix}$ adalah...  
+**6.** Matriks Adjoin ($\operatorname{Adj}(A)$) dari matriks $A = \begin{pmatrix} 1 & 0 & 2 \\ 2 & 1 & 1 \\ 0 & 1 & 2 \end{pmatrix}$ adalah...  
 A. $\begin{pmatrix} 1 & 2 & -2 \\ -4 & 2 & 3 \\ 2 & -1 & 1 \end{pmatrix}$  
 B. $\begin{pmatrix} 1 & -4 & 2 \\ 2 & 2 & -1 \\ -2 & 3 & 1 \end{pmatrix}$  
 C. $\begin{pmatrix} 1 & 2 & 2 \\ -4 & 2 & -1 \\ -2 & 3 & 1 \end{pmatrix}$  
@@ -202,8 +213,8 @@ c. Tentukan kebutuhan masing-masing bahan baku ($x, y, z$) dengan rumus $X = A^{
    * $C_{21} = 0, C_{22} = -1, C_{23} = 0$
    * $C_{31} = -1, C_{32} = 0, C_{33} = 1$
    
-   Matriks Kofaktor $\text{Cof}(K) = \begin{pmatrix} 1 & 0 & -2 \\ 0 & -1 & 0 \\ -1 & 0 & 1 \end{pmatrix}$.
-3. Matriks Adjoin $\text{Adj}(K) = (\text{Cof}(K))^T = \begin{pmatrix} 1 & 0 & -1 \\ 0 & -1 & 0 \\ -2 & 0 & 1 \end{pmatrix}$.  
+   Matriks Kofaktor $\operatorname{Cof}(K) = \begin{pmatrix} 1 & 0 & -2 \\ 0 & -1 & 0 \\ -1 & 0 & 1 \end{pmatrix}$.
+3. Matriks Adjoin $\operatorname{Adj}(K) = (\operatorname{Cof}(K))^T = \begin{pmatrix} 1 & 0 & -1 \\ 0 & -1 & 0 \\ -2 & 0 & 1 \end{pmatrix}$.  
    Invers $K^{-1} = \frac{1}{-1} \begin{pmatrix} 1 & 0 & -1 \\ 0 & -1 & 0 \\ -2 & 0 & 1 \end{pmatrix} = \begin{pmatrix} -1 & 0 & 1 \\ 0 & 1 & 0 \\ 2 & 0 & -1 \end{pmatrix}$.
 4. $X = K^{-1} \cdot Y = \begin{pmatrix} -1 & 0 & 1 \\ 0 & 1 & 0 \\ 2 & 0 & -1 \end{pmatrix} \begin{pmatrix} 7 \\ 4 \\ 11 \end{pmatrix} = \begin{pmatrix} -7 + 0 + 11 \\ 0 + 4 + 0 \\ 14 + 0 - 11 \end{pmatrix} = \begin{pmatrix} 4 \\ 4 \\ 3 \end{pmatrix}$.  
    **Pesan Asli $X$:** $x_1 = 4, x_2 = 4, x_3 = 3$.
@@ -234,7 +245,7 @@ c. Tentukan kebutuhan masing-masing bahan baku ($x, y, z$) dengan rumus $X = A^{
    $C_{11} = 1, C_{12} = -4, C_{13} = 2$  
    $C_{21} = 2, C_{22} = 2, C_{23} = -1$  
    $C_{31} = -2, C_{32} = 3, C_{33} = 1$  
-   $\text{Cof}(A) = \begin{pmatrix} 1 & -4 & 2 \\ 2 & 2 & -1 \\ -2 & 3 & 1 \end{pmatrix} \implies \text{Adj}(A) = (\text{Cof}(A))^T = \begin{pmatrix} 1 & 2 & -2 \\ -4 & 2 & 3 \\ 2 & -1 & 1 \end{pmatrix}$.
+   $\operatorname{Cof}(A) = \begin{pmatrix} 1 & -4 & 2 \\ 2 & 2 & -1 \\ -2 & 3 & 1 \end{pmatrix} \implies \operatorname{Adj}(A) = (\operatorname{Cof}(A))^T = \begin{pmatrix} 1 & 2 & -2 \\ -4 & 2 & 3 \\ 2 & -1 & 1 \end{pmatrix}$.
 
 ---
 
@@ -251,7 +262,7 @@ c. Tentukan kebutuhan masing-masing bahan baku ($x, y, z$) dengan rumus $X = A^{
 3. **Penyelesaian SPLTV:**  
    a. Persamaan Matriks: $\begin{pmatrix} 1 & 0 & 1 \\ 0 & 1 & 1 \\ 2 & 1 & 1 \end{pmatrix} \begin{pmatrix} x \\ y \\ z \end{pmatrix} = \begin{pmatrix} 4 \\ 3 \\ 7 \end{pmatrix}$  
    b. Determinan $\det(A) = -2$.  
-      Matriks Adjoin $\text{Adj}(A) = \begin{pmatrix} 0 & 1 & -1 \\ 2 & -1 & -1 \\ -2 & -1 & 1 \end{pmatrix}$.  
+      Matriks Adjoin $\operatorname{Adj}(A) = \begin{pmatrix} 0 & 1 & -1 \\ 2 & -1 & -1 \\ -2 & -1 & 1 \end{pmatrix}$.  
       Invers $A^{-1} = \begin{pmatrix} 0 & -1/2 & 1/2 \\ -1 & 1/2 & 1/2 \\ 1 & 1/2 & -1/2 \end{pmatrix}$.  
    c. $X = A^{-1} \cdot B = \begin{pmatrix} 0 & -1/2 & 1/2 \\ -1 & 1/2 & 1/2 \\ 1 & 1/2 & -1/2 \end{pmatrix} \begin{pmatrix} 4 \\ 3 \\ 7 \end{pmatrix} = \begin{pmatrix} 2 \\ 1 \\ 2 \end{pmatrix}$.  
       **Bahan baku:** Tepung ($x$) = 2 kg, Gula ($y$) = 1 kg, Mentega ($z$) = 2 kg.
@@ -268,3 +279,8 @@ c. Tentukan kebutuhan masing-masing bahan baku ($x, y, z$) dengan rumus $X = A^{
 | **Soal Uraian 2** | Pemodelan SPLDV ke matriks & penyelesaian tepat | 12 |
 | **Soal Uraian 3** | Pemodelan SPLTV, hitung Adjoin & Invers 3x3 tepat | 14 |
 | **TOTAL SKOR** | | **100** |
+
+---
+
+> **Bilah Navigasi:**  
+> [[Matriks SMA|🏠 Master Dashboard]] | [[Konsep_Dasar_dan_Klasifikasi_Matriks_SMA|Modul 1]] | [[Operasi_Aljabar_dan_Sifat_Matriks_SMA|Modul 2]] | [[Determinan_Matriks_dan_Sifatnya_SMA|Modul 3]] | [[Minor_Kofaktor_dan_Invers_Matriks_SMA|Modul 4]] | [[Persamaan_Matriks_dan_Sistem_Persamaan_Linear_SMA|Modul 5]] | **📝 LKPD & Latihan**

@@ -6,7 +6,7 @@ level: "sma"
 target_audience: "SMA Kelas 11 (Fase F)"
 created: 2026-08-12
 sources:
-  - "[[Fungsi Invers SMA]]"
+  - "[[Fungsi Komposisi dan Invers SMA]]"
   - "[[Konsep Dasar dan Syarat Invers SMA]]"
   - "[[Teknik Invers Fungsi Aljabar SMA]]"
   - "[[Invers Fungsi Komposisi dan Aplikasi SMA]]"
@@ -18,7 +18,7 @@ tags:
   - "#kelas11"
 ---
 
-[[Fungsi Invers SMA|🏠 Master Dashboard]] | [[Konsep Dasar dan Syarat Invers SMA|Modul 1]] | [[Teknik Invers Fungsi Aljabar SMA|Modul 2]] | [[Invers Fungsi Komposisi dan Aplikasi SMA|Modul 3]] | [[Soal Fungsi Invers SMA|🎯 Soal Evaluasi]]
+[[Fungsi Komposisi dan Invers SMA|🏠 Master Dashboard]] | [[Konsep Dasar dan Syarat Invers SMA|Modul 1]] | [[Teknik Invers Fungsi Aljabar SMA|Modul 2]] | [[Invers Fungsi Komposisi dan Aplikasi SMA|Modul 3]] | [[Soal Fungsi Komposisi dan Invers SMA|🎯 Soal Evaluasi]]
 
 ---
 

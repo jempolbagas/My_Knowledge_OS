@@ -1,5 +1,7 @@
 ---
 title: "Gaya Normal & Penyangga Permukaan"
+type: materi
+subject: physics
 level: sma
 target_audience: "SMA Kelas X / XI (Fisika)"
 created: 2026-08-04

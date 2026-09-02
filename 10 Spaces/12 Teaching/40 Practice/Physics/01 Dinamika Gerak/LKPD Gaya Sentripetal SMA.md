@@ -1,5 +1,7 @@
 ---
 title: "LKPD: Gaya Sentripetal & Gerak Melingkar"
+type: lkpd
+subject: physics
 level: sma
 target_audience: "SMA Kelas XI"
 created: 2026-08-05

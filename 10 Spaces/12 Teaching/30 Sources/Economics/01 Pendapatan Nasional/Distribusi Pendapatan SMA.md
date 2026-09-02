@@ -1,5 +1,7 @@
 ---
 title: "Distribusi Pendapatan & Ketimpangan Ekonomi"
+type: materi
+subject: economics
 level: sma
 target_audience: "SMA Kelas XI"
 created: 2026-08-10

@@ -1,5 +1,7 @@
 ---
 title: "Membedah Logika & Intuisi Matematika di Balik Permutasi dan Kombinasi"
+type: materi
+subject: mathematics
 level: sma
 target_audience: "SMA Kelas 12 / Persiapan UTBK-SNBT"
 created: 2026-08-09

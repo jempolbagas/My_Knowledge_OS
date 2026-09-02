@@ -1,12 +1,15 @@
 ---
 title: "Pendapatan Nasional — Master Guide & Navigasi Modul"
+type: master-dashboard
+subject: economics
 level: sma
 target_audience: "SMA Kelas XI"
 created: 2026-08-10
 sources:
-  - "[[Kenali Pengettian Pendapatan Nasional, Manfaat, & Komponen]]"
-  - "[[Pendapatan Nasional Pengertian, Manfaat, dan Faktor Yang Mempengaruhinya]]"
-  - "[[Pendapatan Nasional]]"
+  - "[[Konsep Pendapatan Nasional SMA]]"
+  - "[[Pendapatan Per Kapita SMA]]"
+  - "[[Distribusi Pendapatan SMA]]"
+  - "[[LKPD Pendapatan Nasional SMA]]"
 tags:
   - "teaching-material"
   - "ekonomi"
@@ -32,10 +35,10 @@ tags:
 
 | No | Nama Modul | Topik Pembahasan Utama | Akses Modul |
 | :---: | :--- | :--- | :---: |
-| **1** | **Konsep & Metode Perhitungan** | Definisi, 8 Manfaat, Faktor Penentu, 6 Komponen (*The Big 6*), dan 3 Pendekatan Perhitungan. | [[Materi Konsep Pendapatan Nasional\|📖 Buka Modul]] |
-| **2** | **PDB Riil & Pendapatan Per Kapita** | PDB Nominal vs Riil, Deflator PDB, Pendapatan Per Kapita, dan 4 Klasifikasi Negara Bank Dunia. | [[Materi Pendapatan Per Kapita\|📖 Buka Modul]] |
-| **3** | **Distribusi Pendapatan & Ketimpangan** | Kurva Lorenz, Koefisien Gini, Kriteria Bank Dunia 40% Terendah, dan Hilirisasi/IPM di Indonesia. | [[Materi Distribusi Pendapatan\|📖 Buka Modul]] |
-| **4** | **LKPD & Soal Evaluasi** | Lembar kerja diskusi kelompok (Aktivitas 1–4) & 15 Latihan Soal HOTS + Kunci Jawaban Lengkap. | [[LKPD dan Soal Pendapatan Nasional\|📝 Buka LKPD]] |
+| **1** | **Konsep & Metode Perhitungan** | Definisi, 8 Manfaat, Faktor Penentu, 6 Komponen (*The Big 6*), dan 3 Pendekatan Perhitungan. | [[Konsep Pendapatan Nasional SMA|📖 Buka Modul]] |
+| **2** | **PDB Riil & Pendapatan Per Kapita** | PDB Nominal vs Riil, Deflator PDB, Pendapatan Per Kapita, dan 4 Klasifikasi Negara Bank Dunia. | [[Pendapatan Per Kapita SMA|📖 Buka Modul]] |
+| **3** | **Distribusi Pendapatan & Ketimpangan** | Kurva Lorenz, Koefisien Gini, Kriteria Bank Dunia 40% Terendah, dan Hilirisasi/IPM di Indonesia. | [[Distribusi Pendapatan SMA|📖 Buka Modul]] |
+| **4** | **LKPD & Soal Evaluasi** | Lembar kerja diskusi kelompok (Aktivitas 1–4) & 15 Latihan Soal HOTS + Kunci Jawaban Lengkap. | [[LKPD Pendapatan Nasional SMA|📝 Buka LKPD]] |
 
 ---
 

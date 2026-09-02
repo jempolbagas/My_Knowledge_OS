@@ -1,5 +1,7 @@
 ---
 title: "LKPD: Kaidah Pencacahan & Kombinatorika"
+type: lkpd
+subject: mathematics
 level: sma
 target_audience: "SMA Kelas 12"
 created: 2026-08-09
@@ -16,6 +18,11 @@ tags:
 ---
 
 # Lembar Kerja Peserta Didik (LKPD): Kaidah Pencacahan & Kombinatorika 📝
+
+> 📍 **Navigasi Modul:**  
+> [[Kaidah Pencacahan dan Kombinatorika SMA|🏠 Master Dashboard]] | [[Logika Permutasi dan Kombinasi SMA|Modul Logika Permutasi]] | **[📝 LKPD Pencacahan & Kombinatorika]** | [[LKPD Teori Peluang dan Kejadian Majemuk SMA|📝 LKPD Peluang]]
+
+---
 
 **Mata Pelajaran:** Matematika (Wajib)  
 **Kelas / Semester:** XII / Ganjil  

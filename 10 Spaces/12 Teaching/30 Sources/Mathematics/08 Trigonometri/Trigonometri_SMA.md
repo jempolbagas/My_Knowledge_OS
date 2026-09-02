@@ -68,11 +68,11 @@ flowchart TD
 
 | No | Modul | Fokus Bahasan | File Link |
 | :--- | :--- | :--- | :--- |
-| **01** | **Rasio Dasar & Sudut Istimewa** | Konsep rasio sisi segitiga siku-siku ($\text{De/Mi, Sa/Mi, De/Sa}$), kebalikan ($\csc, \sec, \cot$), pembuktian nilai eksak sudut $0^\circ, 30^\circ, 45^\circ, 60^\circ, 90^\circ$, dan penggunaan klinometer. | [[Perbandingan_Trigonometri_dan_Sudut_Istimewa_SMA\|Buka Modul 01 📖]] |
-| **02** | **Lingkaran Satuan & Sudut Berelasi** | Koordinat titik $(x, y) = (\cos \theta, \sin \theta)$, aturan kuadran I–IV (*All-Sin-Tan-Cos*), sudut berelasi patokan sumbu X ($180^\circ, 360^\circ$) vs sumbu Y ($90^\circ, 270^\circ$), sudut negatif, dan sudut $> 360^\circ$. | [[Sudut_Berelasi_dan_Lingkaran_Satuan_SMA\|Buka Modul 02 📖]] |
-| **03** | **Identitas & Rumus Analitik** | Identitas Pythagoras dasar, penurunan rumus jumlah & selisih dua sudut $\sin(A \pm B)$, $\cos(A \pm B)$, $\tan(A \pm B)$, sudut rangkap ($2A$), sudut paruh ($A/2$), dan rumus konversi perkalian-penjumlahan. | [[Identitas_dan_Rumus_Jumlah_Selisih_Sudut_SMA\|Buka Modul 03 📖]] |
-| **04** | **Segitiga Sebarang & Luas** | Memecahkan sisi & sudut segitiga non-siku-siku dengan Aturan Sinus (sisi-sudut berhadapan) dan Aturan Cosinus (SAS/SSS), analisis kasus ambigu SSA, serta variasi formula luas segitiga (sinus dan rumus Heron). | [[Aturan_Sinus_Cosinus_dan_Luas_Segitiga_SMA\|Buka Modul 04 📖]] |
-| **05** | **Grafik Fungsi & Persamaan** | Anatomi gelombang harmonik $y = A \sin(k(x \pm b)) \pm c$, analisis amplitudo, periode, asimtot $\tan x$, serta metode sistematis penyelesaian persamaan trigonometri dasar dan persamaan tipe kuadrat. | [[Grafik_Fungsi_dan_Persamaan_Trigonometri_SMA\|Buka Modul 05 📖]] |
+| **01** | **Rasio Dasar & Sudut Istimewa** | Konsep rasio sisi segitiga siku-siku ($\text{De/Mi, Sa/Mi, De/Sa}$), kebalikan ($\csc, \sec, \cot$), pembuktian nilai eksak sudut $0^\circ, 30^\circ, 45^\circ, 60^\circ, 90^\circ$, dan penggunaan klinometer. | [[Perbandingan_Trigonometri_dan_Sudut_Istimewa_SMA|Buka Modul 01 📖]] |
+| **02** | **Lingkaran Satuan & Sudut Berelasi** | Koordinat titik $(x, y) = (\cos \theta, \sin \theta)$, aturan kuadran I–IV (*All-Sin-Tan-Cos*), sudut berelasi patokan sumbu X ($180^\circ, 360^\circ$) vs sumbu Y ($90^\circ, 270^\circ$), sudut negatif, dan sudut $> 360^\circ$. | [[Sudut_Berelasi_dan_Lingkaran_Satuan_SMA|Buka Modul 02 📖]] |
+| **03** | **Identitas & Rumus Analitik** | Identitas Pythagoras dasar, penurunan rumus jumlah & selisih dua sudut $\sin(A \pm B)$, $\cos(A \pm B)$, $\tan(A \pm B)$, sudut rangkap ($2A$), sudut paruh ($A/2$), dan rumus konversi perkalian-penjumlahan. | [[Identitas_dan_Rumus_Jumlah_Selisih_Sudut_SMA|Buka Modul 03 📖]] |
+| **04** | **Segitiga Sebarang & Luas** | Memecahkan sisi & sudut segitiga non-siku-siku dengan Aturan Sinus (sisi-sudut berhadapan) dan Aturan Cosinus (SAS/SSS), analisis kasus ambigu SSA, serta variasi formula luas segitiga (sinus dan rumus Heron). | [[Aturan_Sinus_Cosinus_dan_Luas_Segitiga_SMA|Buka Modul 04 📖]] |
+| **05** | **Grafik Fungsi & Persamaan** | Anatomi gelombang harmonik $y = A \sin(k(x \pm b)) \pm c$, analisis amplitudo, periode, asimtot $\tan x$, serta metode sistematis penyelesaian persamaan trigonometri dasar dan persamaan tipe kuadrat. | [[Grafik_Fungsi_dan_Persamaan_Trigonometri_SMA|Buka Modul 05 📖]] |
 
 ---
 

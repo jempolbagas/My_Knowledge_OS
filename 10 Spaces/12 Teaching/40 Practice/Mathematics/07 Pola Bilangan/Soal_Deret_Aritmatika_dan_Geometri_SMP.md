@@ -1,10 +1,13 @@
 ---
 title: "Soal Evaluasi: Deret Aritmatika & Geometri"
 type: soal-evaluasi
-subject: Mathematics
+subject: mathematics
 level: smp
 target_audience: "Siswa Kelas 8 SMP"
 created: 2026-08-26
+sources:
+  - "[[Pola Bilangan SMP]]"
+  - "[[LKPD Pola Bilangan SMP]]"
 tags:
   - matematika/smp
   - deret-aritmatika
@@ -13,6 +16,11 @@ tags:
 ---
 
 # Paket Soal Evaluasi: Deret Aritmatika & Geometri 🎯
+
+> 📍 **Navigasi Modul Pola Bilangan:**  
+> [[Pola Bilangan SMP|🏠 Materi Pola Bilangan]] | [[LKPD Pola Bilangan SMP|📝 LKPD]] | [[Soal Pola Bilangan Paket B SMP|🎯 Soal Paket B]] | **[🎯 Soal Deret]**
+
+---
 
 > **Catatan Pembatasan Materi:**
 > Paket soal ini **berfokus murni pada DERET HINGGA ($S_n$ Aritmatika dan $S_n$ Geometri)**. Tidak mencakup materi deret geometri tak hingga ($S_\infty$).

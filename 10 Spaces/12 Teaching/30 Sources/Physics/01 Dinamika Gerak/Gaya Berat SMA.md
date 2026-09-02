@@ -1,5 +1,7 @@
 ---
 title: "Gaya Berat & Medan Gravitasi"
+type: materi
+subject: physics
 level: sma
 target_audience: "SMA Kelas XI"
 created: 2026-08-05

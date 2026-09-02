@@ -1,7 +1,7 @@
 ---
 title: "LKPD: Transformasi Geometri"
 type: "lkpd"
-subject: "Mathematics"
+subject: "mathematics"
 level: "sma"
 target_audience: "SMA Kelas 11 (Fase F)"
 created: 2026-08-18

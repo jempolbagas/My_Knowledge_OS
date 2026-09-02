@@ -1,5 +1,7 @@
 ---
 title: "LKPD: Litosfer (Tenaga Endogen & Eksogen)"
+type: lkpd
+subject: social-studies
 level: sma
 target_audience: "SMA Kelas X (Fase E - Geografi Kurikulum Merdeka)"
 created: 2026-07-23

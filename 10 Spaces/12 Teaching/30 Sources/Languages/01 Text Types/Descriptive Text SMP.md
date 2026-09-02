@@ -1,5 +1,7 @@
 ---
 title: "Descriptive Text — Guide to Describing People, Places & Things"
+type: materi
+subject: languages
 level: smp
 target_audience: SMP (Junior High School)
 created: 2026-07-30

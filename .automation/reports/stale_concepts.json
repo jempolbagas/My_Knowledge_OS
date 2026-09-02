@@ -63,66 +63,12 @@
     "status": "missing_hash"
   },
   {
-    "concept_file": "20 Brain Atlas/20 Concepts/Artificial Intelligence/Softmax Function.md",
-    "concept_title": "Softmax Function",
-    "source_file": "20 Brain Atlas/10 Library/Artificial Intelligence/02 Activation and Gradients/Activation Functions Explained.md",
-    "source_title": "Activation Functions Explained",
-    "stored_hash": "f79b33ad105945a896c6978800b44b95",
-    "current_hash": "1e3a4e2f044d67fdc893a8b52b6588f7",
-    "status": "outdated"
-  },
-  {
-    "concept_file": "20 Brain Atlas/20 Concepts/Artificial Intelligence/ReLU Function.md",
-    "concept_title": "ReLU Function",
-    "source_file": "20 Brain Atlas/10 Library/Artificial Intelligence/02 Activation and Gradients/Activation Functions Explained.md",
-    "source_title": "Activation Functions Explained",
-    "stored_hash": "f79b33ad105945a896c6978800b44b95",
-    "current_hash": "1e3a4e2f044d67fdc893a8b52b6588f7",
-    "status": "outdated"
-  },
-  {
-    "concept_file": "20 Brain Atlas/20 Concepts/Artificial Intelligence/Activation Functions.md",
-    "concept_title": "Activation Functions",
-    "source_file": "20 Brain Atlas/10 Library/Artificial Intelligence/02 Activation and Gradients/Activation Functions Explained.md",
-    "source_title": "Activation Functions Explained",
-    "stored_hash": "f79b33ad105945a896c6978800b44b95",
-    "current_hash": "1e3a4e2f044d67fdc893a8b52b6588f7",
-    "status": "outdated"
-  },
-  {
     "concept_file": "20 Brain Atlas/20 Concepts/Artificial Intelligence/Post-Training Quantization.md",
     "concept_title": "Post-Training Quantization",
     "source_file": "20 Brain Atlas/10 Library/Artificial Intelligence/03 Quantization and Optimization/Post Training Quantization End to End Guide.md",
     "source_title": "Post Training Quantization End to End Guide",
     "stored_hash": "41e818cb181faf4fc06350273191d9c3",
     "current_hash": "891e6e2d7f065ee79b568d93230cd450",
-    "status": "outdated"
-  },
-  {
-    "concept_file": "20 Brain Atlas/20 Concepts/Artificial Intelligence/Leaky ReLU Function.md",
-    "concept_title": "Leaky ReLU Function",
-    "source_file": "20 Brain Atlas/10 Library/Artificial Intelligence/02 Activation and Gradients/Activation Functions Explained.md",
-    "source_title": "Activation Functions Explained",
-    "stored_hash": "f79b33ad105945a896c6978800b44b95",
-    "current_hash": "1e3a4e2f044d67fdc893a8b52b6588f7",
-    "status": "outdated"
-  },
-  {
-    "concept_file": "20 Brain Atlas/20 Concepts/Artificial Intelligence/Sigmoid Function.md",
-    "concept_title": "Sigmoid Function",
-    "source_file": "20 Brain Atlas/10 Library/Artificial Intelligence/02 Activation and Gradients/Activation Functions Explained.md",
-    "source_title": "Activation Functions Explained",
-    "stored_hash": "f79b33ad105945a896c6978800b44b95",
-    "current_hash": "1e3a4e2f044d67fdc893a8b52b6588f7",
-    "status": "outdated"
-  },
-  {
-    "concept_file": "20 Brain Atlas/20 Concepts/Artificial Intelligence/Tanh Function.md",
-    "concept_title": "Tanh Function",
-    "source_file": "20 Brain Atlas/10 Library/Artificial Intelligence/02 Activation and Gradients/Activation Functions Explained.md",
-    "source_title": "Activation Functions Explained",
-    "stored_hash": "f79b33ad105945a896c6978800b44b95",
-    "current_hash": "1e3a4e2f044d67fdc893a8b52b6588f7",
     "status": "outdated"
   },
   {

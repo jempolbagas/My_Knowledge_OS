@@ -1,5 +1,7 @@
 ---
 title: "Soal Evaluasi: Pengenalan Sel"
+type: soal-evaluasi
+subject: biology
 level: smp
 target_audience: "SMP Kelas VIII"
 created: 2026-08-12

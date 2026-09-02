@@ -1,5 +1,7 @@
 ---
 title: "LKPD: Tenaga Endogen Vulkanisme"
+type: lkpd
+subject: social-studies
 level: smp
 target_audience: "SMA Kelas X / SMP Kelas VIII"
 created: 2026-07-23

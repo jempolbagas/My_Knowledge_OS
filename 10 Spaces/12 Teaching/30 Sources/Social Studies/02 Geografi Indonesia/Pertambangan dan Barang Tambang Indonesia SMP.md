@@ -1,5 +1,7 @@
 ---
 title: "Pertambangan & Potensi Barang Tambang di Indonesia"
+type: materi
+subject: social-studies
 level: smp
 target_audience: "SMP / Sederajat (Fase D - IPS / Geografi Kelas 8)"
 created: 2026-08-10

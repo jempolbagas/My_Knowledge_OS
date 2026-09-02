@@ -1,5 +1,7 @@
 ---
 title: "LKPD: Pola Bilangan & Barisan"
+type: lkpd
+subject: mathematics
 level: smp
 target_audience: "SMP Kelas VIII"
 created: 2026-08-10

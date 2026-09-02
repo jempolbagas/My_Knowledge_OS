@@ -1,14 +1,16 @@
 ---
 title: "Kaidah Pencacahan & Kombinatorika — Permutasi, Kombinasi, & Binomial Newton"
+type: master-dashboard
+subject: mathematics
 level: sma
 target_audience: "SMA Kelas 12"
 created: 2026-08-09
 sources:
   - "[[Logika Permutasi dan Kombinasi SMA]]"
   - "[[Teori Peluang dan Kejadian Majemuk SMA]]"
+  - "[[LKPD Kaidah Pencacahan dan Kombinatorika SMA]]"
+  - "[[LKPD Teori Peluang dan Kejadian Majemuk SMA]]"
   - "[[Suku Banyak Polinomial SMA]]"
-  - "[[Kombinasi dan Binomial Newton dalam Aturan Pencacahan]]"
-  - "[[Yuk, Belajar 5 Jenis Permutasi dalam Teori Peluang]]"
 tags:
   - teaching-material
   - mathematics

@@ -1,5 +1,7 @@
 ---
 title: "Short Functional Texts — Notice, Announcement, & Invitation"
+type: materi
+subject: languages
 level: smp
 target_audience: SMP (Junior High School)
 created: 2026-07-30

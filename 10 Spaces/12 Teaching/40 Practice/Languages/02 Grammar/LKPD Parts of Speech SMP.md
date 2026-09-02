@@ -1,5 +1,7 @@
 ---
 title: "LKPD: Parts of Speech"
+type: lkpd
+subject: languages
 level: smp
 target_audience: "SMP / SMA / General English Learners"
 created: 2026-07-28

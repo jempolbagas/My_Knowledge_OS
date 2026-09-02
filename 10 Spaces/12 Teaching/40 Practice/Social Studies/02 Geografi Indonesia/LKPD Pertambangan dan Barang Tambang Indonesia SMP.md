@@ -1,5 +1,7 @@
 ---
 title: "LKPD: Pertambangan & Barang Tambang"
+type: lkpd
+subject: social-studies
 level: smp
 target_audience: "SMP / Sederajat (Fase D - IPS / Geografi Kelas 8)"
 created: 2026-08-10

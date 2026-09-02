@@ -1,12 +1,14 @@
 ---
 title: "Teori Peluang & Kejadian Majemuk — Peluang Bersyarat & Saling Lepas"
+type: materi
+subject: mathematics
 level: sma
 target_audience: "SMA Kelas 12"
 created: 2026-08-09
 sources:
   - "[[Kaidah Pencacahan dan Kombinatorika SMA]]"
   - "[[Logika Permutasi dan Kombinasi SMA]]"
-  - "[[Pahami Konsep, Rumus & Cara Menghitung Peluang Suatu Kejadian]]"
+  - "[[LKPD Teori Peluang dan Kejadian Majemuk SMA]]"
 tags:
   - teaching-material
   - mathematics

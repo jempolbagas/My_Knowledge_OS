@@ -77,7 +77,12 @@ Selamat datang di Teaching Resources Hub! Halaman ini mengorganisir seluruh mate
   - 📄 [[Suku Banyak Polinomial SMA]] — Suku Banyak (Polinomial) — Master Guide & Navigasi Modul
   - 📄 [[Teorema_Sisa_dan_Faktor_SMA]] — Teorema Sisa dan Teorema Faktor
   - 📄 [[Teorema_Vieta_Polinomial_SMA]] — Teorema Vieta pada Polinomial
-- 🏠 [[Matriks SMA]] — Matriks — Konsep, Operasi Aljabar, Determinan, & Invers
+- 🏠 [[Determinan_Matriks_dan_Sifatnya_SMA]] — Determinan Matriks dan Sifat-Sifatnya SMA
+  - 📄 [[Konsep_Dasar_dan_Klasifikasi_Matriks_SMA]] — Konsep Dasar, Notasi, dan Klasifikasi Matriks SMA
+  - 📄 [[Matriks SMA]] — Matriks SMA — Master Dashboard & Peta Konsep Aljabar Linear
+  - 📄 [[Minor_Kofaktor_dan_Invers_Matriks_SMA]] — Minor, Kofaktor, dan Invers Matriks SMA
+  - 📄 [[Operasi_Aljabar_dan_Sifat_Matriks_SMA]] — Operasi Aljabar dan Sifat-Sifat Matriks SMA
+  - 📄 [[Persamaan_Matriks_dan_Sistem_Persamaan_Linear_SMA]] — Persamaan Matriks dan Sistem Persamaan Linear (SPL) SMA
 - 🏠 [[Aturan_Sinus_Cosinus_dan_Luas_Segitiga_SMA]] — Aturan Sinus Cosinus dan Luas Segitiga SMA
   - 📄 [[Grafik_Fungsi_dan_Persamaan_Trigonometri_SMA]] — Grafik Fungsi dan Persamaan Trigonometri SMA
   - 📄 [[Identitas_dan_Rumus_Jumlah_Selisih_Sudut_SMA]] — Identitas dan Rumus Jumlah-Selisih Sudut SMA
@@ -121,6 +126,28 @@ Selamat datang di Teaching Resources Hub! Halaman ini mengorganisir seluruh mate
 
 ### 📝 Lembar Kerja (Practice)
 - [[Soal_Konsep_Dasar_Ekonomi_SMA]]
+
+---
+
+## 📚 Chemistry
+
+### 📚 Materi Ajar (Sources)
+- 🏠 [[Ikatan Ion dan Pembentukan Senyawa SMA]] — Ikatan Ion dan Pembentukan Senyawa — Tarikan Elektrostatik Kation-Anion
+  - 📄 [[Ikatan Kimia SMA]] — Ikatan Kimia — Master Guide & Navigasi Modul Terpadu
+  - 📄 [[Ikatan Kovalen dan Kepolaran Senyawa SMA]] — Ikatan Kovalen dan Kepolaran Senyawa — Seni Berbagi Elektron
+  - 📄 [[Ikatan Logam dan Perbandingan Sifat Fisis SMA]] — Ikatan Logam dan Perbandingan Sifat Fisis — Lautan Elektron & Material Maju
+  - 📄 [[Kestabilan Unsur dan Lambang Lewis SMA]] — Kestabilan Unsur dan Lambang Lewis — Pondasi Ikatan Kimia
+- 🏠 [[Bentuk Molekul dan Gaya Antarmolekul SMA]] — Bentuk Molekul dan Gaya Antarmolekul — Master Guide & Navigasi Modul Terpadu
+  - 📄 [[Gaya Antarmolekul dan Ikatan Hidrogen SMA]] — Gaya Antarmolekul dan Ikatan Hidrogen — Interaksi Tak Kasat Mata
+  - 📄 [[Pengaruh Gaya Antarmolekul terhadap Sifat Fisis SMA]] — Pengaruh Gaya Antarmolekul terhadap Sifat Fisis — Dari Titik Didih hingga Anomali Air
+  - 📄 [[Teori Hibridisasi Orbital Molekul SMA]] — Teori Hibridisasi Orbital Molekul — Peleburan Orbital & Ikatan Sigma/Pi
+  - 📄 [[Teori VSEPR dan Domain Elektron SMA]] — Teori VSEPR dan Domain Elektron — Meramalkan Arsitektur 3D Molekul
+
+### 📝 Lembar Kerja (Practice)
+- [[LKPD_Bentuk_Molekul_dan_Gaya_Antarmolekul_SMA]]
+- [[LKPD_Ikatan_Kimia_SMA]]
+- [[Soal_Bentuk_Molekul_dan_Gaya_Antarmolekul_SMA]]
+- [[Soal_Ikatan_Kimia_SMA]]
 
 ---
 

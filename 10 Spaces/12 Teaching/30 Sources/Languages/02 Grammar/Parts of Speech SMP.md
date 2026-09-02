@@ -1,5 +1,7 @@
 ---
 title: "Parts of Speech — 8 Unsur Pembentuk Kalimat Bahasa Inggris"
+type: materi
+subject: languages
 level: smp
 target_audience: "SMP / SMA / General English Learners"
 created: 2026-07-28

@@ -11,13 +11,7 @@ Detected when a source file has changed since the Concept wiki page was generate
 | [[Quantization Calibration]] | [[Post Training Quantization End to End Guide]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "891e6e2d7f065ee79b568d93230cd450"` |
 | [[Vectorization in NumPy]] | [[Machine Learning Roadmap]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "2b7f71cc94a40f2e35375fb71f97b0f4"` |
 | [[U-Net Architecture]] | [[Encoder Decoder Image Segmentation Deep Dive]] | ❓ No Snapshot Hash | Run LLM review to update concept and update `source_hash: "4178b713e336933a1f63289f058f624e"` |
-| [[Softmax Function]] | [[Activation Functions Explained]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "1e3a4e2f044d67fdc893a8b52b6588f7"` |
-| [[ReLU Function]] | [[Activation Functions Explained]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "1e3a4e2f044d67fdc893a8b52b6588f7"` |
-| [[Activation Functions]] | [[Activation Functions Explained]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "1e3a4e2f044d67fdc893a8b52b6588f7"` |
 | [[Post-Training Quantization]] | [[Post Training Quantization End to End Guide]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "891e6e2d7f065ee79b568d93230cd450"` |
-| [[Leaky ReLU Function]] | [[Activation Functions Explained]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "1e3a4e2f044d67fdc893a8b52b6588f7"` |
-| [[Sigmoid Function]] | [[Activation Functions Explained]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "1e3a4e2f044d67fdc893a8b52b6588f7"` |
-| [[Tanh Function]] | [[Activation Functions Explained]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "1e3a4e2f044d67fdc893a8b52b6588f7"` |
 | [[Per-Tensor vs Per-Channel Quantization]] | [[Post Training Quantization End to End Guide]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "891e6e2d7f065ee79b568d93230cd450"` |
 | [[Scale Factor and Zero-Point]] | [[Post Training Quantization End to End Guide]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "891e6e2d7f065ee79b568d93230cd450"` |
 | [[Symmetric vs Asymmetric Quantization]] | [[Post Training Quantization End to End Guide]] | ⚠️ Outdated | Run LLM review to update concept and update `source_hash: "891e6e2d7f065ee79b568d93230cd450"` |

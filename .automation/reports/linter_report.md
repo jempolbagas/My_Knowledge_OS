@@ -19,69 +19,23 @@
 | [[LKPD_Perfect_Tenses_SMA]] | `Comparative_Tenses_Matrix_SMA` | `wikilink` |
 | [[LKPD_Perfect_Tenses_SMA]] | `Perfect_Tenses_SMA` | `wikilink` |
 | [[LKPD_Perfect_Tenses_SMA]] | `Comparative_Tenses_Matrix_SMA` | `wikilink` |
-| [[LKPD Simple Present vs Present Continuous SMP]] | `Simple Past Tense SMP` | `wikilink` |
-| [[LKPD Simple Present vs Present Continuous SMP]] | `[ESL] Present Continuous Tense` | `wikilink` |
-| [[Soal Fungsi Komposisi dan Invers SMA]] | `Fungsi Invers SMA` | `wikilink` |
-| [[Soal Fungsi Komposisi dan Invers SMA]] | `LKPD Fungsi Invers SMA` | `wikilink` |
-| [[LKPD Fungsi Komposisi dan Invers SMA]] | `Fungsi Invers SMA` | `wikilink` |
-| [[LKPD Fungsi Komposisi dan Invers SMA]] | `Soal Fungsi Invers SMA` | `wikilink` |
 | [[index teaching]] | `Simple Past Tense SMP` | `wikilink` |
 | [[index teaching]] | `Fungsi Invers SMA` | `wikilink` |
-| [[Simple_Present_Tense_Master_SMA]] | `Fondasi_Verbal_dan_Nominal_SMA\` | `wikilink` |
-| [[Simple_Present_Tense_Master_SMA]] | `Suffix_Rules_dan_Adverbs_of_Frequency_SMA\` | `wikilink` |
-| [[Simple_Present_Tense_Master_SMA]] | `Advanced_Usage_dan_Nuansa_Khusus_SMA\` | `wikilink` |
-| [[Simple_Present_Tense_Master_SMA]] | `LKPD_Simple_Present_Tense_SMA\` | `wikilink` |
-| [[Simple_Present_Tense_Master_SMA]] | `Soal_Simple_Present_Tense_SMA\` | `wikilink` |
-| [[Simple_Past_Tense_Master_SMA]] | `Fondasi_Verbal_dan_Nominal_SMA\` | `wikilink` |
-| [[Simple_Past_Tense_Master_SMA]] | `Morfologi_Verb2_dan_Fonetik_Ed_SMA\` | `wikilink` |
-| [[Simple_Past_Tense_Master_SMA]] | `Advanced_Usage_dan_Nuansa_Khusus_SMA\` | `wikilink` |
-| [[Simple_Past_Tense_Master_SMA]] | `LKPD_Simple_Past_Tense_SMA\` | `wikilink` |
-| [[Simple_Past_Tense_Master_SMA]] | `Soal_Simple_Past_Tense_SMA\` | `wikilink` |
-| [[Suku Banyak Polinomial SMA]] | `Konsep_dan_Kesamaan_Polinomial_SMA\` | `wikilink` |
-| [[Suku Banyak Polinomial SMA]] | `Metode_Horner_dan_Operasi_SMA\` | `wikilink` |
-| [[Suku Banyak Polinomial SMA]] | `Teorema_Sisa_dan_Faktor_SMA\` | `wikilink` |
-| [[Suku Banyak Polinomial SMA]] | `Pemfaktoran_dan_Akar_Rasional_SMA\` | `wikilink` |
-| [[Suku Banyak Polinomial SMA]] | `Teorema_Vieta_Polinomial_SMA\` | `wikilink` |
-| [[Trigonometri_SMA]] | `Perbandingan_Trigonometri_dan_Sudut_Istimewa_SMA\` | `wikilink` |
-| [[Trigonometri_SMA]] | `Sudut_Berelasi_dan_Lingkaran_Satuan_SMA\` | `wikilink` |
-| [[Trigonometri_SMA]] | `Identitas_dan_Rumus_Jumlah_Selisih_Sudut_SMA\` | `wikilink` |
-| [[Trigonometri_SMA]] | `Aturan_Sinus_Cosinus_dan_Luas_Segitiga_SMA\` | `wikilink` |
-| [[Trigonometri_SMA]] | `Grafik_Fungsi_dan_Persamaan_Trigonometri_SMA\` | `wikilink` |
-| [[Transformasi Geometri SMA]] | `Translasi dan Refleksi SMA\` | `wikilink` |
-| [[Transformasi Geometri SMA]] | `Rotasi dan Dilatasi SMA\` | `wikilink` |
-| [[Transformasi Geometri SMA]] | `Komposisi Transformasi dan Matriks SMA\` | `wikilink` |
-| [[Transformasi Geometri SMA]] | `Transformasi Fungsi SMA\` | `wikilink` |
-| [[Transformasi Geometri SMA]] | `Regangan Guntingan Transformasi SMA\` | `wikilink` |
-| [[Transformasi Geometri SMA]] | `LKPD Transformasi Geometri SMA\` | `wikilink` |
-| [[Transformasi Geometri SMA]] | `Soal Transformasi Geometri SMA\` | `wikilink` |
-| [[Invers Fungsi Komposisi dan Aplikasi SMA]] | `Fungsi Invers SMA` | `wikilink` |
-| [[Invers Fungsi Komposisi dan Aplikasi SMA]] | `LKPD Fungsi Invers SMA` | `wikilink` |
-| [[Invers Fungsi Komposisi dan Aplikasi SMA]] | `Soal Fungsi Invers SMA` | `wikilink` |
-| [[Invers Fungsi Komposisi dan Aplikasi SMA]] | `Fungsi Invers SMA` | `wikilink` |
-| [[Invers Fungsi Komposisi dan Aplikasi SMA]] | `LKPD Fungsi Invers SMA` | `wikilink` |
-| [[Invers Fungsi Komposisi dan Aplikasi SMA]] | `Soal Fungsi Invers SMA` | `wikilink` |
-| [[Teknik Invers Fungsi Aljabar SMA]] | `Fungsi Invers SMA` | `wikilink` |
-| [[Teknik Invers Fungsi Aljabar SMA]] | `LKPD Fungsi Invers SMA` | `wikilink` |
-| [[Teknik Invers Fungsi Aljabar SMA]] | `Fungsi Invers SMA` | `wikilink` |
-| [[Teknik Invers Fungsi Aljabar SMA]] | `LKPD Fungsi Invers SMA` | `wikilink` |
-| [[Konsep Dasar dan Syarat Invers SMA]] | `Fungsi Invers SMA` | `wikilink` |
-| [[Konsep Dasar dan Syarat Invers SMA]] | `LKPD Fungsi Invers SMA` | `wikilink` |
-| [[Konsep Dasar dan Syarat Invers SMA]] | `Fungsi Invers SMA` | `wikilink` |
-| [[Konsep Dasar dan Syarat Invers SMA]] | `LKPD Fungsi Invers SMA` | `wikilink` |
-| [[Fungsi Komposisi dan Invers SMA]] | `Konsep Dasar dan Syarat Invers SMA\` | `wikilink` |
-| [[Fungsi Komposisi dan Invers SMA]] | `Teknik Invers Fungsi Aljabar SMA\` | `wikilink` |
-| [[Fungsi Komposisi dan Invers SMA]] | `Invers Fungsi Komposisi dan Aplikasi SMA\` | `wikilink` |
-| [[Fungsi Komposisi dan Invers SMA]] | `LKPD Fungsi Invers SMA\` | `wikilink` |
-| [[Fungsi Komposisi dan Invers SMA]] | `Soal Fungsi Invers SMA\` | `wikilink` |
+| [[Dashboard]] | `Perfect_Tenses_SMA` | `wikilink` |
+| [[Present_Continuous_Tense_Master_SMA]] | `Fondasi_Struktur_dan_Waktu_SMA\` | `wikilink` |
+| [[Present_Continuous_Tense_Master_SMA]] | `Kaidah_Spelling_dan_Stative_Verbs_SMA\` | `wikilink` |
+| [[Present_Continuous_Tense_Master_SMA]] | `Advanced_Usage_dan_Nuansa_Khusus_SMA\` | `wikilink` |
+| [[Present_Continuous_Tense_Master_SMA]] | `LKPD_Present_Continuous_Tense_SMA\` | `wikilink` |
+| [[Present_Continuous_Tense_Master_SMA]] | `Soal_Present_Continuous_Tense_SMA\` | `wikilink` |
 | [[Fungsi Komposisi dan Invers SMA]] | `LKPD Fungsi Invers SMA` | `wikilink` |
-| [[Pendapatan Nasional SMA]] | `Materi Konsep Pendapatan Nasional\` | `wikilink` |
-| [[Pendapatan Nasional SMA]] | `Materi Pendapatan Per Kapita\` | `wikilink` |
-| [[Pendapatan Nasional SMA]] | `Materi Distribusi Pendapatan\` | `wikilink` |
-| [[Pendapatan Nasional SMA]] | `LKPD dan Soal Pendapatan Nasional\` | `wikilink` |
-| [[Konsep_Dasar_Ekonomi_SMA]] | `Kelangkaan_dan_Biaya_Peluang_SMA\` | `wikilink` |
-| [[Konsep_Dasar_Ekonomi_SMA]] | `Metodologi_dan_Prinsip_Ekonomi_SMA\` | `wikilink` |
-| [[Konsep_Dasar_Ekonomi_SMA]] | `Masalah_Pokok_dan_Sistem_Ekonomi_SMA\` | `wikilink` |
-| [[Konsep_Dasar_Ekonomi_SMA]] | `Soal_Konsep_Dasar_Ekonomi_SMA\` | `wikilink` |
+| [[Ikatan Kimia SMA]] | `Kestabilan Unsur dan Lambang Lewis SMA\` | `wikilink` |
+| [[Ikatan Kimia SMA]] | `Ikatan Ion dan Pembentukan Senyawa SMA\` | `wikilink` |
+| [[Ikatan Kimia SMA]] | `Ikatan Kovalen dan Kepolaran Senyawa SMA\` | `wikilink` |
+| [[Ikatan Kimia SMA]] | `Ikatan Logam dan Perbandingan Sifat Fisis SMA\` | `wikilink` |
+| [[Bentuk Molekul dan Gaya Antarmolekul SMA]] | `Teori VSEPR dan Domain Elektron SMA\` | `wikilink` |
+| [[Bentuk Molekul dan Gaya Antarmolekul SMA]] | `Teori Hibridisasi Orbital Molekul SMA\` | `wikilink` |
+| [[Bentuk Molekul dan Gaya Antarmolekul SMA]] | `Gaya Antarmolekul dan Ikatan Hidrogen SMA\` | `wikilink` |
+| [[Bentuk Molekul dan Gaya Antarmolekul SMA]] | `Pengaruh Gaya Antarmolekul terhadap Sifat Fisis SMA\` | `wikilink` |
 | [[Week 01 Introduction to DSP Notes]] | `Sinyal Waktu Diskrit` | `wikilink` |
 | [[Week 01 Introduction to DSP Notes]] | `Konversi Analog ke Digital ADC` | `wikilink` |
 | [[Week 01 Introduction to DSP Notes]] | `Aliasing Sinyal` | `wikilink` |
@@ -212,6 +166,13 @@
 | [[s11277-023-10315-5]] | `14, 15, 43` | `wikilink` |
 | [[s11277-023-10315-5]] | `15, 25, 52` | `wikilink` |
 | [[Semantic Segmentation]] | `Encoder-Decoder Architecture` | `wikilink` |
+| [[Softmax Function]] | `Activation Functions Explained` | `frontmatter_source` |
+| [[ReLU Function]] | `Activation Functions Explained` | `frontmatter_source` |
+| [[Activation Functions]] | `Activation Functions Explained` | `wikilink` |
+| [[Activation Functions]] | `Activation Functions Explained` | `frontmatter_source` |
+| [[Leaky ReLU Function]] | `Activation Functions Explained` | `frontmatter_source` |
+| [[Sigmoid Function]] | `Activation Functions Explained` | `frontmatter_source` |
+| [[Tanh Function]] | `Activation Functions Explained` | `frontmatter_source` |
 | [[Gaya Berat]] | `Hukum Newton` | `wikilink` |
 | [[Gaya Normal]] | `Gaya Gesek` | `wikilink` |
 | [[Gaya Normal]] | `Hukum Newton` | `wikilink` |
@@ -243,9 +204,6 @@
 
 ## 🕳️ Orphan Pages (Disconnected Nodes)
 These files have no incoming or outgoing links:
-- [[Soal_Deret_Aritmatika_dan_Geometri_SMP]] (`10 Spaces/12 Teaching/40 Practice/Mathematics/07 Pola Bilangan/Soal_Deret_Aritmatika_dan_Geometri_SMP.md`)
-- [[LKPD Kaidah Pencacahan dan Kombinatorika SMA]] (`10 Spaces/12 Teaching/40 Practice/Mathematics/03 Peluang dan Kombinatorika/LKPD Kaidah Pencacahan dan Kombinatorika SMA.md`)
-- [[LKPD Teori Peluang dan Kejadian Majemuk SMA]] (`10 Spaces/12 Teaching/40 Practice/Mathematics/03 Peluang dan Kombinatorika/LKPD Teori Peluang dan Kejadian Majemuk SMA.md`)
 - [[Lagrange Interpolation]] (`20 Brain Atlas/10 Library/Mathematics/02 Numerical Methods/Lagrange Interpolation.md`)
 - [[Hicks Law]] (`20 Brain Atlas/20 Concepts/Computer Science/Hicks Law.md`)
 - [[Millers Law]] (`20 Brain Atlas/20 Concepts/Computer Science/Millers Law.md`)
@@ -266,8 +224,6 @@ These files have no incoming or outgoing links:
 | [[Knowledge Distillation and Teacher Student Optimization]] | `prompt` |
 | [[Post Training Quantization End to End Guide]] | `topic, prompt` |
 | [[Network Pruning and Sparsity Analysis]] | `prompt` |
-| [[Activation Functions Explained]] | `type (should be repo/paper/article/book/talk/generated_reading)` |
-| [[Gradient Flow and Activation Slope]] | `type (should be repo/paper/article/book/talk/generated_reading)` |
 | [[Chinese Remainder Theorem and Reverse CRT Guide]] | `title, topic, requested_on, prompt, tags, promoted_to` |
 | [[Single Secret Sharing CRT Shamir XOR]] | `type (should be repo/paper/article/book/talk/generated_reading)` |
 | [[Pengantar Komputasi Biomedis]] | `type (should be repo/paper/article/book/talk/generated_reading)` |

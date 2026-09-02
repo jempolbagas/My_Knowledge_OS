@@ -1,9 +1,10 @@
 ---
 title: "Soal Evaluasi: Sistem Pencernaan Makanan"
+type: soal-evaluasi
+subject: biology
 level: smp
 target_audience: "SMP Kelas VIII"
 phase: "Fase D (Kurikulum Merdeka)"
-subject: "Biologi / Ilmu Pengetahuan Alam (IPA)"
 created: 2026-08-19
 sources:
   - "[[Sistem Pencernaan Makanan SMP]]"

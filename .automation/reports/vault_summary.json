@@ -8,14 +8,14 @@
       "4. Never scan directories or open more than 3 full notes without user approval.",
       "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
     ],
-    "generated_at": "2026-09-01T12:46:30Z"
+    "generated_at": "2026-09-02T10:59:50Z"
   },
   "stats": {
-    "total_notes": 256,
-    "total_edges": 1423,
-    "broken_links": 237,
-    "untyped_notes": 68,
-    "health_score": 61.2
+    "total_notes": 279,
+    "total_edges": 1668,
+    "broken_links": 198,
+    "untyped_notes": 15,
+    "health_score": 83.4
   },
   "inbox": [
     "biocomp-pertemuan-2"
@@ -27,6 +27,8 @@
         "LKPD_Perfect_Tenses_SMA",
         "LKPD Parts of Speech SMP",
         "LKPD Simple Present vs Present Continuous SMP",
+        "LKPD_Present_Continuous_Tense_SMA",
+        "Soal_Present_Continuous_Tense_SMA",
         "LKPD_Simple_Present_Tense_SMA",
         "Soal_Simple_Present_Tense_SMA",
         "LKPD_Simple_Past_Tense_SMA",
@@ -35,6 +37,10 @@
         "LKPD Functional Texts SMP",
         "LKPD Descriptive Text SMP",
         "Parts of Speech SMP",
+        "Advanced_Usage_dan_Nuansa_Khusus_SMA",
+        "Fondasi_Struktur_dan_Waktu_SMA",
+        "Present_Continuous_Tense_Master_SMA",
+        "Kaidah_Spelling_dan_Stative_Verbs_SMA",
         "Simple_Present_Tense_Master_SMA",
         "Fondasi_Verbal_dan_Nominal_SMA",
         "Advanced_Usage_dan_Nuansa_Khusus_SMA",
@@ -97,6 +103,11 @@
         "Perbandingan_Trigonometri_dan_Sudut_Istimewa_SMA",
         "Sudut_Berelasi_dan_Lingkaran_Satuan_SMA",
         "Trigonometri_SMA",
+        "Persamaan_Matriks_dan_Sistem_Persamaan_Linear_SMA",
+        "Determinan_Matriks_dan_Sifatnya_SMA",
+        "Minor_Kofaktor_dan_Invers_Matriks_SMA",
+        "Operasi_Aljabar_dan_Sifat_Matriks_SMA",
+        "Konsep_Dasar_dan_Klasifikasi_Matriks_SMA",
         "Matriks SMA",
         "Persamaan Kuadrat SMP",
         "Logika Permutasi dan Kombinasi SMA",
@@ -134,6 +145,22 @@
         "Tenaga Endogen Vulkanisme SMP",
         "Tenaga Eksogen SMP",
         "Litosfer Tenaga Endogen dan Eksogen SMA"
+      ],
+      "Chemistry": [
+        "LKPD_Ikatan_Kimia_SMA",
+        "Soal_Bentuk_Molekul_dan_Gaya_Antarmolekul_SMA",
+        "Soal_Ikatan_Kimia_SMA",
+        "LKPD_Bentuk_Molekul_dan_Gaya_Antarmolekul_SMA",
+        "Ikatan Logam dan Perbandingan Sifat Fisis SMA",
+        "Ikatan Kovalen dan Kepolaran Senyawa SMA",
+        "Ikatan Ion dan Pembentukan Senyawa SMA",
+        "Kestabilan Unsur dan Lambang Lewis SMA",
+        "Ikatan Kimia SMA",
+        "Teori Hibridisasi Orbital Molekul SMA",
+        "Pengaruh Gaya Antarmolekul terhadap Sifat Fisis SMA",
+        "Teori VSEPR dan Domain Elektron SMA",
+        "Bentuk Molekul dan Gaya Antarmolekul SMA",
+        "Gaya Antarmolekul dan Ikatan Hidrogen SMA"
       ],
       "Economics": [
         "Soal_Konsep_Dasar_Ekonomi_SMA",
@@ -262,9 +289,6 @@
   },
   "maintenance": {
     "orphan_pages_sample": [
-      "Soal_Deret_Aritmatika_dan_Geometri_SMP",
-      "LKPD Kaidah Pencacahan dan Kombinatorika SMA",
-      "LKPD Teori Peluang dan Kejadian Majemuk SMA",
       "Lagrange Interpolation",
       "Hicks Law",
       "Millers Law",
@@ -276,84 +300,64 @@
     ],
     "untyped_notes_sample": [
       {
-        "title": "LKPD Parts of Speech SMP",
-        "path": "10 Spaces/12 Teaching/40 Practice/Languages/02 Grammar/LKPD Parts of Speech SMP.md"
+        "title": "LKPD Pendapatan Nasional SMA",
+        "path": "10 Spaces/12 Teaching/40 Practice/Economics/01 Pendapatan Nasional/LKPD Pendapatan Nasional SMA.md"
       },
       {
-        "title": "LKPD Narrative Text SMP",
-        "path": "10 Spaces/12 Teaching/40 Practice/Languages/01 Text Types/LKPD Narrative Text SMP.md"
+        "title": "index_teaching",
+        "path": "10 Spaces/12 Teaching/00 Atlas/index_teaching.md"
       },
       {
-        "title": "LKPD Functional Texts SMP",
-        "path": "10 Spaces/12 Teaching/40 Practice/Languages/01 Text Types/LKPD Functional Texts SMP.md"
+        "title": "s11277-023-10315-5",
+        "path": "20 Brain Atlas/30 Reference Lib/s11277-023-10315-5.md"
       },
       {
-        "title": "LKPD Descriptive Text SMP",
-        "path": "10 Spaces/12 Teaching/40 Practice/Languages/01 Text Types/LKPD Descriptive Text SMP.md"
+        "title": "Model Pruning",
+        "path": "20 Brain Atlas/20 Concepts/Artificial Intelligence/Model Pruning.md"
       },
       {
-        "title": "LKPD Dinamika Gerak SMA",
-        "path": "10 Spaces/12 Teaching/40 Practice/Physics/01 Dinamika Gerak/LKPD Dinamika Gerak SMA.md"
+        "title": "Dice Loss",
+        "path": "20 Brain Atlas/20 Concepts/Artificial Intelligence/Dice Loss.md"
       },
       {
-        "title": "LKPD Gaya Gesek SMA",
-        "path": "10 Spaces/12 Teaching/40 Practice/Physics/01 Dinamika Gerak/LKPD Gaya Gesek SMA.md"
+        "title": "Semantic Segmentation",
+        "path": "20 Brain Atlas/20 Concepts/Artificial Intelligence/Semantic Segmentation.md"
       },
       {
-        "title": "LKPD Gaya Tegangan Tali dan Katrol SMA",
-        "path": "10 Spaces/12 Teaching/40 Practice/Physics/01 Dinamika Gerak/LKPD Gaya Tegangan Tali dan Katrol SMA.md"
+        "title": "U-Net Architecture",
+        "path": "20 Brain Atlas/20 Concepts/Artificial Intelligence/U-Net Architecture.md"
       },
       {
-        "title": "LKPD Gaya Normal SMA",
-        "path": "10 Spaces/12 Teaching/40 Practice/Physics/01 Dinamika Gerak/LKPD Gaya Normal SMA.md"
+        "title": "Model Quantization",
+        "path": "20 Brain Atlas/20 Concepts/Artificial Intelligence/Model Quantization.md"
       },
       {
-        "title": "LKPD Gaya Berat SMA",
-        "path": "10 Spaces/12 Teaching/40 Practice/Physics/01 Dinamika Gerak/LKPD Gaya Berat SMA.md"
+        "title": "Bidang S Complex Plane",
+        "path": "20 Brain Atlas/20 Concepts/Digital Signal Processing/Bidang S Complex Plane.md"
       },
       {
-        "title": "LKPD Gaya Sentripetal SMA",
-        "path": "10 Spaces/12 Teaching/40 Practice/Physics/01 Dinamika Gerak/LKPD Gaya Sentripetal SMA.md"
+        "title": "Region of Convergence ROC",
+        "path": "20 Brain Atlas/20 Concepts/Digital Signal Processing/Region of Convergence ROC.md"
       },
       {
-        "title": "Soal Dinamika Gerak SMA",
-        "path": "10 Spaces/12 Teaching/40 Practice/Physics/01 Dinamika Gerak/Soal Dinamika Gerak SMA.md"
+        "title": "Aritmatika_Modulo_Drills",
+        "path": "20 Brain Atlas/40 Self Study Packs/Aritmatika_Modulo/Aritmatika_Modulo_Drills.md"
       },
       {
-        "title": "Soal Pola Bilangan Paket B SMP",
-        "path": "10 Spaces/12 Teaching/40 Practice/Mathematics/07 Pola Bilangan/Soal Pola Bilangan Paket B SMP.md"
+        "title": "Aritmatika_Modulo_Cheatsheet",
+        "path": "20 Brain Atlas/40 Self Study Packs/Aritmatika_Modulo/Aritmatika_Modulo_Cheatsheet.md"
       },
       {
-        "title": "LKPD Pola Bilangan SMP",
-        "path": "10 Spaces/12 Teaching/40 Practice/Mathematics/07 Pola Bilangan/LKPD Pola Bilangan SMP.md"
+        "title": "Drills",
+        "path": "20 Brain Atlas/40 Self Study Packs/00 Template Pack/Drills.md"
       },
       {
-        "title": "LKPD Suku Banyak Polinomial SMA",
-        "path": "10 Spaces/12 Teaching/40 Practice/Mathematics/04 Polinomial/LKPD Suku Banyak Polinomial SMA.md"
+        "title": "Cheatsheet",
+        "path": "20 Brain Atlas/40 Self Study Packs/00 Template Pack/Cheatsheet.md"
       },
       {
-        "title": "LKPD Persamaan Kuadrat SMP",
-        "path": "10 Spaces/12 Teaching/40 Practice/Mathematics/06 Persamaan Kuadrat/LKPD Persamaan Kuadrat SMP.md"
-      },
-      {
-        "title": "LKPD Kaidah Pencacahan dan Kombinatorika SMA",
-        "path": "10 Spaces/12 Teaching/40 Practice/Mathematics/03 Peluang dan Kombinatorika/LKPD Kaidah Pencacahan dan Kombinatorika SMA.md"
-      },
-      {
-        "title": "LKPD Teori Peluang dan Kejadian Majemuk SMA",
-        "path": "10 Spaces/12 Teaching/40 Practice/Mathematics/03 Peluang dan Kombinatorika/LKPD Teori Peluang dan Kejadian Majemuk SMA.md"
-      },
-      {
-        "title": "LKPD Pengenalan Sel SMP",
-        "path": "10 Spaces/12 Teaching/40 Practice/Biology/01 Sel/LKPD Pengenalan Sel SMP.md"
-      },
-      {
-        "title": "Soal Pengenalan Sel SMP",
-        "path": "10 Spaces/12 Teaching/40 Practice/Biology/01 Sel/Soal Pengenalan Sel SMP.md"
-      },
-      {
-        "title": "Soal Sistem Pencernaan Makanan SMP",
-        "path": "10 Spaces/12 Teaching/40 Practice/Biology/02 Sistem Pencernaan/Soal Sistem Pencernaan Makanan SMP.md"
+        "title": "biocomp-pertemuan-2",
+        "path": "00 Inbox/biocomp-pertemuan-2.md"
       }
     ]
   }

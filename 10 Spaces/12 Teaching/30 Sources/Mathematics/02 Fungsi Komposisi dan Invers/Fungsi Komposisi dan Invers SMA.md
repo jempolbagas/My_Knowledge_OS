@@ -9,8 +9,8 @@ sources:
   - "[[Konsep Dasar dan Syarat Invers SMA]]"
   - "[[Teknik Invers Fungsi Aljabar SMA]]"
   - "[[Invers Fungsi Komposisi dan Aplikasi SMA]]"
-  - "[[LKPD Fungsi Invers SMA]]"
-  - "[[Soal Fungsi Invers SMA]]"
+  - "[[LKPD Fungsi Komposisi dan Invers SMA]]"
+  - "[[Soal Fungsi Komposisi dan Invers SMA]]"
 tags:
   - "#matematika"
   - "#fungsi_invers"
@@ -39,11 +39,11 @@ Gunakan tabel navigasi di bawah ini untuk mengakses setiap sub-modul materi, lem
 
 | No | Modul / Berkas | Sub-Bahasan Utama | Target Hasil Belajar |
 | :---: | :--- | :--- | :--- |
-| **01** | [[Konsep Dasar dan Syarat Invers SMA\|Modul 1: Konsep Dasar & Syarat Invers]] | Analogi Mesin Undo, Pemetaan Domain/Range, Syarat Fungsi Bijektif (Horizontal Line Test), Pencerminan Garis $y = x$. | Memahami arti invers, membuktikan sifat bijektif, dan mengidentifikasi invers grafik. |
-| **02** | [[Teknik Invers Fungsi Aljabar SMA\|Modul 2: Teknik Invers Fungsi Aljabar]] | Prosedur 4 Langkah Aljabar, Fungsi Linier, Pecahan Rasional $\frac{ax+b}{cx+d}$, Kuadrat & Akar, Eksponen & Logaritma. | Mahir menentukan rumus $f^{-1}(x)$ untuk pelbagai jenis fungsi aljabar dengan presisi tinggi. |
-| **03** | [[Invers Fungsi Komposisi dan Aplikasi SMA\|Modul 3: Invers Komposisi & Aplikasi HOTS]] | Formulasi $(f \circ g)^{-1}(x) = (g^{-1} \circ f^{-1})(x)$, Sifat Identitas $(f \circ f^{-1})(x) = x$, Konversi Valuta Asing, Diskon Bertingkat. | Menguasai invers dari gabungan fungsi dan memecahkan soal cerita kontekstual dunia nyata. |
-| **📝** | [[LKPD Fungsi Invers SMA\|Lembar Kerja Peserta Didik (LKPD)]] | Aktivitas Eksplorasi Mesin Fungsi, Matriks Pembuktian Rumus Cepat, Studi Kasus Detektif Diskon & Valas. | Mengasah keterampilan kolaborasi kelompok, investigasi matematis, dan pemecahan masalah. |
-| **🎯** | [[Soal Fungsi Invers SMA\|Paket Soal Evaluasi & Pembahasan]] | 10 Soal Pilihan Ganda HOTS + 5 Soal Uraian Penalaran + Kunci Jawaban & Rubrik Penilaian Lengkap. | Menguji tingkat penguasaan individu dan kesiapan menghadapi Ujian / Asesmen Sumatif. |
+| **01** | [[Konsep Dasar dan Syarat Invers SMA|Modul 1: Konsep Dasar & Syarat Invers]] | Analogi Mesin Undo, Pemetaan Domain/Range, Syarat Fungsi Bijektif (Horizontal Line Test), Pencerminan Garis $y = x$. | Memahami arti invers, membuktikan sifat bijektif, dan mengidentifikasi invers grafik. |
+| **02** | [[Teknik Invers Fungsi Aljabar SMA|Modul 2: Teknik Invers Fungsi Aljabar]] | Prosedur 4 Langkah Aljabar, Fungsi Linier, Pecahan Rasional $\frac{ax+b}{cx+d}$, Kuadrat & Akar, Eksponen & Logaritma. | Mahir menentukan rumus $f^{-1}(x)$ untuk pelbagai jenis fungsi aljabar dengan presisi tinggi. |
+| **03** | [[Invers Fungsi Komposisi dan Aplikasi SMA|Modul 3: Invers Komposisi & Aplikasi HOTS]] | Formulasi $(f \circ g)^{-1}(x) = (g^{-1} \circ f^{-1})(x)$, Sifat Identitas $(f \circ f^{-1})(x) = x$, Konversi Valuta Asing, Diskon Bertingkat. | Menguasai invers dari gabungan fungsi dan memecahkan soal cerita kontekstual dunia nyata. |
+| **📝** | [[LKPD Fungsi Komposisi dan Invers SMA|Lembar Kerja Peserta Didik (LKPD)]] | Aktivitas Eksplorasi Mesin Fungsi, Matriks Pembuktian Rumus Cepat, Studi Kasus Detektif Diskon & Valas. | Mengasah keterampilan kolaborasi kelompok, investigasi matematis, dan pemecahan masalah. |
+| **🎯** | [[Soal Fungsi Komposisi dan Invers SMA|Paket Soal Evaluasi & Pembahasan]] | 10 Soal Pilihan Ganda HOTS + 5 Soal Uraian Penalaran + Kunci Jawaban & Rubrik Penilaian Lengkap. | Menguji tingkat penguasaan individu dan kesiapan menghadapi Ujian / Asesmen Sumatif. |
 
 ---
 

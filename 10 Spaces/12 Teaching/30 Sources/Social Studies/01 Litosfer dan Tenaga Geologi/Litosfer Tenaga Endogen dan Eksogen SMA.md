@@ -1,5 +1,7 @@
 ---
 title: "Litosfer — Tenaga Endogen & Eksogen Pembentuk Muka Bumi"
+type: materi
+subject: social-studies
 level: sma
 target_audience: "SMA Kelas X (Fase E - Geografi Kurikulum Merdeka)"
 created: 2026-07-23

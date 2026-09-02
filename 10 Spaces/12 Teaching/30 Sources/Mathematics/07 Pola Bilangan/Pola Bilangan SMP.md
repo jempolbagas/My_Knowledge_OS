@@ -1,5 +1,7 @@
 ---
 title: "Pola Bilangan & Barisan — Rahasia Angka Ajaib"
+type: materi
+subject: mathematics
 level: smp
 target_audience: "SMP Kelas VIII"
 created: 2026-08-05

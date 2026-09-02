@@ -1,5 +1,7 @@
 ---
 title: "Pengenalan Sel — Unit Terkecil Kehidupan"
+type: materi
+subject: biology
 level: smp
 target_audience: "SMP Kelas VIII"
 created: 2026-07-29

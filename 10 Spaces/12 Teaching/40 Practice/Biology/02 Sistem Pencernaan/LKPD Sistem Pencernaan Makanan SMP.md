@@ -1,10 +1,13 @@
 ---
 title: "LKPD: Sistem Pencernaan Makanan"
+type: lkpd
+subject: biology
 level: smp
 target_audience: "SMP Kelas VIII"
 phase: "Fase D (Kurikulum Merdeka)"
-subject: "Biologi / Ilmu Pengetahuan Alam (IPA)"
 created: 2026-08-10
+sources:
+  - "[[Sistem Pencernaan Makanan SMP]]"
 tags:
   - lkpd
   - biologi

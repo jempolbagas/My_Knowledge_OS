@@ -35,10 +35,10 @@ tags:
 
 | No | Modul Pembelajaran | Fokus & Pokok Bahasan Utama | Tautan Akses |
 | :---: | :--- | :--- | :---: |
-| **01** | **Kelangkaan, Pilihan, & Biaya Peluang** | Definisi kelangkaan riil, klasifikasi barang, skala prioritas, kalkulasi *Opportunity Cost* vs *Explicit/Sunk Cost*, serta analisis *Production Possibility Frontier* (PPF). | [[Kelangkaan_dan_Biaya_Peluang_SMA\|📖 Buka Modul 1]] |
-| **02** | **Metodologi & Prinsip Berpikir Ekonomis** | Pembagian ilmu ekonomi (Deskriptif, Teori, Terapan), Mikro vs Makro, Analisis Positif vs Normatif, dan 10 Prinsip Dasar Ekonomi (*Marginal Thinking* & Insentif). | [[Metodologi_dan_Prinsip_Ekonomi_SMA\|📖 Buka Modul 2]] |
-| **03** | **Masalah Pokok & Sistem Perekonomian** | Masalah pokok Klasik vs Modern (*What, How, For Whom*), komparasi 4 sistem ekonomi dunia, serta karakteristik Demokrasi Ekonomi Pancasila (Pasal 33 UUD 1945). | [[Masalah_Pokok_dan_Sistem_Ekonomi_SMA\|📖 Buka Modul 3]] |
-| **04** | **Bank Soal Evaluasi HOTS (UTBK-SNBT)** | 30 Soal bertingkat (Level Fondasi, Level Analisis & Hitungan, Level HOTS Penalaran, dan Studi Kasus Esai) dilengkapi kunci jawaban & pembahasan mendalam. | [[Soal_Konsep_Dasar_Ekonomi_SMA\|📝 Buka Bank Soal]] |
+| **01** | **Kelangkaan, Pilihan, & Biaya Peluang** | Definisi kelangkaan riil, klasifikasi barang, skala prioritas, kalkulasi *Opportunity Cost* vs *Explicit/Sunk Cost*, serta analisis *Production Possibility Frontier* (PPF). | [[Kelangkaan_dan_Biaya_Peluang_SMA|📖 Buka Modul 1]] |
+| **02** | **Metodologi & Prinsip Berpikir Ekonomis** | Pembagian ilmu ekonomi (Deskriptif, Teori, Terapan), Mikro vs Makro, Analisis Positif vs Normatif, dan 10 Prinsip Dasar Ekonomi (*Marginal Thinking* & Insentif). | [[Metodologi_dan_Prinsip_Ekonomi_SMA|📖 Buka Modul 2]] |
+| **03** | **Masalah Pokok & Sistem Perekonomian** | Masalah pokok Klasik vs Modern (*What, How, For Whom*), komparasi 4 sistem ekonomi dunia, serta karakteristik Demokrasi Ekonomi Pancasila (Pasal 33 UUD 1945). | [[Masalah_Pokok_dan_Sistem_Ekonomi_SMA|📖 Buka Modul 3]] |
+| **04** | **Bank Soal Evaluasi HOTS (UTBK-SNBT)** | 30 Soal bertingkat (Level Fondasi, Level Analisis & Hitungan, Level HOTS Penalaran, dan Studi Kasus Esai) dilengkapi kunci jawaban & pembahasan mendalam. | [[Soal_Konsep_Dasar_Ekonomi_SMA|📝 Buka Bank Soal]] |
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Soal Evaluasi: Transformasi Geometri"
 type: "soal-evaluasi"
-subject: "Mathematics"
+subject: "mathematics"
 level: "sma"
 target_audience: "SMA Kelas 11 (Fase F)"
 created: 2026-08-18

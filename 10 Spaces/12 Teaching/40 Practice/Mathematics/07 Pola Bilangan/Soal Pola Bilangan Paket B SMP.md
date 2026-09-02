@@ -1,5 +1,7 @@
 ---
 title: "Soal Evaluasi: Pola Bilangan & Barisan (Paket B)"
+type: soal-evaluasi
+subject: mathematics
 level: smp
 target_audience: "SMP Kelas VIII"
 created: 2026-08-10

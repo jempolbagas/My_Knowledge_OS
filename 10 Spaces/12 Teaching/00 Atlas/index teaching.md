@@ -1,16 +1,20 @@
 ---
-title: "🍎 Teaching Resources Hub"
-course: ""
-tags: [teaching, index, dashboard]
-aliases: ["🍎 Teaching Resources Hub"]
-created: "2026-05-01"
+title: "🍎 Teaching Resources Hub (Archived)"
+type: "archive-redirect"
+tags:
+  - "archive"
+  - "redirect"
+aliases: []
 ---
 
-# 🍎 Teaching Resources Hub
+# 🍎 Teaching Resources Hub (Archived)
 
-Selamat datang di Teaching Resources Hub! Halaman ini mengorganisir seluruh materi ajar (sources) dan lembar kerja siswa (practice) yang terbagi dengan rapi berdasarkan jenjang pendidikan **SMP** dan **SMA**.
+> [!NOTE] 
+> Berkas indeks ini telah dikonsolidasikan ke berkas utama yang terpusat.
+> Silakan gunakan berkas: **[[index_teaching|🍎 Teaching Resources Hub]]**
 
 ---
+
 
 # 🏫 SMP (Junior High School)
 

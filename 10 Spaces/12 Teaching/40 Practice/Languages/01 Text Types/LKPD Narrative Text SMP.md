@@ -1,5 +1,7 @@
 ---
 title: "LKPD: Narrative Text"
+type: lkpd
+subject: languages
 level: smp
 target_audience: "SMP Kelas 8 / SMA"
 created: 2026-08-10

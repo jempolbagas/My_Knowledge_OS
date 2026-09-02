@@ -1,5 +1,7 @@
 ---
 title: "Tenaga Eksogen & Perubahan Bentuk Muka Bumi"
+type: materi
+subject: social-studies
 level: smp
 target_audience: "SMA Kelas X / SMP Kelas VIII"
 created: 2026-07-23

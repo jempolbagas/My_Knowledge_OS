@@ -1,5 +1,7 @@
 ---
 title: "LKPD: Suku Banyak (Polinomial)"
+type: lkpd
+subject: mathematics
 level: sma
 target_audience: "SMA Kelas 11"
 created: 2026-07-28

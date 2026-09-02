@@ -1,5 +1,7 @@
 ---
 title: "LKPD: Teori Peluang & Kejadian Majemuk"
+type: lkpd
+subject: mathematics
 level: sma
 target_audience: "SMA Kelas 12"
 created: 2026-08-09
@@ -16,6 +18,11 @@ tags:
 ---
 
 # Lembar Kerja Peserta Didik (LKPD): Teori Peluang & Kejadian Majemuk 📝
+
+> 📍 **Navigasi Modul:**  
+> [[Kaidah Pencacahan dan Kombinatorika SMA|🏠 Master Dashboard]] | [[Teori Peluang dan Kejadian Majemuk SMA|Modul Teori Peluang]] | [[LKPD Kaidah Pencacahan dan Kombinatorika SMA|📝 LKPD Pencacahan]] | **[📝 LKPD Peluang]**
+
+---
 
 **Mata Pelajaran:** Matematika (Wajib)  
 **Kelas / Semester:** XII / Ganjil  

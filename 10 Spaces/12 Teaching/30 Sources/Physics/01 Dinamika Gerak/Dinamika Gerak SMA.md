@@ -1,5 +1,7 @@
 ---
 title: "Dinamika Gerak Partikel — Master Guide & Integrasi Gaya"
+type: master-dashboard
+subject: physics
 level: sma
 target_audience: "SMA Kelas XI"
 created: 2026-08-05

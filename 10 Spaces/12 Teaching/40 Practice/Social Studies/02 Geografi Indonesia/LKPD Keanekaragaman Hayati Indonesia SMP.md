@@ -1,5 +1,7 @@
 ---
 title: "LKPD: Keanekaragaman Hayati & Jenis Hutan"
+type: lkpd
+subject: social-studies
 level: smp
 target_audience: SMP / Sederajat (Fase D - IPA & IPS/Geografi)
 created: 2026-07-20

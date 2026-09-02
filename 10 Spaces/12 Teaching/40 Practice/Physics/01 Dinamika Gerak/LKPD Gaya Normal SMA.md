@@ -1,5 +1,7 @@
 ---
 title: "LKPD: Gaya Normal"
+type: lkpd
+subject: physics
 level: sma
 target_audience: "SMA Kelas X / XI (Fisika)"
 created: 2026-08-04

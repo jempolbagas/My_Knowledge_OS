@@ -1,5 +1,7 @@
 ---
 title: "LKPD: Persamaan Kuadrat"
+type: lkpd
+subject: mathematics
 level: smp
 target_audience: "SMP Kelas 9 / SMA Kelas 10"
 created: 2026-07-28

@@ -1,5 +1,7 @@
 ---
 title: "Soal Evaluasi: Dinamika Gerak Partikel"
+type: soal-evaluasi
+subject: physics
 level: sma
 target_audience: "SMA Kelas XI"
 created: 2026-08-11

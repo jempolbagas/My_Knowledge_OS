@@ -1,12 +1,17 @@
 ---
 title: "Suku Banyak (Polinomial) — Master Guide & Navigasi Modul"
 type: master-dashboard
-subject: Mathematics
+subject: mathematics
 level: sma
 target_audience: "SMA Kelas 11"
 created: 2026-08-20
 sources:
-  - "[[Mempelajari Konsep dan Nilai Suku Banyak (Polinomial)]]"
+  - "[[Konsep_dan_Kesamaan_Polinomial_SMA]]"
+  - "[[Metode_Horner_dan_Operasi_SMA]]"
+  - "[[Teorema_Sisa_dan_Faktor_SMA]]"
+  - "[[Pemfaktoran_dan_Akar_Rasional_SMA]]"
+  - "[[Teorema_Vieta_Polinomial_SMA]]"
+  - "[[LKPD Suku Banyak Polinomial SMA]]"
 tags:
   - teaching-material
   - mathematics
@@ -27,11 +32,11 @@ Silakan pelajari sub-modul berikut secara berurutan untuk pemahaman yang maksima
 
 | Urutan | Modul Topik | Deskripsi Singkat |
 | :---: | :--- | :--- |
-| **1** | [[Konsep_dan_Kesamaan_Polinomial_SMA\|Konsep & Kesamaan Polinomial]] | Definisi, anatomi, syarat polinomial, dan trik pecahan parsial (Kesamaan). |
-| **2** | [[Metode_Horner_dan_Operasi_SMA\|Metode Horner & Operasi]] | Cara sakti Horner, Horner pembagi linear, dan Horner-Kino pembagi kuadrat. |
-| **3** | [[Teorema_Sisa_dan_Faktor_SMA\|Teorema Sisa & Faktor]] | Menebak sisa tanpa membagi penuh dan syarat penentu faktor suatu fungsi. |
-| **4** | [[Pemfaktoran_dan_Akar_Rasional_SMA\|Pemfaktoran & Akar Rasional]] | (*HOTS*) Langkah sistematis memfaktorkan polinomial pangkat tinggi ($x^3, x^4$). |
-| **5** | [[Teorema_Vieta_Polinomial_SMA\|Teorema Vieta Polinomial]] | (*HOTS*) Rumus rahasia jumlah dan hasil kali akar tanpa mencari akarnya. |
+| **1** | [[Konsep_dan_Kesamaan_Polinomial_SMA|Konsep & Kesamaan Polinomial]] | Definisi, anatomi, syarat polinomial, dan trik pecahan parsial (Kesamaan). |
+| **2** | [[Metode_Horner_dan_Operasi_SMA|Metode Horner & Operasi]] | Cara sakti Horner, Horner pembagi linear, dan Horner-Kino pembagi kuadrat. |
+| **3** | [[Teorema_Sisa_dan_Faktor_SMA|Teorema Sisa & Faktor]] | Menebak sisa tanpa membagi penuh dan syarat penentu faktor suatu fungsi. |
+| **4** | [[Pemfaktoran_dan_Akar_Rasional_SMA|Pemfaktoran & Akar Rasional]] | (*HOTS*) Langkah sistematis memfaktorkan polinomial pangkat tinggi ($x^3, x^4$). |
+| **5** | [[Teorema_Vieta_Polinomial_SMA|Teorema Vieta Polinomial]] | (*HOTS*) Rumus rahasia jumlah dan hasil kali akar tanpa mencari akarnya. |
 
 ---
 
