@@ -1,127 +1,125 @@
 ---
 name: college-study-pack
-description: Specialized workflow for university-level coursework in 10 Spaces/11 College/ and permanent self-study packs in 20 Brain Atlas/40 Self Study Packs/.
+description: Workflow for university-level coursework in 10 Spaces/11 College/ and permanent self-study notes in 20 Brain Atlas/20 Notes/.
 ---
 
 # College Study Pack Skill
 
-Skill ini digunakan ketika pengguna meminta untuk merangkum materi kuliah, menyusun paket belajar, membuat *cheatsheet*, atau membuat *problem set & active recall drills* untuk mata kuliah di `10 Spaces/11 College/` ataupun proyek *self-study* fundamental di `20 Brain Atlas/40 Self Study Packs/`.
+Skill ini digunakan ketika pengguna meminta untuk merangkum materi kuliah, membuat catatan belajar, atau menyusun materi untuk mata kuliah di `10 Spaces/11 College/` ataupun self-study di `20 Brain Atlas/20 Notes/`.
 
 ---
 
-## 📐 Aturan Struktur & Penamaan Berkas
+## 📐 Output Format: Fluid Notes
 
-### 1. Pengelompokan Berkas per Minggu / Topik (Sub-folder per Topik)
-Seluruh materi per topik mingguan/sprint disimpan di dalam subfolder terdedikasi:
-- **Lokasi Direktori Kuliah:** `10 Spaces/11 College/<Course_Folder>/Week_<XX>_<Topic_Snake_Case>/`
-- **Lokasi Direktori Self-Study:** `20 Brain Atlas/40 Self Study Packs/<Topic_Folder>/`
-  - Contoh: `10 Spaces/11 College/Computer_Vision/Week_03_CNN_Inverse_Halftoning/`
-  - Contoh: `20 Brain Atlas/40 Self Study Packs/System_Design_Fundamentals/`
+Semua output menggunakan format **Fluid Note** — satu file per topik, tanpa template tetap. Struktur mengikuti konten, bukan sebaliknya.
 
-### 2. Paket Berkas Utama per Minggu (Weekly File Suite)
-Di dalam folder topik tersebut, buat berkas-berkas berikut sesuai kebutuhan pengguna:
-1. **Master Lecture Note:** `Week_<XX>_<Topic_Snake_Case>_Notes.md`
-   - Berisi rangkuman mendalam, penjelasan teknis/matematis, dan pseudo-code.
-2. **Practice & Active Recall Drills:** `Week_<XX>_<Topic_Snake_Case>_Drills.md`
-   - Berisi latihan soal berstandar ujian universitas, dengan kunci jawaban diletakkan di bagian paling bawah dokumen (bukan *reveal mechanism*).
-3. **Formula & Key Algorithm Cheatsheet:** `Week_<XX>_<Topic_Snake_Case>_Cheatsheet.md`
-   - Reference card ringkas berisi teorema, formula LaTeX, dan matriks kompleksitas time/space.
+### 1. Lokasi Berkas
+- **Kuliah:** `10 Spaces/11 College/<Course_Folder>/<Topic_Name>.md`
+- **Self-Study:** `20 Brain Atlas/20 Notes/<Subject>/<Topic_Name>.md`
 
-### 3. Paket Ujian Semester (UTS / UAS)
-Untuk ringkasan ujian tengah/akhir semester, simpan langsung di root folder mata kuliah:
-- `10 Spaces/11 College/<Course_Folder>/Exam_Prep_UTS_<Course>.md`
-- `10 Spaces/11 College/<Course_Folder>/Exam_Prep_UAS_<Course>.md`
+### 2. Frontmatter
+
+**Kuliah:**
+```yaml
+---
+type: note
+title: "Judul Topik"
+course: "Nama Mata Kuliah"
+semester: 5
+week: 3
+created: YYYY-MM-DD
+prerequisites: []
+tags: [college]
+---
+```
+
+**Self-Study:**
+```yaml
+---
+type: note
+title: "Judul Topik"
+subject: "Subject Area"
+created: YYYY-MM-DD
+prerequisites: []
+tags: []
+---
+```
+
+### 3. Struktur Konten (Adaptif)
+
+**Tidak ada template fixed.** Agent memilih content blocks yang dibutuhkan berdasarkan topik:
+
+- **Lead:** 2-4 kalimat pembuka — apa ini dan kenapa penting. Selalu ada.
+- **Core:** Penjelasan utama dengan subheading deskriptif (bukan bernomor). Contoh dan worked examples langsung di-weave ke dalam penjelasan, bukan dipisah.
+- **Quick Ref:** Callout `> [!abstract]- Quick Reference` berisi formula, teorema, command reference. Hanya jika topik memerlukan lookup cepat.
+- **Drills:** Callout `> [!question]- Practice` berisi soal latihan + jawaban dalam nested `> [!check]- Answer`. Hanya jika latihan diperlukan.
+- **Going Deeper:** Callout `> [!info]- Going Deeper` untuk materi lanjutan atau rabbit holes.
+
+### 4. Aturan Generasi
+
+1. **Satu file per topik** — jangan pisah ke Notes/Drills/Cheatsheet terpisah.
+2. **Tidak ada emoji di heading** — gunakan heading deskriptif plain text.
+3. **Tidak ada numbered sections** (❌ `## 1. Overview`, ❌ `### 2.1 Sub-topik`) — gunakan heading yang mendeskripsikan isinya.
+4. **Tidak ada "Vault Linkage & Brain Atlas Promotion" footer** — cukup wikilink secara natural di dalam teks.
+5. **LaTeX:** Gunakan `$` untuk inline dan `$$` untuk block. Jangan gunakan `\(` atau `\[`.
+6. **Tone:** Conversational tapi akurat — seperti menjelaskan ke peer yang pintar, bukan menulis textbook.
 
 ---
 
-## 📝 Format Seragam (Fixed Uniform Template)
-
-Setiap catatan kuliah mingguan (`Week_<XX>_<Topic_Snake_Case>_Notes.md`) **wajib** mengikuti hirarki 4 tahap fixed di bawah ini:
+## 📝 Contoh Struktur Output
 
 ```markdown
 ---
-title: "<Judul Topik>"
-course: "<Nama Mata Kuliah / Topik Self-Study>"
-course_abbr: "<Singkatan, misal: CV, DS, DM, DSP>"
-semester: <XX / Kosongkan jika Self-Study>
-week: <XX / Kosongkan jika Self-Study>
-date: "<YYYY-MM-DD>"
-tags: ["lecture-note", "<course-tag>"]
-type: <LectureNote / SelfStudyNote>
+type: note
+title: "Inverse Halftoning via CNN"
+course: "Computer Vision"
+semester: 5
+week: 3
+created: 2026-09-01
+prerequisites: ["[[Convolutional Neural Networks]]"]
+tags: [college]
 ---
 
-# 🎓 <Judul Topik> — <Subtitle Hook>
+# Inverse Halftoning via CNN
 
-> [!info] **Course Overview:** [[<Course_Overview_Note>]] | **Syllabus:** [[<Course_Syllabus_Note>]]
-> **Topics Covered:** <Sub-bahasan 1>, <Sub-bahasan 2>, <Sub-bahasan 3>
+Inverse halftoning mengubah gambar biner halftone kembali ke continuous-tone.
+Pendekatan klasik (filtering, lookup tables) gagal menangkap detail tekstur.
+CNN bisa belajar mapping non-linear dari halftone → grayscale langsung dari data.
 
----
+## Kenapa Halftone Perlu Di-reverse
 
-## 📌 1. Overview & Core Context
-- **Latar Belakang & Motivasi:** Mengapa topik ini penting dalam konteks <Nama Mata Kuliah>.
-- **High-Level Takeaway:** 3-5 poin taksonomi utama yang wajib dikuasai untuk ujian.
+(penjelasan motivasi + contoh visual ...)
 
----
+## Arsitektur CNN untuk Inverse Halftoning
 
-## 📖 2. Detailed Lecture Notes & Technical Deep-Dive
+(penjelasan arsitektur + worked example forward pass ...)
 
-### 2.1 <Sub-topik Utama 1>
-- Penjelasan akademis berstandar mahasiswa.
-- Penggunaan LaTeX math untuk formula: inline `\( ... \)` atau block `\[ ... \]`.
-- Blok kode (Python/C++/Mermaid) jika mencakup algoritma atau struktur data.
+## Loss Function: MSE vs Perceptual Loss
 
-### 2.2 <Sub-topik Utama 2>
-...
+(perbandingan + kapan pakai yang mana ...)
 
----
+> [!abstract]- Quick Reference
+> **Input:** Binary halftone image (1-bit)
+> **Output:** Continuous-tone grayscale (8-bit)
+> **Common architectures:** U-Net, DnCNN, ResNet variants
+> **Loss:** MSE for pixel accuracy, perceptual loss for texture
 
-## ⚡ 3. Formulas, Key Theorems, & Algorithms
-
-| Nama Konsep / Algoritma | Teorema / Formula Kunci | Kompleksitas / Catatan Kunci |
-| :--- | :--- | :--- |
-| **<Nama Algoritma>** | `\( <Formula> \)` | `\( O(N \log N) \)` — <Catatan Singkat> |
-
----
-
-## 🧠 4. Active Recall & Practice Drills
-
-### Q1: <Pertanyaan Derivasi / Konseptual HOTS>
-*(Jawaban di bagian bawah file)*
-
----
-
-## 🔑 Kunci Jawaban & Pembahasan
-
-**Jawaban Q1:**
-1. Langkah 1: ...
-2. Langkah 2: ...
-
----
-
-## 🔗 Vault Linkage & Brain Atlas Promotion
-
-> [!tip] **Promotable Concepts for Permanent Vault (`20 Brain Atlas/`)**
-> Catatan ini mereferensikan konsep-konsep fundamental yang layak dipromosikan ke `20 Brain Atlas/20 Concepts/`:
-> - `[[<Nama_Konsep_1>]]`: <Alasan singkat mengapa konsep ini bersifat abadi/timeless>
-> - `[[<Nama_Konsep_2>]]`
+> [!question]- Practice
+>
+> **Q1.** Jelaskan mengapa MSE loss cenderung menghasilkan output yang blurry.
+>
+> > [!check]- Answer
+> > MSE meminimalkan rata-rata error per pixel, yang berarti ...
 ```
 
 ---
 
-## 🎨 Kebijakan Visual & Diagram (`30 Assets/`)
+## 🎨 Kebijakan Visual & Diagram
 
 1. **AI Visual Asset Generation:**
-   - Gunakan tool `generate_image` untuk membuat diagram arsitektur sistem, alur *pipeline*, atau peta konsep visual yang kompleks.
-   - Simpan gambar ke direktori vault terpusat `30 Assets/` dengan format penamaan:
-     `30 Assets/diagram_college_<course_abbr>_<topic_snake_case>.png`
-   - Sematkan dalam catatan menggunakan sintaks Obsidian: `![[diagram_college_<course_abbr>_<topic_snake_case>.png]]`.
+   - Gunakan tool `generate_image` untuk diagram arsitektur atau peta konsep visual.
+   - Simpan ke `30 Assets/` dengan format: `30 Assets/diagram_<topic_snake_case>.png`
+   - Sematkan: `![[diagram_<topic_snake_case>.png]]`
 2. **Native Mermaid & LaTeX:**
-   - Gunakan Mermaid code block (` ```mermaid `) untuk *flowchart* proses sederhana, *sequence diagram*, atau *state machine*.
-   - Gunakan LaTeX math (`$$ ... $$`) untuk derivasi rumus matematika dan matriks.
-
----
-
-## 🔄 Integrasi Dataview & Vault Architecture
-
-1. **Otomatisasi Dashboard:** Setiap dokumen yang dibuat dengan `type: LectureNote` dan `semester: 5` akan otomatis terdeteksi di [[00_Semester_5_Dashboard|Semester 5 Dashboard]].
-2. **Soft Linkage:** Tautkan istilah penting dengan `[[Wikilinks]]` ke catatan yang ada di `20 Brain Atlas/`.
+   - Mermaid code block untuk flowchart, sequence diagram, state machine.
+   - LaTeX `$$ ... $$` untuk derivasi dan matriks.

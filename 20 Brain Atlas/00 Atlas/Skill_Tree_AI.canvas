@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"b2c3d4e5f6a70001","type":"text","x":0,"y":0,"width":320,"height":120,"color":"6","text":"# Skill Tree: AI\n\nGeneral AI & Computer Vision Root.\n\n- Sub-track: [[Skill_Tree_Image_Segmentation]]"}
+	],
+	"edges":[]
+}

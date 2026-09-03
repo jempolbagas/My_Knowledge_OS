@@ -87,40 +87,17 @@ def build_summary():
 
     # ── 20 Brain Atlas breakdown ──────────────────────────────────────────
     atlas_out: dict[str, dict] = {
-        'library': {
-            'Papers'           : [],
-            'Repos'            : [],
-            'Articles Talks'   : [],
-            'Books'            : [],
-            'Generated Readings': {},   # { subject: [titles] }
-        },
-        'concepts': {},   # { subject: [titles] }
+        'notes': {},          # { subject: [titles] }
         'reference_lib': [],
     }
 
-    cursor.execute("SELECT path, title, type, status FROM nodes WHERE path LIKE '20 Brain Atlas%'")
-    for path, title, ntype, status in cursor.fetchall():
+    cursor.execute("SELECT path, title, type, subject FROM nodes WHERE path LIKE '20 Brain Atlas%'")
+    for path, title, ntype, subject in cursor.fetchall():
         p = path.replace('\\', '/')
 
-        if '10 Library/Generated Readings' in p:
-            subj = _infer_subject(p) or 'General'
-            atlas_out['library']['Generated Readings'].setdefault(subj, []).append(title)
-
-        elif '10 Library/Papers' in p:
-            atlas_out['library']['Papers'].append({'title': title, 'status': status})
-
-        elif '10 Library/Repos' in p:
-            atlas_out['library']['Repos'].append({'title': title, 'status': status})
-
-        elif '10 Library/Articles Talks' in p:
-            atlas_out['library']['Articles Talks'].append({'title': title, 'status': status})
-
-        elif '10 Library/Books' in p:
-            atlas_out['library']['Books'].append({'title': title, 'status': status})
-
-        elif '20 Concepts' in p:
-            subj = _infer_subject(p) or 'General'
-            atlas_out['concepts'].setdefault(subj, []).append(title)
+        if '20 Notes' in p:
+            subj = subject or _infer_subject(p) or 'General'
+            atlas_out['notes'].setdefault(subj, []).append(title)
 
         elif '30 Reference Lib' in p:
             atlas_out['reference_lib'].append(title)
@@ -162,10 +139,8 @@ def build_summary():
             'agent_protocol': [
                 '1. Read vault_summary.json → identify which 1-3 notes are relevant.',
                 '2. Open only those specific notes by their path.',
-                '3. Prefer 20 Brain Atlas/20 Concepts/ notes for explanations (smallest, most distilled).',
+                '3. Prefer 20 Brain Atlas/20 Notes/ for explanations.',
                 '4. Never scan directories or open more than 3 full notes without user approval.',
-                '5. If answering creates or updates a concept, compute its source MD5 and '
-                   'save it as source_hash in the concept frontmatter.',
             ],
             'generated_at': datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
         },

@@ -166,6 +166,16 @@
       "context": "wikilink"
     },
     {
+      "file": "10 Spaces/11 College/Semester 5 Prep.md",
+      "broken_link": "Matriks",
+      "context": "wikilink"
+    },
+    {
+      "file": "10 Spaces/11 College/Semester 5 Prep.md",
+      "broken_link": "Vectorization in NumPy",
+      "context": "wikilink"
+    },
+    {
       "file": "10 Spaces/11 College/SIGPRO/Week 01 Introduction to DSP/Week 01 Introduction to DSP Notes.md",
       "broken_link": "Sinyal Waktu Diskrit",
       "context": "wikilink"
@@ -178,6 +188,41 @@
     {
       "file": "10 Spaces/11 College/SIGPRO/Week 01 Introduction to DSP/Week 01 Introduction to DSP Notes.md",
       "broken_link": "Aliasing Sinyal",
+      "context": "wikilink"
+    },
+    {
+      "file": "10 Spaces/11 College/SIGPRO/Week 05 Laplace Transformation/Week 05 Laplace Transformation Notes.md",
+      "broken_link": "Region of Convergence ROC",
+      "context": "wikilink"
+    },
+    {
+      "file": "10 Spaces/11 College/SIGPRO/Week 05 Laplace Transformation/Week 05 Laplace Transformation Notes.md",
+      "broken_link": "Region of Convergence ROC",
+      "context": "wikilink"
+    },
+    {
+      "file": "10 Spaces/11 College/SIGPRO/Week 05 Laplace Transformation/Week 05 Laplace Transformation Notes.md",
+      "broken_link": "Bidang S Complex Plane",
+      "context": "wikilink"
+    },
+    {
+      "file": "10 Spaces/11 College/SIGPRO/Week 05 Laplace Transformation/Week 05 Laplace Transformation Notes.md",
+      "broken_link": "Transformasi Laplace",
+      "context": "wikilink"
+    },
+    {
+      "file": "10 Spaces/11 College/SIGPRO/Week 05 Laplace Transformation/Week 05 Laplace Transformation Notes.md",
+      "broken_link": "Bidang S Complex Plane",
+      "context": "wikilink"
+    },
+    {
+      "file": "10 Spaces/11 College/SIGPRO/Week 05 Laplace Transformation/Week 05 Laplace Transformation Notes.md",
+      "broken_link": "Region of Convergence ROC",
+      "context": "wikilink"
+    },
+    {
+      "file": "10 Spaces/11 College/BIOCOMP/Week 02 Diagnostic Modalities Data Acquisition/00_Week_02_Hub.md",
+      "broken_link": "Biomedical Computing",
       "context": "wikilink"
     },
     {
@@ -328,6 +373,11 @@
     {
       "file": "10 Spaces/11 College/BIOCOMP/Week 02 Diagnostic Modalities Data Acquisition/01_Lab_Diagnostics_Blood_Urine.md",
       "broken_link": "Komputasi Biomedik",
+      "context": "wikilink"
+    },
+    {
+      "file": "10 Spaces/11 College/BIOCOMP/Week 02 Diagnostic Modalities Data Acquisition/03_Medical_Imaging_Radiology.md",
+      "broken_link": "Komputasi Biomedis",
       "context": "wikilink"
     },
     {
@@ -522,6 +572,11 @@
     },
     {
       "file": "10 Spaces/11 College/BIOCOMP/Week 02 Diagnostic Modalities Data Acquisition/03_Medical_Imaging_Radiology.md",
+      "broken_link": "Komputasi Biomedis",
+      "context": "wikilink"
+    },
+    {
+      "file": "10 Spaces/11 College/BIOCOMP/Week 02 Diagnostic Modalities Data Acquisition/03_Medical_Imaging_Radiology.md",
       "broken_link": "STEMI",
       "context": "wikilink"
     },
@@ -547,7 +602,27 @@
     },
     {
       "file": "10 Spaces/11 College/BIOCOMP/Week 02 Diagnostic Modalities Data Acquisition/02_Bioelectric_Signals_ECG_EEG_EMG.md",
+      "broken_link": "Komputasi Biomedis",
+      "context": "wikilink"
+    },
+    {
+      "file": "10 Spaces/11 College/BIOCOMP/Week 02 Diagnostic Modalities Data Acquisition/02_Bioelectric_Signals_ECG_EEG_EMG.md",
       "broken_link": "Fluoroskopi",
+      "context": "wikilink"
+    },
+    {
+      "file": "10 Spaces/11 College/BIOCOMP/Week 02 Diagnostic Modalities Data Acquisition/02_Bioelectric_Signals_ECG_EEG_EMG.md",
+      "broken_link": "Komputasi Biomedis",
+      "context": "wikilink"
+    },
+    {
+      "file": "10 Spaces/11 College/BIOCOMP/Week 02 Diagnostic Modalities Data Acquisition/02_Bioelectric_Signals_ECG_EEG_EMG.md",
+      "broken_link": "Biomedical Computing",
+      "context": "wikilink"
+    },
+    {
+      "file": "10 Spaces/11 College/BIOCOMP/Week 02 Diagnostic Modalities Data Acquisition/02_Bioelectric_Signals_ECG_EEG_EMG.md",
+      "broken_link": "Komputasi Biomedis",
       "context": "wikilink"
     },
     {
@@ -558,6 +633,11 @@
     {
       "file": "10 Spaces/11 College/BIOCOMP/Week 02 Diagnostic Modalities Data Acquisition/04_Biomedical_Expert_Systems.md",
       "broken_link": "Kecerdasan Buatan",
+      "context": "wikilink"
+    },
+    {
+      "file": "10 Spaces/11 College/BIOCOMP/Week 02 Diagnostic Modalities Data Acquisition/04_Biomedical_Expert_Systems.md",
+      "broken_link": "Komputasi Biomedis",
       "context": "wikilink"
     },
     {
@@ -578,6 +658,11 @@
     {
       "file": "10 Spaces/11 College/BIOCOMP/Week 02 Diagnostic Modalities Data Acquisition/04_Biomedical_Expert_Systems.md",
       "broken_link": "Kecerdasan Buatan",
+      "context": "wikilink"
+    },
+    {
+      "file": "10 Spaces/11 College/BIOCOMP/Week 02 Diagnostic Modalities Data Acquisition/04_Biomedical_Expert_Systems.md",
+      "broken_link": "Komputasi Biomedis",
       "context": "wikilink"
     },
     {
@@ -617,6 +702,11 @@
     },
     {
       "file": "10 Spaces/11 College/BIOCOMP/Week 02 Diagnostic Modalities Data Acquisition/04_Biomedical_Expert_Systems.md",
+      "broken_link": "Biomedical Computing",
+      "context": "wikilink"
+    },
+    {
+      "file": "10 Spaces/11 College/BIOCOMP/Week 02 Diagnostic Modalities Data Acquisition/04_Biomedical_Expert_Systems.md",
       "broken_link": "Inference Engine",
       "context": "wikilink"
     },
@@ -651,141 +741,6 @@
       "context": "wikilink"
     },
     {
-      "file": "20 Brain Atlas/10 Library/Artificial Intelligence/04 Computer Vision/Encoder Decoder Image Segmentation Deep Dive.md",
-      "broken_link": "Encoder-Decoder Architecture",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Artificial Intelligence/04 Computer Vision/Encoder Decoder Image Segmentation Deep Dive.md",
-      "broken_link": "Skip Connections in Segmentation",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Artificial Intelligence/04 Computer Vision/Encoder Decoder Image Segmentation Deep Dive.md",
-      "broken_link": "Atrous Spatial Pyramid Pooling",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Artificial Intelligence/03 Quantization and Optimization/Low Rank Factorization and LoRA Mechanics.md",
-      "broken_link": "Low-Rank Adaptation",
-      "context": "frontmatter_promoted_to"
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Artificial Intelligence/03 Quantization and Optimization/Knowledge Distillation and Teacher Student Optimization.md",
-      "broken_link": "Knowledge Distillation",
-      "context": "frontmatter_promoted_to"
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Entrepreneurship/01 Kerajinan Limbah/Perencanaan Usaha Kerajinan Limbah Bangun Datar.md",
-      "broken_link": "Ide dan Peluang Usaha Limbah Bangun Datar",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Entrepreneurship/01 Kerajinan Limbah/Perencanaan Usaha Kerajinan Limbah Bangun Datar.md",
-      "broken_link": "Analisis SWOT Usaha Kerajinan",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Entrepreneurship/01 Kerajinan Limbah/Perencanaan Usaha Kerajinan Limbah Bangun Datar.md",
-      "broken_link": "Manajemen 6M dalam Wirausaha",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Entrepreneurship/01 Kerajinan Limbah/Perencanaan Usaha Kerajinan Limbah Bangun Datar.md",
-      "broken_link": "Perizinan Usaha Kerajinan (SITU, HO, SIUP)",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Entrepreneurship/01 Kerajinan Limbah/Perencanaan Usaha Kerajinan Limbah Bangun Datar.md",
-      "broken_link": "Bukti Transaksi dan Laporan Keuangan Usaha",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Entrepreneurship/01 Kerajinan Limbah/Perencanaan Usaha Kerajinan Limbah Bangun Datar.md",
-      "broken_link": "Penetapan Harga Jual dan Biaya Total Produksi",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Entrepreneurship/01 Kerajinan Limbah/Perencanaan Usaha Kerajinan Limbah Bangun Datar.md",
-      "broken_link": "Bauran Promosi Usaha Kerajinan",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Entrepreneurship/01 Kerajinan Limbah/Sistem Produksi dan Pengemasan Kerajinan Limbah Bangun Datar.md",
-      "broken_link": "Aneka Produk Kerajinan Limbah Datar",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Entrepreneurship/01 Kerajinan Limbah/Sistem Produksi dan Pengemasan Kerajinan Limbah Bangun Datar.md",
-      "broken_link": "Kategori Manfaat Benda Pakai vs Benda Hias",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Entrepreneurship/01 Kerajinan Limbah/Sistem Produksi dan Pengemasan Kerajinan Limbah Bangun Datar.md",
-      "broken_link": "Potensi Limbah Berdasarkan Geografi Wilayah",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Entrepreneurship/01 Kerajinan Limbah/Sistem Produksi dan Pengemasan Kerajinan Limbah Bangun Datar.md",
-      "broken_link": "Proses 6 Tahap Pengolahan Bahan Limbah",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Entrepreneurship/01 Kerajinan Limbah/Sistem Produksi dan Pengemasan Kerajinan Limbah Bangun Datar.md",
-      "broken_link": "Prinsip Estetika dan Ergonomis Kerajinan",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Entrepreneurship/01 Kerajinan Limbah/Sistem Produksi dan Pengemasan Kerajinan Limbah Bangun Datar.md",
-      "broken_link": "Tutorial 10 Langkah Kerajinan Kulit Jagung",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Entrepreneurship/01 Kerajinan Limbah/Sistem Produksi dan Pengemasan Kerajinan Limbah Bangun Datar.md",
-      "broken_link": "Jenis Bahan Kemasan (Kertas, Kayu, Plastik-Akrilik)",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Biomedical Computing/Introduction to Biomedical Computing.md",
-      "broken_link": "Biomedical Signals",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Biomedical Computing/Introduction to Biomedical Computing.md",
-      "broken_link": "Biomedical Imaging",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Biomedical Computing/Introduction to Biomedical Computing.md",
-      "broken_link": "Bioinformatics",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Biomedical Computing/Introduction to Biomedical Computing.md",
-      "broken_link": "Physiological Modeling",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Biomedical Computing/Introduction to Biomedical Computing.md",
-      "broken_link": "Precision Medicine",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Computer Science/01 Architecture and Systems/Model Context Protocol Architecture.md",
-      "broken_link": "JSON-RPC 2.0",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Computer Science/01 Architecture and Systems/Model Context Protocol Architecture.md",
-      "broken_link": "JSON RPC 2 0",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Computer Science/01 Architecture and Systems/Single Board Computers Architecture and Use Cases.md",
-      "broken_link": "Virtual Private Server Architecture and Mechanics",
-      "context": "wikilink"
-    },
-    {
       "file": "20 Brain Atlas/30 Reference Lib/s11277-023-10315-5.md",
       "broken_link": "14, 25, 32, 33, 42, 43, 52",
       "context": "wikilink"
@@ -811,509 +766,26 @@
       "context": "wikilink"
     },
     {
-      "file": "20 Brain Atlas/20 Concepts/Artificial Intelligence/Semantic Segmentation.md",
-      "broken_link": "Encoder-Decoder Architecture",
+      "file": "20 Brain Atlas/30 Reference Lib/Computer Network Reference Index.md",
+      "broken_link": "Cybersecurity Roadmap",
       "context": "wikilink"
     },
     {
-      "file": "20 Brain Atlas/20 Concepts/Artificial Intelligence/Softmax Function.md",
-      "broken_link": "Activation Functions Explained",
-      "context": "frontmatter_source"
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Artificial Intelligence/ReLU Function.md",
-      "broken_link": "Activation Functions Explained",
-      "context": "frontmatter_source"
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Artificial Intelligence/Activation Functions.md",
-      "broken_link": "Activation Functions Explained",
+      "file": "20 Brain Atlas/30 Reference Lib/Computer Network Reference Index.md",
+      "broken_link": "Cybersecurity Roadmap",
       "context": "wikilink"
     },
     {
-      "file": "20 Brain Atlas/20 Concepts/Artificial Intelligence/Activation Functions.md",
-      "broken_link": "Activation Functions Explained",
-      "context": "frontmatter_source"
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Artificial Intelligence/Leaky ReLU Function.md",
-      "broken_link": "Activation Functions Explained",
-      "context": "frontmatter_source"
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Artificial Intelligence/Sigmoid Function.md",
-      "broken_link": "Activation Functions Explained",
-      "context": "frontmatter_source"
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Artificial Intelligence/Tanh Function.md",
-      "broken_link": "Activation Functions Explained",
-      "context": "frontmatter_source"
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Physics/Gaya Berat.md",
-      "broken_link": "Hukum Newton",
+      "file": "20 Brain Atlas/30 Reference Lib/Computer Network Reference Index.md",
+      "broken_link": "Symmetric vs. Asymmetric Encryption",
       "context": "wikilink"
     },
     {
-      "file": "20 Brain Atlas/20 Concepts/Physics/Gaya Normal.md",
-      "broken_link": "Gaya Gesek",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Physics/Gaya Normal.md",
-      "broken_link": "Hukum Newton",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Mathematics/Matriks.md",
-      "broken_link": "Materi Matriks",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Mathematics/Matriks.md",
-      "broken_link": "Materi Matriks",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Mathematics/Matriks.md",
-      "broken_link": "LKPD dan Soal Matriks",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Mathematics/Matriks.md",
-      "broken_link": "Materi Matriks",
-      "context": "frontmatter_source"
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Mathematics/Suku Banyak Polinomial.md",
-      "broken_link": "Materi Suku Banyak Polinomial",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Mathematics/Suku Banyak Polinomial.md",
-      "broken_link": "LKPD dan Soal Suku Banyak Polinomial",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Mathematics/Suku Banyak Polinomial.md",
-      "broken_link": "Materi Suku Banyak Polinomial",
-      "context": "frontmatter_source"
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Mathematics/Persamaan Kuadrat.md",
-      "broken_link": "Materi Persamaan Kuadrat",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Mathematics/Persamaan Kuadrat.md",
-      "broken_link": "LKPD dan Soal Persamaan Kuadrat",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Mathematics/Persamaan Kuadrat.md",
-      "broken_link": "Materi Persamaan Kuadrat",
-      "context": "frontmatter_source"
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Computer Science/Biomedical Computing.md",
-      "broken_link": "Biomedical Signals",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Computer Science/Biomedical Computing.md",
-      "broken_link": "Biomedical Imaging",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Computer Science/Biomedical Computing.md",
-      "broken_link": "Bioinformatics",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Computer Science/Biomedical Computing.md",
-      "broken_link": "Physiological Modeling",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Computer Science/Biomedical Computing.md",
-      "broken_link": "Precision Medicine",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Computer Science/Komputasi Biomedis.md",
-      "broken_link": "Sinyal Biomedis",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Computer Science/Komputasi Biomedis.md",
-      "broken_link": "Pencitraan Biomedis",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Computer Science/Komputasi Biomedis.md",
-      "broken_link": "Bioinformatika",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Computer Science/Komputasi Biomedis.md",
-      "broken_link": "Pemodelan Fisiologis",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Computer Science/Komputasi Biomedis.md",
-      "broken_link": "Kedokteran Presisi",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Computer Science/Model Context Protocol.md",
-      "broken_link": "JSON-RPC 2.0",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/40 Self Study Packs/Aritmatika_Modulo/Aritmatika_Modulo_Notes.md",
-      "broken_link": "Self_Study_Math_Overview",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/40 Self Study Packs/Aritmatika_Modulo/Aritmatika_Modulo_Notes.md",
-      "broken_link": "Discrete_Math_Syllabus",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/40 Self Study Packs/00 Template Pack/Notes.md",
-      "broken_link": "<Course Overview Note>",
-      "context": "wikilink"
-    },
-    {
-      "file": "20 Brain Atlas/40 Self Study Packs/00 Template Pack/Notes.md",
-      "broken_link": "<Course Syllabus Note>",
+      "file": "20 Brain Atlas/30 Reference Lib/Computer Network Reference Index.md",
+      "broken_link": "CIA Triad",
       "context": "wikilink"
     }
   ],
-  "orphans": [
-    {
-      "file": "20 Brain Atlas/10 Library/Mathematics/02 Numerical Methods/Lagrange Interpolation.md",
-      "title": "Lagrange Interpolation"
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Computer Science/Hicks Law.md",
-      "title": "Hicks Law"
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Computer Science/Millers Law.md",
-      "title": "Millers Law"
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Computer Science/Jakobs Law.md",
-      "title": "Jakobs Law"
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Computer Science/Fitts Law.md",
-      "title": "Fitts Law"
-    },
-    {
-      "file": "20 Brain Atlas/40 Self Study Packs/Aritmatika_Modulo/Aritmatika_Modulo_Cheatsheet.md",
-      "title": "Aritmatika_Modulo_Cheatsheet"
-    },
-    {
-      "file": "20 Brain Atlas/40 Self Study Packs/00 Template Pack/Drills.md",
-      "title": "Drills"
-    },
-    {
-      "file": "20 Brain Atlas/40 Self Study Packs/00 Template Pack/Cheatsheet.md",
-      "title": "Cheatsheet"
-    }
-  ],
-  "missing_frontmatter": [
-    {
-      "file": "20 Brain Atlas/10 Library/Artificial Intelligence/04 Computer Vision/Encoder Decoder Image Segmentation Deep Dive.md",
-      "missing_fields": [
-        "topic",
-        "prompt"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Artificial Intelligence/01 Basics and Roadmap/Fundamentals of Machine Learning Optimization and Compression.md",
-      "missing_fields": [
-        "prompt",
-        "promoted_to"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Artificial Intelligence/03 Quantization and Optimization/Low Rank Factorization and LoRA Mechanics.md",
-      "missing_fields": [
-        "prompt"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Artificial Intelligence/03 Quantization and Optimization/Quantization Calibration in PTQ.md",
-      "missing_fields": [
-        "type (should be repo/paper/article/book/talk/generated_reading)"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Artificial Intelligence/03 Quantization and Optimization/Scale Factor and Zero Point in Quantization.md",
-      "missing_fields": [
-        "type (should be repo/paper/article/book/talk/generated_reading)"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Artificial Intelligence/03 Quantization and Optimization/Knowledge Distillation and Teacher Student Optimization.md",
-      "missing_fields": [
-        "prompt"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Artificial Intelligence/03 Quantization and Optimization/Post Training Quantization End to End Guide.md",
-      "missing_fields": [
-        "topic",
-        "prompt"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Artificial Intelligence/03 Quantization and Optimization/Network Pruning and Sparsity Analysis.md",
-      "missing_fields": [
-        "prompt"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Mathematics/01 Number Theory/Chinese Remainder Theorem and Reverse CRT Guide.md",
-      "missing_fields": [
-        "title",
-        "topic",
-        "requested_on",
-        "prompt",
-        "tags",
-        "promoted_to"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Cryptography/01 Secret Sharing Schemes/Single Secret Sharing CRT Shamir XOR.md",
-      "missing_fields": [
-        "type (should be repo/paper/article/book/talk/generated_reading)"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Biomedical Computing/Pengantar Komputasi Biomedis.md",
-      "missing_fields": [
-        "type (should be repo/paper/article/book/talk/generated_reading)"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Digital Signal Processing/01 Transforms/Transformasi Laplace.md",
-      "missing_fields": [
-        "title",
-        "topic",
-        "requested_on",
-        "prompt",
-        "tags"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Cybersecurity/02 Secret Sharing Schemes/Shamir vs Pande Modified Secret Sharing.md",
-      "missing_fields": [
-        "title",
-        "topic",
-        "requested_on",
-        "prompt",
-        "tags"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Cybersecurity/02 Secret Sharing Schemes/Shamir Secret Sharing Comprehensive Study Guide.md",
-      "missing_fields": [
-        "type (should be repo/paper/article/book/talk/generated_reading)"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/10 Library/Computer Science/01 Architecture and Systems/Model Context Protocol Architecture.md",
-      "missing_fields": [
-        "title",
-        "topic",
-        "requested_on",
-        "prompt",
-        "promoted_to"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Artificial Intelligence/Model Pruning.md",
-      "missing_fields": [
-        "type (should be 'concept')",
-        "title",
-        "subject",
-        "date_created",
-        "source"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Artificial Intelligence/Dice Loss.md",
-      "missing_fields": [
-        "type (should be 'concept')",
-        "title",
-        "subject",
-        "date_created"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Artificial Intelligence/Semantic Segmentation.md",
-      "missing_fields": [
-        "type (should be 'concept')",
-        "title",
-        "subject",
-        "date_created"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Artificial Intelligence/U-Net Architecture.md",
-      "missing_fields": [
-        "type (should be 'concept')",
-        "title",
-        "subject",
-        "date_created"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Artificial Intelligence/Model Quantization.md",
-      "missing_fields": [
-        "type (should be 'concept')",
-        "title",
-        "subject",
-        "date_created",
-        "source"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Mathematics/Runges Phenomenon.md",
-      "missing_fields": [
-        "title",
-        "date_created",
-        "source"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Mathematics/Invers Modular.md",
-      "missing_fields": [
-        "title",
-        "date_created",
-        "source"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Mathematics/Chinese Remainder Theorem.md",
-      "missing_fields": [
-        "title",
-        "date_created"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Mathematics/Interpolation.md",
-      "missing_fields": [
-        "title",
-        "date_created",
-        "source"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Mathematics/Coprime.md",
-      "missing_fields": [
-        "date_created"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Mathematics/Reverse CRT.md",
-      "missing_fields": [
-        "title",
-        "date_created"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Mathematics/Lagrange Interpolation.md",
-      "missing_fields": [
-        "title",
-        "date_created"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Mathematics/Kongruensi Modular.md",
-      "missing_fields": [
-        "date_created"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Digital Signal Processing/Bidang S Complex Plane.md",
-      "missing_fields": [
-        "type (should be 'concept')",
-        "title",
-        "subject",
-        "date_created"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Digital Signal Processing/Region of Convergence ROC.md",
-      "missing_fields": [
-        "type (should be 'concept')",
-        "title",
-        "subject",
-        "date_created"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Cybersecurity/Shamir Secret Sharing.md",
-      "missing_fields": [
-        "title",
-        "date_created"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Cybersecurity/Secret Sharing Scheme.md",
-      "missing_fields": [
-        "title",
-        "date_created"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Cybersecurity/Modified Shamir Scheme.md",
-      "missing_fields": [
-        "title",
-        "date_created"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Computer Science/Hicks Law.md",
-      "missing_fields": [
-        "title"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Computer Science/Millers Law.md",
-      "missing_fields": [
-        "title"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Computer Science/Jakobs Law.md",
-      "missing_fields": [
-        "title"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Computer Science/Model Context Protocol.md",
-      "missing_fields": [
-        "title"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Computer Science/Fitts Law.md",
-      "missing_fields": [
-        "title"
-      ]
-    },
-    {
-      "file": "20 Brain Atlas/20 Concepts/Economics/Konsep Dasar Ilmu Ekonomi.md",
-      "missing_fields": [
-        "source"
-      ]
-    }
-  ]
+  "orphans": [],
+  "missing_frontmatter": []
 }

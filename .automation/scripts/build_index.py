@@ -67,9 +67,7 @@ def init_db(conn):
             path TEXT PRIMARY KEY,
             title TEXT,
             type TEXT,
-            status TEXT,
-            notes_by TEXT,
-            source_hash TEXT,
+            subject TEXT,
             summary TEXT,
             last_modified REAL
         )
@@ -152,15 +150,13 @@ def build_index():
             
             summary = extract_summary(post.content)
             cursor.execute('''
-                INSERT INTO nodes (path, title, type, status, notes_by, source_hash, summary, last_modified)
-                VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+                INSERT INTO nodes (path, title, type, subject, summary, last_modified)
+                VALUES (?, ?, ?, ?, ?, ?)
             ''', (
                 rel_path,
                 title,
                 metadata.get('type'),
-                metadata.get('status'),
-                metadata.get('notes_by'),
-                metadata.get('source_hash'),
+                metadata.get('subject'),
                 summary,
                 mtime
             ))
@@ -175,15 +171,15 @@ def build_index():
 
         # Parse frontmatter links
         source_targets = parse_frontmatter_links(post.metadata, 'source')
-        promoted_targets = parse_frontmatter_links(post.metadata, 'promoted_to')
+        prereq_targets = parse_frontmatter_links(post.metadata, 'prerequisites')
 
         all_edges = []
         for note_name, anchor in inline_targets:
             all_edges.append((note_name, anchor, 'wikilink'))
         for note_name, anchor in source_targets:
             all_edges.append((note_name, anchor, 'frontmatter_source'))
-        for note_name, anchor in promoted_targets:
-            all_edges.append((note_name, anchor, 'frontmatter_promoted_to'))
+        for note_name, anchor in prereq_targets:
+            all_edges.append((note_name, anchor, 'frontmatter_prerequisite'))
 
         for note_name, anchor, link_type in all_edges:
             if note_name == '':

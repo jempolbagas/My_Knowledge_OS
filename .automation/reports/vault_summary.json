@@ -4,18 +4,17 @@
     "agent_protocol": [
       "1. Read vault_summary.json → identify which 1-3 notes are relevant.",
       "2. Open only those specific notes by their path.",
-      "3. Prefer 20 Brain Atlas/20 Concepts/ notes for explanations (smallest, most distilled).",
-      "4. Never scan directories or open more than 3 full notes without user approval.",
-      "5. If answering creates or updates a concept, compute its source MD5 and save it as source_hash in the concept frontmatter."
+      "3. Prefer 20 Brain Atlas/20 Notes/ for explanations.",
+      "4. Never scan directories or open more than 3 full notes without user approval."
     ],
-    "generated_at": "2026-09-02T10:59:50Z"
+    "generated_at": "2026-09-03T02:45:14Z"
   },
   "stats": {
-    "total_notes": 279,
-    "total_edges": 1668,
-    "broken_links": 198,
-    "untyped_notes": 15,
-    "health_score": 83.4
+    "total_notes": 191,
+    "total_edges": 1324,
+    "broken_links": 157,
+    "untyped_notes": 4,
+    "health_score": 86.3
   },
   "inbox": [
     "biocomp-pertemuan-2"
@@ -203,74 +202,13 @@
     }
   },
   "brain_atlas": {
-    "library": {
-      "Papers": [],
-      "Repos": [],
-      "Articles Talks": [],
-      "Books": [],
-      "Generated Readings": {}
-    },
-    "concepts": {
-      "General": [
-        "Model Pruning",
-        "Model Parameters",
-        "Dice Loss",
-        "Semantic Segmentation",
-        "Machine Learning Roadmap",
-        "Quantization Calibration",
-        "Vectorization in NumPy",
-        "U-Net Architecture",
-        "Softmax Function",
-        "ReLU Function",
-        "Activation Functions",
-        "Post-Training Quantization",
-        "Leaky ReLU Function",
-        "Sigmoid Function",
-        "Tanh Function",
-        "Per-Tensor vs Per-Channel Quantization",
-        "Scale Factor and Zero-Point",
-        "Symmetric vs Asymmetric Quantization",
-        "Model Quantization",
-        "Gaya Berat",
-        "Gaya Normal",
-        "WebAssembly vs Docker",
-        "Quartz",
-        "WebAssembly Sandboxing",
-        "Bidang S Complex Plane",
-        "Region of Convergence ROC",
-        "Hicks Law",
-        "Biomedical Computing",
-        "Komputasi Biomedis",
-        "Bottom-Up vs. Top-Down Learning",
-        "Single Board Computer",
-        "Millers Law",
-        "Jakobs Law",
-        "Model Context Protocol",
-        "Off-Chip DRAM",
-        "Fitts Law",
-        "Konsep Dasar Ilmu Ekonomi"
+    "notes": {
+      "Machine Learning": [
+        "Backpropagation",
+        "Neural Networks"
       ],
       "Mathematics": [
-        "Runges Phenomenon",
-        "Invers Modular",
-        "Chinese Remainder Theorem",
-        "Matriks",
-        "Suku Banyak Polinomial",
-        "Persamaan Kuadrat",
-        "Interpolation",
-        "Coprime",
-        "Reverse CRT",
-        "Lagrange Interpolation",
-        "Kongruensi Modular"
-      ],
-      "Cybersecurity": [
-        "Shamir Secret Sharing",
-        "Symmetric vs. Asymmetric Encryption",
-        "Blue Team vs. Red Team",
-        "Secret Sharing Scheme",
-        "Cybersecurity Roadmap",
-        "Modified Shamir Scheme",
-        "CIA Triad"
+        "Calculus for Machine Learning"
       ]
     },
     "reference_lib": [
@@ -288,16 +226,7 @@
     ]
   },
   "maintenance": {
-    "orphan_pages_sample": [
-      "Lagrange Interpolation",
-      "Hicks Law",
-      "Millers Law",
-      "Jakobs Law",
-      "Fitts Law",
-      "Aritmatika_Modulo_Cheatsheet",
-      "Drills",
-      "Cheatsheet"
-    ],
+    "orphan_pages_sample": [],
     "untyped_notes_sample": [
       {
         "title": "LKPD Pendapatan Nasional SMA",
@@ -310,50 +239,6 @@
       {
         "title": "s11277-023-10315-5",
         "path": "20 Brain Atlas/30 Reference Lib/s11277-023-10315-5.md"
-      },
-      {
-        "title": "Model Pruning",
-        "path": "20 Brain Atlas/20 Concepts/Artificial Intelligence/Model Pruning.md"
-      },
-      {
-        "title": "Dice Loss",
-        "path": "20 Brain Atlas/20 Concepts/Artificial Intelligence/Dice Loss.md"
-      },
-      {
-        "title": "Semantic Segmentation",
-        "path": "20 Brain Atlas/20 Concepts/Artificial Intelligence/Semantic Segmentation.md"
-      },
-      {
-        "title": "U-Net Architecture",
-        "path": "20 Brain Atlas/20 Concepts/Artificial Intelligence/U-Net Architecture.md"
-      },
-      {
-        "title": "Model Quantization",
-        "path": "20 Brain Atlas/20 Concepts/Artificial Intelligence/Model Quantization.md"
-      },
-      {
-        "title": "Bidang S Complex Plane",
-        "path": "20 Brain Atlas/20 Concepts/Digital Signal Processing/Bidang S Complex Plane.md"
-      },
-      {
-        "title": "Region of Convergence ROC",
-        "path": "20 Brain Atlas/20 Concepts/Digital Signal Processing/Region of Convergence ROC.md"
-      },
-      {
-        "title": "Aritmatika_Modulo_Drills",
-        "path": "20 Brain Atlas/40 Self Study Packs/Aritmatika_Modulo/Aritmatika_Modulo_Drills.md"
-      },
-      {
-        "title": "Aritmatika_Modulo_Cheatsheet",
-        "path": "20 Brain Atlas/40 Self Study Packs/Aritmatika_Modulo/Aritmatika_Modulo_Cheatsheet.md"
-      },
-      {
-        "title": "Drills",
-        "path": "20 Brain Atlas/40 Self Study Packs/00 Template Pack/Drills.md"
-      },
-      {
-        "title": "Cheatsheet",
-        "path": "20 Brain Atlas/40 Self Study Packs/00 Template Pack/Cheatsheet.md"
       },
       {
         "title": "biocomp-pertemuan-2",

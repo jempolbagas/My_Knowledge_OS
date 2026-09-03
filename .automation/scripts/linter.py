@@ -72,24 +72,12 @@ def check_integrity():
             missing = []
             
             # Determine expectations based on file location
-            if '20 Concepts' in rel_path:
-                if meta.get('type') != 'concept':
-                    missing.append("type (should be 'concept')")
-                for field in ['title', 'subject', 'date_created', 'source']:
+            if '20 Notes' in rel_path:
+                if meta.get('type') != 'note':
+                    missing.append("type (should be 'note')")
+                for field in ['title', 'created']:
                     if field not in meta:
                         missing.append(field)
-            elif '10 Library' in rel_path:
-                t = meta.get('type')
-                if t == 'generated_reading':
-                    for field in ['title', 'topic', 'requested_on', 'prompt', 'status', 'tags', 'promoted_to']:
-                        if field not in meta:
-                            missing.append(field)
-                elif t in ['repo', 'paper', 'article', 'book', 'talk']:
-                    for field in ['title', 'source_url', 'author', 'date_added', 'status', 'notes_by', 'tags', 'promoted_to']:
-                        if field not in meta:
-                            missing.append(field)
-                else:
-                    missing.append("type (should be repo/paper/article/book/talk/generated_reading)")
             
             if missing:
                 errors["missing_frontmatter"].append({

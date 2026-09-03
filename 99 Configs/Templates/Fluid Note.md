@@ -1,12 +1,10 @@
 ---
 type: note
 title: <% tp.file.title %>
-course: ""
-semester: 
-week: 
+subject: ""
 created: <% tp.date.now("YYYY-MM-DD") %>
 prerequisites: []
-tags: [college]
+tags: []
 ---
 
 # <% tp.file.title %>

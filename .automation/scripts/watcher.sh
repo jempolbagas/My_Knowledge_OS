@@ -13,7 +13,6 @@ echo "Running initial index and lint..."
 $VENV_PYTHON "$SCRIPTS_DIR/build_index.py"
 $VENV_PYTHON "$SCRIPTS_DIR/build_teaching_index.py"
 $VENV_PYTHON "$SCRIPTS_DIR/linter.py"
-$VENV_PYTHON "$SCRIPTS_DIR/staleness_checker.py"
 $VENV_PYTHON "$SCRIPTS_DIR/generate_summary.py"
 echo "Initial validation completed."
 
@@ -37,7 +36,6 @@ while true; do
     $VENV_PYTHON "$SCRIPTS_DIR/build_index.py"
     $VENV_PYTHON "$SCRIPTS_DIR/build_teaching_index.py"
     $VENV_PYTHON "$SCRIPTS_DIR/linter.py"
-    $VENV_PYTHON "$SCRIPTS_DIR/staleness_checker.py"
     $VENV_PYTHON "$SCRIPTS_DIR/generate_summary.py"
     echo "Scripts execution finished. Watching for changes..."
 done
