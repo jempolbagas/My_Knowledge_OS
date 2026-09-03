@@ -7,6 +7,8 @@ target_audience: "SMP Kelas VIII"
 created: 2026-07-29
 sources:
   - "[[Pengenalan Sel SMP]]"
+  - "[[Struktur dan Organel Sel SMP]]"
+  - "[[Mikroskop dan Pengamatan Sel SMP]]"
 tags:
   - "lkpd"
   - "practice"
@@ -14,6 +16,9 @@ tags:
   - "science"
   - "cells"
 ---
+
+> 📍 **Navigasi Modul Sel:**  
+> [[Pengenalan Sel SMP|🏠 Master Dashboard]] | [[Struktur dan Organel Sel SMP|Modul 1: Struktur & Organel]] | [[Mikroskop dan Pengamatan Sel SMP|Modul 2: Mikroskop & Pengamatan]] | [[Soal Pengenalan Sel SMP|🎯 Paket Soal Evaluasi]]
 
 # Lembar Kerja Peserta Didik (LKPD): Pengenalan Sel 📝
 

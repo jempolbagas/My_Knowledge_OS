@@ -7,6 +7,8 @@ target_audience: "SMP Kelas VIII"
 created: 2026-08-12
 sources:
   - "[[Pengenalan Sel SMP]]"
+  - "[[Struktur dan Organel Sel SMP]]"
+  - "[[Mikroskop dan Pengamatan Sel SMP]]"
   - "[[LKPD Pengenalan Sel SMP]]"
 tags:
   - ulangan-harian
@@ -20,7 +22,7 @@ tags:
 # Paket Soal Evaluasi: Pengenalan Sel 🎯
 
 > 📍 **Navigasi Modul Sel:**  
-> [[Pengenalan Sel SMP|🏠 Master Dashboard]] | [[LKPD Pengenalan Sel SMP|📝 LKPD Terpadu]] | **[🎯 Paket Soal Ulangan Harian]**
+> [[Pengenalan Sel SMP|🏠 Master Dashboard]] | [[Struktur dan Organel Sel SMP|Modul 1: Struktur & Organel]] | [[Mikroskop dan Pengamatan Sel SMP|Modul 2: Mikroskop & Pengamatan]] | [[LKPD Pengenalan Sel SMP|📝 LKPD Terkait]]
 
 ---
 

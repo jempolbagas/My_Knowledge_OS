@@ -7,14 +7,14 @@
       "3. Prefer 20 Brain Atlas/20 Notes/ for explanations.",
       "4. Never scan directories or open more than 3 full notes without user approval."
     ],
-    "generated_at": "2026-09-03T12:48:44Z"
+    "generated_at": "2026-09-03T13:12:12Z"
   },
   "stats": {
-    "total_notes": 206,
-    "total_edges": 1407,
+    "total_notes": 213,
+    "total_edges": 1460,
     "broken_links": 157,
     "untyped_notes": 4,
-    "health_score": 87.1
+    "health_score": 87.6
   },
   "inbox": [
     "biocomp-pertemuan-2"
@@ -126,6 +126,8 @@
       "Biology": [
         "Soal Sistem Peredaran Darah SMP",
         "LKPD Sistem Peredaran Darah SMP",
+        "LKPD Sistem Pernapasan SMP",
+        "Soal Sistem Pernapasan SMP",
         "LKPD Pengenalan Sel SMP",
         "Soal Pengenalan Sel SMP",
         "Soal Sistem Pencernaan Makanan SMP",
@@ -135,7 +137,12 @@
         "Sistem Peredaran Darah SMP",
         "Jantung dan Pembuluh Darah SMP",
         "Darah dan Golongan Darah SMP",
+        "Sistem Pernapasan SMP",
+        "Pertukaran Gas dan Gangguan Pernapasan SMP",
+        "Organ dan Mekanisme Pernapasan SMP",
         "Pengenalan Sel SMP",
+        "Mikroskop dan Pengamatan Sel SMP",
+        "Struktur dan Organel Sel SMP",
         "Nutrisi dan Gizi Remaja SMP",
         "Anatomi dan Enzim Pencernaan SMP",
         "Sistem Pencernaan Makanan SMP",

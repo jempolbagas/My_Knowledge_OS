@@ -17,7 +17,9 @@ Selamat datang di Teaching Resources Hub! Halaman ini mengorganisir seluruh mate
 ## 🧬 Biology & Science (IPA)
 
 ### 📚 Materi Ajar (Sources)
-- 🏠 [[Pengenalan Sel SMP]] — Pengenalan Sel — Unit Terkecil Kehidupan
+- 🏠 [[Mikroskop dan Pengamatan Sel SMP]] — Mikroskop dan Pengamatan Sel — Eksplorasi Dunia Mikroskopis
+  - 📄 [[Pengenalan Sel SMP]] — Pengenalan Sel — Master Guide & Navigasi Modul
+  - 📄 [[Struktur dan Organel Sel SMP]] — Struktur dan Organel Sel — Arsitektur Kehidupan & Spesialisasi
 - 🏠 [[Anatomi dan Enzim Pencernaan SMP]] — Anatomi Organ & Enzim Pencernaan — Sistem Pencernaan Manusia
   - 📄 [[Nutrisi dan Gizi Remaja SMP]] — Nutrisi, Gizi Seimbang, dan Indeks Massa Tubuh (IMT)
   - 📄 [[Sistem Pencernaan Makanan SMP]] — Sistem Pencernaan Makanan — Master Guide & Navigasi Modul
@@ -27,6 +29,9 @@ Selamat datang di Teaching Resources Hub! Halaman ini mengorganisir seluruh mate
 - 🏠 [[Kulit Paru Hati dan Gangguan Ekskresi SMP]] — Kulit, Paru-Paru, Hati, & Gangguan Sistem Ekskresi
   - 📄 [[Sistem Ekskresi Manusia SMP]] — Sistem Ekskresi Manusia — Master Guide & Navigasi Modul
   - 📄 [[Struktur Ginjal dan Pembentukan Urine SMP]] — Struktur Ginjal dan Pembentukan Urine — Mesin Pemurni Darah Alami
+- 🏠 [[Organ dan Mekanisme Pernapasan SMP]] — Organ dan Mekanisme Pernapasan SMP — Saluran Udara & Biomekanika Ventilasi
+  - 📄 [[Pertukaran Gas dan Gangguan Pernapasan SMP]] — Pertukaran Gas dan Gangguan Pernapasan SMP — Difusi, Spirometri, & Patologi Klinis
+  - 📄 [[Sistem Pernapasan SMP]] — Sistem Pernapasan — Master Guide & Navigasi Modul
 
 ---
 
