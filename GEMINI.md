@@ -60,6 +60,7 @@ tags: []
 - **Links:** Always use Wikilinks (`[[Note Name]]`). No path names or raw file names. Plain URLs for external links only.
 - **Metadata:** Keep in YAML frontmatter, not `#tags`.
 - **Math/LaTeX:** Always use `$` for inline math and `$$` for block math to ensure compatibility with Obsidian. Never use `\(` or `\[` delimiters.
+- **Formula Legends:** Always provide explicit variable descriptions/legends for each mathematical formula introduced.
 
 ## Operational Workflows
 ### Automation & Optimization Rules

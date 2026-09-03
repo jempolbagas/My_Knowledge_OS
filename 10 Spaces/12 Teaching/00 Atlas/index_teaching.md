@@ -21,6 +21,12 @@ Selamat datang di Teaching Resources Hub! Halaman ini mengorganisir seluruh mate
 - 🏠 [[Anatomi dan Enzim Pencernaan SMP]] — Anatomi Organ & Enzim Pencernaan — Sistem Pencernaan Manusia
   - 📄 [[Nutrisi dan Gizi Remaja SMP]] — Nutrisi, Gizi Seimbang, dan Indeks Massa Tubuh (IMT)
   - 📄 [[Sistem Pencernaan Makanan SMP]] — Sistem Pencernaan Makanan — Master Guide & Navigasi Modul
+- 🏠 [[Darah dan Golongan Darah SMP]] — Darah dan Golongan Darah — Komposisi, Hemostasis, & Transfusi
+  - 📄 [[Jantung dan Pembuluh Darah SMP]] — Jantung dan Pembuluh Darah — Anatomi, Mekanisme Sirkulasi, & Gangguan
+  - 📄 [[Sistem Peredaran Darah SMP]] — Sistem Peredaran Darah — Master Guide & Navigasi Modul
+- 🏠 [[Kulit Paru Hati dan Gangguan Ekskresi SMP]] — Kulit, Paru-Paru, Hati, & Gangguan Sistem Ekskresi
+  - 📄 [[Sistem Ekskresi Manusia SMP]] — Sistem Ekskresi Manusia — Master Guide & Navigasi Modul
+  - 📄 [[Struktur Ginjal dan Pembentukan Urine SMP]] — Struktur Ginjal dan Pembentukan Urine — Mesin Pemurni Darah Alami
 
 ---
 

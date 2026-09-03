@@ -33,8 +33,8 @@ type: CourseOverview
 
 ## 📚 Lecture Notes & Handouts
 ```dataview
-TABLE week, date, tags
-FROM "10_Spaces/11_College/Image_Processing"
-WHERE type = "LectureNote"
+TABLE week, tags
+FROM "10 Spaces/11 College/IMPROC"
+WHERE type = "note" OR type = "LectureNote"
 SORT week ASC
 ```

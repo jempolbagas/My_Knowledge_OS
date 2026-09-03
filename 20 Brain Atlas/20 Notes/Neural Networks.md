@@ -48,9 +48,43 @@ Jika layer 1 adalah $z_1 = W_1 x$ dan layer 2 adalah $z_2 = W_2 z_1$:
 $$ z_2 = W_2 (W_1 x) = (W_2 W_1) x = W_{\text{gabungan}} x $$
 Dua matriks perkalian berturut-turut hanyalah sebuah matriks baru. Jaringan tanpa aktivasi tidak akan pernah bisa mempelajari hubungan non-linear (seperti pola melingkar, XOR, atau persepsi visual). Fungsi aktivasi memberikan kemampuan "menekuk" dan "melipat" ruang fitur agar data yang tidak terpisahkan secara linear (*linearly non-separable*) dapat dipisahkan.
 
-## Struktur Berlapis: Dari Tepi ke Objek
+## Struktur Berlapis & Anatomi Dense Layer
 
-Neural network modern menyusun neuron dalam tiga jenis lapisan:
+Dalam arsitektur klasik Multilayer Perceptron (MLP), lapisan-lapisan penyusunnya disebut **Dense Layer** (atau *Fully Connected Layer* / *Linear Layer*).
+
+### Mengapa Disebut "Dense" (Padat)?
+Disebut *dense* karena **setiap neuron di lapisan ini memiliki sambungan kabel/bobot ke SELURUH neuron di lapisan sebelumnya**. Tidak ada input yang dilewati atau diabaikan secara spasial.
+
+```
+Layer Sebelumnya (Input x)        Lapisan Dense (Output y)
+       ( x1 ) ───────────┬───────────> ( y1 )
+               ╲       ╱   ╲       ╱
+                ╲     ╱     ╲     ╱
+       ( x2 ) ───┼───┼───────┼───┼───> ( y2 )
+                ╱     ╲     ╱     ╲
+               ╱       ╲   ╱       ╲
+       ( x3 ) ───────────┴───────────> ( y3 )
+   [Setiap input terhubung ke semua neuron output = Densely Connected]
+```
+
+Secara matematis, satu Dense layer mengeksekusi operasi aljabar linear:
+$$ y = \sigma(W x + b) $$
+
+**Keterangan variabel:**
+- $x \in \mathbb{R}^n$: Vektor input berukuran $n$.
+- $W \in \mathbb{R}^{m \times n}$: Matriks bobot berukuran $m \times n$, di mana $m$ adalah jumlah neuron pada layer saat ini dan $n$ adalah jumlah neuron dari layer sebelumnya.
+- $b \in \mathbb{R}^m$: Vektor bias berukuran $m$.
+- $\sigma(\cdot)$: Fungsi aktivasi non-linear (misal ReLU, Sigmoid, Softmax).
+- $y \in \mathbb{R}^m$: Vektor output representasi baru.
+
+### Peran dan Batasan Dense Layer
+1. **Wajib Flatten:** Dense layer tidak memahami konsep baris, kolom, atau kanal (2D/3D). Jika inputnya berupa citra atau spektrogram, data harus diratakan (*flatten*) menjadi vektor 1D terlebih dahulu.
+2. **Koneksi Global:** Cocok untuk data tabular atau fitur abstrak yang sudah tidak terikat koordinat fisik tertentu.
+3. **Peran dalam CNN:** Dalam visi komputer, lapisan konvolusi ([[Convolutional Layer]]) bertugas di depan sebagai *feature extractor*, sedangkan Dense layer diletakkan di bagian paling akhir sebagai *classifier head* untuk memetakan kombinasi fitur abstrak menjadi probabilitas kelas (misal: memprediksi apakah gambar tersebut mobil, kucing, atau pesawat).
+
+## Hierarki Representasi: Dari Tepi ke Objek
+
+Neural network modern menyusun neuron dalam tiga jenis lapisan fungsional:
 - **Input Layer:** Tempat data mentah masuk (tidak ada komputasi bobot di sini).
 - **Hidden Layer(s):** Lapisan perantara tempat fitur diekstraksi. Semakin dalam layer, semakin abstrak konsep yang dipelajari:
   - Layer 1: Garis tepi, sudut, kontras cahaya.
