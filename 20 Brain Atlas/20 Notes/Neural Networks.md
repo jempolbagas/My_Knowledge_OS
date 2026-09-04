@@ -5,6 +5,7 @@ subject: "Machine Learning"
 created: 2026-09-03
 prerequisites:
   - "[[Calculus for Machine Learning]]"
+  - "[[Dot Product]]"
 tags:
   - deep-learning
   - machine-learning
@@ -27,6 +28,7 @@ x3 ──(w3)──/
 Secara matematis, satu neuron melakukan dua operasi berurutan:
 1. **Kombinasi Linear (Pre-aktivasi $z$):**
    $$ z = \sum_{i=1}^{n} w_i x_i + b = w^T x + b $$
+   Komputasi inti di sini adalah operasi perkalian titik ([[Dot Product]]) antara vektor bobot $w$ dan vektor input $x$.
    - **Input ($x_i$):** Fitur numerik data (misal: luas tanah, jumlah kamar tidur). **Sifat: Tetap** (data fakta dari dunia nyata, tidak diubah oleh algoritma).
    - **Bobot ($w_i$ - Weight):** Tingkat pengaruh atau signifikansi fitur terhadap keputusan akhir. **Sifat: Berubah/Dilatih** (diputar nilainya untuk mencari akurasi tertinggi).
    - **Bias ($b$):** Titik potong (*intercept*) yang menggeser fungsi agar tidak selalu terikat di titik origin $(0,0)$. **Sifat: Berubah/Dilatih** (ikut digeser oleh algoritma bersama bobot).

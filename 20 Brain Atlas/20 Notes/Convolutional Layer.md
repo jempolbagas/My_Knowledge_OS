@@ -6,6 +6,7 @@ created: 2026-09-03
 prerequisites:
   - "[[Neural Networks]]"
   - "[[Convolution]]"
+  - "[[Dot Product]]"
 tags:
   - deep-learning
   - computer-vision
@@ -13,7 +14,7 @@ tags:
   - architecture
 ---
 
-Lapisan konvolusi (*convolutional layer*) adalah unit pemrosesan fundamental dalam arsitektur Convolutional Neural Network (CNN) yang bertugas mengekstraksi fitur spasial lokal dari data terstruktur (seperti citra, audio, atau volume 3D). Berbeda dengan *fully connected (dense) layer* yang menghubungkan setiap neuron ke seluruh input secara global, lapisan konvolusi memanfaatkan sekumpulan matriks bobot berukuran kecil—disebut kernel atau filter—yang digeser melintasi input untuk menghitung perkalian titik (*dot product*) lokal. Mekanisme ini menerapkan dua prinsip utama: *sparse connectivity* (konektivitas lokal) dan *weight sharing* (berbagi bobot), sehingga mampu mengenali pola visual yang konsisten (*translation equivariance*) dengan jumlah parameter yang jauh lebih hemat.
+Lapisan konvolusi (*convolutional layer*) adalah unit pemrosesan fundamental dalam arsitektur Convolutional Neural Network (CNN) yang bertugas mengekstraksi fitur spasial lokal dari data terstruktur (seperti citra, audio, atau volume 3D). Berbeda dengan *fully connected (dense) layer* yang menghubungkan setiap neuron ke seluruh input secara global, lapisan konvolusi memanfaatkan sekumpulan matriks bobot berukuran kecil—disebut kernel atau filter—yang digeser melintasi input untuk menghitung perkalian titik ([[Dot Product]]) lokal. Mekanisme ini menerapkan dua prinsip utama: *sparse connectivity* (konektivitas lokal) dan *weight sharing* (berbagi bobot), sehingga mampu mengenali pola visual yang konsisten (*translation equivariance*) dengan jumlah parameter yang jauh lebih hemat.
 
 ## Mengapa Bukan Dense Layer Biasa?
 
@@ -46,12 +47,67 @@ Satu filter konvolusi berukuran $K \times K$ memiliki matriks bobot yang nilainy
 - Jika filter tersebut belajar mendeteksi tepi vertikal, maka filter yang sama akan memindai dan mendeteksi tepi vertikal di **seluruh** bagian gambar.
 - Bobot kernel diperbarui secara simultan melalui gradien akumulatif via [[Backpropagation]].
 
+## Intuisi Fisis: Dot Product sebagai "Stempel Pola" (*Pattern Matcher*)
+
+Jika perkalian titik hanya dipandang sebagai hitungan aljabar biasa, esensi fisis konvolusi akan kabur. Secara vektor, perkalian titik $\vec{a} \cdot \vec{b} = \|\vec{a}\| \|\vec{b}\| \cos(\theta)$ mengukur **tingkat kemiripan arah / bentuk**:
+- Pola identik $\to$ nilai positif maksimal (neuron "berteriak" / aktivasi meledak).
+- Pola acak / tidak berhubungan $\to$ mendekati nol.
+- Pola berlawanan arah $\to$ bernilai negatif.
+
+### Contoh Nyata: Filter Pendeteksi Tepi Vertikal
+Tinjau sebuah kernel $3 \times 3$ yang dirancang khusus:
 ```
-Input Patch (3x3)      Kernel Bobot (3x3)         Hasil Spasial
-  [ 1  0  2 ]              [  1  0 -1 ]
-  [ 0  3  1 ]     *        [  1  0 -1 ]     =     Sum(Element-wise) + Bias
-  [ 2  1  0 ]              [  1  0 -1 ]                  = Feature Map Cell
+Kernel:
+-1   2  -1
+-1   2  -1
+-1   2  -1
 ```
+- **Angka $+2$ di tengah bertindak sebagai *Exciter* (Penguat).**
+- **Angka $-1$ di kiri-kanan bertindak sebagai *Inhibitor* (Penghukum/Peredam).**
+
+1. **Menimpa Garis Vertikal Terang di Latar Gelap:**
+   Kolom tengah bernilai $1$, kolom samping bernilai $0$:
+   $$ \text{Output} = 3 \times [(-1 \cdot 0) + (2 \cdot 1) + (-1 \cdot 0)] = +6 $$
+   Neuron menghasilkan aktivasi sangat tinggi $+6$—ia "menstabilo" keberadaan garis vertikal.
+2. **Menimpa Area Hitam Kosong ($0$ semua):**
+   $$ \text{Output} = 0 $$
+   Neuron diam (tidak ada fitur menarik).
+3. **Menimpa Bidang Putih Polos ($1$ semua):**
+   $$ \text{Output} = 3 \times [(-1 \cdot 1) + (2 \cdot 1) + (-1 \cdot 1)] = 3 \times (0) = 0 $$
+   Neuron tetap diam! Karena *exciter* ($+2$) dan *inhibitor* ($-1 - 1 = -2$) saling meniadakan secara presisi. Filter ini terbukti hanya merespons **kontras perubahan garis tepi**, bukan warna polos.
+
+---
+
+## Apa Saja yang Dikoreksi saat Backpropagation?
+
+Dalam visi komputer (terutama segmentasi citra), parameter yang di-update oleh [[Backpropagation]] bukan hanya satu jenis:
+1. **Elemen Bobot Kernel:** Angka-angka di dalam matriks kernel ($C_{in} \times K_h \times K_w$) itulah *weights* yang diputar nilainya agar membentuk filter pendeteksi pola yang optimal.
+2. **Bias ($b$):** Satu skalar per filter untuk menggeser ambang batas aktivasi (*threshold*).
+3. **Parameter Normalisasi (Batch Normalization / GroupNorm):** Parameter $\gamma$ (*scale*) dan $\beta$ (*shift*) yang dipelajari untuk menjaga stabilitas sebaran aktivasi antar-lapisan.
+4. **Kernel Up-sampling (Transposed Convolution):** Pada arsitektur segmentasi (seperti [[Image Segmentation Architecture]]), decoder menggunakan kernel pembalik yang bobotnya juga dipelajari untuk merekonstruksi resolusi detail.
+5. **Prediction Head ($1 \times 1$ Convolution):** Pengganti Dense layer di akhir segmentasi yang memetakan puluhan channel fitur menjadi $C$ label kelas per piksel.
+
+---
+
+## Dinamika Downsampling: Dimensi Spasial ($H, W \downarrow$) vs. Kedalaman Kanal ($C \uparrow$)
+
+Selama tahap ekstraksi fitur (Encoder), terjadi pertukaran representasi yang disengaja: **mengorbankan resolusi fisik demi kedalaman makna semantik**.
+
+```
+Input Awal:                                    Lapisan Dalam (Bottleneck):
+Resolusi Spasial Luas tapi Tipis               Resolusi Spasial Menciut tapi Sangat Tebal
+  ┌─────────────────┐                                  ┌───┐
+  │  512 x 512 px   │                                  │16x│
+  │                 │        ───────────────>          │16 │
+  └─────────────────┘                                  └───┘
+   (3 Channel RGB)                                      (512 Feature Maps Berbeda)
+```
+
+- **Sumbu Spasial ($H, W$) Menjawab: *"DI MANA?" (Where)*:**
+  Di awal, resolusi besar memberitahu koordinat fisik piksel dengan presisi, tetapi model belum paham konteks objeknya.
+- **Sumbu Kanal ($C$) Menjawab: *"BENDA APA ITU?" (What)*:**
+  Setiap 1 lembar feature map mewakili 1 konsep fitur unik (misal: channel 1 = pantulan logam, channel 50 = kurva roda, channel 512 = tekstur mata).
+Semakin dalam jaringan, resolusi koordinat diperkecil agar beban komputasi terkendali dan receptive field meluas, sementara variasi kanal diperbanyak untuk memperkaya kosakata konsep visual model.
 
 ---
 

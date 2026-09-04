@@ -7,14 +7,14 @@
       "3. Prefer 20 Brain Atlas/20 Notes/ for explanations.",
       "4. Never scan directories or open more than 3 full notes without user approval."
     ],
-    "generated_at": "2026-09-03T13:12:12Z"
+    "generated_at": "2026-09-04T11:04:30Z"
   },
   "stats": {
-    "total_notes": 213,
-    "total_edges": 1460,
+    "total_notes": 221,
+    "total_edges": 1545,
     "broken_links": 157,
     "untyped_notes": 4,
-    "health_score": 87.6
+    "health_score": 88.2
   },
   "inbox": [
     "biocomp-pertemuan-2"
@@ -88,6 +88,8 @@
         "LKPD Transformasi Geometri SMA",
         "Soal Fungsi Komposisi dan Invers SMA",
         "LKPD Fungsi Komposisi dan Invers SMA",
+        "LKPD_Eksponen_dan_Bentuk_Akar_SMP",
+        "Soal_Eksponen_dan_Bentuk_Akar_SMP",
         "Ringkasan_PSTS_Matematika_Kelas_8_SMP",
         "Pola Bilangan SMP",
         "Suku Banyak Polinomial SMA",
@@ -121,7 +123,11 @@
         "Invers Fungsi Komposisi dan Aplikasi SMA",
         "Teknik Invers Fungsi Aljabar SMA",
         "Konsep Dasar dan Syarat Invers SMA",
-        "Fungsi Komposisi dan Invers SMA"
+        "Fungsi Komposisi dan Invers SMA",
+        "Persamaan_Eksponen_dan_Notasi_Ilmiah_SMP",
+        "Bilangan_Berpangkat_dan_Sifatnya_SMP",
+        "Eksponen_dan_Bentuk_Akar_SMP",
+        "Operasi_Bentuk_Akar_dan_Merasionalkan_SMP"
       ],
       "Biology": [
         "Soal Sistem Peredaran Darah SMP",
@@ -222,6 +228,7 @@
     "notes": {
       "Machine Learning": [
         "Backpropagation",
+        "Attention Mechanism",
         "Neural Networks"
       ],
       "Computer Vision": [
@@ -230,6 +237,7 @@
         "Image Segmentation Architecture"
       ],
       "Mathematics": [
+        "Dot Product",
         "Convolution",
         "Calculus for Machine Learning"
       ]

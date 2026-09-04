@@ -40,6 +40,10 @@ Selamat datang di Teaching Resources Hub! Halaman ini mengorganisir seluruh mate
 ### 📚 Materi Ajar (Sources)
 - 🏠 [[Persamaan Kuadrat SMP]] — Persamaan Kuadrat — Bentuk Umum, Pemfaktoran, & Rumus ABC
 - 🏠 [[Pola Bilangan SMP]] — Pola Bilangan & Barisan — Rahasia Angka Ajaib
+- 🏠 [[Bilangan_Berpangkat_dan_Sifatnya_SMP]] — Bilangan Berpangkat dan Sifat-Sifatnya — Menyingkap Keajaiban Perkalian Berulang
+  - 📄 [[Eksponen_dan_Bentuk_Akar_SMP]] — Eksponen dan Bentuk Akar — Master Dashboard Pembelajaran
+  - 📄 [[Operasi_Bentuk_Akar_dan_Merasionalkan_SMP]] — Operasi Bentuk Akar dan Merasionalkan Penyebut — Dari Geometri ke Aljabar Presisi
+  - 📄 [[Persamaan_Eksponen_dan_Notasi_Ilmiah_SMP]] — Persamaan Eksponen dan Notasi Ilmiah — Dari Aljabar Presisi ke Skala Alam Semesta
 - [[Ringkasan_PSTS_Matematika_Kelas_8_SMP]] — Ringkasan Materi & Panduan Belajar PSTS Matematika Kelas 8 SMP
 
 ---
