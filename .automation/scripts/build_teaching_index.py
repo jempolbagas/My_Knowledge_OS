@@ -75,9 +75,10 @@ def generate_index():
     md_lines = [
         "---",
         'title: "🍎 Teaching Resources Hub"',
+        'type: index',
         'course: ""',
         "tags: [teaching, index, dashboard]",
-        'aliases: ["🍎 Teaching Resources Hub"]',
+        'aliases: ["🍎 Teaching Resources Hub", "index teaching"]',
         'created: "2026-05-01"',
         "---",
         "",

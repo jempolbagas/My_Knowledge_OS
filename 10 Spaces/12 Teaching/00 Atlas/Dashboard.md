@@ -37,7 +37,7 @@ LIMIT 10
 - [x] [[Konsep_dan_Kesamaan_Polinomial_SMA]] — Polinomial & Horner
 
 ### Languages
-- [ ] [[Perfect_Tenses_SMA]] — Master Dashboard & Submodul (*Present, Past, Future, Continuous*)
+- [ ] Perfect Tenses (SMA) — Master Dashboard & Submodul (*Present, Past, Future, Continuous*)
 - [ ] Present Continuous Tense (SMP) Source Material
 
 ---

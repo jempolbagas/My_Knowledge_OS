@@ -46,7 +46,7 @@ updated: "2026-08-13"
 ## 📝 Recent Semester 5 Lecture Notes
 ```dataview
 TABLE course, week, date, tags
-FROM "10_Spaces/11_College"
+FROM "10 Spaces/11 College"
 WHERE semester = 5 AND type = "LectureNote"
 SORT date DESC
 LIMIT 10
@@ -57,7 +57,7 @@ LIMIT 10
 ## 📌 Active Assignments & Tasks
 ```dataview
 TASK
-FROM "10_Spaces/11_College"
+FROM "10 Spaces/11 College"
 WHERE !completed AND semester = 5
 SORT due ASC
 ```
@@ -67,13 +67,13 @@ SORT due ASC
 ## 🗂️ Syllabi Tracker (RPS Status)
 ```dataview
 TABLE course, tags
-FROM "10_Spaces/11_College/Syllabi"
+FROM "10 Spaces/11 College/Syllabi"
 WHERE semester = 5
 ```
 
 ---
 
 ## 🛠️ Quick Actions & Note Filing Rules
-1. **New Lecture Note:** Follow `college-study-pack` skill guidelines under `10_Spaces/11_College/<Course_Folder>/Week_<XX>_<Topic_Snake_Case>/`.
-2. **Uploading RPS / Syllabi:** Store in `10_Spaces/11_College/Syllabi/` using [Syllabus_Template.md](file:///mnt/data/life-hub/10_Knowledge_OS/10_Spaces/11_College/Syllabi/Syllabus_Template.md).
-3. **Concept Extraction:** Extract core algorithms into atomic Concept notes in `20_Brain_Atlas/20_Concepts/<Subject>/`.
+1. **New Lecture Note:** Follow `college-study-pack` skill guidelines under `10 Spaces/11 College/<Course_Folder>/`.
+2. **Uploading RPS / Syllabi:** Store in `10 Spaces/11 College/Syllabi/` using [Syllabus_Template.md](file:///mnt/data/life-hub/10_Knowledge_OS/10 Spaces/11 College/Syllabi/Syllabus_Template.md).
+3. **Concept Extraction:** Extract core algorithms into Fluid Notes in `20 Brain Atlas/20 Notes/<Subject>/`.

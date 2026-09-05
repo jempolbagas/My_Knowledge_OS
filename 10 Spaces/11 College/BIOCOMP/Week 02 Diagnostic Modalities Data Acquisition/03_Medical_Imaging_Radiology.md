@@ -13,21 +13,21 @@ type: "LectureNote"
 
 ## 1. Pendahuluan & Taksonomi Modalitas Pencitraan Medis
 
-Pencitraan medis (*medical imaging*) merupakan salah satu fondasi utama dalam [[Komputasi Biomedis]] dan radiologi modern. Modalitas pencitraan berfungsi sebagai teknik akuisisi data non-invasif (atau minimal invasif) untuk memetakan struktur anatomi, menilai fungsi fisiologis, serta memandu tindakan intervensi medis. Dalam hierarki diagnostik, pemilihan modalitas pencitraan didasarkan pada karakteristik fisik gelombang yang digunakan, tingkat densitas jaringan target, serta resolusi spasial dan temporal yang dibutuhkan.
+Pencitraan medis (*medical imaging*) merupakan salah satu fondasi utama dalam **Komputasi Biomedis** dan radiologi modern. Modalitas pencitraan berfungsi sebagai teknik akuisisi data non-invasif (atau minimal invasif) untuk memetakan struktur anatomi, menilai fungsi fisiologis, serta memandu tindakan intervensi medis. Dalam hierarki diagnostik, pemilihan modalitas pencitraan didasarkan pada karakteristik fisik gelombang yang digunakan, tingkat densitas jaringan target, serta resolusi spasial dan temporal yang dibutuhkan.
 
 Secara umum, modalitas pencitraan medis dapat diklasifikasikan berdasarkan jenis gelombang atau energi fisik yang digunakan:
 
-1. **Radiasi Pengion (*Ionizing Radiation*):** Menggunakan foton berenergi tinggi yang mampu mengionisasi atom. Contoh: [[Foto Rontgen]], [[CT Scan]], dan [[Fluoroskopi]].
-2. **Gelombang Akustik Non-Pengion (*Non-Ionizing Acoustic Waves*):** Menggunakan gelombang suara berfrekuensi tinggi. Contoh: [[Ultrasonografi]].
-3. **Gelombang Elektromagnetik & Medan Magnet Non-Pengion:** Menggunakan interaksi medan magnet kuat dan radiofrekuensi. Contoh: [[MRI]].
-4. **Inspeksi Optik Langsung (*Direct Optical Inspection*):** Menggunakan transmisi cahaya tampak melalui serat optik fleksibel. Contoh: [[Endoskopi]].
+1. **Radiasi Pengion (*Ionizing Radiation*):** Menggunakan foton berenergi tinggi yang mampu mengionisasi atom. Contoh: **Foto Rontgen**, **CT Scan**, dan **Fluoroskopi**.
+2. **Gelombang Akustik Non-Pengion (*Non-Ionizing Acoustic Waves*):** Menggunakan gelombang suara berfrekuensi tinggi. Contoh: **Ultrasonografi**.
+3. **Gelombang Elektromagnetik & Medan Magnet Non-Pengion:** Menggunakan interaksi medan magnet kuat dan radiofrekuensi. Contoh: **MRI**.
+4. **Inspeksi Optik Langsung (*Direct Optical Inspection*):** Menggunakan transmisi cahaya tampak melalui serat optik fleksibel. Contoh: **Endoskopi**.
 
 ---
 
 ## 2. Foto Rontgen (X-Ray Radiography)
 
 ### A. Prinsip Fisika & Akuisisi Sinar-X
-[[Foto Rontgen]] adalah modalitas pencitraan radiografi konvensional berbasis radiasi pengion berupa gelombang elektromagnetik Sinar-X (panjang gelombang $10^{-8} \text{ m}$ hingga $10^{-11} \text{ m}$). Prinsip dasarnya berlandaskan pada transmisi dan penyerapan (atenuasi) foton Sinar-X saat menembus berbagai lapisan jaringan tubuh dengan tingkat kerapatan (*density*) yang bervariasi.
+**Foto Rontgen** adalah modalitas pencitraan radiografi konvensional berbasis radiasi pengion berupa gelombang elektromagnetik Sinar-X (panjang gelombang $10^{-8} \text{ m}$ hingga $10^{-11} \text{ m}$). Prinsip dasarnya berlandaskan pada transmisi dan penyerapan (atenuasi) foton Sinar-X saat menembus berbagai lapisan jaringan tubuh dengan tingkat kerapatan (*density*) yang bervariasi.
 
 Persamaan atenuasi foton Sinar-X mengikuti Hukum Beer-Lambert:
 
@@ -52,12 +52,12 @@ Foto Rontgen merupakan pemeriksaan lini pertama (*first-line screening*) untuk b
 2. **Kelainan Dental:** Identifikasi karies gigi, impaksi gigi bungsu, dan struktur akar tulang rahang.
 3. **Obstruksi Traktus:** Deteksi sumbatan mekanis pada saluran napas atau saluran pencernaan.
 4. **Nefrolitiasis/Urolitiasis:** Identifikasi batu saluran kemih berdensitas kalsium tinggi.
-5. **Infeksi & Inflamasi Parenkim Paru / Abdomen:** Deteksi infiltrat pada [[Pneumonia]], kavitas dan fibrosis akibat *Mycobacterium tuberculosis* ([[Tuberkulosis|TBC]]), efusi pleura, serta infeksi usus buntu (appendicitis/apendisitis).
+5. **Infeksi & Inflamasi Parenkim Paru / Abdomen:** Deteksi infiltrat pada **Pneumonia**, kavitas dan fibrosis akibat *Mycobacterium tuberculosis* (**TBC**), efusi pleura, serta infeksi usus buntu (appendicitis/apendisitis).
 
 ---
 
 ### C. Penggunaan Zat Kontras & Efek Samping
-Pada organ berongga atau jaringan lunak yang memiliki kontras alami rendah, diberikan **[[Zat Kontras]]** untuk meningkatkan diferensiasi visual:
+Pada organ berongga atau jaringan lunak yang memiliki kontras alami rendah, diberikan **Zat Kontras** untuk meningkatkan diferensiasi visual:
 
 - **Jenis Media Kontras:**
   1. **Kontras Barium (Barium Sulfat / $\text{BaSO}_4$):** Diberikan secara per oral atau per rektal untuk memetakan traktus gastrointestinal (misal *barium swallow* atau *barium enema*).
@@ -72,7 +72,7 @@ Pada organ berongga atau jaringan lunak yang memiliki kontras alami rendah, dibe
 ---
 
 ### D. Interpretasi Citra AI untuk COVID-19 (qXR / qure.ai)
-Pengembangan sistem kecerdasan buatan (*Artificial Intelligence*) seperti **qXR** (dikembangkan oleh Qure.ai) memanfaatkan jaringan saraf tiruan dalam (*Deep Convolutional Neural Networks*) untuk melakukan interpretasi otomatis citra Foto Rontgen dada (*Chest X-Ray* / CXR), terutama pada skrining pasien [[COVID-19]] dan penyakit paru lainnya.
+Pengembangan sistem kecerdasan buatan (*Artificial Intelligence*) seperti **qXR** (dikembangkan oleh Qure.ai) memanfaatkan jaringan saraf tiruan dalam (*Deep Convolutional Neural Networks*) untuk melakukan interpretasi otomatis citra Foto Rontgen dada (*Chest X-Ray* / CXR), terutama pada skrining pasien **COVID-19** dan penyakit paru lainnya.
 
 Sistem qXR mengekstrak dan memetakan fitur temuan abnormal ke dalam 5 kategori zona anatomis:
 
@@ -106,7 +106,7 @@ Sistem qXR mengekstrak dan memetakan fitur temuan abnormal ke dalam 5 kategori z
 ## 3. Ultrasonografi (USG / Ultrasonography)
 
 ### A. Prinsip Fisika & Fenomena Akustik
-[[Ultrasonografi]] (USG) menggunakan gelombang suara longitudinal berfrekuensi tinggi di atas rentang pendengaran manusia (umumnya $2 \text{ MHz}$ hingga $18 \text{ MHz}$).
+**Ultrasonografi** (USG) menggunakan gelombang suara longitudinal berfrekuensi tinggi di atas rentang pendengaran manusia (umumnya $2 \text{ MHz}$ hingga $18 \text{ MHz}$).
 
 1. **Efek Piezoelektrik:** Kristal piezoelektrik (seperti *Lead Zirconate Titanate* / PZT) di dalam transduser mengubah pulsa energi listrik menjadi getaran mekanis (gelombang ultrasonik).
 2. **Propagasi & Impedansi Akustik:** Gelombang ultrasonik merambat melalui jaringan tubuh. Pada perbatasan antara dua jaringan dengan **Impedansi Akustik** ($Z$) yang berbeda, sebagian gelombang akan dipantulkan kembali (*echo*) menuju transduser.
@@ -157,7 +157,7 @@ Sistem USG modern (seperti sistem pencitraan Philips) menampilkan parameter kese
 ## 4. Computed Tomography Scan (CT Scan)
 
 ### A. Prinsip Fisika & Mekanisme Rotasi Gantry
-[[CT Scan]] (Computed Tomography) menggabungkan penggunaan radiasi Sinar-X dengan komputasi rekonstruksi digital. Berbeda dengan Rontgen 2D yang memproyeksikan seluruh jaringan secara tumpang tindih (*overlapping*), CT scan memanfaatkan tabung Sinar-X dan larik detektor (*detector array*) yang dipasang berhadapan di dalam *gantry* yang berputar $360^\circ$ mengelilingi aksial tubuh pasien.
+**CT Scan** (Computed Tomography) menggabungkan penggunaan radiasi Sinar-X dengan komputasi rekonstruksi digital. Berbeda dengan Rontgen 2D yang memproyeksikan seluruh jaringan secara tumpang tindih (*overlapping*), CT scan memanfaatkan tabung Sinar-X dan larik detektor (*detector array*) yang dipasang berhadapan di dalam *gantry* yang berputar $360^\circ$ mengelilingi aksial tubuh pasien.
 
 Selama rotasi, tabung memancarkan berkas Sinar-X berbentuk kipas (*fan-beam*) atau kerucut (*cone-beam*). Detektor mencatat ribuan profil atenuasi dari berbagai sudut proyeksi. Data mentah proyeksi (*sinogram*) diubah menjadi citra irisan melintang 2D/3D menggunakan algoritma matematika **Transformasi Radon** dan **Filtered Back-Projection (FBP)** atau **Iterative Reconstruction**.
 
@@ -182,7 +182,7 @@ $$\text{HU} = 1000 \times \frac{\mu_{\text{jaringan}} - \mu_{\text{air}}}{\mu_{\
 ---
 
 ### C. Aplikasi Klinis & Interpretasi CT Scan Otak
-CT scan non-kontras pada kepala merupakan *gold standard* diagnostik darurat untuk kasus trauma kepala dan kecurigaan [[Stroke]].
+CT scan non-kontras pada kepala merupakan *gold standard* diagnostik darurat untuk kasus trauma kepala dan kecurigaan **Stroke**.
 
 ```mermaid
 graph TD
@@ -214,7 +214,7 @@ Menampilkan struktur serebral yang simetris dengan batas tegas antara substansia
 ## 5. Magnetic Resonance Imaging (MRI 3 Tesla)
 
 ### A. Prinsip Fisika & Resonansi Magnetik
-[[MRI]] (Magnetic Resonance Imaging) adalah modalitas pencitraan canggih tanpa memanfaatkan radiasi pengion (Sinar-X). MRI mengandalkan kelimpahan inti atom Hidrogen ($^1\text{H}$) di dalam jaringan tubuh (terutama air dan lemak) yang memiliki momen magnetik spin.
+**MRI** (Magnetic Resonance Imaging) adalah modalitas pencitraan canggih tanpa memanfaatkan radiasi pengion (Sinar-X). MRI mengandalkan kelimpahan inti atom Hidrogen ($^1\text{H}$) di dalam jaringan tubuh (terutama air dan lemak) yang memiliki momen magnetik spin.
 
 1. **Magnetisasi Eksternal ($B_0$):** Pasien ditempatkan di dalam medan magnet kuat searah (misal $3.0 \text{ Tesla}$). Spin proton hidrogen berpresesi searah dengan medan magnet $B_0$ pada **Frekuensi Larmor** ($\omega_0$):
 
@@ -230,12 +230,12 @@ Di mana:
    - **Relaksasi $T_1$ (Spin-Lattice):** Pemulihan magnetisasi longitudinal.
    - **Relaksasi $T_2$ (Spin-Spin):** Peluruhan magnetisasi transversal.
 
-Durasi prosedur MRI berkisar antara $15$ hingga $90 \text{ menit}$. Untuk kontras vaskular atau tumor, digunakan media kontras paramagnetic berbasis **[[Gadolinium]]**.
+Durasi prosedur MRI berkisar antara $15$ hingga $90 \text{ menit}$. Untuk kontras vaskular atau tumor, digunakan media kontras paramagnetic berbasis **Gadolinium**.
 
 ---
 
 ### B. Diagnosis Penyakit Parkinson pada MRI Otak 3 Tesla
-Pemindaian MRI berkekuatan medan tinggi ($3 \text{ Tesla}$) beresolusi spasial mikro memungkinkan evaluasi terperinci terhadap struktur **Otak Tengah (*Midbrain*)** dan **Substantia Nigra**, yang menjadi standar diagnostik untuk [[Penyakit Parkinson]].
+Pemindaian MRI berkekuatan medan tinggi ($3 \text{ Tesla}$) beresolusi spasial mikro memungkinkan evaluasi terperinci terhadap struktur **Otak Tengah (*Midbrain*)** dan **Substantia Nigra**, yang menjadi standar diagnostik untuk **Penyakit Parkinson**.
 
 ![[diagram_college_biocomp_mri_parkinson_swallowtail.webp]]
 
@@ -254,7 +254,7 @@ Pemindaian MRI berkekuatan medan tinggi ($3 \text{ Tesla}$) beresolusi spasial m
 ## 6. Fluoroskopi (Real-Time X-Ray Cine-Radiography)
 
 ### A. Prinsip Kerja & Mekanisme Fluoroskopi
-[[Fluoroskopi]] adalah teknik pencitraan radiologi berbasis Sinar-X yang menghasilkan rekaman citra bergerak (*real-time video radiography*) secara kontinu.
+**Fluoroskopi** adalah teknik pencitraan radiologi berbasis Sinar-X yang menghasilkan rekaman citra bergerak (*real-time video radiography*) secara kontinu.
 
 Sinar-X dipancarkan secara terus-menerus dengan laju dosis rendah melewati tubuh pasien menuju penguat citra (*image intensifier*) atau detektor panel datar (*flat-panel detector*). Penguat citra mengubah foton Sinar-X menjadi foton cahaya tampak yang kemudian ditangkap kamera video digital kecepatan tinggi untuk ditampilkan langsung pada layar monitor medis.
 
@@ -300,7 +300,7 @@ Fluoroskopi umumnya dikombinasikan dengan injeksi kontras intravaskular untuk:
 ## 7. Endoskopi (Direct Optical Inspection)
 
 ### A. Prinsip Kerja & Instrumentasi Optik
-[[Endoskopi]] adalah metode inspeksi visual langsung terhadap bagian dalam organ berongga atau rongga tubuh menggunakan instrumen medis fleksibel bernama **Endoskop**.
+**Endoskopi** adalah metode inspeksi visual langsung terhadap bagian dalam organ berongga atau rongga tubuh menggunakan instrumen medis fleksibel bernama **Endoskop**.
 
 - **Konstruksi Alat:** Selang fleksibel berdiameter kecil yang dilengkapi dengan:
   1. *Fiber Optic Bundle:* Memancarkan cahaya terang dari sumber cahaya eksternal untuk menerangi organ berongga.
@@ -312,13 +312,13 @@ Fluoroskopi umumnya dikombinasikan dengan injeksi kontras intravaskular untuk:
 
 ### B. Indikasi Diagnostik Saluran Pencernaan Atas (*Upper GI Track*)
 Endoskopi saluran cerna atas (Esofagogastroduodenoskopi / EGD) dilakukan untuk mendiagnosis:
-1. **[[Gastritis]]:** Inflamasi, eritema, atau edema pada lapisan mukosa lambung.
-2. **[[Tukak Lambung]] (*Peptic Ulcer*):** Defek/luka terbuka berbatas tegas pada mukosa lambung atau duodenum akibat infeksi *Helicobacter pylori* atau akumulasi asam lambung.
+1. ****Gastritis**:** Inflamasi, eritema, atau edema pada lapisan mukosa lambung.
+2. ****Tukak Lambung** (*Peptic Ulcer*):** Defek/luka terbuka berbatas tegas pada mukosa lambung atau duodenum akibat infeksi *Helicobacter pylori* atau akumulasi asam lambung.
 3. **Perdarahan Lambung:** Identifikasi titik perdarahan aktif akibat erosi vaskular.
-4. **[[GERD]] (*Gastroesophageal Reflux Disease*):** Evaluasi erosi atau striktur mukosa esofagus akibat paparan asam lambung berulang.
-5. **[[Disfagia]]:** Evaluasi kesulitan menelan akibat penyempitan lumen atau massa intraluminal esofagus.
+4. ****GERD** (*Gastroesophageal Reflux Disease*):** Evaluasi erosi atau striktur mukosa esofagus akibat paparan asam lambung berulang.
+5. ****Disfagia**:** Evaluasi kesulitan menelan akibat penyempitan lumen atau massa intraluminal esofagus.
 6. **Perdarahan Gastrointestinal:** Identifikasi sumber perdarahan samar atau masif pada traktus cerna.
-7. **[[Kanker Lambung]]:** Deteksi dini lesi displastik, polipoid, atau massa karsinoma lambung disertai pengambilan sampel jaringan (*biopsi*).
+7. ****Kanker Lambung**:** Deteksi dini lesi displastik, polipoid, atau massa karsinoma lambung disertai pengambilan sampel jaringan (*biopsi*).
 
 ---
 
@@ -331,10 +331,10 @@ Berikut adalah perbandingan komprehensif antara keenam modalitas pencitraan medi
 | **Prinsip Fisika / Energi** | Sinar-X foton ($10^{-8} - 10^{-11} \text{ m}$) | Gelombang Akustik ($2 - 18 \text{ MHz}$) | Sinar-X Rotasional $360^\circ$ | Medan Magnet ($3\text{T}$) + Radiofrekuensi | Sinar-X Kontinu *Real-Time* | Optik Tampak (*Fiber Optics*) |
 | **Kategori Radiasi** | Radiasi Pengion | Non-Pengion | Radiasi Pengion | Non-Pengion | Radiasi Pengion | Non-Pengion |
 | **Dimensi & Tipe Citra** | Proyeksi 2D Statis | 2D/3D *Real-Time* | Irisan Melintang 2D/3D | Irisan Multiplanar 2D/3D | Video 2D *Real-Time* | Citra Optik 2D Direct |
-| **Media Kontras** | [[Barium]], [[Iodium]] | *Microbubbles* (opsional) | [[Iodium]] Intravaskular | [[Gadolinium]] Paramagnetik | [[Iodium]] / [[Barium]] | Pewarna Mukosa (Chromoscopy) |
+| **Media Kontras** | **Barium**, **Iodium** | *Microbubbles* (opsional) | **Iodium** Intravaskular | **Gadolinium** Paramagnetik | **Iodium** / **Barium** | Pewarna Mukosa (Chromoscopy) |
 | **Keunggulan Utama** | Cepat, murah, aksesibilitas luas, ideal untuk tulang. | Tanpa radiasi, *real-time*, aman untuk janin, portabel. | Resolusi spasial tinggi, detail rekonstruksi jaringan padat. | Kontras jaringan lunak luar biasa, tanpa radiasi. | Pemandu intervensi dinamis secara *real-time*. | Inspeksi permukaan mukosa langsung & kapabilitas biopsi. |
 | **Keterbatasan / Risiko** | Radiasi pengion, superimposisi 2D. | Terhalang udara/tulang, tergantung keahlian operator. | Dosis radiasi lebih tinggi, risiko kontras CIN. | Biaya mahal, durasi lama ($15-90\text{ min}$), implan logam. | Paparan radiasi akumulatif pada pasien & dokter. | Invasif ringan, terbatas pada organ berongga. |
-| **Indikasi Utama** | Fraktur, [[Tuberkulosis|TBC]], [[Pneumonia]], artritis. | Evaluasi abdomen, obstetri (janin), biopsi guide. | [[Stroke]], trauma kapitis, staging kanker. | [[Penyakit Parkinson]], tumor otak, ligamen/otot. | Kateterisasi jantung, stent koroner, barium swallow. | [[Gastritis]], [[Tukak Lambung]], [[GERD]], [[Disfagia]]. |
+| **Indikasi Utama** | Fraktur, **TBC**, **Pneumonia**, artritis. | Evaluasi abdomen, obstetri (janin), biopsi guide. | **Stroke**, trauma kapitis, staging kanker. | **Penyakit Parkinson**, tumor otak, ligamen/otot. | Kateterisasi jantung, stent koroner, barium swallow. | **Gastritis**, **Tukak Lambung**, **GERD**, **Disfagia**. |
 
 ---
 
@@ -346,9 +346,9 @@ Berikut adalah perbandingan komprehensif antara keenam modalitas pencitraan medi
 - **Tanggal Sesi:** 27 Agustus 2026
 
 ### Catatan Kaitan Sistem Pembelajaran:
-- [[Komputasi Biomedis]]
-- [[STEMI]]
-- [[Stroke Iskemik]]
-- [[Pendarahan Intrakranial]]
-- [[Penyakit Parkinson]]
-- [[COVID-19]]
+- **Komputasi Biomedis**
+- **STEMI**
+- **Stroke Iskemik**
+- **Pendarahan Intrakranial**
+- **Penyakit Parkinson**
+- **COVID-19**

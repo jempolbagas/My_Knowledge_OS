@@ -7,23 +7,19 @@
       "3. Prefer 20 Brain Atlas/20 Notes/ for explanations.",
       "4. Never scan directories or open more than 3 full notes without user approval."
     ],
-    "generated_at": "2026-09-04T11:04:30Z"
+    "generated_at": "2026-09-05T12:37:42Z"
   },
   "stats": {
-    "total_notes": 221,
-    "total_edges": 1545,
-    "broken_links": 157,
-    "untyped_notes": 4,
-    "health_score": 88.2
+    "total_notes": 218,
+    "total_edges": 1358,
+    "broken_links": 1,
+    "untyped_notes": 0,
+    "health_score": 99.9
   },
-  "inbox": [
-    "biocomp-pertemuan-2"
-  ],
+  "inbox": [],
   "spaces": {
     "Teaching": {
       "Languages": [
-        "Soal_Perfect_Tenses_SMA",
-        "LKPD_Perfect_Tenses_SMA",
         "LKPD Parts of Speech SMP",
         "LKPD Simple Present vs Present Continuous SMP",
         "LKPD_Present_Continuous_Tense_SMA",
@@ -226,6 +222,9 @@
   },
   "brain_atlas": {
     "notes": {
+      "Economics": [
+        "Scarcity and Opportunity Cost"
+      ],
       "Machine Learning": [
         "Backpropagation",
         "Attention Mechanism",
@@ -258,23 +257,6 @@
   },
   "maintenance": {
     "orphan_pages_sample": [],
-    "untyped_notes_sample": [
-      {
-        "title": "LKPD Pendapatan Nasional SMA",
-        "path": "10 Spaces/12 Teaching/40 Practice/Economics/01 Pendapatan Nasional/LKPD Pendapatan Nasional SMA.md"
-      },
-      {
-        "title": "index_teaching",
-        "path": "10 Spaces/12 Teaching/00 Atlas/index_teaching.md"
-      },
-      {
-        "title": "s11277-023-10315-5",
-        "path": "20 Brain Atlas/30 Reference Lib/s11277-023-10315-5.md"
-      },
-      {
-        "title": "biocomp-pertemuan-2",
-        "path": "00 Inbox/biocomp-pertemuan-2.md"
-      }
-    ]
+    "untyped_notes_sample": []
   }
 }

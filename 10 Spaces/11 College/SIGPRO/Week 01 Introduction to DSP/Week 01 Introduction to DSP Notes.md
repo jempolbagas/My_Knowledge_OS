@@ -75,6 +75,6 @@ Untuk kartu referensi cepat dan formula kunci:
 
 > [!tip] **Promotable Concepts for Permanent Vault (`20_Brain_Atlas/`)**
 > Catatan ini mereferensikan konsep-konsep fundamental yang dipromosikan ke `20_Brain_Atlas/20_Concepts/`:
-> - `[[Sinyal Waktu Diskrit]]`: Representasi matematika dan notasi deret $x[n]$.
-> - `[[Konversi Analog ke Digital ADC]]`: Mekanisme sampling, kuantisasi $B$-bit, dan frekuensi Nyquist.
-> - `[[Aliasing Sinyal]]`: Fenomena lipatan frekuensi akibat pelanggaran kriteria Nyquist.
+> - `Sinyal Waktu Diskrit`: Representasi matematika dan notasi deret $x[n]$.
+> - `Konversi Analog ke Digital ADC`: Mekanisme sampling, kuantisasi $B$-bit, dan frekuensi Nyquist.
+> - `Aliasing Sinyal`: Fenomena lipatan frekuensi akibat pelanggaran kriteria Nyquist.

@@ -1,5 +1,7 @@
 ---
 title: "LKPD: Pendapatan Nasional"
+type: lkpd
+subject: Economics
 level: sma
 target_audience: "SMA Kelas XI"
 created: 2026-08-10

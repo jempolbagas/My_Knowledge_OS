@@ -16,6 +16,14 @@ WHERE type = "note"
 SORT subject ASC, created DESC
 ```
 
+## Notes Ready to Learn
+
+```dataview
+LIST
+FROM "20 Brain Atlas/20 Notes"
+WHERE length(prerequisites) = 0 OR all(prerequisites, (p) => contains(file.outlinks, p))
+```
+
 ## Skill Trees
 
 - [[Skill_Tree_Mathematics]]

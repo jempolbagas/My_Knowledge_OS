@@ -11,13 +11,13 @@ type: "LectureNote"
 
 # Pemeriksaan Darah & Urine (Lab Diagnostics)
 
-Pemeriksaan laboratorium kuantitatif pada sampel darah dan urine merupakan modalitas diagnostik awal paling vital dalam pelayanan kesehatan modern, yang mentransformasikan fenotipe biologis pasien menjadi data numerik, matriks parameter, dan citra mikroskopis beresolusi tinggi. Dalam konteks [[Komputasi Biomedik]], data hasil [[Complete Blood Count]] (CBC), sediaan apusan darah tepi, tes molekuler/serologi malaria, serta analisis fisik-kimia-mikroskopis [[Urinalysis]] berfungsi sebagai input mentah (*raw feature vectors*) untuk pemrosesan sinyal biologis, algoritma pencitraan digital (*digital pathology*), penambangan data klinis (*clinical data mining*), dan pengembangan sistem pendukung keputusan klinis berbasis [[Kecerdasan Buatan]]. Catatan ini menyajikan pembahasan komprehensif mengenai parameter hematologi, alur akuisisi pencitraan leukemia 5-tahap, komparasi diagnosis malaria, serta evaluasi urinalisis lengkap beserta implikasi klinis dan komputasionalnya.
+Pemeriksaan laboratorium kuantitatif pada sampel darah dan urine merupakan modalitas diagnostik awal paling vital dalam pelayanan kesehatan modern, yang mentransformasikan fenotipe biologis pasien menjadi data numerik, matriks parameter, dan citra mikroskopis beresolusi tinggi. Dalam konteks **Komputasi Biomedik**, data hasil **Complete Blood Count** (CBC), sediaan apusan darah tepi, tes molekuler/serologi malaria, serta analisis fisik-kimia-mikroskopis **Urinalysis** berfungsi sebagai input mentah (*raw feature vectors*) untuk pemrosesan sinyal biologis, algoritma pencitraan digital (*digital pathology*), penambangan data klinis (*clinical data mining*), dan pengembangan sistem pendukung keputusan klinis berbasis **Kecerdasan Buatan**. Catatan ini menyajikan pembahasan komprehensif mengenai parameter hematologi, alur akuisisi pencitraan leukemia 5-tahap, komparasi diagnosis malaria, serta evaluasi urinalisis lengkap beserta implikasi klinis dan komputasionalnya.
 
 ---
 
 ## 1. Pemeriksaan Darah Lengkap (Complete Blood Count / CBC / PDL)
 
-[[Complete Blood Count]] (CBC) atau **Pemeriksaan Darah Lengkap (PDL)** adalah prosedur laboratorium standar untuk mengevaluasi secara kuantitatif dan kualitatif komponen seluler yang tersuspensi di dalam plasma darah.
+**Complete Blood Count** (CBC) atau **Pemeriksaan Darah Lengkap (PDL)** adalah prosedur laboratorium standar untuk mengevaluasi secara kuantitatif dan kualitatif komponen seluler yang tersuspensi di dalam plasma darah.
 
 Selain komponen seluler, pemeriksaan darah penunjang secara umum juga memantau:
 - **Zat Kimia Darah**: Gula darah (glukosa), kolesterol, asam urat, zat besi, dan elektrolit ($\text{Na}^+, \text{K}^+, \text{Cl}^-$).
@@ -44,7 +44,7 @@ graph TD
 
 ### A. Sel Darah Merah (Eritrosit) & Indeks Eritrosit
 
-Eritrosit berfungsi sebagai transpor oksigen dari paru-paru ke jaringan tubuh via molekul [[Hemoglobin]]. Parameter eritrosit memberikan profil morfologis yang sangat sensitif terhadap gangguan metabolik dan nutrisional.
+Eritrosit berfungsi sebagai transpor oksigen dari paru-paru ke jaringan tubuh via molekul **Hemoglobin**. Parameter eritrosit memberikan profil morfologis yang sangat sensitif terhadap gangguan metabolik dan nutrisional.
 
 1. **Hemoglobin (Hb)**: Protein tetramer kaya zat besi yang mengikat $O_2$. Diukur dalam satuan $g/dL$. Penurunan kadar Hb secara signifikan mengindikasikan kondisi anemia.
 2. **Hematokrit (Ht / PCV - Packed Cell Volume)**: Persentase volume sel darah merah terhadap total volume darah utuh. Diukur dalam persentase ($\%$).
@@ -73,10 +73,10 @@ Indeks eritrosit dihitung secara matematis dari nilai Hb, Ht, dan RBC untuk meng
 
 ### B. Sel Darah Putih (Leukosit) & WBC Differential Count
 
-[[Leukosit]] adalah unit pertahanan imunitas tubuh terhadap agen patogen, benda asing, dan transformasi sel keganasan.
+**Leukosit** adalah unit pertahanan imunitas tubuh terhadap agen patogen, benda asing, dan transformasi sel keganasan.
 
 1. **Jumlah Leukosit Total (WBC Count)**: Total sel darah putih dalam satuan $10^3/\mu L$ (normal: $4.0 - 11.0 \times 10^3/\mu L$).
-   - **Leukositosis** ($\text{WBC} > 11.0 \times 10^3/\mu L$): Mengindikasikan infeksi bakteri akut, respon inflamasi sistemik, nekrosis jaringan, atau neoplasma hematologi ([[Leukemia]]).
+   - **Leukositosis** ($\text{WBC} > 11.0 \times 10^3/\mu L$): Mengindikasikan infeksi bakteri akut, respon inflamasi sistemik, nekrosis jaringan, atau neoplasma hematologi (**Leukemia**).
    - **Leukopenia** ($\text{WBC} < 4.0 \times 10^3/\mu L$): Mengindikasikan supresi sumsum tulang, infeksi berat (sepsis berat/tifoid), infeksi virus (DHF, HIV), atau efek kemoterapi.
 
 2. **Hitung Jenis Leukosit (WBC Differential Count)**: Rincian proporsi relatif ($\%$) atau absolut ($/\mu L$) dari 5 subtipe leukosit utama:
@@ -142,7 +142,7 @@ graph TD
 
 ## 2. Pipeline Pembuatan Citra Darah & Diagnosis Leukemia
 
-[[Leukemia]] adalah keganasan hematologi yang ditandai oleh proliferasi tidak terkontrol dari sel-sel hematopoietik abnormal (sel *blast* prekursor) di dalam sumsum tulang yang kemudian terkonflikasi melimpah ke sirkulasi darah tepi.
+**Leukemia** adalah keganasan hematologi yang ditandai oleh proliferasi tidak terkontrol dari sel-sel hematopoietik abnormal (sel *blast* prekursor) di dalam sumsum tulang yang kemudian terkonflikasi melimpah ke sirkulasi darah tepi.
 
 > [!IMPORTANT]
 > **Profil CBC pada Diagnosis Leukemia**:
@@ -154,7 +154,7 @@ graph TD
 
 ### Pipeline 5 Tahap Pengolahan & Akuisisi Citra Darah
 
-Untuk analisis kuantitatif berakurasi tinggi berbasis [[Computer Vision]] dan [[Machine Learning]], pembuatan citra digital apusan darah harus mengikuti kriteria preparasi sitomorfologis standar sebagai berikut:
+Untuk analisis kuantitatif berakurasi tinggi berbasis **Computer Vision** dan **Machine Learning**, pembuatan citra digital apusan darah harus mengikuti kriteria preparasi sitomorfologis standar sebagai berikut:
 
 ```mermaid
 graph TD
@@ -189,7 +189,7 @@ graph TD
 
 #### Tahap 5: Pembentukan Dataset Citra Digital
 - Citra digital disimpan dalam format *lossless* atau kompresi minimal beresolusi tinggi (TIFF, PNG, JPEG2000).
-- **Pra-pemrosesan Data AI**: Citra sediaan apusan dipotong menjadi *single-cell patches* (misal ukuran $224 \times 224$ atau $512 \times 512$ piksel), dilakukan normalisasi warna (*color normalization*), dan di-anotasi oleh Dokter Spesialis Patologi Klinik. Dataset ter-anotasi ini siap digunakan untuk pelatihan model [[Machine Learning]] / Convolutional Neural Networks (CNN) untuk tugas segmentasi sel dan klasifikasi jenis leukemia.
+- **Pra-pemrosesan Data AI**: Citra sediaan apusan dipotong menjadi *single-cell patches* (misal ukuran $224 \times 224$ atau $512 \times 512$ piksel), dilakukan normalisasi warna (*color normalization*), dan di-anotasi oleh Dokter Spesialis Patologi Klinik. Dataset ter-anotasi ini siap digunakan untuk pelatihan model **Machine Learning** / Convolutional Neural Networks (CNN) untuk tugas segmentasi sel dan klasifikasi jenis leukemia.
 
 ---
 
@@ -216,7 +216,7 @@ graph TD
 
 ## 3. Diagnostik Laboratorium Malaria
 
-[[Malaria]] adalah penyakit infeksi sistemik yang disebabkan oleh protozoa genus *Plasmodium* (seperti *P. falciparum, P. vivax, P. malariae, P. ovale, P. knowlesi*) yang ditularkan melalui gigitan nyamuk *Anopheles* betina. Protozoa ini menginvasi dan merusak sel darah merah secara siklik.
+**Malaria** adalah penyakit infeksi sistemik yang disebabkan oleh protozoa genus *Plasmodium* (seperti *P. falciparum, P. vivax, P. malariae, P. ovale, P. knowlesi*) yang ditularkan melalui gigitan nyamuk *Anopheles* betina. Protozoa ini menginvasi dan merusak sel darah merah secara siklik.
 
 ---
 
@@ -284,7 +284,7 @@ Meskipun CBC tidak mengisolasi parasit secara spesifik, pola biomarker berikut s
 
 ## 4. Pemeriksaan Urine (Urinalysis)
 
-[[Urinalysis]] (pemeriksaan urine) adalah analisis spesimen cairan yang diekskresikan oleh ginjal. Modalitas diagnostik ini memberikan informasi non-invasif mengenai fungsi filtrasi sistem urogenital serta sta```mermaid
+**Urinalysis** (pemeriksaan urine) adalah analisis spesimen cairan yang diekskresikan oleh ginjal. Modalitas diagnostik ini memberikan informasi non-invasif mengenai fungsi filtrasi sistem urogenital serta sta```mermaid
 graph TD
     UA["🧪 Analisis Urine Lengkap (Urinalysis)"] --> M["Evaluasi Makroskopis (Fisik)"]
     UA --> C["Evaluasi Kimia (Dipstick)"]
@@ -363,7 +363,7 @@ graph TD
    - **Kristal Amorf (Urat/Fosfat)**: Endapan non-spesifik akibat perubahan pH atau suhu spesimen.
    - **Kristal Kalsium Oksalat**: Berbentuk amplop/dumble, terkait nefrolitiasis (batu ginjal).
    - **Kristal Asam Urat**: Berbentuk belah ketupat/mawar pada urine asam.
-6. **Jamur / Yeast**: Misal *Candida albicans* (tampak sebagai sel bertunas/budding yeast atau pseudohifa). Sangat dominan pada pasien penderita [[Diabetes Mellitus]] atau kondisi imunokompromatis.
+6. **Jamur / Yeast**: Misal *Candida albicans* (tampak sebagai sel bertunas/budding yeast atau pseudohifa). Sangat dominan pada pasien penderita **Diabetes Mellitus** atau kondisi imunokompromatis.
 7. **Silinder Urine (Casts)**: Cetakan protein berbentuk silindris yang terbentuk di dalam lumen tubulus distal dan duktus koligentes ginjal berbasis matriks **protein Tamm-Horsfall**:
    - **Silinder Hialin (Hyaline Cast)**: Transparan, dapat ditemukan secara fisiologis pasca-olahraga berat.
    - **Silinder Granular**: Menandakan degenerasi seluler tubulus ginjal.
@@ -430,7 +430,7 @@ Sebagai contoh kasus integrasi fitur tabular laboratorium medis, berikut adalah 
 
 ## 5. Integrasi Komputasi Biomedik & AI (Biomedical Computing Context)
 
-Dalam domain [[Komputasi Biomedik]], data laboratorium hematologi dan urinalisis ditransformasikan menjadi representasi komputasional:
+Dalam domain **Komputasi Biomedik**, data laboratorium hematologi dan urinalisis ditransformasikan menjadi representasi komputasional:
 
 1. **Vektor Fitur Tabular (Tabular Feature Vectors)**: Nilai kuantitatif CBC dan Dipstick dikomposisikan menjadi matriks input $X \in \mathbb{R}^{n \times d}$ untuk algoritma pemodelan prediktif berbasis *Gradient Boosted Decision Trees* (XGBoost, LightGBM) atau *Random Forest* guna mengklasifikasikan risiko sepsis, tipe anemia, atau prognosis gagal ginjal.
 2. **Pengolahan Citra Digital Selular (Digital Pathology & Microscopic Image Analysis)**:
@@ -442,11 +442,11 @@ Dalam domain [[Komputasi Biomedik]], data laboratorium hematologi dan urinalisis
 
 ## 6. Referensi & Catatan Terkait
 
-- [[Complete Blood Count]]
-- [[Hemoglobin]]
-- [[Leukemia]]
-- [[Malaria]]
-- [[Urinalysis]]
-- [[Machine Learning]]
-- [[Computer Vision]]
-- [[Komputasi Biomedik]]
+- **Complete Blood Count**
+- **Hemoglobin**
+- **Leukemia**
+- **Malaria**
+- **Urinalysis**
+- **Machine Learning**
+- **Computer Vision**
+- **Komputasi Biomedik**

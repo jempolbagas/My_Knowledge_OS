@@ -11,7 +11,7 @@ type: "LectureNote"
 
 # Sistem Pakar & Kecerdasan Buatan Biomedik
 
-Sistem Pakar Biomedik (*Biomedical Expert System*) merupakan cabang utama [[Kecerdasan Buatan]] (*Artificial Intelligence*) dalam domain [[Komputasi Biomedis]] yang dirancang untuk meniru kemampuan penalaran medis dan pengambilan keputusan klinis dari seorang dokter spesialis (*human expert*). Sistem ini mengintegrasikan komponen utama yang meliputi **Antarmuka Pengguna** (*User Interface*), **Mesin Inferensi** (*Inference Engine*), dan **Basis Pengetahuan** (*Knowledge Base*) yang dirumuskan oleh seorang *Knowledge Engineer* dari keahlian medis pakar, guna memberikan saran atau diagnosis klinis (*advice/clinical diagnosis*) kepada pengguna non-pakar (*non-expert user*). Dalam lanskap layanan kesehatan modern, Sistem Pakar berfungsi sebagai fondasi dari *Clinical Decision Support System* (CDSS) yang menerima masukan terstruktur dari berbagai modalitas diagnostik—mulai dari data laboratorium darah dan urine, sinyal medis 1D (EKG, EEG, EMG), hingga citra medis 2D/3D (Foto Rontgen, USG, CT Scan, MRI, Endoskopi)—untuk secara otomatis melakukan abstraksi fitur, evaluasi aturan medis, dan menghasilkan rekomendasi diagnostik berbasis bukti (*evidence-based diagnosis*).
+Sistem Pakar Biomedik (*Biomedical Expert System*) merupakan cabang utama **Kecerdasan Buatan** (*Artificial Intelligence*) dalam domain **Komputasi Biomedis** yang dirancang untuk meniru kemampuan penalaran medis dan pengambilan keputusan klinis dari seorang dokter spesialis (*human expert*). Sistem ini mengintegrasikan komponen utama yang meliputi **Antarmuka Pengguna** (*User Interface*), **Mesin Inferensi** (*Inference Engine*), dan **Basis Pengetahuan** (*Knowledge Base*) yang dirumuskan oleh seorang *Knowledge Engineer* dari keahlian medis pakar, guna memberikan saran atau diagnosis klinis (*advice/clinical diagnosis*) kepada pengguna non-pakar (*non-expert user*). Dalam lanskap layanan kesehatan modern, Sistem Pakar berfungsi sebagai fondasi dari *Clinical Decision Support System* (CDSS) yang menerima masukan terstruktur dari berbagai modalitas diagnostik—mulai dari data laboratorium darah dan urine, sinyal medis 1D (EKG, EEG, EMG), hingga citra medis 2D/3D (Foto Rontgen, USG, CT Scan, MRI, Endoskopi)—untuk secara otomatis melakukan abstraksi fitur, evaluasi aturan medis, dan menghasilkan rekomendasi diagnostik berbasis bukti (*evidence-based diagnosis*).
 
 ---
 
@@ -42,17 +42,17 @@ graph TD
 - **Fungsi Penjelasan (*Explanation Facility*):** UI tidak hanya menyajikan hasil diagnosis akhir, tetapi juga mampu menampilkan alasan (*reasoning trace*) mengapa sistem mengambil kesimpulan tersebut (misalnya menampilkan aturan *IF-THEN* yang terpicu).
 
 #### C. Inference Engine (Mesin Inferensi / Reasoning Engine)
-- **Definisi & Peran:** Bertindak sebagai "otak" atau pemproses logika utama dari Sistem Pakar. Mesin ini mengevaluasi fakta-fakta yang diberikan oleh pengguna atau data modalitas diagnostik terhadap aturan-aturan yang tersimpan di dalam [[Knowledge Base]].
+- **Definisi & Peran:** Bertindak sebagai "otak" atau pemproses logika utama dari Sistem Pakar. Mesin ini mengevaluasi fakta-fakta yang diberikan oleh pengguna atau data modalitas diagnostik terhadap aturan-aturan yang tersimpan di dalam **Knowledge Base**.
 - **Metode Penalaran Utama:**
-  1. **Forward Chaining (Penalaran Maju / Data-Driven):** Dimulai dari fakta-fakta klinis yang ada (misal: Hb rendah, leukosit sangat tinggi, ditemukan sel blas) untuk bergerak maju menyimpulkan diagnosis penyakit (misal: [[Acute Lymphoblastic Leukemia]]). Metode ini sangat cocok untuk sistem diagnostik medis otomatis berbasis data sensor/laboratorium.
-  2. **Backward Chaining (Penalaran Mundur / Goal-Driven):** Dimulai dari hipotesis diagnosis tertentu (misal: Hipotesis "Pasien Menderita STEMI") lalu bergerak mundur memeriksa apakah fakta-fakta klinis pendukung (ST Elevasi pada [[Elektrokardiogram]], nyeri dada khas) terpenuhi.
+  1. **Forward Chaining (Penalaran Maju / Data-Driven):** Dimulai dari fakta-fakta klinis yang ada (misal: Hb rendah, leukosit sangat tinggi, ditemukan sel blas) untuk bergerak maju menyimpulkan diagnosis penyakit (misal: **Acute Lymphoblastic Leukemia**). Metode ini sangat cocok untuk sistem diagnostik medis otomatis berbasis data sensor/laboratorium.
+  2. **Backward Chaining (Penalaran Mundur / Goal-Driven):** Dimulai dari hipotesis diagnosis tertentu (misal: Hipotesis "Pasien Menderita STEMI") lalu bergerak mundur memeriksa apakah fakta-fakta klinis pendukung (ST Elevasi pada **Elektrokardiogram**, nyeri dada khas) terpenuhi.
 - **Penanganan Ketidakpastian (*Uncertainty Handling*):** Mengingat data medis sering kali bersifat samar atau tidak pasti, *Inference Engine* canggih memanfaatkan logika kabur (*Fuzzy Logic*), *Certainty Factors* (CF), atau jaringan probabilitas Bayes (*Bayesian Belief Networks*) untuk menghitung derajat keyakinan diagnosis.
 
 #### D. Knowledge Base (Basis Pengetahuan) & Knowledge Engineering Pipeline
 - **Knowledge Base (Basis Pengetahuan):** Repositori digital yang menyimpan seluruh pengetahuan spesialis dalam bentuk terstruktur. Struktur umum pengetahuan disimpan dalam format aturan implikasi logika (*Production Rules*):
   $$\text{IF } \langle \text{Kondisi Klinis / Fakta} \rangle \text{ THEN } \langle \text{Diagnosis / Kesimpulan} \rangle$$
 - **Human Expert (Dokter Spesialis):** Dokter spesialis senior (misal: Dokter Spesialis Patologi Klinik, Dokter Spesialis Kardiologi, Dokter Spesialis Neurologi) yang memiliki penguasaan mendalam atas pengetahuan klinis, pengalaman diagnostik, serta penanganan kasus kompleks.
-- **Knowledge Engineer (Insinyur Pengetahuan):** Spesialis [[Kecerdasan Buatan]] atau pakar [[Komputasi Biomedis]] yang bertugas mengekstrak pengetahuan dari *Human Expert* melalui wawancara, literatur panduan praktik klinis (*clinical practice guidelines*), dan studi kasus, kemudian menerjemahkannya ke dalam sintaksis aturan komputasional yang valid.
+- **Knowledge Engineer (Insinyur Pengetahuan):** Spesialis **Kecerdasan Buatan** atau pakar **Komputasi Biomedis** yang bertugas mengekstrak pengetahuan dari *Human Expert* melalui wawancara, literatur panduan praktik klinis (*clinical practice guidelines*), dan studi kasus, kemudian menerjemahkannya ke dalam sintaksis aturan komputasional yang valid.
 
 #### E. Advice / Clinical Diagnosis (Saran & Output Diagnosis Klinis)
 - **Definisi & Output:** Hasil pemrosesan inferensi yang disajikan kembali kepada pengguna.
@@ -136,7 +136,7 @@ graph LR
 
 Data laboratorium medis merupakan data terstruktur yang paling mudah diintegrasikan ke dalam Sistem Pakar karena nilainya dapat langsung dipetakan terhadap ambang batas baku (*thresholding*).
 
-#### A. [[Pemeriksaan Darah]]
+#### A. Pemeriksaan Darah
 1. **Darah Lengkap (Complete Blood Count / CBC):**
    - **Parameter:** Hemoglobin (Hb), Hematokrit (Ht), Leukosit (WBC), Trombosit (PLT), dan Hitung Jenis Leukosit (*Diff Count*).
    - **Formulasi Fakta ke Inference Engine:**
@@ -147,7 +147,7 @@ Data laboratorium medis merupakan data terstruktur yang paling mudah diintegrasi
    - **Aturan Penalaran CDSS:**
      $$\text{IF } \text{Apusan Tebal} = \text{Positif Parasit} \text{ AND } \text{Morfologi Apusan Tipis} = \text{Ring Form / Gametosit} \implies \text{Diagnosis: Malaria } \textit{Plasmodium falciparum}$$
 
-#### B. [[Pemeriksaan Urine]]
+#### B. Pemeriksaan Urine
 - **Parameter Dipantau:** Kimia urine (Glukosa, Keton, Bilirubin, Protein, Nitrit) dan Mikroskopis (Leukosit/LPB, Kristal, Jamur).
 - **Ekstraksi Aturan Diagnostik Medis:**
   - **Penyakit Diabetes & Komplikasi:** Jika $\text{Glukosa Urine} = 1000\text{ mg/dL}$ dan $\text{Keton} \ge 5 \implies \text{Fakta: Risiko Ketoasidosis Diabetik}$.
@@ -164,19 +164,19 @@ Sinyal medis 1D memerlukan pemrosesan sinyal digital (*Digital Signal Processing
 Sinyal 1D Mentah ──> Filter Bandpass ──> Ekstraksi Gelombang (P-QRS-T) ──> Derivasi Parameter ──> Aturan Logic
 ```
 
-#### A. [[Elektrokardiogram]] (EKG)
+#### A. Elektrokardiogram (EKG)
 - **Ekstraksi Fitur:** Pemrosesan sinyal EKG untuk mendeteksi Puncak R (*R-peak detection*), mengukur Interval RR, Interval PR, Durasi QRS, serta elevasi/depresi Segmen ST.
 - **Integrasi Aturan CDSS:**
   $$\text{IF } \text{Segmen ST} > 0.1\text{ mV (ST Elevation)} \text{ pada } \ge 2\text{ Lead Berurutan} \implies \text{Diagnosis: STEMI (Alert Kateterisasi Segera)}$$
   $$\text{IF } \text{Interval RR Tidak Teratur} \text{ AND } \text{Gelombang P Hilang} \implies \text{Diagnosis: Atrial Fibrilasi}$$
 
-#### B. [[Elektroensefalografi]] (EEG)
+#### B. Elektroensefalografi (EEG)
 - **Ekstraksi Fitur:** Transformasi Fourier / Wavelet untuk memisahkan gelombang ($\delta, \theta, \alpha, \beta$) dan mendeteksi pola transient abnormal seperti gelombang paku-cakram (*spike-and-wave complexes*).
 - **Integrasi Aturan CDSS:**
   - Jika terekam kompleks *Spike-Wave* berfrekuensi $3\text{ Hz}$ secara simetris $\implies \text{Diagnosis: Epilepsi Absans (Absence Seizure)}$.
   - Membantu pembedaan diagnostik otomatis antara *True Seizure* (terdeteksi pembuangan impuls abnormal pada elektrodeda) dan *Pseudoseizure* (aktivitas elektroensefalogram normal saat serangan gerak).
 
-#### C. [[Elektromiografi]] (EMG)
+#### C. Elektromiografi (EMG)
 - **Ekstraksi Fitur:** Pengukuran amplitudo *Motor Unit Action Potential* (MUAP) dan analisis penurunan amplitudo pada stimulasi saraf berulang (*Repetitive Nerve Stimulation* / RNS).
 - **Integrasi Aturan CDSS:**
   - Jika terjadi penurunan amplitudo progresif (dekrementil) pada RNS $\implies \text{Diagnosis: Myasthenia Gravis}$.
@@ -198,7 +198,7 @@ Citra Medis 2D/3D ──> Segmen Deep Learning (CNN/ViT) ──> Deteksi Abnorma
   - Jika $\text{Visual Feature} = \text{Infiltrat / Opacity}$ dan $\text{Gejala Pasien} = \text{Demam, Batuk Produktif} \implies \text{Diagnosis: Pneumonia}$.
   - Jika terdeteksi $\text{Kavitas Apikal}$ pada Rontgen dan $\text{Uji BTA} = \text{Positif} \implies \text{Diagnosis: Tuberkulosis (TBC) Paru}$.
 
-#### B. [[Magnetic Resonance Imaging]] (MRI) Otak 3 Tesla - Deteksi Parkinson
+#### B. Magnetic Resonance Imaging (MRI) Otak 3 Tesla - Deteksi Parkinson
 - **Pengolahan Citra:** Pemindaian potongan aksial berkekuatan $3\text{ Tesla}$ pada area *Midbrain* (Otak Tengah) dan *Substantia Nigra* (Nigrosome-1).
 - **Aturan Evaluasi Diagnostik:**
   $$\text{IF } \text{Sinyal Nigrosome-1} = \text{Loss of Swallow-Tail Sign (X-Mark)} \text{ AND } \text{Atrofi Pars Compacta} = \text{True} \implies \text{Diagnosis: Penyakit Parkinson}$$
@@ -221,7 +221,7 @@ Citra Medis 2D/3D ──> Segmen Deep Learning (CNN/ViT) ──> Deteksi Abnorma
 
 | Modalitas Medis | Jenis Data | Teknik Ekstraksi Fitur / AI | Fakta Biomedis yang Dihasilkan | Output Recommendation / Advice |
 | :--- | :--- | :--- | :--- | :--- |
-| **Pemeriksaan Darah (CBC)** | Kuantitatif Tabel | Thresholding & Rule Bounds | Anemia, Leukositosis, Trombositopenia | Indikasi [[Leukemia]] / Infeksi Sistemik |
+| **Pemeriksaan Darah (CBC)** | Kuantitatif Tabel | Thresholding & Rule Bounds | Anemia, Leukositosis, Trombositopenia | Indikasi **Leukemia** / Infeksi Sistemik |
 | **Apusan Darah Mikroskopis** | Citra 2D (40x/100x) | CNN Cell Segmentation | Sel Blas, Auer Rods, Parasit *Plasmodium* | Subtipe ALL/AML, Diagnosis Malaria |
 | **Pemeriksaan Urine** | Kuantitatif/Kualitatif | Reflektansi / Strip Test Automata | Glukosuria, Ketonuria, Bilirubinuria | Risiko Ketoasidosis Diabetik, Gangguan Hati |
 | **EKG** | Sinyal 1D | Wavelet Transform / Peak Detection | ST-Elevation, Absence of P-Wave, Arrhythmia | Alert STEMI (Rujukan Kateterisasi Jantung) |
@@ -255,11 +255,11 @@ Sistem Pakar Biomedik menyatukan keahlian klinis spesialis dengan keunggulan pem
 
 ---
 ## Referensi & Note Terkait
-- [[Biomedical Computing]]
-- [[Inference Engine]]
-- [[Knowledge Base]]
-- [[Clinical Decision Support System]]
-- [[Elektrokardiogram]]
-- [[Magnetic Resonance Imaging]]
-- [[Pemeriksaan Darah]]
-- [[Pemeriksaan Urine]]
+- **Biomedical Computing**
+- **Inference Engine**
+- **Knowledge Base**
+- **Clinical Decision Support System**
+- **Elektrokardiogram**
+- **Magnetic Resonance Imaging**
+- **Pemeriksaan Darah**
+- **Pemeriksaan Urine**

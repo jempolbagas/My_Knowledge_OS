@@ -11,14 +11,14 @@ type: "LectureNote"
 
 # 🎓 Week 02 Overview: Modalitas Diagnostik & Akuisisi Data Biomedis
 
-> [!info] **Course Overview:** [[Semester 5 Prep]] | **Syllabus:** [[Biomedical Computing]]
+> [!info] **Course Overview:** [[Semester 5 Prep]] | **Syllabus:** **Biomedical Computing**
 > **Topics Covered:** Laboratorium Klinik (Darah & Urine), Sinyal Bioelektrik (EKG, EEG, EMG), Pencitraan Medis 2D/3D (Rontgen, USG, CT Scan, MRI 3T, Fluoroskopi, Endoskopi), dan Sistem Pakar Biomedik (Expert Systems & CDSS).
 
 ---
 
 ## 📌 1. Executive Overview & Core Context
 
-Penyelenggaraan [[Komputasi Biomedik]] pada dasarnya bergantung pada kualitas dan karakteristik **akuisisi data mentah biomedis** (*raw biomedical data acquisition*) yang ditransformasikan dari fenotipe fisiologis pasien. Data medis diklasifikasikan berdasarkan domain fisika dan sifat matematisnya:
+Penyelenggaraan **Komputasi Biomedik** pada dasarnya bergantung pada kualitas dan karakteristik **akuisisi data mentah biomedis** (*raw biomedical data acquisition*) yang ditransformasikan dari fenotipe fisiologis pasien. Data medis diklasifikasikan berdasarkan domain fisika dan sifat matematisnya:
 
 1. **Data Biokimia & Seluler (1D Tabular / 2D Digital Pathology):** Mengukur parameter kuantitatif sel dan zat kimia cair (darah & urine) serta citra mikroskopis sediaan selular.
 2. **Sinyal Bioelektrik (1D Time Series):** Perekaman kontinu grafik tegangan terhadap waktu ($V(t)$) dari kelistrikan sel yang terangsang (*excitable cells*) pada organ jantung, otak, dan otot.
@@ -86,15 +86,15 @@ graph TD
 
 Catatan suite minggu ke-2 ini menghasilkan 5 kandidat konsep abadi yang layak dipromosikan ke basis pengetahuan permanen `20 Brain Atlas/20 Concepts/`:
 
-- `[[Complete Blood Count]]`: Fundamental biosinyal kuantitatif hematologi.
-- `[[Electroencephalography]]`: Konsep utama neurofisiologi dan analisis sinyal kortikal.
-- `[[Electromyography]]`: Fundamental konduksi saraf dan kelainan neuromuskular.
-- `[[Swallow-Tail Sign]]`: Biomarker neuro-imaging spesifik untuk diagnosis Parkinson pada MRI 3T.
-- `[[Biomedical Expert System]]`: Konsep fundamental sistem pendukung keputusan klinis (CDSS) berbasis AI.
+- `Complete Blood Count`: Fundamental biosinyal kuantitatif hematologi.
+- `Electroencephalography`: Konsep utama neurofisiologi dan analisis sinyal kortikal.
+- `Electromyography`: Fundamental konduksi saraf dan kelainan neuromuskular.
+- `Swallow-Tail Sign`: Biomarker neuro-imaging spesifik untuk diagnosis Parkinson pada MRI 3T.
+- `Biomedical Expert System`: Konsep fundamental sistem pendukung keputusan klinis (CDSS) berbasis AI.
 
 ---
 
 ## 🔗 Referensi Berkas Sumber
 
-- Document Source: [[biocomp-pertemuan-2]]
+- Document Source: **biocomp-pertemuan-2**
 - Course Directory: `10 Spaces/11 College/Biomedical_Computing/Week_02_Diagnostic_Modalities_Data_Acquisition/`

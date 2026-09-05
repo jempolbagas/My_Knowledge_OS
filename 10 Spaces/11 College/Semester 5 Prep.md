@@ -51,10 +51,10 @@ Panduan ini disusun untuk membantu kamu mempersiapkan **Semester 5 (Gasal 2026/2
 
 ### 3. Review Materi Prasyarat (Hubungan dengan Vault)
 Sebelum kuliah dimulai, luangkan waktu untuk membaca ulang catatan yang sudah ada di vault kamu:
-- [ ] **Matematika & Matriks (Untuk PCD & CV):** Baca ulang [[Matriks]] untuk menyegarkan ingatan tentang perkalian matriks, transpose, determinan, dan invers.
+- [ ] **Matematika & Matriks (Untuk PCD & CV):** Baca ulang [[Matriks SMA|Matriks]] untuk menyegarkan ingatan tentang perkalian matriks, transpose, determinan, dan invers.
 - [ ] **Pemrograman Jaringan (Untuk Sistem Terdistribusi):** Baca ulang [[(CN-12) Pemrograman Jaringan Lecture Notes]] terutama bagian Socket TCP/UDP di Python.
 - [ ] **Kalkulus & Respon Frekuensi (Untuk DSP):** Tinjau ulang konsep deret Fourier, transformasi sinyal, dan bilangan kompleks.
-- [ ] **PyTorch / NumPy (Untuk Computer Vision & Data Mining):** Tinjau ulang [[Vectorization in NumPy]] dan dasar-dasar pemrosesan array/tensor.
+- [ ] **PyTorch / NumPy (Untuk Computer Vision & Data Mining):** Tinjau ulang **Vectorization in NumPy** dan dasar-dasar pemrosesan array/tensor.
 
 ### 4. Setup Environment & Tools Praktikum
 - [ ] **PCD & Computer Vision:** Siapkan Python Virtual Environment (`venv` / `conda`) dengan library `opencv-python`, `torch`, `torchvision`, `scikit-image`, `albumentations`.

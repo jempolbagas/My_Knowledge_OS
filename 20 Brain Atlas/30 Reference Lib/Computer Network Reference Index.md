@@ -29,7 +29,7 @@ Index of detailed lecture logs and reference materials covering Computer Network
 ---
 
 ## 🔗 Related Concepts & Overviews
-- [[Cybersecurity Roadmap]]
-- [[Cybersecurity Roadmap]]
-- [[Symmetric vs. Asymmetric Encryption]]
-- [[CIA Triad]]
+- **Cybersecurity Roadmap**
+- **Cybersecurity Roadmap**
+- **Symmetric vs. Asymmetric Encryption**
+- **CIA Triad**

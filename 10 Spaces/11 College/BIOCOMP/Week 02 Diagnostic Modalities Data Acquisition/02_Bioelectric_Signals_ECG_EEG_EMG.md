@@ -11,7 +11,7 @@ type: "LectureNote"
 
 # Sinyal Bioelektrik (EKG, EEG, EMG)
 
-Sinyal bioelektrik merupakan perubahan potensial listrik yang dihasilkan oleh aktivitas elektrokimia pada membran sel biologis, khususnya sel yang dapat terangsang (*excitable cells*) seperti sel otot (*myocytes*) dan sel saraf (*neurons*). Dalam disiplin [[Komputasi Biomedis]], perekaman dan analisis sinyal bioelektrik—meliputi Elektrokardiografi (EKG), Elektroensefalografi (EEG), dan Elektromiografi (EMG)—menjadi fondasi utama instrumen diagnostik non-invasif modern.
+Sinyal bioelektrik merupakan perubahan potensial listrik yang dihasilkan oleh aktivitas elektrokimia pada membran sel biologis, khususnya sel yang dapat terangsang (*excitable cells*) seperti sel otot (*myocytes*) dan sel saraf (*neurons*). Dalam disiplin **Komputasi Biomedis**, perekaman dan analisis sinyal bioelektrik—meliputi Elektrokardiografi (EKG), Elektroensefalografi (EEG), dan Elektromiografi (EMG)—menjadi fondasi utama instrumen diagnostik non-invasif modern.
 
 ---
 
@@ -55,7 +55,7 @@ STEMI merupakan kondisi kedaruratan medis berupa sindrom koroner akut yang ditan
 
 - **Patofisiologi**: Ruptur plak aterosklerosis memicu pembentukan trombus yang menyumbat total aliran arteri koroner (misalnya *Left Anterior Descending* / LAD, *Right Coronary Artery* / RCA). Area miokardium pasca-sumbatan mengalami iskemia akut, penurunan potensial istirahat membran, dan kelainan gaya gerak listrik repolarisasi ventrikel.
 - **Gambaran EKG**: Terjadi **ST Elevation** (peningkatan abnormal segmen ST di atas garis isoelektrik $\ge 1\text{ mm}$ pada minimal dua sadapan berdampingan/kontigu).
-- **Intervensi Medis & Modalitas Penunjang**: Pasien wajib segera menjalani prosedur *Percutaneous Coronary Intervention* (PCI) berupa kateterisasi jantung dan **pemasangan ring/stent jantung**. Prosedur intervensi ini dilakukan di laboratorium kateterisasi (Cath Lab) menggunakan panduan **[[Fluoroskopi]]** secara real-time untuk membuka sumbatan arteri dan mengembalikan reperpusi darah (*blood flow restoration*).
+- **Intervensi Medis & Modalitas Penunjang**: Pasien wajib segera menjalani prosedur *Percutaneous Coronary Intervention* (PCI) berupa kateterisasi jantung dan **pemasangan ring/stent jantung**. Prosedur intervensi ini dilakukan di laboratorium kateterisasi (Cath Lab) menggunakan panduan **Fluoroskopi** secara real-time untuk membuka sumbatan arteri dan mengembalikan reperpusi darah (*blood flow restoration*).
 
 ---
 
@@ -166,7 +166,7 @@ Pada evaluasi Myasthenia Gravis, dilakukan uji **Repetitive Nerve Stimulation (R
 
 ## 4. Perspektif Komputasi Biomedik & Pengolahan Sinyal
 
-Dalam kerangka [[Komputasi Biomedis]], sinyal EKG, EEG, dan EMG mentah (*raw signals*) merupakan sinyal analog kontinu yang rentan terhadap distorsi lingkungan. Pemrosesan sinyal digital (DSP) mengikuti tahapan baku:
+Dalam kerangka **Komputasi Biomedis**, sinyal EKG, EEG, dan EMG mentah (*raw signals*) merupakan sinyal analog kontinu yang rentan terhadap distorsi lingkungan. Pemrosesan sinyal digital (DSP) mengikuti tahapan baku:
 
 1. **Akuisisi & Filtering Sinyal**:
    - *Bandpass Filtering*:
@@ -197,7 +197,7 @@ Dalam kerangka [[Komputasi Biomedis]], sinyal EKG, EEG, dan EMG mentah (*raw sig
 ---
 
 ## Referensi & Catatan Vault
-- [[Biomedical Computing]]
-- [[Komputasi Biomedis]]
-- [[Sinyal dan Sistem Biomedis]]
-- Source Note: [[biocomp-pertemuan-2]] (Sections 3, 10, 11)
+- **Biomedical Computing**
+- **Komputasi Biomedis**
+- **Sinyal dan Sistem Biomedis**
+- Source Note: **biocomp-pertemuan-2** (Sections 3, 10, 11)

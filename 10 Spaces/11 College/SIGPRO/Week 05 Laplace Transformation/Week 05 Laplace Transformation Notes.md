@@ -22,7 +22,7 @@ type: LectureNote
   Dalam analisis sinyal waktu-kontinu, Transformasi Fourier Kontinu (CTFT) memberikan gambaran domain frekuensi $\omega$. Namun, CTFT memiliki keterbatasan fundamental: tidak mampu menangani sinyal yang tumbuh secara eksponensial (seperti $e^{at} u(t)$ untuk $a > 0$) karena integralnya tidak konvergen. **Transformasi Laplace** memecahkan masalah ini dengan memperkenalkan faktor pembobot eksponensial $e^{-\sigma t}$, menskalakan sinyal ke dalam domain frekuensi kompleks $s = \sigma + j\omega$. Dalam konteks [[Digital Signal Processing Overview|Pengolahan Sinyal Digital (DSP)]], Transformasi Laplace merupakan pondasi utama perancangan filter analog (Butterworth, Chebyshev) sebelum ditransformasikan ke filter digital $Z$-domain melalui metode *Bilinear Transform*.
 
 - **High-Level Takeaway (Standar Ujian Universiter):**
-  1. **Konvergensialitas & ROC:** Transformasi Laplace tidak hanya ditentukan oleh ekspresi aljabar $X(s)$, tetapi *wajib* disertai [[Region of Convergence ROC|Region of Convergence (ROC)]].
+  1. **Konvergensialitas & ROC:** Transformasi Laplace tidak hanya ditentukan oleh ekspresi aljabar $X(s)$, tetapi *wajib* disertai **Region of Convergence (ROC)**.
   2. **Kausalitas & Stabilitas:** Sistem LTI kontinu bersifat kausal jika ROC berada di sebelah kanan pole paling kanan ($\text{Re}(s) > \sigma_{\max}$), dan stabil jika ROC mencakup sumbu imajiner $j\omega$ ($\text{Re}(s) = 0$).
   3. **Analisis LTI & Fungsi Alih:** Persamaan diferensial linear dengan koefisien konstan dapat diubah menjadi persamaan aljabar linier dalam domain $s$, di mana respon total sistem adalah penjumlahan dari *Zero-Input Response* (ZIR) dan *Zero-State Response* (ZSR).
   4. **Jembatan Analog ke Digital:** Pemahaman domain $s$ memungkinkan pemetaan kutub/nol ke domain $z$ melalui hubungan $z = e^{s T_s}$.
@@ -53,7 +53,7 @@ $$
 
 ### 2.2 Region of Convergence (ROC) & Bidang Kompleks s
 
-[[Region of Convergence ROC|Region of Convergence (ROC)]] adalah himpunan nilai $s$ pada [[Bidang S Complex Plane|Bidang Complex s]] yang membuat integral Transformasi Laplace konvergen secara absolut, yaitu:
+**Region of Convergence (ROC)** adalah himpunan nilai $s$ pada **Bidang Complex s** yang membuat integral Transformasi Laplace konvergen secara absolut, yaitu:
 $$
 \int_{-\infty}^{\infty} |f(t)| e^{-\sigma t} \, dt < \infty
 $$
@@ -291,6 +291,6 @@ Dengan syarat awal $y(0^-) = 1$, $y'(0^-) = 0$, dan input $x(t) = e^{-t} u(t)$. 
 
 > [!tip] **Promotable Concepts for Permanent Vault (`20_Brain_Atlas/`)**
 > Catatan ini mereferensikan konsep-konsep fundamental yang dipromosikan ke `20_Brain_Atlas/20_Concepts/`:
-> - `[[Transformasi Laplace]]`: Pengertian mendalam pemetaan $t \to s$ dan representasi sinyal eksponensial kompleks.
-> - `[[Bidang S Complex Plane]]`: Pemetaan bidang s, poles, zeros, serta dinamika frekuensi-redaman.
-> - `[[Region of Convergence ROC]]`: Konsep ketiadaan pole dalam ROC serta kriteria kausalitas dan stabilitas BIBO.
+> - `Transformasi Laplace`: Pengertian mendalam pemetaan $t \to s$ dan representasi sinyal eksponensial kompleks.
+> - `Bidang S Complex Plane`: Pemetaan bidang s, poles, zeros, serta dinamika frekuensi-redaman.
+> - `Region of Convergence ROC`: Konsep ketiadaan pole dalam ROC serta kriteria kausalitas dan stabilitas BIBO.

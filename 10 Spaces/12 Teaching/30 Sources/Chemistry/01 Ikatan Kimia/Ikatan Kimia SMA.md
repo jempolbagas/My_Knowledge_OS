@@ -56,10 +56,10 @@ Gunakan matriks modul di bawah ini untuk mempelajari setiap subtopik secara bert
 
 | No | Modul Belajar | Fokus Inti Pembahasan | Kompetensi Akhir yang Dicapai | Tautan Modul |
 | :---: | :--- | :--- | :--- | :---: |
-| **01** | **Kestabilan Unsur & Lambang Lewis** | Konfigurasi Gas Mulia (Duplet & Oktet), Pembentukan Ion, Lambang Titik Lewis, serta Pengecualian Kaidah Oktet. | Mampu meramalkan elektron valensi, menggambar lambang Lewis, dan memprediksi cara atom mencapai kestabilan. | [[Kestabilan Unsur dan Lambang Lewis SMA\|Buka Modul 1 ➡️]] |
-| **02** | **Ikatan Ion & Senyawa Ionik** | Mekanisme transfer elektron, Gaya Coulomb, Energi Kisi (*Lattice Energy*), Struktur Kristal NaCl, dan Sifat Senyawa Ion. | Mampu menuliskan mekanisme reaksi ionik, rumus kimia empiris, dan menganalisis sifat fisis senyawa ion. | [[Ikatan Ion dan Pembentukan Senyawa SMA\|Buka Modul 2 ➡️]] |
-| **03** | **Ikatan Kovalen & Kepolaran** | Kovalen Tunggal, Rangkap 2 & 3, Kovalen Koordinasi, Elektronegativitas, Momen Dipol ($\mu$), dan Geometri Kepolaran Molekul. | Mampu menggambar struktur Lewis molekul kovalen, menghitung PEI/PEB, dan menentukan polar/non-polar suatu zat. | [[Ikatan Kovalen dan Kepolaran Senyawa SMA\|Buka Modul 3 ➡️]] |
-| **04** | **Ikatan Logam & Komparasi Sifat** | Teori Lautan Elektron Lorentz-Drude, Konduktivitas, Malleability & Ductility, serta Matriks Sifat Makroskopis Bahan. | Mampu menjelaskan sifat fisis logam serta mengklasifikasikan bahan tak dikenal berdasarkan data eksperimen fisis. | [[Ikatan Logam dan Perbandingan Sifat Fisis SMA\|Buka Modul 4 ➡️]] |
+| **01** | **Kestabilan Unsur & Lambang Lewis** | Konfigurasi Gas Mulia (Duplet & Oktet), Pembentukan Ion, Lambang Titik Lewis, serta Pengecualian Kaidah Oktet. | Mampu meramalkan elektron valensi, menggambar lambang Lewis, dan memprediksi cara atom mencapai kestabilan. | [[Kestabilan Unsur dan Lambang Lewis SMA|Buka Modul 1 ➡️]] |
+| **02** | **Ikatan Ion & Senyawa Ionik** | Mekanisme transfer elektron, Gaya Coulomb, Energi Kisi (*Lattice Energy*), Struktur Kristal NaCl, dan Sifat Senyawa Ion. | Mampu menuliskan mekanisme reaksi ionik, rumus kimia empiris, dan menganalisis sifat fisis senyawa ion. | [[Ikatan Ion dan Pembentukan Senyawa SMA|Buka Modul 2 ➡️]] |
+| **03** | **Ikatan Kovalen & Kepolaran** | Kovalen Tunggal, Rangkap 2 & 3, Kovalen Koordinasi, Elektronegativitas, Momen Dipol ($\mu$), dan Geometri Kepolaran Molekul. | Mampu menggambar struktur Lewis molekul kovalen, menghitung PEI/PEB, dan menentukan polar/non-polar suatu zat. | [[Ikatan Kovalen dan Kepolaran Senyawa SMA|Buka Modul 3 ➡️]] |
+| **04** | **Ikatan Logam & Komparasi Sifat** | Teori Lautan Elektron Lorentz-Drude, Konduktivitas, Malleability & Ductility, serta Matriks Sifat Makroskopis Bahan. | Mampu menjelaskan sifat fisis logam serta mengklasifikasikan bahan tak dikenal berdasarkan data eksperimen fisis. | [[Ikatan Logam dan Perbandingan Sifat Fisis SMA|Buka Modul 4 ➡️]] |
 
 ---
 

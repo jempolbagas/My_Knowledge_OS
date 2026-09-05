@@ -1,8 +1,9 @@
 ---
 title: "🍎 Teaching Resources Hub"
+type: index
 course: ""
 tags: [teaching, index, dashboard]
-aliases: ["🍎 Teaching Resources Hub"]
+aliases: ["🍎 Teaching Resources Hub", "index teaching"]
 created: "2026-05-01"
 ---
 
@@ -104,14 +105,6 @@ Selamat datang di Teaching Resources Hub! Halaman ini mengorganisir seluruh mate
   - 📄 [[Perbandingan_Trigonometri_dan_Sudut_Istimewa_SMA]] — Perbandingan Trigonometri dan Sudut Istimewa SMA
   - 📄 [[Sudut_Berelasi_dan_Lingkaran_Satuan_SMA]] — Sudut Berelasi dan Lingkaran Satuan SMA
   - 📄 [[Trigonometri_SMA]] — Trigonometri SMA — Master Dashboard & Peta Belajar
-
----
-
-## 🗣️ Languages (English / ESL)
-
-### 📝 Lembar Kerja (Practice)
-- [[LKPD_Perfect_Tenses_SMA]]
-- [[Soal_Perfect_Tenses_SMA]]
 
 ---
 

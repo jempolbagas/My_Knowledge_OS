@@ -84,4 +84,4 @@ $$
 ---
 
 > [!TIP]
-> **Petunjuk Belajar:** Mulailah dari [[Konsep Dasar dan Syarat Invers SMA|Modul 1]] untuk membangun fondasi logika yang kuat sebelum berpindah ke teknik hitungan aljabar di Modul 2 dan 3. Selesaikan aktivitas di [[LKPD Fungsi Invers SMA|LKPD]] bersama teman kelompokmu!
+> **Petunjuk Belajar:** Mulailah dari [[Konsep Dasar dan Syarat Invers SMA|Modul 1]] untuk membangun fondasi logika yang kuat sebelum berpindah ke teknik hitungan aljabar di Modul 2 dan 3. Selesaikan aktivitas di [[LKPD Fungsi Komposisi dan Invers SMA|LKPD]] bersama teman kelompokmu!

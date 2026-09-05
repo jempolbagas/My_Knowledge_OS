@@ -148,6 +148,16 @@ def build_index():
             title = os.path.splitext(os.path.basename(abs_path))[0]
             mtime = os.path.getmtime(abs_path)
             
+            # Map aliases to this file so [[alias]] links resolve properly
+            aliases = metadata.get('aliases', [])
+            if isinstance(aliases, str):
+                aliases = [aliases]
+            elif not isinstance(aliases, list):
+                aliases = []
+            for alias in aliases:
+                if isinstance(alias, str) and alias.strip() and alias.strip() not in title_to_path:
+                    title_to_path[alias.strip()] = rel_path
+            
             summary = extract_summary(post.content)
             cursor.execute('''
                 INSERT INTO nodes (path, title, type, subject, summary, last_modified)
