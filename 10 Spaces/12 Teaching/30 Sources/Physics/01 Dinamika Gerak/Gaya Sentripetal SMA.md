@@ -60,7 +60,7 @@ Ini adalah kunci paling penting agar kamu tidak pernah terkecoh dalam mengerjaka
 > 
 > Gaya sentripetal hanyalah **NAMA JABATAN / PERAN FUNGSIONAL** yang sedang dimainkan oleh gaya-gaya nyata di lapangan!
 
-![[mindmap physics gaya sentripetal job.webp]]
+![[mindmap_physics_gaya_sentripetal_job.webp]]
 
 ### Analogi Sederhana: "Presiden" & "Pemeran Utama" 👑
 - **"Presiden"** adalah nama jabatan. Orang yang menjabat sebagai Presiden bisa Pak RT, Bapak A, atau Ibu B.
@@ -115,7 +115,7 @@ Mari kita lihat bagaimana para insinyur memanfaatkan gaya sentripetal untuk mera
 
 Saat mobil melewati tikungan datar ber-jari-jari $r$, tidak ada kemiringan jalan yang membantu. Satu-satunya gaya horizontal yang menyelamatkan mobil agar tidak selip terlempar keluar adalah **Gaya Gesek Statis ($f_s$)** antara ban dan jalan.
 
-![[diagram physics gaya sentripetal flat curve.webp]]
+![[diagram_physics_gaya_sentripetal_flat_curve.webp]]
 
 #### Alur Logika Sederhana:
 1. Ban mobil mencengkeram aspal, memberikan gaya gesek $f_s$ yang mengarah ke pusat tikungan.
@@ -139,7 +139,7 @@ Mengapa sirkuit F1 atau jalan tol di pegunungan dibuat miring dengan sudut $\the
 
 Jika jalanan miring, sebagian dari **Gaya Normal ($N$)** jalan akan ikut miring dan membantu "mendorong" mobil ke arah pusat tikungan! Jadi mobil tidak hanya mengandalkan gesekan ban semata.
 
-![[diagram physics gaya sentripetal banked curve.webp]]
+![[diagram_physics_gaya_sentripetal_banked_curve.webp]]
 
 #### A. Kondisi Jalan Licin Ideal ($\mu_s = 0$)
 Jika jalanan sangat licin (misalnya tertutup es atau hujan lebat), komponen gaya normal $N \sin\theta$ bertindak penuh sebagai Gaya Sentripetal. 

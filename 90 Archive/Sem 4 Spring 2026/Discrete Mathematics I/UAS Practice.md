@@ -566,10 +566,12 @@ Definisikan relasi $R = \{(x,y) \in \mathbb{Z}^2 \mid x = y^2\}$.
 *   **Refleksif:** Tidak. $\forall x \in \mathbb{Z}, (x,x) \in R \iff x = x^2 \iff x(x-1) = 0$, yang hanya benar jika $x \in \{0, 1\}$. Contoh penyangkal: untuk $x=2 \in \mathbb{Z}$, $2 \neq 2^2 \implies (2,2) \notin R$.
 *   **Simetris:** Tidak. $\forall x,y \in \mathbb{Z}$, $(x,y) \in R \implies x = y^2 \not\implies y = x^2$. Contoh penyangkal: $x=4, y=2 \implies (4,2) \in R$ (karena $4=2^2$), tetapi $(2,4) \notin R$ (karena $2 \neq 4^2$).
 *   **Antisimetris:** Ya. $\forall x,y \in \mathbb{Z}$, jika $(x,y) \in R \land (y,x) \in R$:
-    $$\begin{aligned}
+    $$
+    \begin{aligned}
     x = y^2 \;\land\; y = x^2 &\implies x = (x^2)^2 \implies x^4 - x = 0 \\
     &\implies x(x^3 - 1) = 0 \implies x = 0 \lor x = 1 \quad (\because x \in \mathbb{Z})
-    \end{aligned}$$
+    \end{aligned}
+    $$
     - Jika $x = 0 \implies y = 0^2 = 0 \implies x = y$.
     - Jika $x = 1 \implies y = 1^2 = 1 \implies x = y$.
     Karena untuk setiap kasus diperoleh $x = y$, relasi bersifat antisimetris.
@@ -601,11 +603,13 @@ $R_1$ ($a > b$) dan $R_3$ ($a < b$). Gabungannya adalah semua pasangan real kecu
 
 #### 2. Solusi Matematis Formal
 Berdasarkan definisi gabungan dan hukum trikotomi $\mathbb{R}$:
-$$\begin{aligned}
+$$
+\begin{aligned}
 R_1 \cup R_3 &= \{(a,b) \in \mathbb{R}^2 \mid a > b\} \cup \{(a,b) \in \mathbb{R}^2 \mid a < b\} \\
 &= \{(a,b) \in \mathbb{R}^2 \mid a > b \lor a < b\} \\
 &= \{(a,b) \in \mathbb{R}^2 \mid a \neq b\}
-\end{aligned}$$
+\end{aligned}
+$$
 
 ---
 

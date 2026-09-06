@@ -29,7 +29,7 @@ tags:
 
 Berikut adalah visualisasi menyeluruh mengenai alur pembelajaran Fungsi Invers:
 
-![[infographic mathematics inverse function dashboard.webp]]
+![[infographic_mathematics_inverse_function_dashboard.webp]]
 
 ---
 

@@ -41,13 +41,15 @@ $$a_n = a_{n-1} + 3n - 2 \quad \text{untuk } n \geq 1$$
 dengan kondisi awal $a_0 = 4$.
 
 Lakukan ekspansi (unrolling) terhadap persamaan tersebut secara bertahap:
-$$\begin{aligned}
+$$
+\begin{aligned}
 a_n &= a_{n-1} + (3n - 2) \\
 a_n &= [a_{n-2} + 3(n-1) - 2] + (3n - 2) \\
     &= a_{n-2} + 3(n + (n-1)) - 2(2) \\
 a_n &= [a_{n-3} + 3(n-2) - 2] + 3(n + (n-1)) - 2(2) \\
     &= a_{n-3} + 3(n + (n-1) + (n-2)) - 2(3)
-\end{aligned}$$
+\end{aligned}
+$$
 
 Berdasarkan pola yang terbentuk, setelah dilakukan ekspansi sebanyak $k$ langkah, diperoleh bentuk umum:
 $$a_n = a_{n-k} + 3 \sum_{i=0}^{k-1} (n - i) - 2k$$
@@ -60,12 +62,14 @@ Perhatikan bahwa deret $\sum_{i=0}^{n-1} (n - i)$ adalah penjumlahan deret bilan
 $$\sum_{i=0}^{n-1} (n - i) = n + (n-1) + (n-2) + \dots + 1 = \sum_{j=1}^n j = \frac{n(n+1)}{2}$$
 
 Substitusikan nilai $a_0 = 4$ dan rumus jumlah deret tersebut ke dalam persamaan $a_n$:
-$$\begin{aligned}
+$$
+\begin{aligned}
 a_n &= 4 + 3 \left( \frac{n(n+1)}{2} \right) - 2n \\
     &= 4 + \frac{3n^2 + 3n}{2} - \frac{4n}{2} \\
     &= \frac{8 + 3n^2 - n}{2} \\
     &= \frac{3n^2 - n + 8}{2}
-\end{aligned}$$
+\end{aligned}
+$$
 
 Jadi, solusi closed-form dari relasi rekursif tersebut adalah:
 $$a_n = \frac{3n^2 - n + 8}{2} \quad \text{untuk } n \geq 0$$

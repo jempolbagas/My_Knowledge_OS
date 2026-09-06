@@ -95,10 +95,12 @@ How do we prove $1 + x + x^2 + \cdots = \frac{1}{1-x}$ without using calculus or
 2. Let's multiply $S$ by the symbol $x$. This distributes $x$ to every term:
    $$xS = x(1 + x + x^2 + x^3 + x^4 + \cdots) = x + x^2 + x^3 + x^4 + x^5 + \cdots$$
 3. Now, let's write these two series right next to each other and subtract them:
-   $$\begin{aligned}
+   $$
+   \begin{aligned}
    S  &= 1 + x + x^2 + x^3 + x^4 + \cdots \\
    xS &= \phantom{1 + } x + x^2 + x^3 + x^4 + \cdots
-   \end{aligned}$$
+   \end{aligned}
+   $$
 4. Subtracting the second equation from the first:
    $$S - xS = (1 - 0) + (x - x) + (x^2 - x^2) + (x^3 - x^3) + \cdots$$
    All terms cancel out except the very first term, $1$:
@@ -199,7 +201,8 @@ So $[x^n] \dfrac{1}{(1-x)^2} = n+1$. ✓
 
 ## 1.7 Quick Reference Table
 
-$$\boxed{
+$$
+\boxed{
 \begin{array}{|l|l|}
 \hline
 \textbf{Sequence } a_n & \textbf{GF } G(x) = \sum a_n x^n \\
@@ -211,7 +214,8 @@ c^n & \frac{1}{1-cx} \\
 \binom{n}{k} \text{ (fixed } k) & \frac{x^k}{(1-x)^{k+1}} \\
 \hline
 \end{array}
-}$$
+}
+$$
 
 ---
 

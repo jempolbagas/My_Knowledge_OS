@@ -21,7 +21,7 @@ In classical cryptography, protecting a secret usually relies on holding a singl
 1. **Reconstruction Condition**: Any $k$ or more participants can collaborate to perfectly reconstruct the original secret $S$.
 2. **Information-Theoretic Security Condition**: Any subset of fewer than $k$ participants (even $k-1$ colluding entities with infinite computing power) obtains **zero mathematical information** about the secret $S$.
 
-![[diagram cybersecurity shamir polynomial interpolation.webp]]
+![[diagram_cybersecurity_shamir_polynomial_interpolation.webp]]
 
 ### Intuition: The Geometric Property of Polynomials
 The intuition behind Adi Shamir’s 1979 breakthrough scheme is rooted in elementary geometry:
@@ -88,7 +88,7 @@ S = f(0) = \sum_{j=1}^{k} y_j \cdot \ell_j(0) \pmod p
 
 In paper s11277-023-10315-5 (*Dinesh Pande, Arjun Singh Rawat, Maroti Deshmukh, Maheep Singh*, 2023), the authors present a hybrid image encryption and secret sharing framework combining **Reverse Chinese Remainder Theorem (RCRT)**, a **Modified Shamir Scheme**, and **Bitwise XOR operations**.
 
-![[diagram cybersecurity pande modified shamir pipeline.webp]]
+![[diagram_cybersecurity_pande_modified_shamir_pipeline.webp]]
 
 ### 3.1 Key Architectural Shift: Deterministic Coefficients
 In standard Shamir SSS:

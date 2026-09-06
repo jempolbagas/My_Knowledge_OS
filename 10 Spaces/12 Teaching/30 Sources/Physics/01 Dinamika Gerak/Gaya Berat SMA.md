@@ -97,7 +97,7 @@ Mari kita bandingkan dengan gravitasi Bumi ($g_E$):
 
 Dalam soal-soal fisika sederhana, dua istilah ini sering dianggap persis sama. Tapi buat kamu yang mau berpikir tingkat tinggi (HOTS), ada perbedaan mendasar di antara keduanya:
 
-![[infographic physics gaya berat com vs cog.webp]]
+![[infographic_physics_gaya_berat_com_vs_cog.webp]]
 
 1. **Titik Pusat Massa ($\vec{r}_{cm}$ / Center of Mass):**
    * Merupakan titik rata-rata tertimbang dari seluruh distribusi massa benda.
@@ -125,7 +125,7 @@ Tahu nggak, sensasi "berat" yang dirasakan oleh telapak kaki kamu saat berdiriâ€
 ### A. Sensasi Naik-Turun Lift (Analisis Berat Semu) ğŸ›—
 Bayangkan kamu berdiri di atas timbangan digital di dalam lift. Mari kita terapkan Hukum II Newton pada sumbu vertikal ($\sum F_y = m a_y$, arah ke atas positif):
 
-![[diagram physics gaya berat lift fbd.webp]]
+![[diagram_physics_gaya_berat_lift_fbd.webp]]
 
 Persamaan umumnya sederhana:
 $$N - W = m a_y \implies N = m(g + a_y)$$

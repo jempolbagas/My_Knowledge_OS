@@ -36,7 +36,7 @@ Kalau mengacu pada **Hukum I Newton**, sebuah benda harusnya bakal terus bergera
 > **Definisi Kece:**  
 > **Gaya Gesek** ($\vec{f}$) adalah gaya kontak yang muncul akibat interaksi langsung antara dua permukaan yang bersentuhan. Arah gaya gesek ini **selalu berlawanan** dengan arah gerak relatif (atau kecenderungan arah gerak) si benda terhadap permukaan landasannya.
 
-![[diagram physics gaya gesek fbd.webp]]
+![[diagram_physics_gaya_gesek_fbd.webp]]
 
 ### Sifat-Sifat Utama Gaya Gesek yang Wajib Kamu Tahu:
 1. **Gaya Tangensial (Sejajar Permukaan):**  
@@ -54,7 +54,7 @@ Kalau kamu lihat meja kayu yang halus atau kaca lantai yang kinclong, secara mak
 
 Ternyata, permukaan paling mulus sekalipun itu penuh dengan puncak bukit dan lembah mikroskopis yang bergerigi. Puncak-puncak kekasaran mikroskopis ini disebut **asperities**.
 
-![[illustration physics gaya gesek asperities.webp]]
+![[illustration_physics_gaya_gesek_asperities.webp]]
 
 ### Gimana Asperities Bikin Benda Macet? (Analoginya Mirip Velcro!)
 
@@ -83,11 +83,13 @@ Bayangkan kamu punya dua pasang lembar **Velcro**. Ketika ditempelkan, gerigi-ge
 
 Uniknya, gaya gesek statis ini punya sifat **Self-Adjusting** alias bisa menyesuaikan nilainya secara otomatis sesuai dengan besar gaya dorong/tarik ($F$) yang kamu berikan! Dia selalu siap menyeimbangkan gaya kamu agar total gaya horizontal tetap nol ($\sum F_x = 0$) dan benda tetap anteng di tempatnya.
 
-$$\begin{aligned}
+$$
+\begin{aligned}
 \text{Kamu belum dorong } (F = 0) &\implies f_s = 0 \\
 \text{Kamu dorong pelan } (F = 2\text{ N}) &\implies f_s = 2\text{ N} \quad (\text{Benda masih diam!}) \\
 \text{Kamu dorong agak kuat } (F = 5\text{ N}) &\implies f_s = 5\text{ N} \quad (\text{Benda tetap diam!})
-\end{aligned}$$
+\end{aligned}
+$$
 
 ### B. Ambang Batas Maksimum ($f_{s,\max}$)
 Tapi ingat, kesabaran $f_s$ ada batasnya! Las-las mikroskopis dan penguncian *asperities* punya kekuatan maksimum. Titik pertahanan terakhir sebelum benda mulai meluncur disebut **Gaya Gesek Statis Maksimum ($f_{s,\max}$)**.
@@ -100,11 +102,13 @@ $$f_{s,\max} = \mu_s N$$
   * $N$ = Gaya normal ($\text{N}$)
 
 **Rangkuman Kondisi Keseimbangan Statis:**
-$$\begin{cases} 
+$$
+\begin{cases} 
 f_s = F & \text{kalau } F < f_{s,\max} \quad \implies \text{\textbf{Benda Diam}} \\
 f_s = f_{s,\max} = \mu_s N & \text{kalau } F = f_{s,\max} \quad \implies \text{\textbf{Benda Tepat Akan Bergerak}} \\
 f_k = \mu_k N & \text{kalau } F > f_{s,\max} \quad \implies \text{\textbf{Benda Meluncur!}}
-\end{cases}$$
+\end{cases}
+$$
 
 ---
 
@@ -145,7 +149,7 @@ $$\mu_s > \mu_k \implies f_{s,\max} > f_k$$
 
 Yuk visualisasikan perjalanan gaya gesek dari diam sampai meluncur dalam grafik keren berikut:
 
-![[chart physics gaya gesek f vs f.webp]]
+![[chart_physics_gaya_gesek_f_vs_f.webp]]
 
 ### Bedah 3 Area Utama Grafik:
 
@@ -201,7 +205,7 @@ $$F_D = \frac{1}{2} C \rho A v^2$$
   * $A$ = Luas penampang depan benda ($\text{m}^2$)
   * $v$ = Kecepatan gerak benda ($\text{m/s}$)
 
-![[diagram physics gaya gesek drag force.webp]]
+![[diagram_physics_gaya_gesek_drag_force.webp]]
 
 ### B. Fenomena Kecepatan Terminal ($v_T$)
 Bayangkan seorang penerjun payung melompat dari pesawat:
@@ -210,13 +214,15 @@ Bayangkan seorang penerjun payung melompat dari pesawat:
 3. **Saat $F_D = m g$ (Titik Keseimbangan):** Gaya gesek udara tepat seimbang sama gaya berat! Gaya total jadi **nol** ($\sum F = 0$), percepatan jadi **nol** ($a = 0$). Penerjun nggak bakal makin cepat lagi, melainkan jatuh melayang konstan pada **Kecepatan Terminal ($v_T$)**!
 
 **Penurunan Rumus Kecepatan Terminal (Langkah Demi Langkah):**
-$$\begin{aligned}
+$$
+\begin{aligned}
 \sum F &= 0 \\
 m g - F_D &= 0 \\
 m g &= \frac{1}{2} C \rho A v_T^2 \\
 v_T^2 &= \frac{2 m g}{C \rho A} \\
 v_T &= \sqrt{\frac{2 m g}{C \rho A}}
-\end{aligned}$$
+\end{aligned}
+$$
 
 ---
 
@@ -224,7 +230,7 @@ v_T &= \sqrt{\frac{2 m g}{C \rho A}}
 
 Dalam dinamika benda tegar (seperti roda atau bola), ada perbedaan mendasar antara ban yang meluncur terseret vs roda yang menggelinding mulus!
 
-![[illustration physics gaya gesek sliding vs rolling.webp]]
+![[illustration_physics_gaya_gesek_sliding_vs_rolling.webp]]
 
 ### Tabel Perbandingan Keren:
 

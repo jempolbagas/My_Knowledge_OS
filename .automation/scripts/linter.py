@@ -1,4 +1,5 @@
 import os
+import re
 import sqlite3
 import json
 import frontmatter
@@ -15,7 +16,8 @@ def check_integrity():
     errors = {
         "broken_links": [],
         "orphans": [],
-        "missing_frontmatter": []
+        "missing_frontmatter": [],
+        "malformed_math_blocks": []
     }
     
     # 1. Detect Broken Links
@@ -90,6 +92,74 @@ def check_integrity():
                 "error": str(e)
             })
             
+    # 4. Check Math Blocks (Quartz/KaTeX Display Math Compliance)
+    open_math_re = re.compile(r"^(\s*(?:>\s*)*)\$\$(?!\$)(.+)$")
+    close_math_re = re.compile(r"^(\s*(?:>\s*)*)(.*\S.*)\$\$\s*$")
+    standalone_fence_re = re.compile(r"^\s*(?:>\s*)*\$\$\s*$")
+
+    cursor.execute('SELECT path FROM nodes')
+    for row in cursor.fetchall():
+        rel_path = row[0]
+        abs_path = os.path.join(VAULT_ROOT, rel_path)
+        if not os.path.exists(abs_path) or not abs_path.endswith('.md'):
+            continue
+            
+        try:
+            with open(abs_path, 'r', encoding='utf-8', errors='replace') as f:
+                lines = f.readlines()
+                
+            in_code = False
+            in_math = False
+            math_start_line = -1
+            
+            for idx, line in enumerate(lines):
+                stripped = line.strip()
+                if stripped.startswith("```"):
+                    in_code = not in_code
+                    continue
+                if in_code:
+                    continue
+                
+                clean = re.sub(r"`[^`]+`", "", line)
+                if not in_math:
+                    m_open = open_math_re.match(clean)
+                    if m_open:
+                        if "$$" not in m_open.group(2):
+                            in_math = True
+                            math_start_line = idx + 1
+                            errors["malformed_math_blocks"].append({
+                                "file": rel_path,
+                                "line": idx + 1,
+                                "type": "Opening line contains formula text",
+                                "snippet": line.strip()
+                            })
+                    elif standalone_fence_re.match(clean):
+                        in_math = True
+                        math_start_line = idx + 1
+                else:
+                    if standalone_fence_re.match(clean):
+                        in_math = False
+                    else:
+                        m_close = close_math_re.match(clean)
+                        if m_close and "$$" not in m_close.group(2).strip():
+                            in_math = False
+                            errors["malformed_math_blocks"].append({
+                                "file": rel_path,
+                                "line": idx + 1,
+                                "type": "Closing line contains formula text",
+                                "snippet": line.strip()
+                            })
+                            
+            if in_math:
+                errors["malformed_math_blocks"].append({
+                    "file": rel_path,
+                    "line": math_start_line,
+                    "type": "Unclosed math block",
+                    "snippet": lines[math_start_line - 1].strip() if 0 <= math_start_line - 1 < len(lines) else ""
+                })
+        except Exception:
+            pass
+
     # Write JSON report
     with open(REPORT_JSON, 'w', encoding='utf-8') as f:
         json.dump(errors, f, indent=2)
@@ -129,6 +199,20 @@ def check_integrity():
                 f.write(f"| [[{os.path.splitext(os.path.basename(item['file']))[0]}]] | `{fields_str}` |\n")
         else:
             f.write("All frontmatter schemas are valid! 🎉\n")
+        f.write("\n")
+
+        # Math Blocks
+        f.write("## 📐 Math Blocks (Quartz/KaTeX Compliance)\n")
+        if errors["malformed_math_blocks"]:
+            f.write("Multiline math blocks must have opening `$$` and closing `$$` on their own lines:\n\n")
+            f.write("| File | Line | Issue | Snippet |\n")
+            f.write("| --- | --- | --- | --- |\n")
+            for item in errors["malformed_math_blocks"]:
+                note_name = os.path.splitext(os.path.basename(item['file']))[0]
+                f.write(f"| [[{note_name}]] | `{item['line']}` | {item['type']} | `{item['snippet']}` |\n")
+        else:
+            f.write("All math blocks are properly formatted! 🎉\n")
+        f.write("\n")
             
     conn.close()
     print("Structural linter report generated successfully!")

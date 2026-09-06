@@ -37,7 +37,7 @@ tags:
 
 ## 🎯 PETUNJUK PENGGUNAAN
 1. Bacalah materi ajar pada [[Pertambangan dan Barang Tambang Indonesia SMP]] sebelum mengerjakan lembar kerja ini.
-2. Kerjakan Aktivitas 1, 2, dan 3 secara berdiskusi dalam kelompok. Amati diagram infografis [[infographic social studies mining classification.webp]] dan [[mindmap social studies indonesia mining map.webp]].
+2. Kerjakan Aktivitas 1, 2, dan 3 secara berdiskusi dalam kelompok. Amati diagram infografis [[infographic_social_studies_mining_classification.webp]] dan [[mindmap_social_studies_indonesia_mining_map.webp]].
 3. Kerjakan Latihan Soal Evaluasi secara mandiri untuk mengukur tingkat pemahaman individual kalian.
 
 ---
@@ -45,7 +45,7 @@ tags:
 # BAGIAN 1: LEMBAR KERJA PESERTA DIDIK (LKPD)
 
 ### 📝 AKTIVITAS 1: Klasifikasi & Penggolongan Barang Tambang
-*Petunjuk: Amati infografis [[infographic social studies mining classification.webp]], tentukan Golongannya (A, B, atau C berdasarkan UU No. 11/1967), serta berikan alasan perannya bagi negara!*
+*Petunjuk: Amati infografis [[infographic_social_studies_mining_classification.webp]], tentukan Golongannya (A, B, atau C berdasarkan UU No. 11/1967), serta berikan alasan perannya bagi negara!*
 
 | No | Nama Barang Tambang | Golongan (A / B / C) | Alasan & Peran Strategisnya |
 | :-: | :--- | :--- | :--- |
@@ -59,7 +59,7 @@ tags:
 ---
 
 ### 🗺️ AKTIVITAS 2: Pemetaan Persebaran Tambang Indonesia & ASEAN
-*Petunjuk: Pelajari [[mindmap social studies indonesia mining map.webp]] dan lengkapilah matriks persebaran komoditas tambang berikut!*
+*Petunjuk: Pelajari [[mindmap_social_studies_indonesia_mining_map.webp]] dan lengkapilah matriks persebaran komoditas tambang berikut!*
 
 | No | Komoditas / Negara | Wilayah / Daerah Penghasil Utama | Manfaat Utama bagi Kehidupan / Ekonomi |
 | :-: | :--- | :--- | :--- |
@@ -124,7 +124,7 @@ tags:
    * C. Bauksit untuk pembuatan aluminium
    * D. Minyak bumi untuk bahan bakar avtur
 
-6. Perhatikan tahapan kegiatan pertambangan pada [[diagram social studies mining stages flow.webp]]:
+6. Perhatikan tahapan kegiatan pertambangan pada [[diagram_social_studies_mining_stages_flow.webp]]:
    *(1) Eksploitasi*
    *(2) Prospeksi*
    *(3) Pengolahan/Smelting*

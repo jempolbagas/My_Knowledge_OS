@@ -105,7 +105,7 @@ Karena $N$ dan $w$ sama-sama bekerja pada **benda yang sama**, mereka BUKAN pasa
 
 Nah, sekarang kita masuk ke bagian berhitungnya. Kuncinya simpel: selalu gunakan **Diagram Gaya Bebas (*Free Body Diagram* / FBD)** dan atur sumbu tegak lurus bidang kontak!
 
-![[diagram physics gaya normal fbd.webp]]
+![[diagram_physics_gaya_normal_fbd.webp]]
 
 ---
 

@@ -41,26 +41,30 @@ Misalkan $A, B,$ dan $X$ adalah matriks-matriks yang ordonya bersesuaian, dan $A
 ### A. Persamaan Tipe 1: $A \cdot X = B$ (Matriks yang Dicari Berada di Kanan)
 Untuk mengisolasi matriks $X$, kita harus mengalikan **kedua ruas dari sebelah KIRI** dengan $A^{-1}$:
 
-$$\begin{aligned}
+$$
+\begin{aligned}
 A \cdot X &= B \\
 A^{-1} \cdot (A \cdot X) &= A^{-1} \cdot B \\
 (A^{-1} \cdot A) \cdot X &= A^{-1} \cdot B \\
 I \cdot X &= A^{-1} \cdot B \\
 \mathbf{X} &= \mathbf{A^{-1} \cdot B}
-\end{aligned}$$
+\end{aligned}
+$$
 
 ---
 
 ### B. Persamaan Tipe 2: $X \cdot A = B$ (Matriks yang Dicari Berada di Kiri)
 Untuk mengisolasi matriks $X$, kita harus mengalikan **kedua ruas dari sebelah KANAN** dengan $A^{-1}$:
 
-$$\begin{aligned}
+$$
+\begin{aligned}
 X \cdot A &= B \\
 (X \cdot A) \cdot A^{-1} &= B \cdot A^{-1} \\
 X \cdot (A \cdot A^{-1}) &= B \cdot A^{-1} \\
 X \cdot I &= B \cdot A^{-1} \\
 \mathbf{X} &= \mathbf{B \cdot A^{-1}}
-\end{aligned}$$
+\end{aligned}
+$$
 
 > [!WARNING]
 > **Jebakan Fatal Aljabar Matriks!**  
@@ -137,10 +141,12 @@ Jika $D \neq 0$, maka nilai variabel penyelesaian adalah:
 $$x = \frac{D_x}{D}, \qquad y = \frac{D_y}{D}, \qquad z = \frac{D_z}{D}$$
 
 #### Skema Visual Matriks Determinan (SPLTV):
-$$D = \begin{vmatrix} \mathbf{a_1} & \mathbf{b_1} & \mathbf{c_1} \\ \mathbf{a_2} & \mathbf{b_2} & \mathbf{c_2} \\ \mathbf{a_3} & \mathbf{b_3} & \mathbf{c_3} \end{vmatrix}, \quad 
+$$
+D = \begin{vmatrix} \mathbf{a_1} & \mathbf{b_1} & \mathbf{c_1} \\ \mathbf{a_2} & \mathbf{b_2} & \mathbf{c_2} \\ \mathbf{a_3} & \mathbf{b_3} & \mathbf{c_3} \end{vmatrix}, \quad 
 D_x = \begin{vmatrix} \mathbf{d_1} & b_1 & c_1 \\ \mathbf{d_2} & b_2 & c_2 \\ \mathbf{d_3} & b_3 & c_3 \end{vmatrix}, \quad 
 D_y = \begin{vmatrix} a_1 & \mathbf{d_1} & c_1 \\ a_2 & \mathbf{d_2} & c_2 \\ a_3 & \mathbf{d_3} & c_3 \end{vmatrix}, \quad 
-D_z = \begin{vmatrix} a_1 & b_1 & \mathbf{d_1} \\ a_2 & b_2 & \mathbf{d_2} \\ a_3 & b_3 & \mathbf{d_3} \end{vmatrix}$$
+D_z = \begin{vmatrix} a_1 & b_1 & \mathbf{d_1} \\ a_2 & b_2 & \mathbf{d_2} \\ a_3 & b_3 & \mathbf{d_3} \end{vmatrix}
+$$
 
 ---
 

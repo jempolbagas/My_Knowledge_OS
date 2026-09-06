@@ -29,7 +29,7 @@ Pernahkah kamu mendengarkan dongeng sebelum tidur seperti *Cinderella*, kisah ka
 
 Secara akademis, *Narrative Text* disusun dengan struktur alur (*narrative arc*) yang sistematis untuk menceritakan rangkaian peristiwa berurutan di masa lalu yang memuat konflik, hingga akhirnya mencapai penyelesaian dan pesan moral.
 
-![[infographic languages narrative text structure.webp]]
+![[infographic_languages_narrative_text_structure.webp]]
 
 ---
 

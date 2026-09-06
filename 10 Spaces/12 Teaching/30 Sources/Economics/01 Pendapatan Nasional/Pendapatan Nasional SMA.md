@@ -27,7 +27,7 @@ tags:
 
 ## 🗺️ Peta Konsep & Navigasi Modul Pembelajaran
 
-![[mindmap economics national income master dashboard.webp]]
+![[mindmap_economics_national_income_master_dashboard.webp]]
 
 ---
 

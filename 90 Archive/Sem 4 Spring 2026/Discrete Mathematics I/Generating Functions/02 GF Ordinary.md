@@ -41,11 +41,13 @@ Shifting is the most common operation, especially when solving recurrence relati
 ### 1. Right Shift (Prepending Zeros)
 
 If we multiply a generating function $G(x)$ by the symbol $x$, we multiply every term in its series by $x$:
-$$\begin{aligned}
+$$
+\begin{aligned}
 G(x) &= a_0 + a_1 x + a_2 x^2 + a_3 x^3 + \cdots \\
 x \cdot G(x) &= x(a_0 + a_1 x + a_2 x^2 + a_3 x^3 + \cdots) \\
 &= 0 + a_0 x + a_1 x^2 + a_2 x^3 + a_3 x^4 + \cdots
-\end{aligned}$$
+\end{aligned}
+$$
 
 Look at the new coefficients:
 - The constant term ($x^0$ hook) is now **$0$**.
@@ -311,7 +313,8 @@ Let's double-check this for $n=5$ books:
 
 ## 2.7 Common GF Pairs (Extended Reference)
 
-$$\boxed{
+$$
+\boxed{
 \begin{array}{|l|l|l|}
 \hline
 \textbf{Sequence } a_n & \textbf{GF} & \textbf{Note} \\
@@ -326,7 +329,8 @@ n \cdot c^{n-1} & \frac{1}{(1-cx)^2} & \\
 \frac{1}{n!} & e^x & \text{EGF-style} \\
 \hline
 \end{array}
-}$$
+}
+$$
 
 > 📖 **Want to know *why* each of these holds?** See [[06 GF Pattern Library]] for a full derivation of every pattern above, plus a strategy guide for deriving new ones.
 

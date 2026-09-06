@@ -29,18 +29,22 @@ Pemahaman mengenai konversi sistem bilangan desimal ke biner dan sebaliknya sang
 Proses dilakukan dengan mengalikan setiap bit biner dengan nilai perpangkatan basis dua ($2^n$) sesuai dengan posisi bit tersebut (dimulai dari indeks 0 dari kanan).
 
 **Contoh 1:**
-$$\begin{aligned}
+$$
+\begin{aligned}
 (11111000)_2 &= (1 \times 2^7) + (1 \times 2^6) + (1 \times 2^5) + (1 \times 2^4) + (1 \times 2^3) + (0 \times 2^2) + (0 \times 2^1) + (0 \times 2^0) \\
 &= 128 + 64 + 32 + 16 + 8 + 0 + 0 + 0 \\
 &= (248)_{10}
-\end{aligned}$$
+\end{aligned}
+$$
 
 **Contoh 2:**
-$$\begin{aligned}
+$$
+\begin{aligned}
 (11111111)_2 &= (1 \times 2^7) + (1 \times 2^6) + (1 \times 2^5) + (1 \times 2^4) + (1 \times 2^3) + (1 \times 2^2) + (1 \times 2^1) + (1 \times 2^0) \\
 &= 128 + 64 + 32 + 16 + 8 + 4 + 2 + 1 \\
 &= (255)_{10}
-\end{aligned}$$
+\end{aligned}
+$$
 
 ### B. Konversi Desimal ke Biner
 Proses dilakukan dengan membagi bilangan desimal secara berulang dengan basis 2, kemudian mencatat sisa hasil baginya hingga hasil baginya mencapai 0. Hasil biner dibaca dari sisa pembagian paling akhir (bawah) ke paling awal (atas).

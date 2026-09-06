@@ -18,21 +18,21 @@ Selamat datang di Teaching Resources Hub! Halaman ini mengorganisir seluruh mate
 ## 🧬 Biology & Science (IPA)
 
 ### 📚 Materi Ajar (Sources)
-- 🏠 [[Mikroskop dan Pengamatan Sel SMP]] — Mikroskop dan Pengamatan Sel — Eksplorasi Dunia Mikroskopis
-  - 📄 [[Pengenalan Sel SMP]] — Pengenalan Sel — Master Guide & Navigasi Modul
-  - 📄 [[Struktur dan Organel Sel SMP]] — Struktur dan Organel Sel — Arsitektur Kehidupan & Spesialisasi
-- 🏠 [[Anatomi dan Enzim Pencernaan SMP]] — Anatomi Organ & Enzim Pencernaan — Sistem Pencernaan Manusia
-  - 📄 [[Nutrisi dan Gizi Remaja SMP]] — Nutrisi, Gizi Seimbang, dan Indeks Massa Tubuh (IMT)
-  - 📄 [[Sistem Pencernaan Makanan SMP]] — Sistem Pencernaan Makanan — Master Guide & Navigasi Modul
-- 🏠 [[Darah dan Golongan Darah SMP]] — Darah dan Golongan Darah — Komposisi, Hemostasis, & Transfusi
-  - 📄 [[Jantung dan Pembuluh Darah SMP]] — Jantung dan Pembuluh Darah — Anatomi, Mekanisme Sirkulasi, & Gangguan
-  - 📄 [[Sistem Peredaran Darah SMP]] — Sistem Peredaran Darah — Master Guide & Navigasi Modul
-- 🏠 [[Kulit Paru Hati dan Gangguan Ekskresi SMP]] — Kulit, Paru-Paru, Hati, & Gangguan Sistem Ekskresi
-  - 📄 [[Sistem Ekskresi Manusia SMP]] — Sistem Ekskresi Manusia — Master Guide & Navigasi Modul
-  - 📄 [[Struktur Ginjal dan Pembentukan Urine SMP]] — Struktur Ginjal dan Pembentukan Urine — Mesin Pemurni Darah Alami
-- 🏠 [[Organ dan Mekanisme Pernapasan SMP]] — Organ dan Mekanisme Pernapasan SMP — Saluran Udara & Biomekanika Ventilasi
-  - 📄 [[Pertukaran Gas dan Gangguan Pernapasan SMP]] — Pertukaran Gas dan Gangguan Pernapasan SMP — Difusi, Spirometri, & Patologi Klinis
-  - 📄 [[Sistem Pernapasan SMP]] — Sistem Pernapasan — Master Guide & Navigasi Modul
+- 🏠 [[Mikroskop_dan_Pengamatan_Sel_SMP]] — Mikroskop dan Pengamatan Sel — Eksplorasi Dunia Mikroskopis
+  - 📄 [[Pengenalan_Sel_SMP]] — Pengenalan Sel — Master Guide & Navigasi Modul
+  - 📄 [[Struktur_dan_Organel_Sel_SMP]] — Struktur dan Organel Sel — Arsitektur Kehidupan & Spesialisasi
+- 🏠 [[Anatomi_dan_Enzim_Pencernaan_SMP]] — Anatomi Organ & Enzim Pencernaan — Sistem Pencernaan Manusia
+  - 📄 [[Nutrisi_dan_Gizi_Remaja_SMP]] — Nutrisi, Gizi Seimbang, dan Indeks Massa Tubuh (IMT)
+  - 📄 [[Sistem_Pencernaan_Makanan_SMP]] — Sistem Pencernaan Makanan — Master Guide & Navigasi Modul
+- 🏠 [[Darah_dan_Golongan_Darah_SMP]] — Darah dan Golongan Darah — Komposisi, Hemostasis, & Transfusi
+  - 📄 [[Jantung_dan_Pembuluh_Darah_SMP]] — Jantung dan Pembuluh Darah — Anatomi, Mekanisme Sirkulasi, & Gangguan
+  - 📄 [[Sistem_Peredaran_Darah_SMP]] — Sistem Peredaran Darah — Master Guide & Navigasi Modul
+- 🏠 [[Kulit_Paru_Hati_dan_Gangguan_Ekskresi_SMP]] — Kulit, Paru-Paru, Hati, & Gangguan Sistem Ekskresi
+  - 📄 [[Sistem_Ekskresi_Manusia_SMP]] — Sistem Ekskresi Manusia — Master Guide & Navigasi Modul
+  - 📄 [[Struktur_Ginjal_dan_Pembentukan_Urine_SMP]] — Struktur Ginjal dan Pembentukan Urine — Mesin Pemurni Darah Alami
+- 🏠 [[Organ_dan_Mekanisme_Pernapasan_SMP]] — Organ dan Mekanisme Pernapasan SMP — Saluran Udara & Biomekanika Ventilasi
+  - 📄 [[Pertukaran_Gas_dan_Gangguan_Pernapasan_SMP]] — Pertukaran Gas dan Gangguan Pernapasan SMP — Difusi, Spirometri, & Patologi Klinis
+  - 📄 [[Sistem_Pernapasan_SMP]] — Sistem Pernapasan — Master Guide & Navigasi Modul
 
 ---
 
@@ -117,6 +117,10 @@ Selamat datang di Teaching Resources Hub! Halaman ini mengorganisir seluruh mate
   - 📄 [[Gaya Normal SMA]] — Gaya Normal & Penyangga Permukaan
   - 📄 [[Gaya Sentripetal SMA]] — Gaya Sentripetal & Dinamika Gerak Melingkar
   - 📄 [[Gaya Tegangan Tali dan Katrol SMA]] — Gaya Tegangan Tali & Sistem Katrol
+- 🏠 [[Besaran Gerak dan GLB SMA]] — Besaran Gerak dan GLB — Fondasi Kinematika Satu Dimensi
+  - 📄 [[GLBB dan Analisis Grafik SMA]] — GLBB dan Analisis Grafik — Percepatan Konstan & Kurva Kinematika
+  - 📄 [[Gerak Vertikal dan Kasus Dua Benda SMA]] — Gerak Vertikal dan Kasus Dua Benda — Aplikasi Gravitasi & Dinamika Pertemuan
+  - 📄 [[Kinematika Gerak Lurus SMA]] — Kinematika Gerak Lurus — Master Guide & Navigasi Modul
 
 ---
 
@@ -132,30 +136,21 @@ Selamat datang di Teaching Resources Hub! Halaman ini mengorganisir seluruh mate
   - 📄 [[Pendapatan Nasional SMA]] — Pendapatan Nasional — Master Guide & Navigasi Modul
   - 📄 [[Pendapatan Per Kapita SMA]] — PDB Riil & Pendapatan Per Kapita
 
-### 📝 Lembar Kerja (Practice)
-- [[Soal_Konsep_Dasar_Ekonomi_SMA]]
-
 ---
 
 ## 📚 Chemistry
 
 ### 📚 Materi Ajar (Sources)
-- 🏠 [[Ikatan Ion dan Pembentukan Senyawa SMA]] — Ikatan Ion dan Pembentukan Senyawa — Tarikan Elektrostatik Kation-Anion
-  - 📄 [[Ikatan Kimia SMA]] — Ikatan Kimia — Master Guide & Navigasi Modul Terpadu
-  - 📄 [[Ikatan Kovalen dan Kepolaran Senyawa SMA]] — Ikatan Kovalen dan Kepolaran Senyawa — Seni Berbagi Elektron
-  - 📄 [[Ikatan Logam dan Perbandingan Sifat Fisis SMA]] — Ikatan Logam dan Perbandingan Sifat Fisis — Lautan Elektron & Material Maju
-  - 📄 [[Kestabilan Unsur dan Lambang Lewis SMA]] — Kestabilan Unsur dan Lambang Lewis — Pondasi Ikatan Kimia
-- 🏠 [[Bentuk Molekul dan Gaya Antarmolekul SMA]] — Bentuk Molekul dan Gaya Antarmolekul — Master Guide & Navigasi Modul Terpadu
-  - 📄 [[Gaya Antarmolekul dan Ikatan Hidrogen SMA]] — Gaya Antarmolekul dan Ikatan Hidrogen — Interaksi Tak Kasat Mata
-  - 📄 [[Pengaruh Gaya Antarmolekul terhadap Sifat Fisis SMA]] — Pengaruh Gaya Antarmolekul terhadap Sifat Fisis — Dari Titik Didih hingga Anomali Air
-  - 📄 [[Teori Hibridisasi Orbital Molekul SMA]] — Teori Hibridisasi Orbital Molekul — Peleburan Orbital & Ikatan Sigma/Pi
-  - 📄 [[Teori VSEPR dan Domain Elektron SMA]] — Teori VSEPR dan Domain Elektron — Meramalkan Arsitektur 3D Molekul
-
-### 📝 Lembar Kerja (Practice)
-- [[LKPD_Bentuk_Molekul_dan_Gaya_Antarmolekul_SMA]]
-- [[LKPD_Ikatan_Kimia_SMA]]
-- [[Soal_Bentuk_Molekul_dan_Gaya_Antarmolekul_SMA]]
-- [[Soal_Ikatan_Kimia_SMA]]
+- 🏠 [[Ikatan_Ion_dan_Pembentukan_Senyawa_SMA]] — Ikatan Ion dan Pembentukan Senyawa — Tarikan Elektrostatik Kation-Anion
+  - 📄 [[Ikatan_Kimia_SMA]] — Ikatan Kimia — Master Guide & Navigasi Modul Terpadu
+  - 📄 [[Ikatan_Kovalen_dan_Kepolaran_Senyawa_SMA]] — Ikatan Kovalen dan Kepolaran Senyawa — Seni Berbagi Elektron
+  - 📄 [[Ikatan_Logam_dan_Perbandingan_Sifat_Fisis_SMA]] — Ikatan Logam dan Perbandingan Sifat Fisis — Lautan Elektron & Material Maju
+  - 📄 [[Kestabilan_Unsur_dan_Lambang_Lewis_SMA]] — Kestabilan Unsur dan Lambang Lewis — Pondasi Ikatan Kimia
+- 🏠 [[Bentuk_Molekul_dan_Gaya_Antarmolekul_SMA]] — Bentuk Molekul dan Gaya Antarmolekul — Master Guide & Navigasi Modul Terpadu
+  - 📄 [[Gaya_Antarmolekul_dan_Ikatan_Hidrogen_SMA]] — Gaya Antarmolekul dan Ikatan Hidrogen — Interaksi Tak Kasat Mata
+  - 📄 [[Pengaruh_Gaya_Antarmolekul_terhadap_Sifat_Fisis_SMA]] — Pengaruh Gaya Antarmolekul terhadap Sifat Fisis — Dari Titik Didih hingga Anomali Air
+  - 📄 [[Teori_Hibridisasi_Orbital_Molekul_SMA]] — Teori Hibridisasi Orbital Molekul — Peleburan Orbital & Ikatan Sigma/Pi
+  - 📄 [[Teori_VSEPR_dan_Domain_Elektron_SMA]] — Teori VSEPR dan Domain Elektron — Meramalkan Arsitektur 3D Molekul
 
 ---
 

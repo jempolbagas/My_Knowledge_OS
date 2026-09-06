@@ -23,7 +23,7 @@ Jika Transformasi Fourier hanya memecah sinyal menjadi gelombang sinus murni (fr
 
 Ini sangat penting untuk menganalisis kestabilan suatu sistem (sistem yang tidak stabil akan terus membesar nilainya hingga tak hingga). Dengan melihat "peta" sistem pada bidang s (dikenal dengan sebutan s-plane), kita bisa langsung tahu apakah suatu filter DSP stabil, berosilasi, atau meredam.
 
-![[diagram dsp laplace transform intuition.webp]]
+![[diagram_dsp_laplace_transform_intuition.webp]]
 
 ---
 

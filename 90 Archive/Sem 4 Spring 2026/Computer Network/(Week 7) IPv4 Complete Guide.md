@@ -92,11 +92,13 @@ Caranya gampang banget. Tulis bit binermu di bawah tabel di atas, lalu jumlahkan
 > * Bit 8 (1) $\rightarrow$ `0`
 > 
 > Tulis dalam persamaan matematika formal:
-> $$\begin{aligned}
+> $$
+> \begin{aligned}
 > (10101000)_2 &= (1 \times 128) + (0 \times 64) + (1 \times 32) + (0 \times 16) + (1 \times 8) + (0 \times 4) + (0 \times 2) + (0 \times 1) \\
 > &= 128 + 0 + 32 + 0 + 8 + 0 + 0 + 0 \\
 > &= (168)_{10}
-> \end{aligned}$$
+> \end{aligned}
+> $$
 > Jadi, biner `10101000` setara dengan desimal **168**.
 
 ---

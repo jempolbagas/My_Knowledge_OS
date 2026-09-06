@@ -9,7 +9,18 @@ TIMESTAMP=$(date +"%Y-%m-%d %H:%M:%S")
 # 2. Combine into your specific format string
 COMMIT_MSG="vault backup: $TIMESTAMP"
 
-# 3. Execute the Git workflow
+# 3. Ensure math blocks are normalized for Quartz before backup
+VAULT_ROOT=$(cd "$(dirname "$0")/../.." && pwd)
+SCRIPTS_DIR="$VAULT_ROOT/.automation/scripts"
+VENV_PYTHON="$VAULT_ROOT/.automation/venv/bin/python3"
+
+if [ -x "$VENV_PYTHON" ]; then
+    "$VENV_PYTHON" "$SCRIPTS_DIR/fix_math_blocks.py" --quiet || true
+elif command -v python3 >/dev/null 2>&1; then
+    python3 "$SCRIPTS_DIR/fix_math_blocks.py" --quiet || true
+fi
+
+# 4. Execute the Git workflow
 echo "Staging all changes..."
 git add -A
 

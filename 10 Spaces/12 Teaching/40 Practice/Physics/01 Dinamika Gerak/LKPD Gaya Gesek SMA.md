@@ -69,18 +69,22 @@ Yuk, kita buktikan sendiri gimana cara mengukur "tingkat kelengketan" permukaan 
 Ketika kamu meletakkan balok kayu di atas bidang miring bersudut $\theta$, komponen gaya berat yang sejajar papan ($m g \sin \theta$) bakal mencoba menarik balok meluncur ke bawah. Tapi, gaya gesek statis ($f_s$) nggak tinggal diam—dia bakal menahan balok ke arah atas bidang miring.
 
 Persamaan keseimbangan gayanya:
-$$\begin{aligned}
+$$
+\begin{aligned}
 \sum F_x = 0 &\implies m g \sin \theta - f_s = 0 \implies f_s = m g \sin \theta \\
 \sum F_y = 0 &\implies N - m g \cos \theta = 0 \implies N = m g \cos \theta
-\end{aligned}$$
+\end{aligned}
+$$
 
 Saat kamu naikkan sudut papan perlahan-lahan sampai mencapai **Sudut Kritis ($\theta_c$)**, balok berada di posisi **tepat akan meluncur**. Pada detik-detik menegangkan ini, gaya gesek mencapai batas maksimumnya ($f_s = f_{s,\max} = \mu_s N$):
 
-$$\begin{aligned}
+$$
+\begin{aligned}
 m g \sin \theta_c &= \mu_s (m g \cos \theta_c) \\
 \mu_s &= \frac{m g \sin \theta_c}{m g \cos \theta_c} \\
 \mu_s &= \tan \theta_c
-\end{aligned}$$
+\end{aligned}
+$$
 
 *Keren banget, kan? Ternyata nilai $\mu_s$ itu cuma se-simpel $\tan \theta_c$!*
 

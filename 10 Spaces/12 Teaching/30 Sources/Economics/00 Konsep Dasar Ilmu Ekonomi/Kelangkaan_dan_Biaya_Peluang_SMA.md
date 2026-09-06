@@ -195,13 +195,15 @@ Jika Rian **tidak** membuka kedai kopi, ia memiliki dua tawaran lain:
 * **Alternatif Terbaik yang Dikorbankan:** Bekerja sebagai manajer kafe (Rp70.000.000) + Bunga deposito yang hilang (Rp6.000.000) = **Rp76.000.000/tahun**. (Opsi staf konsultan Rp55.000.000 diabaikan karena nilainya di bawah manajer kafe).
 * **Total Biaya Implisit (*Opportunity Cost*):** Rp76.000.000.
 
-$$\begin{aligned}
+$$
+\begin{aligned}
 \text{Laba Akuntansi} &= \text{Total Revenue} - \text{Explicit Costs} \\
 &= \text{Rp350.000.000} - \text{Rp260.000.000} = \mathbf{+\text{Rp90.000.000}} \\[8pt]
 \text{Laba Ekonomi} &= \text{Total Revenue} - (\text{Explicit Costs} + \text{Implicit Costs}) \\
 &= \text{Rp350.000.000} - (\text{Rp260.000.000} + \text{Rp76.000.000}) \\
 &= \text{Rp350.000.000} - \text{Rp336.000.000} = \mathbf{+\text{Rp14.000.000}}
-\end{aligned}$$
+\end{aligned}
+$$
 
 > [!note] **Kesimpulan Keputusan:**
 > Secara akuntansi, Rian untung Rp90 juta. Secara ekonomi, Rian tetap mencetak **laba ekonomi positif (+Rp14 juta)**, yang menandakan keputusannya membuka kedai kopi lebih menguntungkan daripada menjadi karyawan profesional dan mendepositokan uangnya.

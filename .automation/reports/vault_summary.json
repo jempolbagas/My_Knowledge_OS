@@ -7,16 +7,18 @@
       "3. Prefer 20 Brain Atlas/20 Notes/ for explanations.",
       "4. Never scan directories or open more than 3 full notes without user approval."
     ],
-    "generated_at": "2026-09-05T12:37:42Z"
+    "generated_at": "2026-09-06T06:29:27Z"
   },
   "stats": {
-    "total_notes": 218,
-    "total_edges": 1358,
-    "broken_links": 1,
-    "untyped_notes": 0,
-    "health_score": 99.9
+    "total_notes": 226,
+    "total_edges": 1441,
+    "broken_links": 0,
+    "untyped_notes": 1,
+    "health_score": 99.6
   },
-  "inbox": [],
+  "inbox": [
+    "Untitled"
+  ],
   "spaces": {
     "Teaching": {
       "Languages": [
@@ -56,12 +58,18 @@
         "LKPD Gaya Berat SMA",
         "LKPD Gaya Sentripetal SMA",
         "Soal Dinamika Gerak SMA",
+        "Soal Kinematika Gerak Lurus SMA",
+        "LKPD Kinematika Gerak Lurus SMA",
         "Gaya Gesek SMA",
         "Gaya Normal SMA",
         "Gaya Sentripetal SMA",
         "Dinamika Gerak SMA",
         "Gaya Berat SMA",
-        "Gaya Tegangan Tali dan Katrol SMA"
+        "Gaya Tegangan Tali dan Katrol SMA",
+        "GLBB dan Analisis Grafik SMA",
+        "Kinematika Gerak Lurus SMA",
+        "Gerak Vertikal dan Kasus Dua Benda SMA",
+        "Besaran Gerak dan GLB SMA"
       ],
       "Mathematics": [
         "Soal_Deret_Aritmatika_dan_Geometri_SMP",
@@ -126,31 +134,31 @@
         "Operasi_Bentuk_Akar_dan_Merasionalkan_SMP"
       ],
       "Biology": [
-        "Soal Sistem Peredaran Darah SMP",
-        "LKPD Sistem Peredaran Darah SMP",
-        "LKPD Sistem Pernapasan SMP",
-        "Soal Sistem Pernapasan SMP",
-        "LKPD Pengenalan Sel SMP",
-        "Soal Pengenalan Sel SMP",
-        "Soal Sistem Pencernaan Makanan SMP",
-        "LKPD Sistem Pencernaan Makanan SMP",
-        "Soal Sistem Ekskresi SMP",
-        "LKPD Sistem Ekskresi SMP",
-        "Sistem Peredaran Darah SMP",
-        "Jantung dan Pembuluh Darah SMP",
-        "Darah dan Golongan Darah SMP",
-        "Sistem Pernapasan SMP",
-        "Pertukaran Gas dan Gangguan Pernapasan SMP",
-        "Organ dan Mekanisme Pernapasan SMP",
-        "Pengenalan Sel SMP",
-        "Mikroskop dan Pengamatan Sel SMP",
-        "Struktur dan Organel Sel SMP",
-        "Nutrisi dan Gizi Remaja SMP",
-        "Anatomi dan Enzim Pencernaan SMP",
-        "Sistem Pencernaan Makanan SMP",
-        "Kulit Paru Hati dan Gangguan Ekskresi SMP",
-        "Sistem Ekskresi Manusia SMP",
-        "Struktur Ginjal dan Pembentukan Urine SMP"
+        "Soal_Sistem_Peredaran_Darah_SMP",
+        "LKPD_Sistem_Peredaran_Darah_SMP",
+        "Soal_Sistem_Pernapasan_SMP",
+        "LKPD_Sistem_Pernapasan_SMP",
+        "LKPD_Pengenalan_Sel_SMP",
+        "Soal_Pengenalan_Sel_SMP",
+        "Soal_Sistem_Pencernaan_Makanan_SMP",
+        "LKPD_Sistem_Pencernaan_Makanan_SMP",
+        "Soal_Sistem_Ekskresi_SMP",
+        "LKPD_Sistem_Ekskresi_SMP",
+        "Jantung_dan_Pembuluh_Darah_SMP",
+        "Sistem_Peredaran_Darah_SMP",
+        "Darah_dan_Golongan_Darah_SMP",
+        "Pertukaran_Gas_dan_Gangguan_Pernapasan_SMP",
+        "Organ_dan_Mekanisme_Pernapasan_SMP",
+        "Sistem_Pernapasan_SMP",
+        "Struktur_dan_Organel_Sel_SMP",
+        "Mikroskop_dan_Pengamatan_Sel_SMP",
+        "Pengenalan_Sel_SMP",
+        "Sistem_Pencernaan_Makanan_SMP",
+        "Nutrisi_dan_Gizi_Remaja_SMP",
+        "Anatomi_dan_Enzim_Pencernaan_SMP",
+        "Sistem_Ekskresi_Manusia_SMP",
+        "Kulit_Paru_Hati_dan_Gangguan_Ekskresi_SMP",
+        "Struktur_Ginjal_dan_Pembentukan_Urine_SMP"
       ],
       "Social Studies": [
         "LKPD Keanekaragaman Hayati Indonesia SMP",
@@ -166,23 +174,23 @@
       ],
       "Chemistry": [
         "LKPD_Ikatan_Kimia_SMA",
-        "Soal_Bentuk_Molekul_dan_Gaya_Antarmolekul_SMA",
         "Soal_Ikatan_Kimia_SMA",
+        "Soal_Bentuk_Molekul_dan_Gaya_Antarmolekul_SMA",
         "LKPD_Bentuk_Molekul_dan_Gaya_Antarmolekul_SMA",
-        "Ikatan Logam dan Perbandingan Sifat Fisis SMA",
-        "Ikatan Kovalen dan Kepolaran Senyawa SMA",
-        "Ikatan Ion dan Pembentukan Senyawa SMA",
-        "Kestabilan Unsur dan Lambang Lewis SMA",
-        "Ikatan Kimia SMA",
-        "Teori Hibridisasi Orbital Molekul SMA",
-        "Pengaruh Gaya Antarmolekul terhadap Sifat Fisis SMA",
-        "Teori VSEPR dan Domain Elektron SMA",
-        "Bentuk Molekul dan Gaya Antarmolekul SMA",
-        "Gaya Antarmolekul dan Ikatan Hidrogen SMA"
+        "Ikatan_Ion_dan_Pembentukan_Senyawa_SMA",
+        "Kestabilan_Unsur_dan_Lambang_Lewis_SMA",
+        "Ikatan_Logam_dan_Perbandingan_Sifat_Fisis_SMA",
+        "Ikatan_Kovalen_dan_Kepolaran_Senyawa_SMA",
+        "Ikatan_Kimia_SMA",
+        "Gaya_Antarmolekul_dan_Ikatan_Hidrogen_SMA",
+        "Teori_VSEPR_dan_Domain_Elektron_SMA",
+        "Teori_Hibridisasi_Orbital_Molekul_SMA",
+        "Bentuk_Molekul_dan_Gaya_Antarmolekul_SMA",
+        "Pengaruh_Gaya_Antarmolekul_terhadap_Sifat_Fisis_SMA"
       ],
       "Economics": [
-        "Soal_Konsep_Dasar_Ekonomi_SMA",
         "LKPD Pendapatan Nasional SMA",
+        "Soal_Konsep_Dasar_Ekonomi_SMA",
         "Pendapatan Per Kapita SMA",
         "Distribusi Pendapatan SMA",
         "Pendapatan Nasional SMA",
@@ -223,7 +231,8 @@
   "brain_atlas": {
     "notes": {
       "Economics": [
-        "Scarcity and Opportunity Cost"
+        "Scarcity and Opportunity Cost",
+        "Supply and Demand"
       ],
       "Machine Learning": [
         "Backpropagation",
@@ -256,7 +265,14 @@
     ]
   },
   "maintenance": {
-    "orphan_pages_sample": [],
-    "untyped_notes_sample": []
+    "orphan_pages_sample": [
+      "Untitled"
+    ],
+    "untyped_notes_sample": [
+      {
+        "title": "Untitled",
+        "path": "00 Inbox/Untitled.md"
+      }
+    ]
   }
 }

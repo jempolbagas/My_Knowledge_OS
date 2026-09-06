@@ -27,7 +27,7 @@ type: LectureNote
   3. **Analisis LTI & Fungsi Alih:** Persamaan diferensial linear dengan koefisien konstan dapat diubah menjadi persamaan aljabar linier dalam domain $s$, di mana respon total sistem adalah penjumlahan dari *Zero-Input Response* (ZIR) dan *Zero-State Response* (ZSR).
   4. **Jembatan Analog ke Digital:** Pemahaman domain $s$ memungkinkan pemetaan kutub/nol ke domain $z$ melalui hubungan $z = e^{s T_s}$.
 
-![[diagram dsp laplace transform intuition.webp]]
+![[diagram_dsp_laplace_transform_intuition.webp]]
 
 ---
 

@@ -30,9 +30,9 @@ Selalu pisahkan antara Materi Ajar dan Lembar Aktivitas/Soal ke dalam subfolder 
       - **Konvensi Penamaan di `30 Assets/`:** Gunakan format `<type>_<subject>_<topic>_<descriptor>.ext` (huruf kecil `snake_case`), di mana `<type>` menentukan jenis aset (`diagram_` untuk flowchart, `chart_` untuk grafik/kurva, `mindmap_` untuk pohon konsep, `infographic_` untuk ringkasan visual, `illustration_` untuk grafik konsep; contoh: `mindmap_economics_national_income_dashboard.jpg`). Dilarang keras membuat folder `30 Assets` lokal di dalam sub-space.
 
 * **File Praktik (LKPD & Soal Evaluasi):**
-  * **Lokasi & Penamaan:** 
-    - **LKPD / Worksheet:** `10 Spaces/12 Teaching/40 Practice/<Subject>/LKPD_<Judul_Topik>_<Level>.md` (contoh: `LKPD_Pengenalan_Sel_SMP.md`)
-    - **Paket Evaluasi / Soal Ulangan:** `10 Spaces/12 Teaching/40 Practice/<Subject>/Soal_<Judul_Topik>_<Level>.md` (contoh: `Soal_Dinamika_Gerak_SMA.md`)
+  * **Lokasi & Penamaan:** Disimpan di dalam subfolder topik yang simetris 1-to-1 dengan subfolder di `30 Sources/`:
+    - **LKPD / Worksheet:** `10 Spaces/12 Teaching/40 Practice/<Subject>/<Subfolder_Topik>/LKPD_<Judul_Topik>_<Level>.md` (contoh: `40 Practice/Biology/01 Sel/LKPD_Pengenalan_Sel_SMP.md`)
+    - **Paket Evaluasi / Soal Ulangan:** `10 Spaces/12 Teaching/40 Practice/<Subject>/<Subfolder_Topik>/Soal_<Judul_Topik>_<Level>.md` (contoh: `40 Practice/Chemistry/01 Ikatan Kimia/Soal_Ikatan_Kimia_SMA.md`)
   * **Konvensi Judul:**
     - **Frontmatter Title (`title:`):** `title: "LKPD: <Judul Topik>"` atau `title: "Soal Evaluasi: <Judul Topik>"`.
     - **H1 Header (`#`):** `# Lembar Kerja Peserta Didik (LKPD): <Judul Topik>` atau `# Paket Soal Evaluasi: <Judul Topik>`.
@@ -64,10 +64,10 @@ Jika topik materi ajar mencakup cakupan luas (>200-300 baris atau memuat 3+ sub-
    * Nama berkas sub-modul harus ringkas dalam `snake_case` dengan akhiran level (contoh: `Konsep_Pendapatan_Nasional_SMA.md`, `Pendapatan_Per_Kapita_SMA.md`, `Distribusi_Pendapatan_SMA.md`).
 
 4. **Penempatan Berkas Praktik / LKPD (`40 Practice/`):**
-   * Berkas LKPD (`LKPD_<Nama_Topik>_<Level>.md`) & Soal (`Soal_<Nama_Topik>_<Level>.md`) **tetap berada di folder utama** `10 Spaces/12 Teaching/40 Practice/<Subject>/` (tanpa membuat subfolder) agar seragam dengan LKPD lain.
-   * Daftarkan Master Dashboard & seluruh Sub-Modul di bagian `sources:` pada frontmatter LKPD.
-   * Tambahkan bilah navigasi Wikilinks interaktif di bagian paling atas dokumen LKPD.
+   * Berkas LKPD (`LKPD_<Nama_Topik>_<Level>.md`) & Soal (`Soal_<Nama_Topik>_<Level>.md`) **ditempatkan di dalam subfolder topik simetris** `10 Spaces/12 Teaching/40 Practice/<Subject>/<Subfolder_Topik>/` yang 1-to-1 mencerminkan subfolder topik di `30 Sources/`. Ini menjaga keteraturan arsip dan mencegah folder induk praktik menjadi berantakan (*cluttered*).
+   * Daftarkan Master Dashboard & seluruh Sub-Modul di bagian `sources:` pada frontmatter LKPD dan Soal.
+   * Tambahkan bilah navigasi Wikilinks interaktif di bagian paling atas dokumen LKPD dan Soal.
 
 5. **Bilah Navigasi Antar-Modul (Cross-Module Navigation):**
-   * Di bagian atas dan bawah setiap sub-modul, sertakan bilah navigasi cepat (misal: `[[<Nama_Topik>_<Level>|🏠 Master Dashboard]] | Modul Ini | [[<Submodul_Berikutnya>_<Level>]] | [[LKPD_<Nama_Topik>_<Level>]]`).
+   * Di bagian atas dan bawah setiap sub-modul, sertakan bilah navigasi cepat (misal: `[[<Nama_Topik>_<Level>|🏠 Master Dashboard]] | Modul Ini | [[<Submodul_Berikutnya>_<Level>]] | [[LKPD_<Nama_Topik>_<Level>]] | [[Soal_<Nama_Topik>_<Level>]]`).
 

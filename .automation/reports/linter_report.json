@@ -1,11 +1,24 @@
 {
-  "broken_links": [
+  "broken_links": [],
+  "orphans": [
     {
-      "file": "20 Brain Atlas/20 Notes/Scarcity and Opportunity Cost.md",
-      "broken_link": "Supply and Demand",
-      "context": "wikilink"
+      "file": "00 Inbox/Untitled.md",
+      "title": "Untitled"
     }
   ],
-  "orphans": [],
-  "missing_frontmatter": []
+  "missing_frontmatter": [],
+  "malformed_math_blocks": [
+    {
+      "file": "00 Inbox/Untitled.md",
+      "line": 78,
+      "type": "Opening line contains formula text",
+      "snippet": "$$\\begin{array}{l|c|c|l}"
+    },
+    {
+      "file": "00 Inbox/Untitled.md",
+      "line": 84,
+      "type": "Closing line contains formula text",
+      "snippet": "\\end{array}$$"
+    }
+  ]
 }

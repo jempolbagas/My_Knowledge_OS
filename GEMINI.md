@@ -59,7 +59,8 @@ tags: []
 ### 5. File Formatting
 - **Links:** Always use Wikilinks (`[[Note Name]]`). No path names or raw file names. Plain URLs for external links only.
 - **Metadata:** Keep in YAML frontmatter, not `#tags`.
-- **Math/LaTeX:** Always use `$` for inline math and `$$` for block math to ensure compatibility with Obsidian. Never use `\(` or `\[` delimiters.
+- **Math/LaTeX:** Always use `$` for inline math and `$$` for block math to ensure compatibility with Obsidian and Quartz. Never use `\(` or `\[` delimiters.
+  - **Multiline Math Blocks (Quartz/KaTeX Requirement):** Opening `$$` and closing `$$` MUST each reside on their own separate lines. Never place formula content on the same line as opening or closing `$$`.
 - **Formula Legends:** Always provide explicit variable descriptions/legends for each mathematical formula introduced.
 
 ## Operational Workflows

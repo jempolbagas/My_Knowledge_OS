@@ -154,12 +154,14 @@ Yuk, langsung kita bongkar soal-soalnya!
 > - Tuple $(103, \text{'Cici'}, \text{'Struktur Data'})$ dari $R$ cocok dengan $(\text{'Struktur Data'}, \text{'Dr. Saptono'})$ dari $S$ $\to (103, \text{'Cici'}, \text{'Struktur Data'}, \text{'Dr. Saptono'})$
 > 
 > Sehingga hasil join-nya adalah:
-> $$R \bowtie S = \{
+> $$
+> R \bowtie S = \{
 >   (101, \text{'Andi'}, \text{'Matdis I'}, \text{'Dr. Heri'}), 
 >   (101, \text{'Andi'}, \text{'Basis Data'}, \text{'Dr. Retno'}), 
 >   (102, \text{'Budi'}, \text{'Matdis I'}, \text{'Dr. Heri'}), 
 >   (103, \text{'Cici'}, \text{'Struktur Data'}, \text{'Dr. Saptono'})
-> \mathbb{\}}$$
+> \mathbb{\}}
+> $$
 > 
 > ### 3. Tips & Jebakan
 > > [!tip] Eliminasi Duplikat pada Proyeksi
@@ -202,60 +204,70 @@ Yuk, langsung kita bongkar soal-soalnya!
 > 
 > **Langkah 0: Matriks Awal $W^{(0)}$**
 > Matriks ketetanggaan awal dari relasi $R$ adalah:
-> $$W^{(0)} = \begin{bmatrix}
+> $$
+> W^{(0)} = \begin{bmatrix}
 > 0 & 1 & 0 & 0 \\
 > 0 & 0 & 1 & 0 \\
 > 0 & 0 & 0 & 1 \\
 > 1 & 0 & 0 & 0
-> \end{bmatrix}$$
+> \end{bmatrix}
+> $$
 > 
 > **Langkah 1: Menghitung $W^{(1)}$ (Simpul 1 sebagai perantara)**
 > Kita periksa baris dan kolom ke-1 dari $W^{(0)}$. 
 > - Kolom ke-1 memiliki nilai 1 di baris ke-4 ($W^{(0)}[4,1] = 1$). 
 > - Baris ke-1 memiliki nilai 1 di kolom ke-2 ($W^{(0)}[1,2] = 1$).
 > - Maka kita harus menetapkan nilai 1 pada koordinat $(4,2)$ di matriks $W^{(1)}$.
-> $$W^{(1)} = \begin{bmatrix}
+> $$
+> W^{(1)} = \begin{bmatrix}
 > 0 & 1 & 0 & 0 \\
 > 0 & 0 & 1 & 0 \\
 > 0 & 0 & 0 & 1 \\
 > 1 & \mathbf{1} & 0 & 0
-> \end{bmatrix}$$
+> \end{bmatrix}
+> $$
 > 
 > **Langkah 2: Menghitung $W^{(2)}$ (Simpul 2 sebagai perantara)**
 > Kita gunakan $W^{(1)}$. Kita cari mana saja baris $i$ yang memiliki nilai 1 di kolom 2, dan kolom $j$ mana saja yang memiliki nilai 1 di baris 2.
 > - Kolom ke-2 memiliki nilai 1 di baris 1 dan baris 4. 
 > - Baris ke-2 memiliki nilai 1 di kolom 3.
 > - Maka kita tambahkan nilai 1 pada koordinat $(1,3)$ dan $(4,3)$ di matriks $W^{(2)}$.
-> $$W^{(2)} = \begin{bmatrix}
+> $$
+> W^{(2)} = \begin{bmatrix}
 > 0 & 1 & \mathbf{1} & 0 \\
 > 0 & 0 & 1 & 0 \\
 > 0 & 0 & 0 & 1 \\
 > 1 & 1 & \mathbf{1} & 0
-> \end{bmatrix}$$
+> \end{bmatrix}
+> $$
 > 
 > **Langkah 3: Menghitung $W^{(3)}$ (Simpul 3 sebagai perantara)**
 > Kita gunakan $W^{(2)}$. 
 > - Kolom ke-3 memiliki nilai 1 di baris 1, 2, dan 4. 
 > - Baris ke-3 memiliki nilai 1 di kolom 4.
 > - Maka kita tambahkan nilai 1 pada koordinat $(1,4)$, $(2,4)$, dan $(4,4)$ di matriks $W^{(3)}$.
-> $$W^{(3)} = \begin{bmatrix}
+> $$
+> W^{(3)} = \begin{bmatrix}
 > 0 & 1 & 1 & \mathbf{1} \\
 > 0 & 0 & 1 & \mathbf{1} \\
 > 0 & 0 & 0 & 1 \\
 > 1 & 1 & 1 & \mathbf{1}
-> \end{bmatrix}$$
+> \end{bmatrix}
+> $$
 > 
 > **Langkah 4: Menghitung $W^{(4)}$ (Simpul 4 sebagai perantara)**
 > Kita gunakan $W^{(3)}$. 
 > - Kolom ke-4 memiliki nilai 1 di baris 1, 2, 3, dan 4. 
 > - Baris ke-4 memiliki nilai 1 di kolom 1, 2, 3, dan 4.
 > - Karena simpul 4 terhubung dari semua simpul dan terhubung ke semua simpul, maka untuk setiap baris $i$ dan kolom $j$, $W^{(4)}[i,j]$ akan menjadi 1.
-> $$W^{(4)} = \begin{bmatrix}
+> $$
+> W^{(4)} = \begin{bmatrix}
 > \mathbf{1} & 1 & 1 & 1 \\
 > \mathbf{1} & \mathbf{1} & 1 & 1 \\
 > \mathbf{1} & \mathbf{1} & \mathbf{1} & 1 \\
 > 1 & 1 & 1 & 1
-> \end{bmatrix}$$
+> \end{bmatrix}
+> $$
 > 
 > Matriks $W^{(4)}$ adalah matriks final dari *transitive closure* $R^*$.
 > Himpunan relasi dari $R^*$ adalah:

@@ -21,10 +21,10 @@ aliases: []
 ## 🧬 Biology & Science (IPA)
 
 ### 📚 Materi Ajar (Sources)
-- 🏠 [[Pengenalan Sel SMP]] — Pengenalan Sel — Unit Terkecil Kehidupan
-- 🏠 [[Anatomi dan Enzim Pencernaan SMP]] — Anatomi Organ & Enzim Pencernaan
-  - 📄 [[Nutrisi dan Gizi Remaja SMP]] — Nutrisi, Gizi Seimbang, dan Indeks Massa Tubuh (IMT)
-  - 📄 [[Sistem Pencernaan Makanan SMP]] — Sistem Pencernaan Makanan — Perjalanan Ajaib di Dalam Tubuh!
+- 🏠 [[Pengenalan_Sel_SMP]] — Pengenalan Sel — Unit Terkecil Kehidupan
+- 🏠 [[Anatomi_dan_Enzim_Pencernaan_SMP]] — Anatomi Organ & Enzim Pencernaan
+  - 📄 [[Nutrisi_dan_Gizi_Remaja_SMP]] — Nutrisi, Gizi Seimbang, dan Indeks Massa Tubuh (IMT)
+  - 📄 [[Sistem_Pencernaan_Makanan_SMP]] — Sistem Pencernaan Makanan — Perjalanan Ajaib di Dalam Tubuh!
 
 ---
 

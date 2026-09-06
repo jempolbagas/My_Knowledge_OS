@@ -44,7 +44,7 @@ Gaya itu **besaran vektor**, artinya dia punya **nilai (besarnya)** dan **arah**
 ### Kunci Utama: Diagram Bebas Benda (Free-Body Diagram / FBD) 🔍
 Sebelum menghitung rumus fisika, senjata paling ampuh yang wajib kamu kuasai adalah **FBD**. FBD itu seperti "foto rontgen gaya" yang memperlihatkan semua gaya luar yang sedang bekerja tepat pada satu benda yang kita tinjau.
 
-![[diagram physics dinamika gerak fbd.webp]]
+![[diagram_physics_dinamika_gerak_fbd.webp]]
 
 > [!TIP]
 > **Aturan Emas FBD:** Selalu gambar panah gaya mulai dari titik tangkap benda, dan pastikan arah panahnya sesuai sifat fisis masing-masing gaya!
@@ -55,7 +55,7 @@ Sebelum menghitung rumus fisika, senjata paling ampuh yang wajib kamu kuasai ada
 
 Dinamika gerak di SMA berporos pada interaksi 5 jenis gaya khusus. Masing-masing gaya ini punya modul *deep-dive* sendiri buat kamu pelajari sampai ke akar-akarnya. Coba cek peta integrasinya berikut:
 
-![[mindmap physics dinamika gerak 5 gaya.webp]]
+![[mindmap_physics_dinamika_gerak_5_gaya.webp]]
 
 ### Ringkasan & Hubungan Antar 5 Gaya Utama:
 
@@ -90,7 +90,7 @@ Dinamika gerak di SMA berporos pada interaksi 5 jenis gaya khusus. Masing-masing
 
 Semua interaksi kelima gaya di atas diatur oleh 3 aturan utama Sir Isaac Newton:
 
-![[infographic physics hukum newton.webp]]
+![[infographic_physics_hukum_newton.webp]]
 
 ### 3.1 Hukum I Newton (Inersia / Kelembaman)
 > *"Kalau resultan gaya yang bekerja pada benda sama dengan nol ($\sum \vec{F} = 0$), benda yang diam akan tetap diam, dan benda yang sedang bergerak akan tetap bergerak lurus beraturan (GLB)."*

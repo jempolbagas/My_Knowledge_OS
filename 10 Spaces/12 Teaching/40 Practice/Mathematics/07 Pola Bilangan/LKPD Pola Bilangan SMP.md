@@ -52,7 +52,7 @@ tags:
 
 **Halo Guys!** Amati susunan korek api berikut. Bersama tim kelompokmu, yuk selidiki pola rahasia yang tersembunyi di balik pembentukan susunan persegi ini!
 
-![[diagram mathematics number patterns matchstick squares.webp|Diagram Visual Formasi Persegi Batang Korek Api]]
+![[diagram_mathematics_number_patterns_matchstick_squares.webp|Diagram Visual Formasi Persegi Batang Korek Api]]
 
 #### 1. Lengkapi Tabel Penyelidikan Berikut:
 
@@ -77,7 +77,7 @@ c. Hitunglah berapa banyak batang korek api yang dibutuhkan kalau kamu mau bikin
 
 ### 🔍 AKTIVITAS 2: MATRIKS KOMPARASI & KLASIFIKASI JENIS POLA BILANGAN (CRITICAL THINKING)
 
-![[infographic mathematics number patterns pascal triangle.webp|Infografis Segitiga Pascal dan Jumlah Suku Baris]]
+![[infographic_mathematics_number_patterns_pascal_triangle.webp|Infografis Segitiga Pascal dan Jumlah Suku Baris]]
 
 **Instruksi**: Analisis dan lengkapi matriks komparasi jenis-jenis pola barisan dan deret bilangan berikut berdasarkan rumus umum suku ke-$n$ ($U_n$) dan jumlah $n$ suku pertama ($S_n$)!
 
@@ -94,7 +94,7 @@ c. Hitunglah berapa banyak batang korek api yang dibutuhkan kalau kamu mau bikin
 
 ### 🎟️ AKTIVITAS 3: STUDI KASUS HOTS (DESAIN FORMASI KURSI GEDUNG PERTUNJUKAN & ANALISIS DERET)
 
-![[illustration mathematics number patterns theater seating.webp|Ilustrasi Formasi Kursi Gedung Pertunjukan Seni]]
+![[illustration_mathematics_number_patterns_theater_seating.webp|Ilustrasi Formasi Kursi Gedung Pertunjukan Seni]]
 
 #### Latar Belakang Skenario:
 Sebuah gedung pertunjukan seni memiliki susunan kursi yang diatur rapi membentuk pola aritmetika. Pada baris paling depan (baris ke-1) terdapat $12$ kursi, baris kedua terdapat $16$ kursi, baris ketiga terdapat $20$ kursi, dan seterusnya bertambah secara tetap untuk baris-baris di belakangnya. Gedung tersebut memiliki total $15$ baris kursi.
@@ -110,7 +110,7 @@ Sebuah gedung pertunjukan seni memiliki susunan kursi yang diatur rapi membentuk
 
 ### 📈 AKTIVITAS 4: PENYELIDIKAN POLA BILANGAN BERTINGKAT DUA (PIRAMIDA PENURUNAN)
 
-![[diagram mathematics number patterns multilevel scheme.webp|Skema Penyelidikan Pola Bilangan Bertingkat Dua]]
+![[diagram_mathematics_number_patterns_multilevel_scheme.webp|Skema Penyelidikan Pola Bilangan Bertingkat Dua]]
 
 #### Skenario Masalah:
 Perhatikan barisan bertingkat berikut: $5, 11, 19, 29, 41, \dots$

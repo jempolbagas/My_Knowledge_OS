@@ -37,7 +37,7 @@ Bayangkan sebuah fungsi matematika $f$ sebagai **Mesin Pemproses Data**:
 **Fungsi Invers** (dilambangkan dengan $f^{-1}$) adalah **Mesin Pembalik (Undo Machine)**:
 - Mesin $f^{-1}$ mengambil hasil olahan $y$, mengolahnya kembali ke belakang, dan mengembalikan bahan mentah asli $x$!
 
-![[diagram mathematics inverse function machine.webp]]
+![[diagram_mathematics_inverse_function_machine.webp]]
 
 ---
 

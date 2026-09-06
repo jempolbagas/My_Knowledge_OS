@@ -327,11 +327,13 @@ Deret Aritmetika adalah penjumlahan suku-suku dari barisan aritmetika.
 
 * **Contoh Cepat**: 
   Di sebuah bioskop, baris ke-1 ada $10$ kursi ($a=10$), dan setiap baris ke belakang bertambah $4$ kursi ($b=4$). Berapa **total kursi** jika bioskop tersebut memiliki $12$ baris kursi ($n=12$)?
-  $$\begin{aligned}
+  $$
+  \begin{aligned}
   S_{12} &= \frac{12}{2} \left[ 2(10) + (12 - 1)4 \right] \\
   &= 6 \left[ 20 + (11 \times 4) \right] \\
   &= 6 \left[ 20 + 44 \right] = 6 \times 64 = 384 \text{ kursi.}
-  \end{aligned}$$
+  \end{aligned}
+  $$
 
 ---
 
@@ -407,18 +409,20 @@ Misal barisannya: $3, 8, 14, 21, 29, \dots$
 Bagaimana kalau soal menanyakan suku yang sangat jauh, seperti **$U_{50}$**?  
 Menghitung manual satu per satu akan memakan waktu terlalu lama. Gunakan **Metode Aljabar 3 Persamaan Kunci**:
 
-$$\begin{aligned}
+$$
+\begin{aligned}
 \text{1. Selisih Konstan Tingkat 2} &\implies 2a = \text{tingkat 2} \\
 \text{2. Selisih Pertama Tingkat 1} &\implies 3a + b = U_2 - U_1 \\
 \text{3. Suku Pertama } (U_1) &\implies a + b + c = U_1
-\end{aligned}$$
+\end{aligned}
+$$
 
 #### Contoh Soal Terbimbing: Mencari Rumus $U_n$ dan $U_{50}$ Barisan Bertingkat
 Diketahui barisan bertingkat: **$5, 11, 19, 29, 41, \dots$**. Tentukan rumus suku ke-$n$ ($U_n$) dan hitung nilai $U_{50}$!
 
 * **Langkah 1: Skema Selisih Bertingkat (Piramida Penurunan)**
 
-  ![[diagram mathematics number patterns multilevel scheme.webp|Skema Pola Bilangan Bertingkat Dua]]
+  ![[diagram_mathematics_number_patterns_multilevel_scheme.webp|Skema Pola Bilangan Bertingkat Dua]]
 
 
   > [!TIP]
@@ -441,10 +445,12 @@ Diketahui barisan bertingkat: **$5, 11, 19, 29, 41, \dots$**. Tentukan rumus suk
   $$U_n = an^2 + bn + c \implies U_n = n^2 + 3n + 1$$
 
 * **Langkah 4: Hitung Suku ke-50 ($U_{50}$)**
-  $$\begin{aligned}
+  $$
+  \begin{aligned}
   U_{50} &= (50)^2 + 3(50) + 1 \\
   &= 2500 + 150 + 1 = 2651
-  \end{aligned}$$
+  \end{aligned}
+  $$
 
 > [!TIP]
 > **Perbandingan Efisiensi:**  

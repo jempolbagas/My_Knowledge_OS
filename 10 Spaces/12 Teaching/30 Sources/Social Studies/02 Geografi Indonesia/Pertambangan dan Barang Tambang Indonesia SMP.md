@@ -43,7 +43,7 @@ Secara geologis, Indonesia merupakan salah satu negara di dunia dengan potensi b
 
 Berdasarkan **Undang-Undang No. 11 Tahun 1967** (dan diperbarui dalam regulasi pertambangan nasional), barang tambang di Indonesia dikelompokkan menjadi 3 golongan utama berdasarkan peran strategisnya bagi negara:
 
-![[infographic social studies mining classification.webp]]
+![[infographic_social_studies_mining_classification.webp]]
 
 ### 2.1 Penggolongan Berdasarkan UU Pertambangan
 
@@ -71,7 +71,7 @@ Berdasarkan **Undang-Undang No. 11 Tahun 1967** (dan diperbarui dalam regulasi p
 
 ## BAB 3: Persebaran Barang Tambang Utama di Indonesia 🗺️
 
-![[mindmap social studies indonesia mining map.webp]]
+![[mindmap_social_studies_indonesia_mining_map.webp]]
 
 Indonesia memiliki lokasi-lokasi penambangan kelas dunia. Berikut adalah daftar persebaran komoditas tambang utama beserta daerah penghasilnya yang wajib dikuasai siswa:
 
@@ -92,7 +92,7 @@ Indonesia memiliki lokasi-lokasi penambangan kelas dunia. Berikut adalah daftar 
 
 ## BAB 4: Tahapan Kegiatan Pertambangan & Metode Penambangan ⚙️
 
-![[diagram social studies mining stages flow.webp]]
+![[diagram_social_studies_mining_stages_flow.webp]]
 
 ### 4.1 5 Tahapan Utama Kegiatan Pertambangan
 Untuk mengubah bahan galian mentah di dalam tanah menjadi komoditas siap pakai, diperlukan 5 tahapan kerja terstruktur:
